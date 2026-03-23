@@ -53,6 +53,7 @@
 		7C8944E92F71BC9700BEFFB2 /* 2026-03-15.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-15.json"; sourceTree = "<group>"; };
 		7C8944EA2F71BC9700BEFFB2 /* 2026-03-16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-16.json"; sourceTree = "<group>"; };
 		7C8944EB2F71BC9700BEFFB2 /* 2026-03-17.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-17.json"; sourceTree = "<group>"; };
+		7C8944F12F71C25B00BEFFB2 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -129,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				7C8944BC2F71BC6700BEFFB2 /* days */,
+				7C8944F12F71C25B00BEFFB2 /* manifest.json */,
 			);
 			path = docs;
 			sourceTree = "<group>";

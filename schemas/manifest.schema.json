@@ -15,7 +15,7 @@
       "type": "string",
       "minLength": 1,
       "pattern": "^(?:0|[1-9][0-9]{0,3}|10000)(?:\\.(?:0|[1-9][0-9]{0,3}|10000)){0,3}(?:[a-z](?:0|[1-9][0-9]{0,3}|10000)?)?$",
-      "description": "Content revision identifier. Must use 1 to 4 dot-separated numeric components, each from 0 to 10,000 without leading zeroes, with an optional single lowercase suffix letter and optional trailing integer from 0 to 10,000."
+      "description": "Content revision identifier. Must use 1 to 4 dot-separated numeric components, each from 0 to 10,000 without leading zeroes, with an optional single lowercase suffix letter and optional trailing integer from 0 to 10,000. Typically, this should be the creation date written as YYYY.M.D in reverse calendar order, for example 2026.3.23. The optional fourth number can represent revisions within the published day and the number after the optional lowercase letter can represent minor revisions."
     },
     "generatedAt": {
       "type": "string",
