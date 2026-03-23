@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-05",
-  "difficulty": 4,
-  "category": "Types of Bread",
-  "shareClueIndex": 6,
-  "items": [
-    { "clue": "SRDGH",         "answer": "SOURDOUGH" },
-    { "clue": "PT",            "answer": "PITA" },
-    { "clue": "NN",            "answer": "NAAN" },
-    { "clue": "CBTT",         "answer": "CIABATTA" },
-    { "clue": "BRCH",          "answer": "BRIOCHE" },
-    { "clue": "PM PRNC KL",        "answer": "PUMPERNICKEL" },
-    { "clue": "B GTT",          "answer": "BAGUETTE" },
-    { "clue": "FCC C",          "answer": "FOCACCIA" }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Types of Bread",
+    "shareClueIndex": 6,
+    "clues": [
+      {
+        "clue": "SRDGH",
+        "answer": "SOURDOUGH"
+      },
+      {
+        "clue": "PT",
+        "answer": "PITA"
+      },
+      {
+        "clue": "NN",
+        "answer": "NAAN"
+      },
+      {
+        "clue": "CBTT",
+        "answer": "CIABATTA"
+      },
+      {
+        "clue": "BRCH",
+        "answer": "BRIOCHE"
+      },
+      {
+        "clue": "PM PRNC KL",
+        "answer": "PUMPERNICKEL"
+      },
+      {
+        "clue": "B GTT",
+        "answer": "BAGUETTE"
+      },
+      {
+        "clue": "FCC C",
+        "answer": "FOCACCIA"
+      }
+    ]
+  }
 }

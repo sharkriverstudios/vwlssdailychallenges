@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-03-13",
-  "difficulty": 4,
-  "category": "Types of Cheese",
-  "shareClueIndex": 5,
-  "items": [
-    { "clue": "CHDDR",           "answer": "CHEDDAR" },
-    { "clue": "BR",              "answer": "BRIE" },
-    { "clue": "FT",              "answer": "FETA" },
-    { "clue": "G DA",             "answer": "GOUDA" },
-    { "clue": "S WSS",            "answer": "SWISS" },
-    { "clue": "M ZZ RLL",          "answer": "MOZZARELLA" },
-    { "clue": "PRM SN",           "answer": "PARMESAN" },
-    { "clue": "BLCH S",          "answer": "BLUE CHEESE" }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Types of Cheese",
+    "shareClueIndex": 5,
+    "clues": [
+      {
+        "clue": "CHDDR",
+        "answer": "CHEDDAR"
+      },
+      {
+        "clue": "BR",
+        "answer": "BRIE"
+      },
+      {
+        "clue": "FT",
+        "answer": "FETA"
+      },
+      {
+        "clue": "GD",
+        "answer": "GOUDA"
+      },
+      {
+        "clue": "S WSS",
+        "answer": "SWISS"
+      },
+      {
+        "clue": "M ZZ RLL",
+        "answer": "MOZZARELLA"
+      },
+      {
+        "clue": "PRM SN",
+        "answer": "PARMESAN"
+      },
+      {
+        "clue": "BLCH S",
+        "answer": "BLUE CHEESE"
+      }
+    ]
+  }
 }

@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-03-08",
-  "difficulty": 1,
-  "category": "Months of the Year",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "MARCH", "clue": "MRCH", "difficulty": 1 },
-    { "answer": "JULY", "clue": "JL", "difficulty": 1 },
-    { "answer": "DECEMBER", "clue": "DCMBR", "difficulty": 1 },
-    { "answer": "OCTOBER", "clue": "CTBR", "difficulty": 1 },
-    { "answer": "JANUARY", "clue": "JNRY", "difficulty": 2 },
-    { "answer": "SEPTEMBER", "clue": "SPTMBR", "difficulty": 1 },
-    { "answer": "FEBRUARY", "clue": "FBRRY", "difficulty": 3 },
-    { "answer": "APRIL", "clue": "PRL", "difficulty": 5 }
-  ]
+  "challenge": {
+    "difficulty": 1,
+    "category": "Months of the Year",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "MARCH",
+        "clue": "MRCH",
+        "difficulty": 1
+      },
+      {
+        "answer": "JULY",
+        "clue": "JL",
+        "difficulty": 1
+      },
+      {
+        "answer": "DECEMBER",
+        "clue": "DCMBR",
+        "difficulty": 1
+      },
+      {
+        "answer": "OCTOBER",
+        "clue": "CTBR",
+        "difficulty": 1
+      },
+      {
+        "answer": "JANUARY",
+        "clue": "JNRY",
+        "difficulty": 2
+      },
+      {
+        "answer": "SEPTEMBER",
+        "clue": "SPTMBR",
+        "difficulty": 1
+      },
+      {
+        "answer": "FEBRUARY",
+        "clue": "FBRRY",
+        "difficulty": 3
+      },
+      {
+        "answer": "APRIL",
+        "clue": "PRL",
+        "difficulty": 5
+      }
+    ]
+  }
 }

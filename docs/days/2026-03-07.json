@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-03-07",
-  "difficulty": 2,
-  "category": "Chess Pieces and Terms",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "KING", "clue": "KNG", "difficulty": 1 },
-    { "answer": "QUEEN", "clue": "QN", "difficulty": 1 },
-    { "answer": "ROOK", "clue": "RK", "difficulty": 2 },
-    { "answer": "BISHOP", "clue": "BSHP", "difficulty": 2 },
-    { "answer": "KNIGHT", "clue": "KNGHT", "difficulty": 3 },
-    { "answer": "PAWN", "clue": "PWN", "difficulty": 4 },
-    { "answer": "CHECK", "clue": "CHCK", "difficulty": 5 },
-    { "answer": "CHECKMATE", "clue": "CHCKMT", "difficulty": 6 }
-  ]
+  "challenge": {
+    "difficulty": 2,
+    "category": "Chess Pieces and Terms",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "KING",
+        "clue": "KNG",
+        "difficulty": 1
+      },
+      {
+        "answer": "QUEEN",
+        "clue": "QN",
+        "difficulty": 1
+      },
+      {
+        "answer": "ROOK",
+        "clue": "RK",
+        "difficulty": 2
+      },
+      {
+        "answer": "BISHOP",
+        "clue": "BSHP",
+        "difficulty": 2
+      },
+      {
+        "answer": "KNIGHT",
+        "clue": "KNGHT",
+        "difficulty": 3
+      },
+      {
+        "answer": "PAWN",
+        "clue": "PWN",
+        "difficulty": 4
+      },
+      {
+        "answer": "CHECK",
+        "clue": "CHCK",
+        "difficulty": 5
+      },
+      {
+        "answer": "CHECKMATE",
+        "clue": "CHCKMT",
+        "difficulty": 6
+      }
+    ]
+  }
 }

@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-03-05",
-  "difficulty": 3,
-  "category": "Graphic Design Colors",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "RED", "clue": "RD", "difficulty": 1 },
-    { "answer": "BLUE", "clue": "BL", "difficulty": 2 },
-    { "answer": "YELLOW", "clue": "YLLW", "difficulty": 3 },
-    { "answer": "CYAN", "clue": "CN", "difficulty": 3 },
-    { "answer": "MAGENTA", "clue": "MGNT", "difficulty": 4 },
-    { "answer": "BLACK", "clue": "BLCK", "difficulty": 5 },
-    { "answer": "WHITE", "clue": "WHT", "difficulty": 6 },
-    { "answer": "GRAY", "clue": "GRY", "difficulty": 7 }
-  ]
+  "challenge": {
+    "difficulty": 3,
+    "category": "Graphic Design Colors",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "RED",
+        "clue": "RD",
+        "difficulty": 1
+      },
+      {
+        "answer": "BLUE",
+        "clue": "BL",
+        "difficulty": 2
+      },
+      {
+        "answer": "YELLOW",
+        "clue": "YLLW",
+        "difficulty": 3
+      },
+      {
+        "answer": "CYAN",
+        "clue": "CN",
+        "difficulty": 3
+      },
+      {
+        "answer": "MAGENTA",
+        "clue": "MGNT",
+        "difficulty": 4
+      },
+      {
+        "answer": "BLACK",
+        "clue": "BLCK",
+        "difficulty": 5
+      },
+      {
+        "answer": "WHITE",
+        "clue": "WHT",
+        "difficulty": 6
+      },
+      {
+        "answer": "GRAY",
+        "clue": "GRY",
+        "difficulty": 7
+      }
+    ]
+  }
 }

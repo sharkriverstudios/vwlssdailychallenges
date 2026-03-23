@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-08",
-  "difficulty": 3,
-  "category": "Types of Pizza",
-  "shareClueIndex": 4,
-  "items": [
-    { "clue": "NWYRK STL",    "answer": "NEW YORK STYLE" },
-    { "clue": "CHCG DPDSH",    "answer": "CHICAGO DEEP DISH" },
-    { "clue": "NPLTN",      "answer": "NEAPOLITAN" },
-    { "clue": "HWNP ZZ",      "answer": "HAWAIIAN PIZZA" },
-    { "clue": "PN PZ Z",      "answer": "PAN PIZZA" },
-    { "clue": "BR K FST PZ Z",     "answer": "BREAKFAST PIZZA" },
-    { "clue": "SC LN",       "answer": "SICILIAN" },
-    { "clue": "FRZN PZZ",  "answer": "FROZEN PIZZA" }
-  ]
+  "challenge": {
+    "difficulty": 3,
+    "category": "Types of Pizza",
+    "shareClueIndex": 4,
+    "clues": [
+      {
+        "clue": "NWYRK STL",
+        "answer": "NEW YORK STYLE"
+      },
+      {
+        "clue": "CHCG DPDSH",
+        "answer": "CHICAGO DEEP DISH"
+      },
+      {
+        "clue": "NPLTN",
+        "answer": "NEAPOLITAN"
+      },
+      {
+        "clue": "HWNP ZZ",
+        "answer": "HAWAIIAN PIZZA"
+      },
+      {
+        "clue": "PN PZ Z",
+        "answer": "PAN PIZZA"
+      },
+      {
+        "clue": "BR K FST PZ Z",
+        "answer": "BREAKFAST PIZZA"
+      },
+      {
+        "clue": "SC LN",
+        "answer": "SICILIAN"
+      },
+      {
+        "clue": "FRZN PZZ",
+        "answer": "FROZEN PIZZA"
+      }
+    ]
+  }
 }

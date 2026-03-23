@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-26",
-  "difficulty": 2,
-  "category": "Midwest Tourist Attractions",
-  "shareClueIndex": 2,
-  "items": [
-    { "clue": "MNT RSH MR", "answer": "MOUNT RUSHMORE" },
-    { "clue": "ST LS RCH", "answer": "ST LOUIS ARCH" },
-    { "clue": "MLL F MRC", "answer": "MALL OF AMERICA" },
-    { "clue": "MCK NCK SLND", "answer": "MACKINAC ISLAND" },
-    { "clue": "RCK ND RLL HLL F FM", "answer": "ROCK AND ROLL HALL OF FAME" },
-    { "clue": "C DR PNT", "answer": "CEDAR POINT" },
-    { "clue": "M T WN MS M", "answer": "MOTOWN MUSEUM" },
-    { "clue": "INDN PL S MTR SPD WY", "answer": "INDIANAPOLIS MOTOR SPEEDWAY" }
-  ]
+  "challenge": {
+    "difficulty": 2,
+    "category": "Midwest Tourist Attractions",
+    "shareClueIndex": 2,
+    "clues": [
+      {
+        "clue": "MNT RSH MR",
+        "answer": "MOUNT RUSHMORE"
+      },
+      {
+        "clue": "ST LS RCH",
+        "answer": "ST LOUIS ARCH"
+      },
+      {
+        "clue": "MLL F MRC",
+        "answer": "MALL OF AMERICA"
+      },
+      {
+        "clue": "MCK NCK SLND",
+        "answer": "MACKINAC ISLAND"
+      },
+      {
+        "clue": "RCK ND RLL HLL F FM",
+        "answer": "ROCK AND ROLL HALL OF FAME"
+      },
+      {
+        "clue": "C DR PNT",
+        "answer": "CEDAR POINT"
+      },
+      {
+        "clue": "M T WN MS M",
+        "answer": "MOTOWN MUSEUM"
+      },
+      {
+        "clue": "NDNPLS MTR SPDWY",
+        "answer": "INDIANAPOLIS MOTOR SPEEDWAY"
+      }
+    ]
+  }
 }

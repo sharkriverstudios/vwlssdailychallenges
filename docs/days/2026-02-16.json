@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-16",
-  "difficulty": 4,
-  "category": "Famous Detectives",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "SHERLOCK HOLMES",     "clue": "SHRLCK HLMS",    "difficulty": 2 },
-    { "answer": "HERCULE POIROT",      "clue": "HR CLPR T",       "difficulty": 3 },
-    { "answer": "JESSICA FLETCHER",    "clue": "JS SCFLT CHR",    "difficulty": 8 },
-    { "answer": "MISS MARPLE",         "clue": "MS SMR PL",       "difficulty": 4 },
-    { "answer": "SAM SPADE",           "clue": "S MSPD",         "difficulty": 4 },
-    { "answer": "PHILIP MARLOWE",      "clue": "PH LPM RLW",      "difficulty": 5 },
-    { "answer": "COLUMBO",             "clue": "CLMB",           "difficulty": 6 },
-    { "answer": "NERO WOLFE",          "clue": "NRW LF",         "difficulty": 7 }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Famous Detectives",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "SHERLOCK HOLMES",
+        "clue": "SHRLCK HLMS",
+        "difficulty": 2
+      },
+      {
+        "answer": "HERCULE POIROT",
+        "clue": "HR CLPR T",
+        "difficulty": 3
+      },
+      {
+        "answer": "JESSICA FLETCHER",
+        "clue": "JS SCFLT CHR",
+        "difficulty": 8
+      },
+      {
+        "answer": "MISS MARPLE",
+        "clue": "MS SMR PL",
+        "difficulty": 4
+      },
+      {
+        "answer": "SAM SPADE",
+        "clue": "S MSPD",
+        "difficulty": 4
+      },
+      {
+        "answer": "PHILIP MARLOWE",
+        "clue": "PH LPM RLW",
+        "difficulty": 5
+      },
+      {
+        "answer": "COLUMBO",
+        "clue": "CLMB",
+        "difficulty": 6
+      },
+      {
+        "answer": "NERO WOLFE",
+        "clue": "NRW LF",
+        "difficulty": 7
+      }
+    ]
+  }
 }

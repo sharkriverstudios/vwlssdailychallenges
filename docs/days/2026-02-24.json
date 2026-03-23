@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-24",
-  "difficulty": 2,
-  "category": "U.S. National Parks",
-  "shareClueIndex": 5,
-  "items": [
-    { "clue": "YLW STN", "answer": "YELLOWSTONE" },
-    { "clue": "GRND CNYN", "answer": "GRAND CANYON" },
-    { "clue": "YS MT", "answer": "YOSEMITE" },
-    { "clue": "ZN", "answer": "ZION" },
-    { "clue": "RCKY MTN", "answer": "ROCKY MOUNTAIN" },
-    { "clue": "CRTR LK", "answer": "CRATER LAKE" },
-    { "clue": "GRND TTN", "answer": "GRAND TETON" },
-    { "clue": "GLSR", "answer": "GLACIER" }
-  ]
+  "challenge": {
+    "difficulty": 2,
+    "category": "U.S. National Parks",
+    "shareClueIndex": 5,
+    "clues": [
+      {
+        "clue": "YLW STN",
+        "answer": "YELLOWSTONE"
+      },
+      {
+        "clue": "GRND CNYN",
+        "answer": "GRAND CANYON"
+      },
+      {
+        "clue": "YS MT",
+        "answer": "YOSEMITE"
+      },
+      {
+        "clue": "ZN",
+        "answer": "ZION"
+      },
+      {
+        "clue": "RCKY MTN",
+        "answer": "ROCKY MOUNTAIN"
+      },
+      {
+        "clue": "CRTR LK",
+        "answer": "CRATER LAKE"
+      },
+      {
+        "clue": "GRND TTN",
+        "answer": "GRAND TETON"
+      },
+      {
+        "clue": "GLSR",
+        "answer": "GLACIER"
+      }
+    ]
+  }
 }

@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-15",
-  "difficulty": 4,
-  "category": "Dickens Characters",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "OLIVER TWIST",        "clue": "LVR TWST",       "difficulty": 2 },
-    { "answer": "EBENEZER SCROOGE",    "clue": "BNZRSCRG",      "difficulty": 8 },
-    { "answer": "FAGIN",               "clue": "FGN",            "difficulty": 3 },
-    { "answer": "TINY TIM",            "clue": "TNY TM",         "difficulty": 3 },
-    { "answer": "URIAH HEEP",          "clue": "RH HP",          "difficulty": 4 },
-    { "answer": "MISS HAVISHAM",       "clue": "MSS HVSHM",      "difficulty": 5 },
-    { "answer": "DAVID COPPERFIELD",   "clue": "DVDCPP RFLD",    "difficulty": 6 },
-    { "answer": "MR MICAWBER",         "clue": "MRMC WBR",       "difficulty": 7 }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Dickens Characters",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "OLIVER TWIST",
+        "clue": "LVR TWST",
+        "difficulty": 2
+      },
+      {
+        "answer": "EBENEZER SCROOGE",
+        "clue": "BNZRSCRG",
+        "difficulty": 8
+      },
+      {
+        "answer": "FAGIN",
+        "clue": "FGN",
+        "difficulty": 3
+      },
+      {
+        "answer": "TINY TIM",
+        "clue": "TNY TM",
+        "difficulty": 3
+      },
+      {
+        "answer": "URIAH HEEP",
+        "clue": "RH HP",
+        "difficulty": 4
+      },
+      {
+        "answer": "MISS HAVISHAM",
+        "clue": "MSS HVSHM",
+        "difficulty": 5
+      },
+      {
+        "answer": "DAVID COPPERFIELD",
+        "clue": "DVDCPP RFLD",
+        "difficulty": 6
+      },
+      {
+        "answer": "MR MICAWBER",
+        "clue": "MRMC WBR",
+        "difficulty": 7
+      }
+    ]
+  }
 }

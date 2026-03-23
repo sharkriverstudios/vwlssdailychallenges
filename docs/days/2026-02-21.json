@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-21",
-  "difficulty": 1,
-  "category": "Planets",
-  "shareClueIndex": 0,
-  "items": [
-    { "clue": "MRCRY", "answer": "MERCURY" },
-    { "clue": "VNS", "answer": "VENUS" },
-    { "clue": "RTH", "answer": "EARTH" },
-    { "clue": "MRS", "answer": "MARS" },
-    { "clue": "JPTR", "answer": "JUPITER" },
-    { "clue": "STRN", "answer": "SATURN" },
-    { "clue": "RNS", "answer": "URANUS" },
-    { "clue": "NPTN", "answer": "NEPTUNE" }
-  ]
+  "challenge": {
+    "difficulty": 1,
+    "category": "Planets",
+    "shareClueIndex": 0,
+    "clues": [
+      {
+        "clue": "MRCRY",
+        "answer": "MERCURY"
+      },
+      {
+        "clue": "VNS",
+        "answer": "VENUS"
+      },
+      {
+        "clue": "RTH",
+        "answer": "EARTH"
+      },
+      {
+        "clue": "MRS",
+        "answer": "MARS"
+      },
+      {
+        "clue": "JPTR",
+        "answer": "JUPITER"
+      },
+      {
+        "clue": "STRN",
+        "answer": "SATURN"
+      },
+      {
+        "clue": "RNS",
+        "answer": "URANUS"
+      },
+      {
+        "clue": "NPTN",
+        "answer": "NEPTUNE"
+      }
+    ]
+  }
 }

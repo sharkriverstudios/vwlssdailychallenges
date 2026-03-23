@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-20",
-  "difficulty": 3,
-  "category": "Rock Guitarists",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "ERIC CLAPTON",        "clue": "RC CLPTN",       "difficulty": 1 },
-    { "answer": "JIMI HENDRIX",        "clue": "JMH NDRX",       "difficulty": 2 },
-    { "answer": "JIMMY PAGE",          "clue": "J MM YPG",        "difficulty": 3 },
-    { "answer": "KEITH RICHARDS",      "clue": "KT HRC HRDS",     "difficulty": 4 },
-    { "answer": "DAVID GILMOUR",       "clue": "DVD GLMR",       "difficulty": 5 },
-    { "answer": "EDDIE VAN HALEN",     "clue": "D DVN HLN",      "difficulty": 6 },
-    { "answer": "CARLOS SANTANA",      "clue": "CR LSSN TN",      "difficulty": 7 },
-    { "answer": "MARK KNOPFLER",       "clue": "MR KKNP FLR",     "difficulty": 8 }
-  ]
+  "challenge": {
+    "difficulty": 3,
+    "category": "Rock Guitarists",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "ERIC CLAPTON",
+        "clue": "RC CLPTN",
+        "difficulty": 1
+      },
+      {
+        "answer": "JIMI HENDRIX",
+        "clue": "JMH NDRX",
+        "difficulty": 2
+      },
+      {
+        "answer": "JIMMY PAGE",
+        "clue": "J MM YPG",
+        "difficulty": 3
+      },
+      {
+        "answer": "KEITH RICHARDS",
+        "clue": "KT HRC HRDS",
+        "difficulty": 4
+      },
+      {
+        "answer": "DAVID GILMOUR",
+        "clue": "DVD GLMR",
+        "difficulty": 5
+      },
+      {
+        "answer": "EDDIE VAN HALEN",
+        "clue": "D DVN HLN",
+        "difficulty": 6
+      },
+      {
+        "answer": "CARLOS SANTANA",
+        "clue": "CR LSSN TN",
+        "difficulty": 7
+      },
+      {
+        "answer": "MARK KNOPFLER",
+        "clue": "MR KKNP FLR",
+        "difficulty": 8
+      }
+    ]
+  }
 }

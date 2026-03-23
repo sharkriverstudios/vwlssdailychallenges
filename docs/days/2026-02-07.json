@@ -1,17 +1,43 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-07",
-  "difficulty": 4,
-  "category": "Streaming Services",
-  "shareClueIndex": 5,
-  "items": [
-    { "clue": "NTFLX",          "answer": "NETFLIX" },
-    { "clue": "H L",            "answer": "HULU" },
-    { "clue": "DS NPLS",       "answer": "DISNEY PLUS" },
-    { "clue": "PR MVD",         "answer": "PRIME VIDEO" },
-    { "clue": "H BOM X",         "answer": "HBO MAX" },
-    { "clue": "PCK",          "answer": "PEACOCK" },
-    { "clue": "PRM NT PLS",        "answer": "PARAMOUNT PLUS" },
-    { "clue": "AP PLT V",      "answer": "APPLE TV" }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Streaming Services",
+    "shareClueIndex": 5,
+    "clues": [
+      {
+        "clue": "NTFLX",
+        "answer": "NETFLIX"
+      },
+      {
+        "clue": "H L",
+        "answer": "HULU"
+      },
+      {
+        "clue": "DS NPLS",
+        "answer": "DISNEY PLUS"
+      },
+      {
+        "clue": "PR MVD",
+        "answer": "PRIME VIDEO"
+      },
+      {
+        "clue": "HB MX",
+        "answer": "HBO MAX"
+      },
+      {
+        "clue": "PCK",
+        "answer": "PEACOCK"
+      },
+      {
+        "clue": "PRM NT PLS",
+        "answer": "PARAMOUNT PLUS"
+      },
+      {
+        "clue": "PPL TV",
+        "answer": "APPLE TV"
+      }
+    ]
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "dated-challenge.schema.json",
+  "title": "DatedChallenge",
+  "description": "A challenge assigned to a specific calendar date.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "File format version."
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Challenge date in YYYY-MM-DD format. Supported content dates must be between 2026-01-01 and 2126-01-01, inclusive."
+    },
+    "challenge": {
+      "$ref": "challenge.schema.json",
+      "description": "The playable puzzle."
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "date",
+    "challenge"
+  ]
+}

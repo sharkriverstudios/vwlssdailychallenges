@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "challenge.schema.json",
+  "title": "Challenge",
+  "description": "A single playable VWLSS puzzle containing exactly eight clue-answer pairs.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "difficulty": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10,
+      "description": "Relative challenge difficulty from 1 to 10."
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": ".*\\S.*",
+      "description": "Category shown to the player. Must not be empty or whitespace-only and may use only ordinary spaces for whitespace. Visible Unicode content such as non-Latin scripts, emoji, and decorative symbols is allowed."
+    },
+    "shareClueIndex": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 7,
+      "description": "Zero-based index of the clue used for share cards."
+    },
+    "clues": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "items": {
+        "$ref": "#/$defs/clueEntry"
+      },
+      "description": "Exactly eight clue-answer pairs."
+    }
+  },
+  "required": [
+    "difficulty",
+    "category",
+    "shareClueIndex",
+    "clues"
+  ],
+  "$defs": {
+    "clueEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "answer": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^(?=.*\\p{Lu})[\\p{Lu}\\p{P} ]+$",
+          "description": "Full solution text. Must contain at least one uppercase letter and may use uppercase letters with diacritics, punctuation, and spaces."
+        },
+        "clue": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[BCDFGHJKLMNPQRSTVWXYZ ]*[BCDFGHJKLMNPQRSTVWXYZ][BCDFGHJKLMNPQRSTVWXYZ ]*$",
+          "description": "Consonant skeleton shown to the player. Must contain at least one uppercase consonant and use only uppercase consonants and spaces."
+        },
+        "difficulty": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "Optional per-clue difficulty from 1 to 10."
+        }
+      },
+      "required": [
+        "answer",
+        "clue"
+      ]
+    }
+  }
+}

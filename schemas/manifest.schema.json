@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "manifest.schema.json",
+  "title": "Manifest",
+  "description": "Index metadata for discovering available dated challenges.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Manifest format version."
+    },
+    "contentVersion": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^(?:0|[1-9][0-9]{0,3}|10000)(?:\\.(?:0|[1-9][0-9]{0,3}|10000)){0,3}(?:[a-z](?:0|[1-9][0-9]{0,3}|10000)?)?$",
+      "description": "Content revision identifier. Must use 1 to 4 dot-separated numeric components, each from 0 to 10,000 without leading zeroes, with an optional single lowercase suffix letter and optional trailing integer from 0 to 10,000."
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Manifest generation timestamp. Values are normalized to the nearest whole second."
+    },
+    "availableFrom": {
+      "type": "string",
+      "format": "date",
+      "description": "Earliest available challenge date. Supported content dates must be between 2026-01-01 and 2126-01-01, inclusive."
+    },
+    "availableTo": {
+      "type": "string",
+      "format": "date",
+      "description": "Latest available challenge date. Supported content dates must be between 2026-01-01 and 2126-01-01, inclusive."
+    },
+    "days": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/dayEntry"
+      },
+      "description": "Metadata for each daily challenge. Entries must be ordered by ascending date, contain exactly one entry per calendar day, and must not skip days.",
+      "x-vwlss-contiguousDates": true,
+      "x-vwlss-uniqueDateProperty": "date"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "contentVersion",
+    "generatedAt",
+    "availableFrom",
+    "availableTo",
+    "days"
+  ],
+  "$defs": {
+    "dayEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "Puzzle date. Supported content dates must be between 2026-01-01 and 2126-01-01, inclusive. Within the parent manifest, each date must appear exactly once and participate in a contiguous day-by-day sequence."
+        },
+        "difficulty": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "Difficulty value from the challenge, from 1 to 10."
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": ".*\\S.*",
+          "description": "Puzzle category. Must not be empty or whitespace-only."
+        },
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": ".*\\S.*",
+          "description": "Path to the challenge JSON file. Must not be empty or whitespace-only."
+        },
+        "hash": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": ".*\\S.*",
+          "description": "Integrity hash for caching. Must not be empty or whitespace-only."
+        }
+      },
+      "required": [
+        "date",
+        "difficulty",
+        "category",
+        "path",
+        "hash"
+      ]
+    }
+  }
+}

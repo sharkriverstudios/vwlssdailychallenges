@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "tutorial-challenge.schema.json",
+  "title": "TutorialChallenge",
+  "description": "An onboarding challenge bundled with the application.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Schema version."
+    },
+    "id": {
+      "type": "integer",
+      "description": "Identifier for the tutorial challenge."
+    },
+    "challenge": {
+      "$ref": "challenge.schema.json",
+      "description": "Puzzle definition."
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "challenge"
+  ]
+}

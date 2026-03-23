@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-02-17",
-  "difficulty": 5,
-  "category": "Famous Pirates",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "BLACKBEARD",              "clue": "BLCKBRD",          "difficulty": 2 },
-    { "answer": "ANNE BONNY",              "clue": "NN BN NY",          "difficulty": 3 },
-    { "answer": "MARY READ",               "clue": "MRY RD",           "difficulty": 3 },
-    { "answer": "HENRY MORGAN",            "clue": "HNRY MRGN",        "difficulty": 4 },
-    { "answer": "WILLIAM KIDD",            "clue": "WLL MKD D",         "difficulty": 5 },
-    { "answer": "EDWARD LOW",              "clue": "DWRD LW",          "difficulty": 6 },
-    { "answer": "CALICO JACK",             "clue": "CL C JC K",          "difficulty": 7 },
-    { "answer": "BARTHOLOMEW ROBERTS",     "clue": "BRTH LMWRB RTS",    "difficulty": 9 }
-  ]
+  "challenge": {
+    "difficulty": 5,
+    "category": "Famous Pirates",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "BLACKBEARD",
+        "clue": "BLCKBRD",
+        "difficulty": 2
+      },
+      {
+        "answer": "ANNE BONNY",
+        "clue": "NN BN NY",
+        "difficulty": 3
+      },
+      {
+        "answer": "MARY READ",
+        "clue": "MRY RD",
+        "difficulty": 3
+      },
+      {
+        "answer": "HENRY MORGAN",
+        "clue": "HNRY MRGN",
+        "difficulty": 4
+      },
+      {
+        "answer": "WILLIAM KIDD",
+        "clue": "WLL MKD D",
+        "difficulty": 5
+      },
+      {
+        "answer": "EDWARD LOW",
+        "clue": "DWRD LW",
+        "difficulty": 6
+      },
+      {
+        "answer": "CALICO JACK",
+        "clue": "CL C JC K",
+        "difficulty": 7
+      },
+      {
+        "answer": "BARTHOLOMEW ROBERTS",
+        "clue": "BRTH LMWRB RTS",
+        "difficulty": 9
+      }
+    ]
+  }
 }

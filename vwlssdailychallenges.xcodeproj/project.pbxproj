@@ -55,12 +55,21 @@
 		7C8944EB2F71BC9700BEFFB2 /* 2026-03-17.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-17.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		7C8944F02F71BCF300BEFFB2 /* schemas */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = schemas;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		7C8944B32F71B98E00BEFFB2 = {
 			isa = PBXGroup;
 			children = (
 				7C8944BD2F71BC6700BEFFB2 /* docs */,
 				7C8944BE2F71BC6700BEFFB2 /* README.md */,
+				7C8944F02F71BCF300BEFFB2 /* schemas */,
 			);
 			sourceTree = "<group>";
 		};

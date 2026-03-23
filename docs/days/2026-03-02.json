@@ -1,17 +1,51 @@
 {
   "schemaVersion": 1,
   "date": "2026-03-02",
-  "difficulty": 4,
-  "category": "Major US Holidays",
-  "shareClueIndex": 7,
-  "items": [
-    { "answer": "NEW YEARS DAY", "clue": "NW YRS DY", "difficulty": 2 },
-    { "answer": "VALENTINES DAY", "clue": "VLNTNS DY", "difficulty": 3 },
-    { "answer": "ST PATRICKS DAY", "clue": "ST PTRCKS DY", "difficulty": 4 },
-    { "answer": "EASTER", "clue": "STR", "difficulty": 5 },
-    { "answer": "MEMORIAL DAY", "clue": "MMRL DY", "difficulty": 5 },
-    { "answer": "INDEPENDENCE DAY", "clue": "NDPNDNC DY", "difficulty": 6 },
-    { "answer": "HALLOWEEN", "clue": "HLLWNN", "difficulty": 7 },
-    { "answer": "THANKSGIVING", "clue": "THNKSGVNG", "difficulty": 8 }
-  ]
+  "challenge": {
+    "difficulty": 4,
+    "category": "Major US Holidays",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "answer": "NEW YEARS DAY",
+        "clue": "NW YRS DY",
+        "difficulty": 2
+      },
+      {
+        "answer": "VALENTINES DAY",
+        "clue": "VLNTNS DY",
+        "difficulty": 3
+      },
+      {
+        "answer": "ST PATRICKS DAY",
+        "clue": "ST PTRCKS DY",
+        "difficulty": 4
+      },
+      {
+        "answer": "EASTER",
+        "clue": "STR",
+        "difficulty": 5
+      },
+      {
+        "answer": "MEMORIAL DAY",
+        "clue": "MMRL DY",
+        "difficulty": 5
+      },
+      {
+        "answer": "INDEPENDENCE DAY",
+        "clue": "NDPNDNC DY",
+        "difficulty": 6
+      },
+      {
+        "answer": "HALLOWEEN",
+        "clue": "HLLWNN",
+        "difficulty": 7
+      },
+      {
+        "answer": "THANKSGIVING",
+        "clue": "THNKSGVNG",
+        "difficulty": 8
+      }
+    ]
+  }
 }
