@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-18",
+  "difficulty": 5,
+  "category": "Broadway Musicals",
+  "shareClueIndex": 7,
+  "items": [
+    { "answer": "CATS",                    "clue": "CTS",             "difficulty": 1 },
+    { "answer": "RENT",                    "clue": "RNT",             "difficulty": 2 },
+    { "answer": "WICKED",                  "clue": "W CKD",            "difficulty": 3 },
+    { "answer": "CHICAGO",                 "clue": "CHCG",            "difficulty": 4 },
+    { "answer": "THE LION KING",           "clue": "THL NK NG",       "difficulty": 5 },
+    { "answer": "HAMILTON",                "clue": "HM LT N",           "difficulty": 6 },
+    { "answer": "LES MISERABLES",          "clue": "LSM SRB LS",       "difficulty": 7 },
+    { "answer": "THE PHANTOM OF THE OPERA","clue": "THPH NTM FTH PR", "difficulty": 8 }
+  ]
+}

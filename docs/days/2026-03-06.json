@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-06",
+  "difficulty": 2,
+  "category": "On the US Dollar Bill",
+  "shareClueIndex": 7,
+  "items": [
+    { "answer": "GEORGE WASHINGTON", "clue": "GRG WSHNGTN", "difficulty": 1 },
+    { "answer": "GREEN INK", "clue": "GRN NK", "difficulty": 1 },
+    { "answer": "SERIAL NUMBER", "clue": "SRL NMBR", "difficulty": 2 },
+    { "answer": "FEDERAL RESERVE SEAL", "clue": "FDRL RSRV SL", "difficulty": 2 },
+    { "answer": "TREASURY SEAL", "clue": "TRSRY SL", "difficulty": 3 },
+    { "answer": "PORTRAIT", "clue": "PRTRT", "difficulty": 4 },
+    { "answer": "WATERMARK", "clue": "WTRMRK", "difficulty": 5 },
+    { "answer": "SECURITY THREAD", "clue": "SCRTY THRD", "difficulty": 6 }
+  ]
+}

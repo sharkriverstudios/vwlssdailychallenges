@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-10",
+  "difficulty": 4,
+  "category": "Car Brands",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "TYT",            "answer": "TOYOTA" },
+    { "clue": "FRD",            "answer": "FORD" },
+    { "clue": "CHV RLT",        "answer": "CHEVROLET" },
+    { "clue": "TSL",           "answer": "TESLA" },
+    { "clue": "HND",            "answer": "HONDA" },
+    { "clue": "NS SN",            "answer": "NISSAN" },
+    { "clue": "VL KSW GN",        "answer": "VOLKSWAGEN" },
+    { "clue": "MR CDS BNZ",      "answer": "MERCEDES BENZ" }
+  ]
+}

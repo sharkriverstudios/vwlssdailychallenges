@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-02",
+  "difficulty": 3,
+  "category": "Coffee",
+  "shareClueIndex": 5,
+  "items": [
+    { "clue": "SPRSS",           "answer": "ESPRESSO" },
+    { "clue": "BLCK",            "answer": "BLACK" },
+    { "clue": "LTT",              "answer": "LATTE" },
+    { "clue": "CP PCC N",          "answer": "CAPPUCCINO" },
+    { "clue": "MR C N",            "answer": "AMERICANO" },
+    { "clue": "FL TW HT",         "answer": "FLAT WHITE" },
+    { "clue": "MCC HT",            "answer": "MACCHIATO" },
+    { "clue": "FTRDNNRCFF",            "answer": "AFTER DINNER COFFEE" }
+  ]
+}

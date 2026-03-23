@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-16",
+  "difficulty": 5,
+  "category": "Constellations",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "R N",             "answer": "ORION" },
+    { "clue": "URS MJR",          "answer": "URSA MAJOR" },
+    { "clue": "LBR",             "answer": "LIBRA" },
+    { "clue": "CSSP",             "answer": "CASSIOPEIA" },
+    { "clue": "GMN",             "answer": "GEMINI" },
+    { "clue": "U RSM NR",          "answer": "URSA MINOR" },
+    { "clue": "TRS",             "answer": "TAURUS" },
+    { "clue": "SG TT RS",          "answer": "SAGITTARIUS" }
+  ]
+}

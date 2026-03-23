@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-04",
+  "difficulty": 4,
+  "category": "Major US Newspapers",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "NWY RK TM S",       "answer": "NEW YORK TIMES" },
+    { "clue": "WS HNG TNP ST",  "answer": "WASHINGTON POST" },
+    { "clue": "WL LST RT JR NAL",          "answer": "WALL STREET JOURNAL" },
+    { "clue": "L SNG LST MS",  "answer": "LOS ANGELES TIMES" },
+    { "clue": "CHC GTR BN",    "answer": "CHICAGO TRIBUNE" },
+    { "clue": "BST NG LB",     "answer": "BOSTON GLOBE" },
+    { "clue": "THG RDN",         "answer": "THE GUARDIAN" },
+    { "clue": "FN NCLT MS",           "answer": "FINANCIAL TIMES" }
+  ]
+}

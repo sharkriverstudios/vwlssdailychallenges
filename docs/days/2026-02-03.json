@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-03",
+  "difficulty": 4,
+  "category": "Major Airlines",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "DL TRLNS",        "answer": "DELTA AIRLINES" },
+    { "clue": "JT BL",           "answer": "JETBLUE" },
+    { "clue": "NT DR LNS",        "answer": "UNITED AIRLINES" },
+    { "clue": "ST HW STRL NS",     "answer": "SOUTHWEST AIRLINES" },
+    { "clue": "MR CNRL NS",        "answer": "AMERICAN AIRLINES" },
+    { "clue": "L SKRL NS",       "answer": "ALASKA AIRLINES" },
+    { "clue": "BRT SHR WYS",       "answer": "BRITISH AIRWAYS" },
+    { "clue": "LFT HNS",         "answer": "LUFTHANSA" }
+  ]
+}

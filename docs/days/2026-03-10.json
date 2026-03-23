@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-10",
+  "difficulty": 3,
+  "category": "Types of Soup",
+  "shareClueIndex": 5,
+  "items": [
+    { "clue": "TM T SP",         "answer": "TOMATO SOUP" },
+    { "clue": "CHC KNN DL",      "answer": "CHICKEN NOODLE" },
+    { "clue": "MS",             "answer": "MISO" },
+    { "clue": "MNSTRN",          "answer": "MINESTRONE" },
+    { "clue": "PH",              "answer": "PHO" },
+    { "clue": "FRNC HN N",      "answer": "FRENCH ONION" },
+    { "clue": "VG TB LEBF",       "answer": "VEGETABLE BEEF" },
+    { "clue": "CL MCH WDR",       "answer": "CLAM CHOWDER" }
+  ]
+}

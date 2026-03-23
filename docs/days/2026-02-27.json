@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-27",
+  "difficulty": 3,
+  "category": "Shakespeare Plays",
+  "shareClueIndex": 4,
+  "items": [
+    { "clue": "HMLT", "answer": "HAMLET" },
+    { "clue": "MCK BTH", "answer": "MACBETH" },
+    { "clue": "KNG LR", "answer": "KING LEAR" },
+    { "clue": "TH TM PST", "answer": "THE TEMPEST" },
+    { "clue": "MCH D B T NTHNG", "answer": "MUCH ADO ABOUT NOTHING" },
+    { "clue": "RCH RD TH THRD", "answer": "RICHARD THE THIRD" },
+    { "clue": "TWL FTH NGHT", "answer": "TWELFTH NIGHT" },
+    { "clue": "JLS CSR", "answer": "JULIUS CAESAR" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-04",
+  "difficulty": 4,
+  "category": "Common Kitchen Tools",
+  "shareClueIndex": 7,
+  "items": [
+    { "answer": "CHEF KNIFE", "clue": "CHF KNF", "difficulty": 2 },
+    { "answer": "CUTTING BOARD", "clue": "CTTNG BRD", "difficulty": 3 },
+    { "answer": "MEASURING CUP", "clue": "MSRNG CP", "difficulty": 4 },
+    { "answer": "MIXING BOWL", "clue": "MXNG BWL", "difficulty": 4 },
+    { "answer": "WOODEN SPOON", "clue": "WDN SPN", "difficulty": 5 },
+    { "answer": "SPATULA", "clue": "SPTL", "difficulty": 6 },
+    { "answer": "WHISK", "clue": "WHSK", "difficulty": 7 },
+    { "answer": "COLANDER", "clue": "CLNDR", "difficulty": 8 }
+  ]
+}

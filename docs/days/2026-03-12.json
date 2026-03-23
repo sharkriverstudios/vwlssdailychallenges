@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-12",
+  "difficulty": 5,
+  "category": "Explorers",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "CRST PHRC LMBS",   "answer": "CHRISTOPHER COLUMBUS" },
+    { "clue": "FRD NND MG LLN",     "answer": "FERDINAND MAGELLAN" },
+    { "clue": "MR COPL",         "answer": "MARCO POLO" },
+    { "clue": "JM SCK",          "answer": "JAMES COOK" },
+    { "clue": "VS COD GM",       "answer": "VASCO DA GAMA" },
+    { "clue": "JH NCB T",        "answer": "JOHN CABOT" },
+    { "clue": "HRN NCRT S",      "answer": "HERNAN CORTES" },
+    { "clue": "RL DAM N DSN",     "answer": "ROALD AMUNDSEN" }
+  ]
+}

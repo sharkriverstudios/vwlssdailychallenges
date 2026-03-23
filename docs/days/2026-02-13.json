@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-13",
+  "difficulty": 4,
+  "category": "NBA Teams",
+  "shareClueIndex": 6,
+  "items": [
+    { "clue": "BSTNCLTCS",      "answer": "BOSTON CELTICS" },
+    { "clue": "LSNGLSLKRS",    "answer": "LOS ANGELES LAKERS" },
+    { "clue": "CHC GBL LS",       "answer": "CHICAGO BULLS" },
+    { "clue": "GLDNS TT WR RS",   "answer": "GOLDEN STATE WARRIORS" },
+    { "clue": "BRK LNN TS",       "answer": "BROOKLYN NETS" },
+    { "clue": "ML WKB CKS",       "answer": "MILWAUKEE BUCKS" },
+    { "clue": "PHN X SNS",        "answer": "PHOENIX SUNS" },
+    { "clue": "DL LSMV RCK S",     "answer": "DALLAS MAVERICKS" }
+  ]
+}

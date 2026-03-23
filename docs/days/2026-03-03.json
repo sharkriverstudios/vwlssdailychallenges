@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-03",
+  "difficulty": 2,
+  "category": "Weather Words",
+  "shareClueIndex": 7,
+  "items": [
+    { "answer": "SUNSHINE", "clue": "SNSHN", "difficulty": 1 },
+    { "answer": "CLOUDS", "clue": "CLDS", "difficulty": 2 },
+    { "answer": "RAIN", "clue": "RN", "difficulty": 2 },
+    { "answer": "SNOW", "clue": "SNW", "difficulty": 3 },
+    { "answer": "WIND", "clue": "WND", "difficulty": 2 },
+    { "answer": "FOG", "clue": "FG", "difficulty": 1 },
+    { "answer": "THUNDER", "clue": "THNDR", "difficulty": 4 },
+    { "answer": "LIGHTNING", "clue": "LGHTNNG", "difficulty": 4 }
+  ]
+}

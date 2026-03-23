@@ -6,11 +6,122 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7C8944BE2F71BC6700BEFFB2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7C8944BF2F71BC9700BEFFB2 /* 2026-02-01.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-01.json"; sourceTree = "<group>"; };
+		7C8944C02F71BC9700BEFFB2 /* 2026-02-02.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-02.json"; sourceTree = "<group>"; };
+		7C8944C12F71BC9700BEFFB2 /* 2026-02-03.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-03.json"; sourceTree = "<group>"; };
+		7C8944C22F71BC9700BEFFB2 /* 2026-02-04.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-04.json"; sourceTree = "<group>"; };
+		7C8944C32F71BC9700BEFFB2 /* 2026-02-05.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-05.json"; sourceTree = "<group>"; };
+		7C8944C42F71BC9700BEFFB2 /* 2026-02-06.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-06.json"; sourceTree = "<group>"; };
+		7C8944C52F71BC9700BEFFB2 /* 2026-02-07.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-07.json"; sourceTree = "<group>"; };
+		7C8944C62F71BC9700BEFFB2 /* 2026-02-08.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-08.json"; sourceTree = "<group>"; };
+		7C8944C72F71BC9700BEFFB2 /* 2026-02-09.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-09.json"; sourceTree = "<group>"; };
+		7C8944C82F71BC9700BEFFB2 /* 2026-02-10.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-10.json"; sourceTree = "<group>"; };
+		7C8944C92F71BC9700BEFFB2 /* 2026-02-11.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-11.json"; sourceTree = "<group>"; };
+		7C8944CA2F71BC9700BEFFB2 /* 2026-02-12.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-12.json"; sourceTree = "<group>"; };
+		7C8944CB2F71BC9700BEFFB2 /* 2026-02-13.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-13.json"; sourceTree = "<group>"; };
+		7C8944CC2F71BC9700BEFFB2 /* 2026-02-14.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-14.json"; sourceTree = "<group>"; };
+		7C8944CD2F71BC9700BEFFB2 /* 2026-02-15.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-15.json"; sourceTree = "<group>"; };
+		7C8944CE2F71BC9700BEFFB2 /* 2026-02-16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-16.json"; sourceTree = "<group>"; };
+		7C8944CF2F71BC9700BEFFB2 /* 2026-02-17.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-17.json"; sourceTree = "<group>"; };
+		7C8944D02F71BC9700BEFFB2 /* 2026-02-18.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-18.json"; sourceTree = "<group>"; };
+		7C8944D12F71BC9700BEFFB2 /* 2026-02-19.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-19.json"; sourceTree = "<group>"; };
+		7C8944D22F71BC9700BEFFB2 /* 2026-02-20.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-20.json"; sourceTree = "<group>"; };
+		7C8944D32F71BC9700BEFFB2 /* 2026-02-21.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-21.json"; sourceTree = "<group>"; };
+		7C8944D42F71BC9700BEFFB2 /* 2026-02-22.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-22.json"; sourceTree = "<group>"; };
+		7C8944D52F71BC9700BEFFB2 /* 2026-02-23.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-23.json"; sourceTree = "<group>"; };
+		7C8944D62F71BC9700BEFFB2 /* 2026-02-24.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-24.json"; sourceTree = "<group>"; };
+		7C8944D72F71BC9700BEFFB2 /* 2026-02-25.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-25.json"; sourceTree = "<group>"; };
+		7C8944D82F71BC9700BEFFB2 /* 2026-02-26.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-26.json"; sourceTree = "<group>"; };
+		7C8944D92F71BC9700BEFFB2 /* 2026-02-27.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-27.json"; sourceTree = "<group>"; };
+		7C8944DA2F71BC9700BEFFB2 /* 2026-02-28.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-02-28.json"; sourceTree = "<group>"; };
+		7C8944DB2F71BC9700BEFFB2 /* 2026-03-01.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-01.json"; sourceTree = "<group>"; };
+		7C8944DC2F71BC9700BEFFB2 /* 2026-03-02.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-02.json"; sourceTree = "<group>"; };
+		7C8944DD2F71BC9700BEFFB2 /* 2026-03-03.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-03.json"; sourceTree = "<group>"; };
+		7C8944DE2F71BC9700BEFFB2 /* 2026-03-04.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-04.json"; sourceTree = "<group>"; };
+		7C8944DF2F71BC9700BEFFB2 /* 2026-03-05.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-05.json"; sourceTree = "<group>"; };
+		7C8944E02F71BC9700BEFFB2 /* 2026-03-06.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-06.json"; sourceTree = "<group>"; };
+		7C8944E12F71BC9700BEFFB2 /* 2026-03-07.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-07.json"; sourceTree = "<group>"; };
+		7C8944E22F71BC9700BEFFB2 /* 2026-03-08.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-08.json"; sourceTree = "<group>"; };
+		7C8944E32F71BC9700BEFFB2 /* 2026-03-09.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-09.json"; sourceTree = "<group>"; };
+		7C8944E42F71BC9700BEFFB2 /* 2026-03-10.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-10.json"; sourceTree = "<group>"; };
+		7C8944E52F71BC9700BEFFB2 /* 2026-03-11.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-11.json"; sourceTree = "<group>"; };
+		7C8944E62F71BC9700BEFFB2 /* 2026-03-12.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-12.json"; sourceTree = "<group>"; };
+		7C8944E72F71BC9700BEFFB2 /* 2026-03-13.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-13.json"; sourceTree = "<group>"; };
+		7C8944E82F71BC9700BEFFB2 /* 2026-03-14.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-14.json"; sourceTree = "<group>"; };
+		7C8944E92F71BC9700BEFFB2 /* 2026-03-15.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-15.json"; sourceTree = "<group>"; };
+		7C8944EA2F71BC9700BEFFB2 /* 2026-03-16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-16.json"; sourceTree = "<group>"; };
+		7C8944EB2F71BC9700BEFFB2 /* 2026-03-17.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "2026-03-17.json"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7C8944B32F71B98E00BEFFB2 = {
 			isa = PBXGroup;
 			children = (
+				7C8944BD2F71BC6700BEFFB2 /* docs */,
+				7C8944BE2F71BC6700BEFFB2 /* README.md */,
 			);
+			sourceTree = "<group>";
+		};
+		7C8944BC2F71BC6700BEFFB2 /* days */ = {
+			isa = PBXGroup;
+			children = (
+				7C8944BF2F71BC9700BEFFB2 /* 2026-02-01.json */,
+				7C8944C02F71BC9700BEFFB2 /* 2026-02-02.json */,
+				7C8944C12F71BC9700BEFFB2 /* 2026-02-03.json */,
+				7C8944C22F71BC9700BEFFB2 /* 2026-02-04.json */,
+				7C8944C32F71BC9700BEFFB2 /* 2026-02-05.json */,
+				7C8944C42F71BC9700BEFFB2 /* 2026-02-06.json */,
+				7C8944C52F71BC9700BEFFB2 /* 2026-02-07.json */,
+				7C8944C62F71BC9700BEFFB2 /* 2026-02-08.json */,
+				7C8944C72F71BC9700BEFFB2 /* 2026-02-09.json */,
+				7C8944C82F71BC9700BEFFB2 /* 2026-02-10.json */,
+				7C8944C92F71BC9700BEFFB2 /* 2026-02-11.json */,
+				7C8944CA2F71BC9700BEFFB2 /* 2026-02-12.json */,
+				7C8944CB2F71BC9700BEFFB2 /* 2026-02-13.json */,
+				7C8944CC2F71BC9700BEFFB2 /* 2026-02-14.json */,
+				7C8944CD2F71BC9700BEFFB2 /* 2026-02-15.json */,
+				7C8944CE2F71BC9700BEFFB2 /* 2026-02-16.json */,
+				7C8944CF2F71BC9700BEFFB2 /* 2026-02-17.json */,
+				7C8944D02F71BC9700BEFFB2 /* 2026-02-18.json */,
+				7C8944D12F71BC9700BEFFB2 /* 2026-02-19.json */,
+				7C8944D22F71BC9700BEFFB2 /* 2026-02-20.json */,
+				7C8944D32F71BC9700BEFFB2 /* 2026-02-21.json */,
+				7C8944D42F71BC9700BEFFB2 /* 2026-02-22.json */,
+				7C8944D52F71BC9700BEFFB2 /* 2026-02-23.json */,
+				7C8944D62F71BC9700BEFFB2 /* 2026-02-24.json */,
+				7C8944D72F71BC9700BEFFB2 /* 2026-02-25.json */,
+				7C8944D82F71BC9700BEFFB2 /* 2026-02-26.json */,
+				7C8944D92F71BC9700BEFFB2 /* 2026-02-27.json */,
+				7C8944DA2F71BC9700BEFFB2 /* 2026-02-28.json */,
+				7C8944DB2F71BC9700BEFFB2 /* 2026-03-01.json */,
+				7C8944DC2F71BC9700BEFFB2 /* 2026-03-02.json */,
+				7C8944DD2F71BC9700BEFFB2 /* 2026-03-03.json */,
+				7C8944DE2F71BC9700BEFFB2 /* 2026-03-04.json */,
+				7C8944DF2F71BC9700BEFFB2 /* 2026-03-05.json */,
+				7C8944E02F71BC9700BEFFB2 /* 2026-03-06.json */,
+				7C8944E12F71BC9700BEFFB2 /* 2026-03-07.json */,
+				7C8944E22F71BC9700BEFFB2 /* 2026-03-08.json */,
+				7C8944E32F71BC9700BEFFB2 /* 2026-03-09.json */,
+				7C8944E42F71BC9700BEFFB2 /* 2026-03-10.json */,
+				7C8944E52F71BC9700BEFFB2 /* 2026-03-11.json */,
+				7C8944E62F71BC9700BEFFB2 /* 2026-03-12.json */,
+				7C8944E72F71BC9700BEFFB2 /* 2026-03-13.json */,
+				7C8944E82F71BC9700BEFFB2 /* 2026-03-14.json */,
+				7C8944E92F71BC9700BEFFB2 /* 2026-03-15.json */,
+				7C8944EA2F71BC9700BEFFB2 /* 2026-03-16.json */,
+				7C8944EB2F71BC9700BEFFB2 /* 2026-03-17.json */,
+			);
+			path = days;
+			sourceTree = "<group>";
+		};
+		7C8944BD2F71BC6700BEFFB2 /* docs */ = {
+			isa = PBXGroup;
+			children = (
+				7C8944BC2F71BC6700BEFFB2 /* days */,
+			);
+			path = docs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

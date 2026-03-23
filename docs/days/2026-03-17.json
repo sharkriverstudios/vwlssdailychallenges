@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 1,
+    "date": "2026-03-17",
+    "shareClueIndex": 3,
+    "difficulty": 5,
+    "category": "007",
+    "challenge": {
+        "clues": [
+            { "answer": "JAMES BOND",      "clue": "JM S BND" },
+            { "answer": "JAWS",            "clue": "JWS" },
+            { "answer": "MISS MONEYPENNY", "clue": "MS SMN PNNY" },
+            { "answer": "ODDJOB",          "clue": "DD JB" },
+            { "answer": "FELIX LEITER",    "clue": "FLX LTR" },
+            { "answer": "ERNST STAVRO BLOFELD", "clue": "RN STST VRB LFLD" },
+            { "answer": "M",               "clue": "M" },
+            { "answer": "Q",               "clue": "Q" },
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-11",
+  "difficulty": 4,
+  "category": "Famous Bridges",
+  "shareClueIndex": 7,
+  "items": [
+    { "clue": "BRKLN BRDG",     "answer": "BROOKLYN BRIDGE" },
+    { "clue": "TWR BRDG",       "answer": "TOWER BRIDGE" },
+    { "clue": "SYDNY HRBR BRDG","answer": "SYDNEY HARBOR BRIDGE" },
+    { "clue": "GLD NGT BRDG",   "answer": "GOLDEN GATE BRIDGE" },
+    { "clue": "MCKNC BRDG",     "answer": "MACKINAC BRIDGE" },
+    { "clue": "LN DNBR DG",      "answer": "LONDON BRIDGE" },
+    { "clue": "VR ZZN NR RWS BRDG",    "answer": "VERAZZANO NARROWS BRIDGE" },
+    { "clue": "FRTH RD BRDG",    "answer": "FORTH ROAD BRIDGE" }
+  ]
+}

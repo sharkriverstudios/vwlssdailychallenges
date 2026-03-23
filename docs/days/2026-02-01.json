@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-02-01",
+  "difficulty": 4,
+  "category": "Major Rivers",
+  "shareClueIndex": 7,
+  "items": [
+    { "clue": "MSSSSPP",     "answer": "MISSISSIPPI" },
+    { "clue": "NL",         "answer": "NILE" },
+    { "clue": "MZN",         "answer": "AMAZON" },
+    { "clue": "R HN",         "answer": "RHINE" },
+    { "clue": "YNGTZ",       "answer": "YANGTZE" },
+    { "clue": "GN GS",        "answer": "GANGES" },
+    { "clue": "DN B",         "answer": "DANUBE" },
+    { "clue": "CLR D",        "answer": "COLORADO" }
+  ]
+}
