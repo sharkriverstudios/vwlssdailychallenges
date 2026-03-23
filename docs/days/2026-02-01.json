@@ -6,38 +6,14 @@
     "category": "Major Rivers",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "clue": "MSSSSPP",
-        "answer": "MISSISSIPPI"
-      },
-      {
-        "clue": "NL",
-        "answer": "NILE"
-      },
-      {
-        "clue": "MZN",
-        "answer": "AMAZON"
-      },
-      {
-        "clue": "R HN",
-        "answer": "RHINE"
-      },
-      {
-        "clue": "YNGTZ",
-        "answer": "YANGTZE"
-      },
-      {
-        "clue": "GN GS",
-        "answer": "GANGES"
-      },
-      {
-        "clue": "DN B",
-        "answer": "DANUBE"
-      },
-      {
-        "clue": "CLR D",
-        "answer": "COLORADO"
-      }
+      { "clue": "MSSSSPP", "answer": "MISSISSIPPI" },
+      { "clue": "NL"     , "answer": "NILE" },
+      { "clue": "MZN"    , "answer": "AMAZON" },
+      { "clue": "R HN"   , "answer": "RHINE" },
+      { "clue": "YNGTZ"  , "answer": "YANGTZE" },
+      { "clue": "GN GS"  , "answer": "GANGES" },
+      { "clue": "DN B"   , "answer": "DANUBE" },
+      { "clue": "CLR D"  , "answer": "COLORADO" }
     ]
   }
 }

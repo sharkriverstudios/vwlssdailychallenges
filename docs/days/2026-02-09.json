@@ -6,38 +6,14 @@
     "category": "Famous Scientists",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "clue": "SC NWTN",
-        "answer": "ISAAC NEWTON"
-      },
-      {
-        "clue": "LBR T NSTN",
-        "answer": "ALBERT EINSTEIN"
-      },
-      {
-        "clue": "MR C R",
-        "answer": "MARIE CURIE"
-      },
-      {
-        "clue": "GL LG LL",
-        "answer": "GALILEO GALILEI"
-      },
-      {
-        "clue": "CHR LS DR WN",
-        "answer": "CHARLES DARWIN"
-      },
-      {
-        "clue": "N KLT SL",
-        "answer": "NIKOLA TESLA"
-      },
-      {
-        "clue": "ST PHN HW KNG",
-        "answer": "STEPHEN HAWKING"
-      },
-      {
-        "clue": "RCHRD FNMN",
-        "answer": "RICHARD FEYNMAN"
-      }
+      { "clue": "SC NWTN"      , "answer": "ISAAC NEWTON" },
+      { "clue": "LBR T NSTN"   , "answer": "ALBERT EINSTEIN" },
+      { "clue": "MR C R"       , "answer": "MARIE CURIE" },
+      { "clue": "GL LG LL"     , "answer": "GALILEO GALILEI" },
+      { "clue": "CHR LS DR WN" , "answer": "CHARLES DARWIN" },
+      { "clue": "N KLT SL"     , "answer": "NIKOLA TESLA" },
+      { "clue": "ST PHN HW KNG", "answer": "STEPHEN HAWKING" },
+      { "clue": "RCHRD FNMN"   , "answer": "RICHARD FEYNMAN" }
     ]
   }
 }

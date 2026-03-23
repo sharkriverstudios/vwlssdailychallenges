@@ -6,38 +6,14 @@
     "category": "Famous Philosophers",
     "shareClueIndex": 6,
     "clues": [
-      {
-        "clue": "PLT",
-        "answer": "PLATO"
-      },
-      {
-        "clue": "RST TL",
-        "answer": "ARISTOTLE"
-      },
-      {
-        "clue": "SRN KRK GRD",
-        "answer": "SOREN KIERKEGAARD"
-      },
-      {
-        "clue": "FRD RCH NTS CH",
-        "answer": "FRIEDRICH NIETZSCHE"
-      },
-      {
-        "clue": "JHN LCK",
-        "answer": "JOHN LOCKE"
-      },
-      {
-        "clue": "DVD HM",
-        "answer": "DAVID HUME"
-      },
-      {
-        "clue": "RN DSCRTS",
-        "answer": "RENE DESCARTES"
-      },
-      {
-        "clue": "SMN D BVR",
-        "answer": "SIMONE DE BEAUVOIR"
-      }
+      { "clue": "PLT"           , "answer": "PLATO" },
+      { "clue": "RST TL"        , "answer": "ARISTOTLE" },
+      { "clue": "SRN KRK GRD"   , "answer": "SOREN KIERKEGAARD" },
+      { "clue": "FRD RCH NTS CH", "answer": "FRIEDRICH NIETZSCHE" },
+      { "clue": "JHN LCK"       , "answer": "JOHN LOCKE" },
+      { "clue": "DVD HM"        , "answer": "DAVID HUME" },
+      { "clue": "RN DSCRTS"     , "answer": "RENE DESCARTES" },
+      { "clue": "SMN D BVR"     , "answer": "SIMONE DE BEAUVOIR" }
     ]
   }
 }

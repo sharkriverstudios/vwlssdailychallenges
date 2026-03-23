@@ -6,46 +6,14 @@
     "category": "On the US Dollar Bill",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "GEORGE WASHINGTON",
-        "clue": "GRG WSHNGTN",
-        "difficulty": 1
-      },
-      {
-        "answer": "GREEN INK",
-        "clue": "GRN NK",
-        "difficulty": 1
-      },
-      {
-        "answer": "SERIAL NUMBER",
-        "clue": "SRL NMBR",
-        "difficulty": 2
-      },
-      {
-        "answer": "FEDERAL RESERVE SEAL",
-        "clue": "FDRL RSRV SL",
-        "difficulty": 2
-      },
-      {
-        "answer": "TREASURY SEAL",
-        "clue": "TRSRY SL",
-        "difficulty": 3
-      },
-      {
-        "answer": "PORTRAIT",
-        "clue": "PRTRT",
-        "difficulty": 4
-      },
-      {
-        "answer": "WATERMARK",
-        "clue": "WTRMRK",
-        "difficulty": 5
-      },
-      {
-        "answer": "SECURITY THREAD",
-        "clue": "SCRTY THRD",
-        "difficulty": 6
-      }
+      { "clue": "GRG WSHNGTN" , "answer": "GEORGE WASHINGTON", "difficulty": 1 },
+      { "clue": "GRN NK"      , "answer": "GREEN INK", "difficulty": 1 },
+      { "clue": "SRL NMBR"    , "answer": "SERIAL NUMBER", "difficulty": 2 },
+      { "clue": "FDRL RSRV SL", "answer": "FEDERAL RESERVE SEAL", "difficulty": 2 },
+      { "clue": "TRSRY SL"    , "answer": "TREASURY SEAL", "difficulty": 3 },
+      { "clue": "PRTRT"       , "answer": "PORTRAIT", "difficulty": 4 },
+      { "clue": "WTRMRK"      , "answer": "WATERMARK", "difficulty": 5 },
+      { "clue": "SCRTY THRD"  , "answer": "SECURITY THREAD", "difficulty": 6 }
     ]
   }
 }

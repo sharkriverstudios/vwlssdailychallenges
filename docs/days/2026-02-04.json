@@ -6,38 +6,14 @@
     "category": "Major US Newspapers",
     "shareClueIndex": 6,
     "clues": [
-      {
-        "clue": "NWY RK TM S",
-        "answer": "NEW YORK TIMES"
-      },
-      {
-        "clue": "WS HNG TNP ST",
-        "answer": "WASHINGTON POST"
-      },
-      {
-        "clue": "WL LST RT JRNL",
-        "answer": "WALL STREET JOURNAL"
-      },
-      {
-        "clue": "L SNG LST MS",
-        "answer": "LOS ANGELES TIMES"
-      },
-      {
-        "clue": "CHC GTR BN",
-        "answer": "CHICAGO TRIBUNE"
-      },
-      {
-        "clue": "BST NG LB",
-        "answer": "BOSTON GLOBE"
-      },
-      {
-        "clue": "THG RDN",
-        "answer": "THE GUARDIAN"
-      },
-      {
-        "clue": "FN NCLT MS",
-        "answer": "FINANCIAL TIMES"
-      }
+      { "clue": "NWY RK TM S"   , "answer": "NEW YORK TIMES" },
+      { "clue": "WS HNG TNP ST" , "answer": "WASHINGTON POST" },
+      { "clue": "WL LST RT JRNL", "answer": "WALL STREET JOURNAL" },
+      { "clue": "L SNG LST MS"  , "answer": "LOS ANGELES TIMES" },
+      { "clue": "CHC GTR BN"    , "answer": "CHICAGO TRIBUNE" },
+      { "clue": "BST NG LB"     , "answer": "BOSTON GLOBE" },
+      { "clue": "THG RDN"       , "answer": "THE GUARDIAN" },
+      { "clue": "FN NCLT MS"    , "answer": "FINANCIAL TIMES" }
     ]
   }
 }

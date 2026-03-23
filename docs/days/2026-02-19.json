@@ -6,46 +6,14 @@
     "category": "Greek Gods",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "ZEUS",
-        "clue": "ZS",
-        "difficulty": 1
-      },
-      {
-        "answer": "HERA",
-        "clue": "HR",
-        "difficulty": 2
-      },
-      {
-        "answer": "ARES",
-        "clue": "RS",
-        "difficulty": 3
-      },
-      {
-        "answer": "ATHENA",
-        "clue": "THN",
-        "difficulty": 4
-      },
-      {
-        "answer": "APOLLO",
-        "clue": "PLL",
-        "difficulty": 5
-      },
-      {
-        "answer": "POSEIDON",
-        "clue": "PSD N",
-        "difficulty": 6
-      },
-      {
-        "answer": "ARTEMIS",
-        "clue": "RT MS",
-        "difficulty": 7
-      },
-      {
-        "answer": "HEPHAESTUS",
-        "clue": "HP HSTS",
-        "difficulty": 8
-      }
+      { "clue": "ZS"     , "answer": "ZEUS", "difficulty": 1 },
+      { "clue": "HR"     , "answer": "HERA", "difficulty": 2 },
+      { "clue": "RS"     , "answer": "ARES", "difficulty": 3 },
+      { "clue": "THN"    , "answer": "ATHENA", "difficulty": 4 },
+      { "clue": "PLL"    , "answer": "APOLLO", "difficulty": 5 },
+      { "clue": "PSD N"  , "answer": "POSEIDON", "difficulty": 6 },
+      { "clue": "RT MS"  , "answer": "ARTEMIS", "difficulty": 7 },
+      { "clue": "HP HSTS", "answer": "HEPHAESTUS", "difficulty": 8 }
     ]
   }
 }

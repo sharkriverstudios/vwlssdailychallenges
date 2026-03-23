@@ -6,46 +6,14 @@
     "category": "Months of the Year",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "MARCH",
-        "clue": "MRCH",
-        "difficulty": 1
-      },
-      {
-        "answer": "JULY",
-        "clue": "JL",
-        "difficulty": 1
-      },
-      {
-        "answer": "DECEMBER",
-        "clue": "DCMBR",
-        "difficulty": 1
-      },
-      {
-        "answer": "OCTOBER",
-        "clue": "CTBR",
-        "difficulty": 1
-      },
-      {
-        "answer": "JANUARY",
-        "clue": "JNRY",
-        "difficulty": 2
-      },
-      {
-        "answer": "SEPTEMBER",
-        "clue": "SPTMBR",
-        "difficulty": 1
-      },
-      {
-        "answer": "FEBRUARY",
-        "clue": "FBRRY",
-        "difficulty": 3
-      },
-      {
-        "answer": "APRIL",
-        "clue": "PRL",
-        "difficulty": 5
-      }
+      { "clue": "MRCH"  , "answer": "MARCH", "difficulty": 1 },
+      { "clue": "JL"    , "answer": "JULY", "difficulty": 1 },
+      { "clue": "DCMBR" , "answer": "DECEMBER", "difficulty": 1 },
+      { "clue": "CTBR"  , "answer": "OCTOBER", "difficulty": 1 },
+      { "clue": "JNRY"  , "answer": "JANUARY", "difficulty": 2 },
+      { "clue": "SPTMBR", "answer": "SEPTEMBER", "difficulty": 1 },
+      { "clue": "FBRRY" , "answer": "FEBRUARY", "difficulty": 3 },
+      { "clue": "PRL"   , "answer": "APRIL", "difficulty": 5 }
     ]
   }
 }

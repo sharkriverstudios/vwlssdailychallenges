@@ -6,38 +6,14 @@
     "category": "Types of Soup",
     "shareClueIndex": 5,
     "clues": [
-      {
-        "clue": "TM T SP",
-        "answer": "TOMATO SOUP"
-      },
-      {
-        "clue": "CHC KNN DL",
-        "answer": "CHICKEN NOODLE"
-      },
-      {
-        "clue": "MS",
-        "answer": "MISO"
-      },
-      {
-        "clue": "MNSTRN",
-        "answer": "MINESTRONE"
-      },
-      {
-        "clue": "PH",
-        "answer": "PHO"
-      },
-      {
-        "clue": "FRNC HN N",
-        "answer": "FRENCH ONION"
-      },
-      {
-        "clue": "VGTBL BF",
-        "answer": "VEGETABLE BEEF"
-      },
-      {
-        "clue": "CL MCH WDR",
-        "answer": "CLAM CHOWDER"
-      }
+      { "clue": "TM T SP"   , "answer": "TOMATO SOUP" },
+      { "clue": "CHC KNN DL", "answer": "CHICKEN NOODLE" },
+      { "clue": "MS"        , "answer": "MISO" },
+      { "clue": "MNSTRN"    , "answer": "MINESTRONE" },
+      { "clue": "PH"        , "answer": "PHO" },
+      { "clue": "FRNC HN N" , "answer": "FRENCH ONION" },
+      { "clue": "VGTBL BF"  , "answer": "VEGETABLE BEEF" },
+      { "clue": "CL MCH WDR", "answer": "CLAM CHOWDER" }
     ]
   }
 }

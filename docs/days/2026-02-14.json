@@ -6,46 +6,14 @@
     "category": "Jazz Pianists",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "DUKE ELLINGTON",
-        "clue": "DKL LNG TN",
-        "difficulty": 2
-      },
-      {
-        "answer": "DAVE BRUBECK",
-        "clue": "D VB RB CK",
-        "difficulty": 8
-      },
-      {
-        "answer": "BILL EVANS",
-        "clue": "BL LVN S",
-        "difficulty": 3
-      },
-      {
-        "answer": "THELONIOUS MONK",
-        "clue": "THL NS MNK",
-        "difficulty": 3
-      },
-      {
-        "answer": "HERBIE HANCOCK",
-        "clue": "H RB HNC CK",
-        "difficulty": 4
-      },
-      {
-        "answer": "OSCAR PETERSON",
-        "clue": "SCRP TRSN",
-        "difficulty": 5
-      },
-      {
-        "answer": "FATS WALLER",
-        "clue": "F TS WLL R",
-        "difficulty": 6
-      },
-      {
-        "answer": "ART TATUM",
-        "clue": "RT T TM",
-        "difficulty": 7
-      }
+      { "clue": "DKL LNG TN" , "answer": "DUKE ELLINGTON", "difficulty": 2 },
+      { "clue": "D VB RB CK" , "answer": "DAVE BRUBECK", "difficulty": 8 },
+      { "clue": "BL LVN S"   , "answer": "BILL EVANS", "difficulty": 3 },
+      { "clue": "THL NS MNK" , "answer": "THELONIOUS MONK", "difficulty": 3 },
+      { "clue": "H RB HNC CK", "answer": "HERBIE HANCOCK", "difficulty": 4 },
+      { "clue": "SCRP TRSN"  , "answer": "OSCAR PETERSON", "difficulty": 5 },
+      { "clue": "F TS WLL R" , "answer": "FATS WALLER", "difficulty": 6 },
+      { "clue": "RT T TM"    , "answer": "ART TATUM", "difficulty": 7 }
     ]
   }
 }

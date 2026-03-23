@@ -6,38 +6,14 @@
     "category": "Major Deserts",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "clue": "SHR",
-        "answer": "SAHARA"
-      },
-      {
-        "clue": "GB",
-        "answer": "GOBI"
-      },
-      {
-        "clue": "TCM",
-        "answer": "ATACAMA"
-      },
-      {
-        "clue": "K LH R",
-        "answer": "KALAHARI"
-      },
-      {
-        "clue": "MJV",
-        "answer": "MOJAVE"
-      },
-      {
-        "clue": "DTHVLL",
-        "answer": "DEATH VALLEY"
-      },
-      {
-        "clue": "SN RN",
-        "answer": "SONORAN"
-      },
-      {
-        "clue": "NM BD SRT",
-        "answer": "NAMIB DESERT"
-      }
+      { "clue": "SHR"      , "answer": "SAHARA" },
+      { "clue": "GB"       , "answer": "GOBI" },
+      { "clue": "TCM"      , "answer": "ATACAMA" },
+      { "clue": "K LH R"   , "answer": "KALAHARI" },
+      { "clue": "MJV"      , "answer": "MOJAVE" },
+      { "clue": "DTHVLL"   , "answer": "DEATH VALLEY" },
+      { "clue": "SN RN"    , "answer": "SONORAN" },
+      { "clue": "NM BD SRT", "answer": "NAMIB DESERT" }
     ]
   }
 }

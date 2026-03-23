@@ -6,46 +6,14 @@
     "category": "Dickens Characters",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "OLIVER TWIST",
-        "clue": "LVR TWST",
-        "difficulty": 2
-      },
-      {
-        "answer": "EBENEZER SCROOGE",
-        "clue": "BNZRSCRG",
-        "difficulty": 8
-      },
-      {
-        "answer": "FAGIN",
-        "clue": "FGN",
-        "difficulty": 3
-      },
-      {
-        "answer": "TINY TIM",
-        "clue": "TNY TM",
-        "difficulty": 3
-      },
-      {
-        "answer": "URIAH HEEP",
-        "clue": "RH HP",
-        "difficulty": 4
-      },
-      {
-        "answer": "MISS HAVISHAM",
-        "clue": "MSS HVSHM",
-        "difficulty": 5
-      },
-      {
-        "answer": "DAVID COPPERFIELD",
-        "clue": "DVDCPP RFLD",
-        "difficulty": 6
-      },
-      {
-        "answer": "MR MICAWBER",
-        "clue": "MRMC WBR",
-        "difficulty": 7
-      }
+      { "clue": "LVR TWST"   , "answer": "OLIVER TWIST", "difficulty": 2 },
+      { "clue": "BNZRSCRG"   , "answer": "EBENEZER SCROOGE", "difficulty": 8 },
+      { "clue": "FGN"        , "answer": "FAGIN", "difficulty": 3 },
+      { "clue": "TNY TM"     , "answer": "TINY TIM", "difficulty": 3 },
+      { "clue": "RH HP"      , "answer": "URIAH HEEP", "difficulty": 4 },
+      { "clue": "MSS HVSHM"  , "answer": "MISS HAVISHAM", "difficulty": 5 },
+      { "clue": "DVDCPP RFLD", "answer": "DAVID COPPERFIELD", "difficulty": 6 },
+      { "clue": "MRMC WBR"   , "answer": "MR MICAWBER", "difficulty": 7 }
     ]
   }
 }

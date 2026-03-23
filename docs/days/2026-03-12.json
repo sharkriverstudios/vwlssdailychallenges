@@ -6,38 +6,14 @@
     "category": "Explorers",
     "shareClueIndex": 6,
     "clues": [
-      {
-        "clue": "CRST PHRC LMBS",
-        "answer": "CHRISTOPHER COLUMBUS"
-      },
-      {
-        "clue": "FRD NND MG LLN",
-        "answer": "FERDINAND MAGELLAN"
-      },
-      {
-        "clue": "MRC PL",
-        "answer": "MARCO POLO"
-      },
-      {
-        "clue": "JM SCK",
-        "answer": "JAMES COOK"
-      },
-      {
-        "clue": "VSC D GM",
-        "answer": "VASCO DA GAMA"
-      },
-      {
-        "clue": "JH NCB T",
-        "answer": "JOHN CABOT"
-      },
-      {
-        "clue": "HRN NCRT S",
-        "answer": "HERNAN CORTES"
-      },
-      {
-        "clue": "RLD MNDSN",
-        "answer": "ROALD AMUNDSEN"
-      }
+      { "clue": "CRST PHRC LMBS", "answer": "CHRISTOPHER COLUMBUS" },
+      { "clue": "FRD NND MG LLN", "answer": "FERDINAND MAGELLAN" },
+      { "clue": "MRC PL"        , "answer": "MARCO POLO" },
+      { "clue": "JM SCK"        , "answer": "JAMES COOK" },
+      { "clue": "VSC D GM"      , "answer": "VASCO DA GAMA" },
+      { "clue": "JH NCB T"      , "answer": "JOHN CABOT" },
+      { "clue": "HRN NCRT S"    , "answer": "HERNAN CORTES" },
+      { "clue": "RLD MNDSN"     , "answer": "ROALD AMUNDSEN" }
     ]
   }
 }

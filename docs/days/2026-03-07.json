@@ -6,46 +6,14 @@
     "category": "Chess Pieces and Terms",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "KING",
-        "clue": "KNG",
-        "difficulty": 1
-      },
-      {
-        "answer": "QUEEN",
-        "clue": "QN",
-        "difficulty": 1
-      },
-      {
-        "answer": "ROOK",
-        "clue": "RK",
-        "difficulty": 2
-      },
-      {
-        "answer": "BISHOP",
-        "clue": "BSHP",
-        "difficulty": 2
-      },
-      {
-        "answer": "KNIGHT",
-        "clue": "KNGHT",
-        "difficulty": 3
-      },
-      {
-        "answer": "PAWN",
-        "clue": "PWN",
-        "difficulty": 4
-      },
-      {
-        "answer": "CHECK",
-        "clue": "CHCK",
-        "difficulty": 5
-      },
-      {
-        "answer": "CHECKMATE",
-        "clue": "CHCKMT",
-        "difficulty": 6
-      }
+      { "clue": "KNG"   , "answer": "KING", "difficulty": 1 },
+      { "clue": "QN"    , "answer": "QUEEN", "difficulty": 1 },
+      { "clue": "RK"    , "answer": "ROOK", "difficulty": 2 },
+      { "clue": "BSHP"  , "answer": "BISHOP", "difficulty": 2 },
+      { "clue": "KNGHT" , "answer": "KNIGHT", "difficulty": 3 },
+      { "clue": "PWN"   , "answer": "PAWN", "difficulty": 4 },
+      { "clue": "CHCK"  , "answer": "CHECK", "difficulty": 5 },
+      { "clue": "CHCKMT", "answer": "CHECKMATE", "difficulty": 6 }
     ]
   }
 }

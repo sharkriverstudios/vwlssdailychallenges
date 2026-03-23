@@ -6,46 +6,14 @@
     "category": "Common Kitchen Tools",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "CHEF KNIFE",
-        "clue": "CHF KNF",
-        "difficulty": 2
-      },
-      {
-        "answer": "CUTTING BOARD",
-        "clue": "CTTNG BRD",
-        "difficulty": 3
-      },
-      {
-        "answer": "MEASURING CUP",
-        "clue": "MSRNG CP",
-        "difficulty": 4
-      },
-      {
-        "answer": "MIXING BOWL",
-        "clue": "MXNG BWL",
-        "difficulty": 4
-      },
-      {
-        "answer": "WOODEN SPOON",
-        "clue": "WDN SPN",
-        "difficulty": 5
-      },
-      {
-        "answer": "SPATULA",
-        "clue": "SPTL",
-        "difficulty": 6
-      },
-      {
-        "answer": "WHISK",
-        "clue": "WHSK",
-        "difficulty": 7
-      },
-      {
-        "answer": "COLANDER",
-        "clue": "CLNDR",
-        "difficulty": 8
-      }
+      { "clue": "CHF KNF"  , "answer": "CHEF KNIFE", "difficulty": 2 },
+      { "clue": "CTTNG BRD", "answer": "CUTTING BOARD", "difficulty": 3 },
+      { "clue": "MSRNG CP" , "answer": "MEASURING CUP", "difficulty": 4 },
+      { "clue": "MXNG BWL" , "answer": "MIXING BOWL", "difficulty": 4 },
+      { "clue": "WDN SPN"  , "answer": "WOODEN SPOON", "difficulty": 5 },
+      { "clue": "SPTL"     , "answer": "SPATULA", "difficulty": 6 },
+      { "clue": "WHSK"     , "answer": "WHISK", "difficulty": 7 },
+      { "clue": "CLNDR"    , "answer": "COLANDER", "difficulty": 8 }
     ]
   }
 }

@@ -6,38 +6,14 @@
     "category": "Famous Mountains",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "clue": "VRST",
-        "answer": "EVEREST"
-      },
-      {
-        "clue": "KL MN JR",
-        "answer": "KILIMANJARO"
-      },
-      {
-        "clue": "FJ",
-        "answer": "FUJI"
-      },
-      {
-        "clue": "DN L",
-        "answer": "DENALI"
-      },
-      {
-        "clue": "MT TRH RN",
-        "answer": "THE MATTERHORN"
-      },
-      {
-        "clue": "MNT LYMPS",
-        "answer": "MOUNT OLYMPUS"
-      },
-      {
-        "clue": "RNR",
-        "answer": "RAINIER"
-      },
-      {
-        "clue": "MTS TH LNS",
-        "answer": "MOUNT ST HELENS"
-      }
+      { "clue": "VRST"      , "answer": "EVEREST" },
+      { "clue": "KL MN JR"  , "answer": "KILIMANJARO" },
+      { "clue": "FJ"        , "answer": "FUJI" },
+      { "clue": "DN L"      , "answer": "DENALI" },
+      { "clue": "MT TRH RN" , "answer": "THE MATTERHORN" },
+      { "clue": "MNT LYMPS" , "answer": "MOUNT OLYMPUS" },
+      { "clue": "RNR"       , "answer": "RAINIER" },
+      { "clue": "MTS TH LNS", "answer": "MOUNT ST HELENS" }
     ]
   }
 }

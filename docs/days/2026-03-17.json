@@ -6,38 +6,14 @@
     "category": "007",
     "shareClueIndex": 3,
     "clues": [
-      {
-        "answer": "JAMES BOND",
-        "clue": "JM S BND"
-      },
-      {
-        "answer": "JAWS",
-        "clue": "JWS"
-      },
-      {
-        "answer": "MISS MONEYPENNY",
-        "clue": "MS SMN PNNY"
-      },
-      {
-        "answer": "ODDJOB",
-        "clue": "DD JB"
-      },
-      {
-        "answer": "FELIX LEITER",
-        "clue": "FLX LTR"
-      },
-      {
-        "answer": "ERNST STAVRO BLOFELD",
-        "clue": "RN STST VRB LFLD"
-      },
-      {
-        "answer": "M",
-        "clue": "M"
-      },
-      {
-        "answer": "Q",
-        "clue": "Q"
-      }
+      { "clue": "JM S BND"        , "answer": "JAMES BOND" },
+      { "clue": "JWS"             , "answer": "JAWS" },
+      { "clue": "MS SMN PNNY"     , "answer": "MISS MONEYPENNY" },
+      { "clue": "DD JB"           , "answer": "ODDJOB" },
+      { "clue": "FLX LTR"         , "answer": "FELIX LEITER" },
+      { "clue": "RN STST VRB LFLD", "answer": "ERNST STAVRO BLOFELD" },
+      { "clue": "M"               , "answer": "M" },
+      { "clue": "Q"               , "answer": "Q" }
     ]
   }
 }

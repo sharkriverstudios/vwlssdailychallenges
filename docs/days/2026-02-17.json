@@ -6,46 +6,14 @@
     "category": "Famous Pirates",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "BLACKBEARD",
-        "clue": "BLCKBRD",
-        "difficulty": 2
-      },
-      {
-        "answer": "ANNE BONNY",
-        "clue": "NN BN NY",
-        "difficulty": 3
-      },
-      {
-        "answer": "MARY READ",
-        "clue": "MRY RD",
-        "difficulty": 3
-      },
-      {
-        "answer": "HENRY MORGAN",
-        "clue": "HNRY MRGN",
-        "difficulty": 4
-      },
-      {
-        "answer": "WILLIAM KIDD",
-        "clue": "WLL MKD D",
-        "difficulty": 5
-      },
-      {
-        "answer": "EDWARD LOW",
-        "clue": "DWRD LW",
-        "difficulty": 6
-      },
-      {
-        "answer": "CALICO JACK",
-        "clue": "CL C JC K",
-        "difficulty": 7
-      },
-      {
-        "answer": "BARTHOLOMEW ROBERTS",
-        "clue": "BRTH LMWRB RTS",
-        "difficulty": 9
-      }
+      { "clue": "BLCKBRD"       , "answer": "BLACKBEARD", "difficulty": 2 },
+      { "clue": "NN BN NY"      , "answer": "ANNE BONNY", "difficulty": 3 },
+      { "clue": "MRY RD"        , "answer": "MARY READ", "difficulty": 3 },
+      { "clue": "HNRY MRGN"     , "answer": "HENRY MORGAN", "difficulty": 4 },
+      { "clue": "WLL MKD D"     , "answer": "WILLIAM KIDD", "difficulty": 5 },
+      { "clue": "DWRD LW"       , "answer": "EDWARD LOW", "difficulty": 6 },
+      { "clue": "CL C JC K"     , "answer": "CALICO JACK", "difficulty": 7 },
+      { "clue": "BRTH LMWRB RTS", "answer": "BARTHOLOMEW ROBERTS", "difficulty": 9 }
     ]
   }
 }

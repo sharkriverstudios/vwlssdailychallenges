@@ -6,46 +6,14 @@
     "category": "Broadway Musicals",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "CATS",
-        "clue": "CTS",
-        "difficulty": 1
-      },
-      {
-        "answer": "RENT",
-        "clue": "RNT",
-        "difficulty": 2
-      },
-      {
-        "answer": "WICKED",
-        "clue": "W CKD",
-        "difficulty": 3
-      },
-      {
-        "answer": "CHICAGO",
-        "clue": "CHCG",
-        "difficulty": 4
-      },
-      {
-        "answer": "THE LION KING",
-        "clue": "THL NK NG",
-        "difficulty": 5
-      },
-      {
-        "answer": "HAMILTON",
-        "clue": "HM LT N",
-        "difficulty": 6
-      },
-      {
-        "answer": "LES MISERABLES",
-        "clue": "LSM SRB LS",
-        "difficulty": 7
-      },
-      {
-        "answer": "THE PHANTOM OF THE OPERA",
-        "clue": "THPH NTM FTH PR",
-        "difficulty": 8
-      }
+      { "clue": "CTS"            , "answer": "CATS", "difficulty": 1 },
+      { "clue": "RNT"            , "answer": "RENT", "difficulty": 2 },
+      { "clue": "W CKD"          , "answer": "WICKED", "difficulty": 3 },
+      { "clue": "CHCG"           , "answer": "CHICAGO", "difficulty": 4 },
+      { "clue": "THL NK NG"      , "answer": "THE LION KING", "difficulty": 5 },
+      { "clue": "HM LT N"        , "answer": "HAMILTON", "difficulty": 6 },
+      { "clue": "LSM SRB LS"     , "answer": "LES MISERABLES", "difficulty": 7 },
+      { "clue": "THPH NTM FTH PR", "answer": "THE PHANTOM OF THE OPERA", "difficulty": 8 }
     ]
   }
 }

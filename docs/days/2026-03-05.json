@@ -6,46 +6,14 @@
     "category": "Graphic Design Colors",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "RED",
-        "clue": "RD",
-        "difficulty": 1
-      },
-      {
-        "answer": "BLUE",
-        "clue": "BL",
-        "difficulty": 2
-      },
-      {
-        "answer": "YELLOW",
-        "clue": "YLLW",
-        "difficulty": 3
-      },
-      {
-        "answer": "CYAN",
-        "clue": "CN",
-        "difficulty": 3
-      },
-      {
-        "answer": "MAGENTA",
-        "clue": "MGNT",
-        "difficulty": 4
-      },
-      {
-        "answer": "BLACK",
-        "clue": "BLCK",
-        "difficulty": 5
-      },
-      {
-        "answer": "WHITE",
-        "clue": "WHT",
-        "difficulty": 6
-      },
-      {
-        "answer": "GRAY",
-        "clue": "GRY",
-        "difficulty": 7
-      }
+      { "clue": "RD"  , "answer": "RED", "difficulty": 1 },
+      { "clue": "BL"  , "answer": "BLUE", "difficulty": 2 },
+      { "clue": "YLLW", "answer": "YELLOW", "difficulty": 3 },
+      { "clue": "CN"  , "answer": "CYAN", "difficulty": 3 },
+      { "clue": "MGNT", "answer": "MAGENTA", "difficulty": 4 },
+      { "clue": "BLCK", "answer": "BLACK", "difficulty": 5 },
+      { "clue": "WHT" , "answer": "WHITE", "difficulty": 6 },
+      { "clue": "GRY" , "answer": "GRAY", "difficulty": 7 }
     ]
   }
 }

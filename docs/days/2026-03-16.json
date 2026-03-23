@@ -6,38 +6,14 @@
     "category": "Constellations",
     "shareClueIndex": 6,
     "clues": [
-      {
-        "clue": "R N",
-        "answer": "ORION"
-      },
-      {
-        "clue": "RS MJR",
-        "answer": "URSA MAJOR"
-      },
-      {
-        "clue": "LBR",
-        "answer": "LIBRA"
-      },
-      {
-        "clue": "CSSP",
-        "answer": "CASSIOPEIA"
-      },
-      {
-        "clue": "GMN",
-        "answer": "GEMINI"
-      },
-      {
-        "clue": "RS MNR",
-        "answer": "URSA MINOR"
-      },
-      {
-        "clue": "TRS",
-        "answer": "TAURUS"
-      },
-      {
-        "clue": "SG TT RS",
-        "answer": "SAGITTARIUS"
-      }
+      { "clue": "R N"     , "answer": "ORION" },
+      { "clue": "RS MJR"  , "answer": "URSA MAJOR" },
+      { "clue": "LBR"     , "answer": "LIBRA" },
+      { "clue": "CSSP"    , "answer": "CASSIOPEIA" },
+      { "clue": "GMN"     , "answer": "GEMINI" },
+      { "clue": "RS MNR"  , "answer": "URSA MINOR" },
+      { "clue": "TRS"     , "answer": "TAURUS" },
+      { "clue": "SG TT RS", "answer": "SAGITTARIUS" }
     ]
   }
 }

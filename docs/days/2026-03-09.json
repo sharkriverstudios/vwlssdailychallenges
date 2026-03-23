@@ -6,38 +6,14 @@
     "category": "Dog Breeds",
     "shareClueIndex": 6,
     "clues": [
-      {
-        "clue": "PDL",
-        "answer": "POODLE"
-      },
-      {
-        "clue": "LBRDR RTRVR",
-        "answer": "LABRADOR RETRIEVER"
-      },
-      {
-        "clue": "BGL",
-        "answer": "BEAGLE"
-      },
-      {
-        "clue": "GLDNR TRVR",
-        "answer": "GOLDEN RETRIEVER"
-      },
-      {
-        "clue": "GR MNS HPHRD",
-        "answer": "GERMAN SHEPHERD"
-      },
-      {
-        "clue": "FRN CHBL LDG",
-        "answer": "FRENCH BULLDOG"
-      },
-      {
-        "clue": "BR DRCL L",
-        "answer": "BORDER COLLIE"
-      },
-      {
-        "clue": "MLTS",
-        "answer": "MALTESE"
-      }
+      { "clue": "PDL"         , "answer": "POODLE" },
+      { "clue": "LBRDR RTRVR" , "answer": "LABRADOR RETRIEVER" },
+      { "clue": "BGL"         , "answer": "BEAGLE" },
+      { "clue": "GLDNR TRVR"  , "answer": "GOLDEN RETRIEVER" },
+      { "clue": "GR MNS HPHRD", "answer": "GERMAN SHEPHERD" },
+      { "clue": "FRN CHBL LDG", "answer": "FRENCH BULLDOG" },
+      { "clue": "BR DRCL L"   , "answer": "BORDER COLLIE" },
+      { "clue": "MLTS"        , "answer": "MALTESE" }
     ]
   }
 }

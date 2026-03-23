@@ -6,46 +6,14 @@
     "category": "Famous Detectives",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "answer": "SHERLOCK HOLMES",
-        "clue": "SHRLCK HLMS",
-        "difficulty": 2
-      },
-      {
-        "answer": "HERCULE POIROT",
-        "clue": "HR CLPR T",
-        "difficulty": 3
-      },
-      {
-        "answer": "JESSICA FLETCHER",
-        "clue": "JS SCFLT CHR",
-        "difficulty": 8
-      },
-      {
-        "answer": "MISS MARPLE",
-        "clue": "MS SMR PL",
-        "difficulty": 4
-      },
-      {
-        "answer": "SAM SPADE",
-        "clue": "S MSPD",
-        "difficulty": 4
-      },
-      {
-        "answer": "PHILIP MARLOWE",
-        "clue": "PH LPM RLW",
-        "difficulty": 5
-      },
-      {
-        "answer": "COLUMBO",
-        "clue": "CLMB",
-        "difficulty": 6
-      },
-      {
-        "answer": "NERO WOLFE",
-        "clue": "NRW LF",
-        "difficulty": 7
-      }
+      { "clue": "SHRLCK HLMS" , "answer": "SHERLOCK HOLMES", "difficulty": 2 },
+      { "clue": "HR CLPR T"   , "answer": "HERCULE POIROT", "difficulty": 3 },
+      { "clue": "JS SCFLT CHR", "answer": "JESSICA FLETCHER", "difficulty": 8 },
+      { "clue": "MS SMR PL"   , "answer": "MISS MARPLE", "difficulty": 4 },
+      { "clue": "S MSPD"      , "answer": "SAM SPADE", "difficulty": 4 },
+      { "clue": "PH LPM RLW"  , "answer": "PHILIP MARLOWE", "difficulty": 5 },
+      { "clue": "CLMB"        , "answer": "COLUMBO", "difficulty": 6 },
+      { "clue": "NRW LF"      , "answer": "NERO WOLFE", "difficulty": 7 }
     ]
   }
 }

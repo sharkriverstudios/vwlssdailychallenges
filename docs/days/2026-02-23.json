@@ -6,38 +6,14 @@
     "category": "NFL Team Cities",
     "shareClueIndex": 1,
     "clues": [
-      {
-        "clue": "GRN BY",
-        "answer": "GREEN BAY"
-      },
-      {
-        "clue": "KNS S CTY",
-        "answer": "KANSAS CITY"
-      },
-      {
-        "clue": "LS VGS",
-        "answer": "LAS VEGAS"
-      },
-      {
-        "clue": "BFFL",
-        "answer": "BUFFALO"
-      },
-      {
-        "clue": "CLV LND",
-        "answer": "CLEVELAND"
-      },
-      {
-        "clue": "MM",
-        "answer": "MIAMI"
-      },
-      {
-        "clue": "DTRT",
-        "answer": "DETROIT"
-      },
-      {
-        "clue": "PHL DLPH",
-        "answer": "PHILADELPHIA"
-      }
+      { "clue": "GRN BY"   , "answer": "GREEN BAY" },
+      { "clue": "KNS S CTY", "answer": "KANSAS CITY" },
+      { "clue": "LS VGS"   , "answer": "LAS VEGAS" },
+      { "clue": "BFFL"     , "answer": "BUFFALO" },
+      { "clue": "CLV LND"  , "answer": "CLEVELAND" },
+      { "clue": "MM"       , "answer": "MIAMI" },
+      { "clue": "DTRT"     , "answer": "DETROIT" },
+      { "clue": "PHL DLPH" , "answer": "PHILADELPHIA" }
     ]
   }
 }

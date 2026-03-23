@@ -6,38 +6,14 @@
     "category": "Famous Museums",
     "shareClueIndex": 7,
     "clues": [
-      {
-        "clue": "THLVR",
-        "answer": "THE LOUVRE"
-      },
-      {
-        "clue": "T HM T",
-        "answer": "THE MET"
-      },
-      {
-        "clue": "GGNHM",
-        "answer": "GUGGENHEIM"
-      },
-      {
-        "clue": "THH RM TG",
-        "answer": "THE HERMITAGE"
-      },
-      {
-        "clue": "THPRD",
-        "answer": "THE PRADO"
-      },
-      {
-        "clue": "SMTHSNN",
-        "answer": "SMITHSONIAN"
-      },
-      {
-        "clue": "GT TYM SM",
-        "answer": "GETTY MUSEUM"
-      },
-      {
-        "clue": "RS MSM",
-        "answer": "ORSAY MUSEUM"
-      }
+      { "clue": "THLVR"    , "answer": "THE LOUVRE" },
+      { "clue": "T HM T"   , "answer": "THE MET" },
+      { "clue": "GGNHM"    , "answer": "GUGGENHEIM" },
+      { "clue": "THH RM TG", "answer": "THE HERMITAGE" },
+      { "clue": "THPRD"    , "answer": "THE PRADO" },
+      { "clue": "SMTHSNN"  , "answer": "SMITHSONIAN" },
+      { "clue": "GT TYM SM", "answer": "GETTY MUSEUM" },
+      { "clue": "RS MSM"   , "answer": "ORSAY MUSEUM" }
     ]
   }
 }

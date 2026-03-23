@@ -6,38 +6,14 @@
     "category": "Sea Mammals",
     "shareClueIndex": 4,
     "clues": [
-      {
-        "clue": "DL PN",
-        "answer": "DOLPHIN"
-      },
-      {
-        "clue": "WLS",
-        "answer": "WHALES"
-      },
-      {
-        "clue": "RCS",
-        "answer": "ORCAS"
-      },
-      {
-        "clue": "MNT",
-        "answer": "MANATEE"
-      },
-      {
-        "clue": "SL",
-        "answer": "SEAL"
-      },
-      {
-        "clue": "SLN",
-        "answer": "SEA LION"
-      },
-      {
-        "clue": "WLR S",
-        "answer": "WALRUS"
-      },
-      {
-        "clue": "TTR",
-        "answer": "OTTER"
-      }
+      { "clue": "DL PN", "answer": "DOLPHIN" },
+      { "clue": "WLS"  , "answer": "WHALES" },
+      { "clue": "RCS"  , "answer": "ORCAS" },
+      { "clue": "MNT"  , "answer": "MANATEE" },
+      { "clue": "SL"   , "answer": "SEAL" },
+      { "clue": "SLN"  , "answer": "SEA LION" },
+      { "clue": "WLR S", "answer": "WALRUS" },
+      { "clue": "TTR"  , "answer": "OTTER" }
     ]
   }
 }
