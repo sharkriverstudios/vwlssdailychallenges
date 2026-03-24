@@ -1,80 +1,10 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.3.23",
-  "generatedAt": "2026-03-23T19:06:29Z",
-  "availableFrom": "2026-02-01",
-  "availableTo": "2026-03-17",
+  "contentVersion": "2026.3.24",
+  "generatedAt": "2026-03-24T02:35:24Z",
+  "availableFrom": "2026-02-11",
+  "availableTo": "2026-03-27",
   "days": [
-    {
-      "date": "2026-02-01",
-      "difficulty": 4,
-      "category": "Major Rivers",
-      "path": "days/2026-02-01.json",
-      "hash": "sha256:8e06cd0fff9ae35b11722f208dd471a9dabd69d3f7a6035f2bfdea5ab122cd05"
-    },
-    {
-      "date": "2026-02-02",
-      "difficulty": 3,
-      "category": "Coffee",
-      "path": "days/2026-02-02.json",
-      "hash": "sha256:36b7231881d31ed228262275f3ce25ffe2f618cfd2c4e6efa588f7d1da11e644"
-    },
-    {
-      "date": "2026-02-03",
-      "difficulty": 4,
-      "category": "Major Airlines",
-      "path": "days/2026-02-03.json",
-      "hash": "sha256:6946c15ebc461c18a36e2768285901bc8220c3f4aa734a80d37652fd140a4126"
-    },
-    {
-      "date": "2026-02-04",
-      "difficulty": 4,
-      "category": "Major US Newspapers",
-      "path": "days/2026-02-04.json",
-      "hash": "sha256:4e19fa0362911371ca44f1fa3c36dbe53579b615778ca24440e0838cec805d60"
-    },
-    {
-      "date": "2026-02-05",
-      "difficulty": 4,
-      "category": "Types of Bread",
-      "path": "days/2026-02-05.json",
-      "hash": "sha256:906817ff6fbc9626187d273a0983d18dd4343abcdb0a6fe7d3353f53c131e207"
-    },
-    {
-      "date": "2026-02-06",
-      "difficulty": 5,
-      "category": "Famous Mountains",
-      "path": "days/2026-02-06.json",
-      "hash": "sha256:70444360e8ffd5927899fb0403a8776925bd62644e18bd08edfb4c3cb0252386"
-    },
-    {
-      "date": "2026-02-07",
-      "difficulty": 4,
-      "category": "Streaming Services",
-      "path": "days/2026-02-07.json",
-      "hash": "sha256:a0846fb0f79632f5ef9b2c366be1f46ea048025afc50ce20264ff21f7f64724f"
-    },
-    {
-      "date": "2026-02-08",
-      "difficulty": 3,
-      "category": "Types of Pizza",
-      "path": "days/2026-02-08.json",
-      "hash": "sha256:b640b3e0e053ce3c233519ba68fd812710978bb568d06cd0fd90d609c599b146"
-    },
-    {
-      "date": "2026-02-09",
-      "difficulty": 5,
-      "category": "Famous Scientists",
-      "path": "days/2026-02-09.json",
-      "hash": "sha256:9c0dba085c98c62836780cfb5784a39b7b50e17ad10dd96622e75f7e739bb4bd"
-    },
-    {
-      "date": "2026-02-10",
-      "difficulty": 4,
-      "category": "Car Brands",
-      "path": "days/2026-02-10.json",
-      "hash": "sha256:35b84ed98df8900853f20a44b9bf9030ed7668c7d298d6b2249746f63a16aaa2"
-    },
     {
       "date": "2026-02-11",
       "difficulty": 4,
@@ -94,7 +24,7 @@
       "difficulty": 4,
       "category": "NBA Teams",
       "path": "days/2026-02-13.json",
-      "hash": "sha256:ea0e3a6b064ca314e5ed0fe4769ebff3d291d40f8ba3cc421261f90a5eac0238"
+      "hash": "sha256:5d561547bd548589da17a1e57d79d54af9c5c6422f51bebc9b4f46bd5d4c0138"
     },
     {
       "date": "2026-02-14",
@@ -157,7 +87,7 @@
       "difficulty": 1,
       "category": "U.S. States",
       "path": "days/2026-02-22.json",
-      "hash": "sha256:cc4125bbdfc6e80365637f9920b4dd9d95b840c3b1d90ce0550a4c776522e5b2"
+      "hash": "sha256:6f7d9a46f3d5e96d5bb2fc96d355cb95f11b0cb71ad2df30dbf034ad876c2307"
     },
     {
       "date": "2026-02-23",
@@ -171,35 +101,35 @@
       "difficulty": 2,
       "category": "U.S. National Parks",
       "path": "days/2026-02-24.json",
-      "hash": "sha256:da656652bdb490821b8075120aa8b64988cf6fc828782fda8597f5e94a461739"
+      "hash": "sha256:b663537675be7f90353a7bddb5ceee32c3b37fc97e31892bd7e3608fab0712c2"
     },
     {
       "date": "2026-02-25",
       "difficulty": 2,
       "category": "Sea Mammals",
       "path": "days/2026-02-25.json",
-      "hash": "sha256:5834c0be96ed14ff3926eeb5230687140c9583817f0e6c61ba6c9b44d745dc26"
+      "hash": "sha256:44285deecddca818ff99ed40fafa6e71ebc1d97f282df4fdb99d9132dc1deb83"
     },
     {
       "date": "2026-02-26",
       "difficulty": 2,
       "category": "Midwest Tourist Attractions",
       "path": "days/2026-02-26.json",
-      "hash": "sha256:00715eba20046e4c39a1a0e2e92aca0e6a24fef7928712611d55623f21887703"
+      "hash": "sha256:0af72a06ffdb56d45dbc5fc081325e09da4824703269810eb14f91ebeaa9de9d"
     },
     {
       "date": "2026-02-27",
       "difficulty": 3,
       "category": "Shakespeare Plays",
       "path": "days/2026-02-27.json",
-      "hash": "sha256:a828a2ce1233d071c1d0277312ebbce2bbc484d51f24d521e65fb3ecffa74219"
+      "hash": "sha256:33e3950b990a5539ac32152a821cd2eaa3917c779b3146605098dc8b9cc5f373"
     },
     {
       "date": "2026-02-28",
       "difficulty": 3,
       "category": "Famous Philosophers",
       "path": "days/2026-02-28.json",
-      "hash": "sha256:cd07691fcc233cb07076ec23f176e120895b49da416c190638ce4fc555dc6599"
+      "hash": "sha256:056ae697c5ce346cf43526d05a680bbc0d9aead0e500e9ac4c016f99af50156c"
     },
     {
       "date": "2026-03-01",
@@ -213,7 +143,7 @@
       "difficulty": 4,
       "category": "Major US Holidays",
       "path": "days/2026-03-02.json",
-      "hash": "sha256:be43fb35e28b4e77c042cbbecc62f84cbc45d5144288879661b5d37645c18c3b"
+      "hash": "sha256:606c47490aac4dc272955855e3497f081f9956ea2b00f3478f4a8f165bc9c0c2"
     },
     {
       "date": "2026-03-03",
@@ -276,14 +206,14 @@
       "difficulty": 4,
       "category": "Famous Museums",
       "path": "days/2026-03-11.json",
-      "hash": "sha256:ce06e1ace44a2550117ff13c38b4c6dcf51aa11b7a152ebdc0ccdcfc5796328a"
+      "hash": "sha256:c9885be5c9b4973b75ac485205b0a78cf57b41c5979ce650110701e9d0f309e2"
     },
     {
       "date": "2026-03-12",
       "difficulty": 5,
       "category": "Explorers",
       "path": "days/2026-03-12.json",
-      "hash": "sha256:f5bc7c2bb449808005b79dd756ea8b597f5fb2ef590169d50a7a8331794f3f56"
+      "hash": "sha256:079277d7e70dca77ad88e663aa52d0a98591f5a9d0ab1c9ef51c38a14cbb5a92"
     },
     {
       "date": "2026-03-13",
@@ -319,6 +249,76 @@
       "category": "007",
       "path": "days/2026-03-17.json",
       "hash": "sha256:ad4a1178d3893fc8338ec31540d5e9700a76e1c53d1ae289f7ad580227d09fde"
+    },
+    {
+      "date": "2026-03-18",
+      "difficulty": 4,
+      "category": "Major Rivers",
+      "path": "days/2026-03-18.json",
+      "hash": "sha256:d9dd55caf5b269a51af33a10f9ec717f19896e6d62fe8794566716d218e11b98"
+    },
+    {
+      "date": "2026-03-19",
+      "difficulty": 3,
+      "category": "Coffee",
+      "path": "days/2026-03-19.json",
+      "hash": "sha256:b9753518745c48aca7fe83e875366ccf92ef8cbd36883579003ffa5e1ed69062"
+    },
+    {
+      "date": "2026-03-20",
+      "difficulty": 4,
+      "category": "Major Airlines",
+      "path": "days/2026-03-20.json",
+      "hash": "sha256:5d0325a2fd577a2bc669888c645c4b77389fcbdda22627409d772fa701456538"
+    },
+    {
+      "date": "2026-03-21",
+      "difficulty": 4,
+      "category": "Major US Newspapers",
+      "path": "days/2026-03-21.json",
+      "hash": "sha256:2443913c5bc724be31d134549af1526698c395daf67f7e3ad530ffb81c92377a"
+    },
+    {
+      "date": "2026-03-22",
+      "difficulty": 4,
+      "category": "Types of Bread",
+      "path": "days/2026-03-22.json",
+      "hash": "sha256:8f6640a8fb4c87dde85758ff26917d3da140c464513a5c0cd27b4ac48024e17f"
+    },
+    {
+      "date": "2026-03-23",
+      "difficulty": 5,
+      "category": "Famous Mountains",
+      "path": "days/2026-03-23.json",
+      "hash": "sha256:b373ba3074b1cd1ce4357aae28ad5dd96ee81efcecc184d3c3789f9c802884b3"
+    },
+    {
+      "date": "2026-03-24",
+      "difficulty": 4,
+      "category": "Streaming Services",
+      "path": "days/2026-03-24.json",
+      "hash": "sha256:59978ae67f3b6f3aba177ea7be9690b3ad042242ac471c3bba7f8aa172d2cc46"
+    },
+    {
+      "date": "2026-03-25",
+      "difficulty": 3,
+      "category": "Types of Pizza",
+      "path": "days/2026-03-25.json",
+      "hash": "sha256:516343008d687b117d55e8fc7d9183a6ae297fe6393921862cb8481cc4554712"
+    },
+    {
+      "date": "2026-03-26",
+      "difficulty": 5,
+      "category": "Famous Scientists",
+      "path": "days/2026-03-26.json",
+      "hash": "sha256:4029c178f21bb67baa1c00b9e9947f9fabc1bf858e340557f7722d7dc3e596aa"
+    },
+    {
+      "date": "2026-03-27",
+      "difficulty": 4,
+      "category": "Car Brands",
+      "path": "days/2026-03-27.json",
+      "hash": "sha256:935e17030737801e1e911ce18fdf1c9912883bfce095033dfeaf8d42905f5ff3"
     }
   ]
 }
