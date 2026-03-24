@@ -6,7 +6,7 @@
     "category": "Explorers",
     "shareClueIndex": 6,
     "clues": [
-      { "clue": "CRST PHRC LMBS", "answer": "CHRISTOPHER COLUMBUS" },
+      { "clue": "CHRST PHRC LMBS", "answer": "CHRISTOPHER COLUMBUS" },
       { "clue": "FRD NND MG LLN", "answer": "FERDINAND MAGELLAN" },
       { "clue": "MRC PL"        , "answer": "MARCO POLO" },
       { "clue": "JM SCK"        , "answer": "JAMES COOK" },
