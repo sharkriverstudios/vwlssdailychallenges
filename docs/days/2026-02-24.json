@@ -6,7 +6,7 @@
     "category": "U.S. National Parks",
     "shareClueIndex": 5,
     "clues": [
-      { "clue": "YLW STN"  , "answer": "YELLOWSTONE" },
+      { "clue": "YLLW STN"  , "answer": "YELLOWSTONE" },
       { "clue": "GRND CNYN", "answer": "GRAND CANYON" },
       { "clue": "YS MT"    , "answer": "YOSEMITE" },
       { "clue": "ZN"       , "answer": "ZION" },
