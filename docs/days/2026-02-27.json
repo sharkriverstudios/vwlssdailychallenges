@@ -7,7 +7,7 @@
     "shareClueIndex": 4,
     "clues": [
       { "clue": "HMLT"           , "answer": "HAMLET" },
-      { "clue": "MCK BTH"        , "answer": "MACBETH" },
+      { "clue": "MC BTH"        , "answer": "MACBETH" },
       { "clue": "KNG LR"         , "answer": "KING LEAR" },
       { "clue": "TH TM PST"      , "answer": "THE TEMPEST" },
       { "clue": "MCH D B T NTHNG", "answer": "MUCH ADO ABOUT NOTHING" },
