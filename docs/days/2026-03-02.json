@@ -12,7 +12,7 @@
       { "clue": "STR"         , "answer": "EASTER", "difficulty": 5 },
       { "clue": "MMRL DY"     , "answer": "MEMORIAL DAY", "difficulty": 5 },
       { "clue": "NDPNDNC DY"  , "answer": "INDEPENDENCE DAY", "difficulty": 6 },
-      { "clue": "HLLWNN"      , "answer": "HALLOWEEN", "difficulty": 7 },
+      { "clue": "HLLWN"      , "answer": "HALLOWEEN", "difficulty": 7 },
       { "clue": "THNKSGVNG"   , "answer": "THANKSGIVING", "difficulty": 8 }
     ]
   }
