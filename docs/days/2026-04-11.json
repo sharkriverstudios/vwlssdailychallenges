@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-11",
+  "challenge": {
+    "difficulty": 2,
+    "category": "Sea Mammals",
+    "shareClueIndex": 4,
+    "clues": [
+      {
+        "clue": "DL PHN",
+        "answer": "DOLPHIN"
+      },
+      {
+        "clue": "WHLS",
+        "answer": "WHALES"
+      },
+      {
+        "clue": "RCS",
+        "answer": "ORCAS"
+      },
+      {
+        "clue": "MNT",
+        "answer": "MANATEE"
+      },
+      {
+        "clue": "SL",
+        "answer": "SEAL"
+      },
+      {
+        "clue": "SLN",
+        "answer": "SEA LION"
+      },
+      {
+        "clue": "WLR S",
+        "answer": "WALRUS"
+      },
+      {
+        "clue": "TTR",
+        "answer": "OTTER"
+      }
+    ]
+  }
+}

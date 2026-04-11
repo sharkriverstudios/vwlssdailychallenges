@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-15",
+  "challenge": {
+    "difficulty": 3,
+    "category": "1980s Stanley Cup Winning Teams",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "NW YRK SLNDRS",
+        "answer": "NEW YORK ISLANDERS"
+      },
+      {
+        "clue": "DMNTN LRS",
+        "answer": "EDMONTON OILERS"
+      },
+      {
+        "clue": "CL GRY FLMS",
+        "answer": "CALGARY FLAMES"
+      },
+      {
+        "clue": "MNT RL CN D N S",
+        "answer": "MONTREAL CANADIENS"
+      },
+      {
+        "clue": "NW YRK RNGRS",
+        "answer": "NEW YORK RANGERS"
+      },
+      {
+        "clue": "PTTS BRGH PNGNS",
+        "answer": "PITTSBURGH PENGUINS"
+      },
+      {
+        "clue": "B STN BRNS",
+        "answer": "BOSTON BRUINS"
+      },
+      {
+        "clue": "PHL DLPH FLYRS",
+        "answer": "PHILADELPHIA FLYERS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-19",
+  "challenge": {
+    "difficulty": 3,
+    "category": "Graphic Design Colors",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "RD",
+        "answer": "RED",
+        "difficulty": 1
+      },
+      {
+        "clue": "BL",
+        "answer": "BLUE",
+        "difficulty": 2
+      },
+      {
+        "clue": "YLLW",
+        "answer": "YELLOW",
+        "difficulty": 3
+      },
+      {
+        "clue": "CN",
+        "answer": "CYAN",
+        "difficulty": 3
+      },
+      {
+        "clue": "MGNT",
+        "answer": "MAGENTA",
+        "difficulty": 4
+      },
+      {
+        "clue": "BLCK",
+        "answer": "BLACK",
+        "difficulty": 5
+      },
+      {
+        "clue": "WHT",
+        "answer": "WHITE",
+        "difficulty": 6
+      },
+      {
+        "clue": "GRY",
+        "answer": "GRAY",
+        "difficulty": 7
+      }
+    ]
+  }
+}

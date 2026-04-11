@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-08",
+  "challenge": {
+    "difficulty": 1,
+    "category": "U.S. States",
+    "shareClueIndex": 6,
+    "clues": [
+      {
+        "clue": "TXS",
+        "answer": "TEXAS"
+      },
+      {
+        "clue": "FLRD",
+        "answer": "FLORIDA"
+      },
+      {
+        "clue": "CLFRN",
+        "answer": "CALIFORNIA"
+      },
+      {
+        "clue": "MCHGN",
+        "answer": "MICHIGAN"
+      },
+      {
+        "clue": "VRGN",
+        "answer": "VIRGINIA"
+      },
+      {
+        "clue": "NVD",
+        "answer": "NEVADA"
+      },
+      {
+        "clue": "RZN",
+        "answer": "ARIZONA"
+      },
+      {
+        "clue": "LBM",
+        "answer": "ALABAMA"
+      }
+    ]
+  }
+}

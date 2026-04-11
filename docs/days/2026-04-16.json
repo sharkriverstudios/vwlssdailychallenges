@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-16",
+  "challenge": {
+    "difficulty": 4,
+    "category": "Major US Holidays",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "NW YRS DY",
+        "answer": "NEW YEARS DAY",
+        "difficulty": 2
+      },
+      {
+        "clue": "VLNTNS DY",
+        "answer": "VALENTINES DAY",
+        "difficulty": 3
+      },
+      {
+        "clue": "ST PTRCKS DY",
+        "answer": "ST PATRICKS DAY",
+        "difficulty": 4
+      },
+      {
+        "clue": "STR",
+        "answer": "EASTER",
+        "difficulty": 5
+      },
+      {
+        "clue": "MMRL DY",
+        "answer": "MEMORIAL DAY",
+        "difficulty": 5
+      },
+      {
+        "clue": "NDPNDNC DY",
+        "answer": "INDEPENDENCE DAY",
+        "difficulty": 6
+      },
+      {
+        "clue": "HLLWN",
+        "answer": "HALLOWEEN",
+        "difficulty": 7
+      },
+      {
+        "clue": "THNKSGVNG",
+        "answer": "THANKSGIVING",
+        "difficulty": 8
+      }
+    ]
+  }
+}

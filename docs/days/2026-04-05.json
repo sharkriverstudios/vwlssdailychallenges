@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-05",
+  "challenge": {
+    "difficulty": 6,
+    "category": "Greek Gods",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "ZS",
+        "answer": "ZEUS",
+        "difficulty": 1
+      },
+      {
+        "clue": "HR",
+        "answer": "HERA",
+        "difficulty": 2
+      },
+      {
+        "clue": "RS",
+        "answer": "ARES",
+        "difficulty": 3
+      },
+      {
+        "clue": "THN",
+        "answer": "ATHENA",
+        "difficulty": 4
+      },
+      {
+        "clue": "PLL",
+        "answer": "APOLLO",
+        "difficulty": 5
+      },
+      {
+        "clue": "PSD N",
+        "answer": "POSEIDON",
+        "difficulty": 6
+      },
+      {
+        "clue": "RT MS",
+        "answer": "ARTEMIS",
+        "difficulty": 7
+      },
+      {
+        "clue": "HP HSTS",
+        "answer": "HEPHAESTUS",
+        "difficulty": 8
+      }
+    ]
+  }
+}

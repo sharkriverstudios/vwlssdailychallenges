@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-03-31",
+  "challenge": {
+    "difficulty": 3,
+    "category": "Jazz Pianists",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "DKL LNG TN",
+        "answer": "DUKE ELLINGTON",
+        "difficulty": 2
+      },
+      {
+        "clue": "D VB RB CK",
+        "answer": "DAVE BRUBECK",
+        "difficulty": 8
+      },
+      {
+        "clue": "BL LVN S",
+        "answer": "BILL EVANS",
+        "difficulty": 3
+      },
+      {
+        "clue": "THL NS MNK",
+        "answer": "THELONIOUS MONK",
+        "difficulty": 3
+      },
+      {
+        "clue": "H RB HNC CK",
+        "answer": "HERBIE HANCOCK",
+        "difficulty": 4
+      },
+      {
+        "clue": "SCRP TRSN",
+        "answer": "OSCAR PETERSON",
+        "difficulty": 5
+      },
+      {
+        "clue": "F TS WLL R",
+        "answer": "FATS WALLER",
+        "difficulty": 6
+      },
+      {
+        "clue": "RT T TM",
+        "answer": "ART TATUM",
+        "difficulty": 7
+      }
+    ]
+  }
+}

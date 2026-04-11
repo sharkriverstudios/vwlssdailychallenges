@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-04-02",
+  "challenge": {
+    "difficulty": 4,
+    "category": "Famous Detectives",
+    "shareClueIndex": 7,
+    "clues": [
+      {
+        "clue": "SHRLCK HLMS",
+        "answer": "SHERLOCK HOLMES",
+        "difficulty": 2
+      },
+      {
+        "clue": "HR CLPR T",
+        "answer": "HERCULE POIROT",
+        "difficulty": 3
+      },
+      {
+        "clue": "JS SCFLT CHR",
+        "answer": "JESSICA FLETCHER",
+        "difficulty": 8
+      },
+      {
+        "clue": "MS SMR PL",
+        "answer": "MISS MARPLE",
+        "difficulty": 4
+      },
+      {
+        "clue": "S MSPD",
+        "answer": "SAM SPADE",
+        "difficulty": 4
+      },
+      {
+        "clue": "PH LPM RLW",
+        "answer": "PHILIP MARLOWE",
+        "difficulty": 5
+      },
+      {
+        "clue": "CLMB",
+        "answer": "COLUMBO",
+        "difficulty": 6
+      },
+      {
+        "clue": "NRW LF",
+        "answer": "NERO WOLFE",
+        "difficulty": 7
+      }
+    ]
+  }
+}
