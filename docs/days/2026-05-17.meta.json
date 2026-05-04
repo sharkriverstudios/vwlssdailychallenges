@@ -1,0 +1,86 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "KELLOGG",
+      "difficulty" : 4,
+      "clue" : "KLLGG"
+    },
+    {
+      "answer" : "HERSHEY",
+      "difficulty" : 4,
+      "clue" : "HRSHY"
+    },
+    {
+      "answer" : "PORSCHE",
+      "difficulty" : 5,
+      "clue" : "PRSCH"
+    },
+    {
+      "answer" : "HARLEY-DAVIDSON",
+      "difficulty" : 6,
+      "clue" : "HRLYDVD"
+    },
+    {
+      "answer" : "BURBERRY",
+      "difficulty" : 5,
+      "clue" : "BRBRRY"
+    },
+    {
+      "answer" : "BOSCH",
+      "difficulty" : 5,
+      "clue" : "BSCH"
+    },
+    {
+      "answer" : "MICHELIN",
+      "difficulty" : 6,
+      "clue" : "MCHLN"
+    },
+    {
+      "answer" : "LEVI STRAUSS",
+      "difficulty" : 6,
+      "clue" : "LVSTRSS"
+    },
+    {
+      "answer" : "BEN & JERRY'S",
+      "difficulty" : 5,
+      "clue" : "BNJRRYS"
+    },
+    {
+      "answer" : "WARNER BROS",
+      "difficulty" : 5,
+      "clue" : "WRNRBRS"
+    },
+    {
+      "answer" : "TESLA",
+      "difficulty" : 5,
+      "clue" : "TSL"
+    },
+    {
+      "answer" : "ARMSTRONG",
+      "difficulty" : 7,
+      "clue" : "RMSTRNG"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

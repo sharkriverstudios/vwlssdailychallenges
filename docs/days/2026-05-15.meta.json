@@ -1,0 +1,86 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "WSHNGTN",
+      "answer" : "WASHINGTON",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "VRGN",
+      "answer" : "VIRGINIA",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "MSSCHSTTS",
+      "answer" : "MASSACHUSETTS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "MRYLND",
+      "answer" : "MARYLAND",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "STH CRLN",
+      "answer" : "SOUTH CAROLINA",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "RHD SLND",
+      "answer" : "RHODE ISLAND",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "NW JRSY",
+      "answer" : "NEW JERSEY",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "GRG",
+      "answer" : "GEORGIA",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "MN",
+      "answer" : "MAINE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "DLWR",
+      "answer" : "DELAWARE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "LSN",
+      "answer" : "LOUISIANA",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "MSSSSPP",
+      "answer" : "MISSISSIPPI",
+      "difficulty" : 8
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
