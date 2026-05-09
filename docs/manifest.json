@@ -1,324 +1,331 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.5.1",
-  "generatedAt": "2026-05-01T16:07:26Z",
+  "contentVersion": "2026.5.9",
+  "generatedAt": "2026-05-09T04:55:29Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-05-15",
+  "availableTo": "2026-05-16",
   "days": [
     {
       "date": "2026-04-01",
       "difficulty": 4,
       "category": "Dickens Characters",
       "path": "days/2026-04-01.json",
-      "hash": "sha256:ed8f762af966ba91d5bd4bce6567ea605d05610ab71546c4bf6fe68dfb130251"
+      "hash": "sha256:24c4c3cd8b2aab3775c472f4b8213c78e6d90ca5618e3175decae77706af1246"
     },
     {
       "date": "2026-04-02",
       "difficulty": 4,
       "category": "Famous Detectives",
       "path": "days/2026-04-02.json",
-      "hash": "sha256:0edcff24ae6ba13f75ff056edd1c8c10e58b50ea204449eb834461a447d90e0b"
+      "hash": "sha256:50372415e090fbceba5e935c7bdbfde5199ce6fae7806f4e47883a5974567566"
     },
     {
       "date": "2026-04-03",
       "difficulty": 5,
-      "category": "Famous Pirates",
+      "category": "Broadway Musicals of the 21st century",
       "path": "days/2026-04-03.json",
-      "hash": "sha256:d9b4c46588f971f999932c9060392d01d936096f3a4ba620ff5dc8733d5c6c42"
+      "hash": "sha256:363df968fa732565e8fd21b9d8bc483436dce270d89cda9771d398b838aa4d4c"
     },
     {
       "date": "2026-04-04",
       "difficulty": 5,
-      "category": "Broadway Musicals",
+      "category": "Greek Gods",
       "path": "days/2026-04-04.json",
-      "hash": "sha256:064623ad59307a07db721c1f84de4dff20a3ca18719fb27a2484faf06e92b77b"
+      "hash": "sha256:f5bd96f14e12c18e650a1222654222ba436ad0b915a005ced76e3851373fa7d5"
     },
     {
       "date": "2026-04-05",
       "difficulty": 6,
-      "category": "Greek Gods",
+      "category": "Famous Pirates",
       "path": "days/2026-04-05.json",
-      "hash": "sha256:4dc4fb40f5fb60a7df56d8db1854bbfe773de23ed027f24528c36e3ecc2181cf"
+      "hash": "sha256:85fa5c4575013a3254ef5611df0ea3ae949225e84f417043288ff3d661720e88"
     },
     {
       "date": "2026-04-06",
-      "difficulty": 3,
-      "category": "Rock Guitarists",
+      "difficulty": 2,
+      "category": "NFL Team Cities",
       "path": "days/2026-04-06.json",
-      "hash": "sha256:7c7745a59c3926ba7eefa81052064a7137982936d4febbd4b0c5ecad6a48d765"
+      "hash": "sha256:1b59d7562330a67ece82f1c5cd68dfc63dd9333ef0dfef59689b18c3116ac9fa"
     },
     {
       "date": "2026-04-07",
-      "difficulty": 1,
-      "category": "Planets",
+      "difficulty": 3,
+      "category": "Seaside U.S. States",
       "path": "days/2026-04-07.json",
-      "hash": "sha256:cd9f9aba021f6e13d118c25913fb6a2e212c3926ea418d88bad8be15590e8c49"
+      "hash": "sha256:9b4d29644fb98c11849ec931015f72fc67818d4ce9bb9b9c09264300f3be8370"
     },
     {
       "date": "2026-04-08",
-      "difficulty": 1,
-      "category": "U.S. States",
+      "difficulty": 4,
+      "category": "Our Solar System",
       "path": "days/2026-04-08.json",
-      "hash": "sha256:91f05090473943edbae99211269255f27d00c14bcf4ad8e2cd131b761deb40cc"
+      "hash": "sha256:3ac72bbb8c53f60fe2fd6cccb18942ca9341e3d515260e8f4b4a1244583bda56"
     },
     {
       "date": "2026-04-09",
-      "difficulty": 2,
-      "category": "NFL Team Cities",
+      "difficulty": 4,
+      "category": "U.S. National Parks",
       "path": "days/2026-04-09.json",
-      "hash": "sha256:c13a5695049c18b32e7fc11b3210cc74faf02c2b26eccb70aff8529eb667198a"
+      "hash": "sha256:4dab26bd92215c98406333abac7244ddcf508cc99cb089cc4d55804acef8707e"
     },
     {
       "date": "2026-04-10",
-      "difficulty": 2,
-      "category": "U.S. National Parks",
+      "difficulty": 5,
+      "category": "Sea Mammals",
       "path": "days/2026-04-10.json",
-      "hash": "sha256:ec3d48b9a720d19e3528aa55e81f02bc90ac02c102ab83699306d83558485a07"
+      "hash": "sha256:15f9ead31303a83ef7573b7ea8e6476c5b8f0d38c0d7ccc646c87b0c5d9caf99"
     },
     {
       "date": "2026-04-11",
-      "difficulty": 2,
-      "category": "Sea Mammals",
+      "difficulty": 6,
+      "category": "Rock Guitarists",
       "path": "days/2026-04-11.json",
-      "hash": "sha256:37914f5be9db6ef1817c9d93c17cae1bc9171d50f7a6363fcea4c29123544d2d"
+      "hash": "sha256:7b0d6b8f39a29f3021efe7f0416d37375bbf9325cbb5ff52cf5543bb5c2c7f4f"
     },
     {
       "date": "2026-04-12",
-      "difficulty": 2,
-      "category": "Midwest Tourist Attractions",
+      "difficulty": 6,
+      "category": "Tourist Attractions of the Great Plains",
       "path": "days/2026-04-12.json",
-      "hash": "sha256:3d42d2f6302ffb4ab85931203bcb68e7e59b93badcb50aa8b30460c933e6f651"
+      "hash": "sha256:0d93b18023b1f9977f1bd839c599e14096b7e2a95da6f5e3c389b7614202347d"
     },
     {
       "date": "2026-04-13",
-      "difficulty": 3,
-      "category": "Shakespeare Plays",
+      "difficulty": 4,
+      "category": "Major US Holidays",
       "path": "days/2026-04-13.json",
-      "hash": "sha256:06fadcef49ac485643ded434bb8d6aeb5f44c4297f0db38b0a4d6151360fe8f9"
+      "hash": "sha256:1c83d6bf8c98de49a954fdcc6da6016ca58ee997b886f691eee9fc1667f969b0"
     },
     {
       "date": "2026-04-14",
       "difficulty": 3,
-      "category": "Famous Philosophers",
+      "category": "Extreme Weather",
       "path": "days/2026-04-14.json",
-      "hash": "sha256:f5d2e483f6d90a4dbf6351509a07fcc418e405b53af1e67f6c31b3286fe3b1b1"
+      "hash": "sha256:73d8d408e8809decd90b9288859762c517921b9f8868ddb11e5f45be32df3e35"
     },
     {
       "date": "2026-04-15",
-      "difficulty": 3,
-      "category": "1980s Stanley Cup Winning Teams",
+      "difficulty": 5,
+      "category": "Kitchen Tools",
       "path": "days/2026-04-15.json",
-      "hash": "sha256:f943482c7df154066a785b2bd0221ebd2e29320fe7eaeb61fa9ae749166bf7bf"
+      "hash": "sha256:a950ff9b9200d2fa86917e4bb37ea8e331ef9b86cf297e6dcd96add703807495"
     },
     {
       "date": "2026-04-16",
-      "difficulty": 4,
-      "category": "Major US Holidays",
+      "difficulty": 5,
+      "category": "Stanley Cup Winning Teams",
       "path": "days/2026-04-16.json",
-      "hash": "sha256:021bab9a54c8c1245a89b256e96b841f303739daffd9d8f8c814077fac90bc9b"
+      "hash": "sha256:6ee990a096afec242712088a489407b72f9bb6b4b98e49f23e6f33661f35cd19"
     },
     {
       "date": "2026-04-17",
-      "difficulty": 2,
-      "category": "Weather Words",
+      "difficulty": 5,
+      "category": "Famous Philosophers",
       "path": "days/2026-04-17.json",
-      "hash": "sha256:3ecfd5c6967b1262447727a4e32a85f59097f99bdf52bb5e5f5fe7c9663e46c9"
+      "hash": "sha256:73cdeb2059834c86c6ef6401c4783161c361c6a237d784d4ba52f66a3163c8dc"
     },
     {
       "date": "2026-04-18",
-      "difficulty": 4,
-      "category": "Common Kitchen Tools",
+      "difficulty": 6,
+      "category": "Graphic Design",
       "path": "days/2026-04-18.json",
-      "hash": "sha256:87ed42dc611e4888f9b9f26267026f175e596aa83db897ebec8ec2fe12745c47"
+      "hash": "sha256:c8eccdc8d9917fa609d2fa7839b58fe8220e15a09e39763de690e25137c36050"
     },
     {
       "date": "2026-04-19",
-      "difficulty": 3,
-      "category": "Graphic Design Colors",
+      "difficulty": 7,
+      "category": "Shakespeare Dramas",
       "path": "days/2026-04-19.json",
-      "hash": "sha256:3a181f3b24df18418c3fd26b0c735d1ca58d571bc67167b401387547d84df11a"
+      "hash": "sha256:5df07e3870b183336f6d85b786eaff4abddde2eea39ae57de73b61c529ba11dc"
     },
     {
       "date": "2026-04-20",
-      "difficulty": 2,
-      "category": "On the US Dollar Bill",
+      "difficulty": 1,
+      "category": "Months of the Year",
       "path": "days/2026-04-20.json",
-      "hash": "sha256:40de8d03985468644d5b5fb2b8d7c72942cb80368f284af3b4636c03d14de74e"
+      "hash": "sha256:86f2a6a4b7bedd711784f4cf5424c4894a7568a4bd5ddb8b28a418251c0f7c70"
     },
     {
       "date": "2026-04-21",
-      "difficulty": 2,
-      "category": "Chess Pieces and Terms",
+      "difficulty": 4,
+      "category": "The Age of Exploration",
       "path": "days/2026-04-21.json",
-      "hash": "sha256:b44bf1a39f65f4e9933cd9a4393bcbbf3b98b514da0230a81ad99f82cfc1c0a6"
+      "hash": "sha256:e3975b4582fbd06a507b9e47b9002c3d2ff492e2943e3c1012c70be6f80962b5"
     },
     {
       "date": "2026-04-22",
-      "difficulty": 1,
-      "category": "Months of the Year",
+      "difficulty": 5,
+      "category": "On the US Dollar Bill",
       "path": "days/2026-04-22.json",
-      "hash": "sha256:20aac5aafc4c0ecb0a3d5cf2e3b496254247ea80c8087058befd5d56488159ff"
+      "hash": "sha256:a88418db8fc829a94caa6cafa23cd0d520cba30d137c16dea56584ed061b7c39"
     },
     {
       "date": "2026-04-23",
-      "difficulty": 4,
-      "category": "Dog Breeds",
+      "difficulty": 5,
+      "category": "Chess",
       "path": "days/2026-04-23.json",
-      "hash": "sha256:fa93663b929a22fb4eddb82e29a4c7181e41f326fc69a48175339ad3ee61a688"
+      "hash": "sha256:ac323376e8c001a7fc3b0f72966a839a00b15c770828869a9b345aac806d5614"
     },
     {
       "date": "2026-04-24",
-      "difficulty": 3,
+      "difficulty": 6,
       "category": "Types of Soup",
       "path": "days/2026-04-24.json",
-      "hash": "sha256:288ac2c5e9e6271fe6a3822408a2cdd2d17cb2cc3e1adfe5308f80096d198060"
+      "hash": "sha256:a2d54d126438ae3586ba45e32fe9dd0a2288aeea5f1b10f757f9153f61c7eb14"
     },
     {
       "date": "2026-04-25",
-      "difficulty": 4,
-      "category": "Famous Museums",
+      "difficulty": 7,
+      "category": "Art Museums",
       "path": "days/2026-04-25.json",
-      "hash": "sha256:4fd5e43b026cfeace725132606350c449dffe719c97d8c438b2f37c4f224cce1"
+      "hash": "sha256:5a03b4910f49b290f0ab8e2da67ab6f049589229c784356323c1c6771462985f"
     },
     {
       "date": "2026-04-26",
-      "difficulty": 5,
-      "category": "Explorers",
+      "difficulty": 7,
+      "category": "Herding Dog Breeds",
       "path": "days/2026-04-26.json",
-      "hash": "sha256:b5f91a073432c0a21edbf658f6743c11b329d15db1cbb27937aadebcae6be934"
+      "hash": "sha256:48a33862d0c436a90f61be6a930ac0701fce09a5bb5d043b1f20e26cbb37be0b"
     },
     {
       "date": "2026-04-27",
-      "difficulty": 4,
+      "difficulty": 3,
       "category": "Types of Cheese",
       "path": "days/2026-04-27.json",
-      "hash": "sha256:522011511facad6713e706baf3f399ad816048dd4b440662a19906c57520b3e7"
+      "hash": "sha256:ddc9875464e909dbe9658732b3dd4868727e315ef1bf60d1bd3e26817c59d9bc"
     },
     {
       "date": "2026-04-28",
-      "difficulty": 5,
-      "category": "Major Deserts",
+      "difficulty": 3,
+      "category": "North American Rivers",
       "path": "days/2026-04-28.json",
-      "hash": "sha256:43a09cf41645adfd7c10fb8084c9541ba1a5eddc27d694d243a6d6725d723442"
+      "hash": "sha256:d9e96a3d27b89ddc82987bbd5206b5d0d64cc4ac026e94617ee012e08b2c11bd"
     },
     {
       "date": "2026-04-29",
       "difficulty": 4,
-      "category": "Major League Baseball Teams",
+      "category": "Major Deserts",
       "path": "days/2026-04-29.json",
-      "hash": "sha256:78b70c209ded5442dcae2c61e02b48fce7cacd834f2bd625d7838d945fc7ce1c"
+      "hash": "sha256:09cc2b68960d848cccb0fc6bab39997edc49e1f67ec7628612cabc34eb67b28f"
     },
     {
       "date": "2026-04-30",
-      "difficulty": 5,
-      "category": "Constellations",
+      "difficulty": 4,
+      "category": "Coffee",
       "path": "days/2026-04-30.json",
-      "hash": "sha256:09aabe798a91bddc10c6548ccc5169c71fb3ef10755bd1a1a5db7b132acfec7c"
+      "hash": "sha256:91409362d8a5130a51bf48e886eef5a18b5316a4f42b5d68ac2e596ab56867c8"
     },
     {
       "date": "2026-05-01",
-      "difficulty": 5,
-      "category": "007",
+      "difficulty": 4,
+      "category": "Oldest Surviving Baseball Teams",
       "path": "days/2026-05-01.json",
-      "hash": "sha256:e9fbdfea5577055b0798ffc4e236d91011fe493d5a546f12cdff090db29c096b"
+      "hash": "sha256:dbc0b704cee9e35c3e3b874b1692856eccb9883199bea669505200967f615220"
     },
     {
       "date": "2026-05-02",
-      "difficulty": 4,
-      "category": "Major Rivers",
+      "difficulty": 5,
+      "category": "007",
       "path": "days/2026-05-02.json",
-      "hash": "sha256:c640f1599514e21036596ee4b80e3cd1bb3186c97760592636b336214572499e"
+      "hash": "sha256:c989549a41efeececfda542a3941e94815a23cbda826640e2a08ffa037d521a9"
     },
     {
       "date": "2026-05-03",
-      "difficulty": 3,
-      "category": "Coffee",
+      "difficulty": 7,
+      "category": "Constellations",
       "path": "days/2026-05-03.json",
-      "hash": "sha256:39d10a79c54069a907b46778e4208faf49dae66485c71dd8feaccdb03f8f7718"
+      "hash": "sha256:9557327909d124545b0ca83e20bf478e17d13f44f1626060e0e4e281d1193c7f"
     },
     {
       "date": "2026-05-04",
-      "difficulty": 4,
-      "category": "Major Airlines",
+      "difficulty": 2,
+      "category": "Major US Newspapers",
       "path": "days/2026-05-04.json",
-      "hash": "sha256:ea56caa725b45e0471a853c9ba8ec26807c38058781b944d0286d7c81854a618"
+      "hash": "sha256:1807c10f33bc5fff0c12a9d3d46b61943754a77b5c3fe5101f5817a8f4855fad"
     },
     {
       "date": "2026-05-05",
-      "difficulty": 4,
-      "category": "Major US Newspapers",
+      "difficulty": 3,
+      "category": "Streaming Services",
       "path": "days/2026-05-05.json",
-      "hash": "sha256:81e7ca398a6f9bce1c42c43899e70c0e1785086e2fcbf58498ca8ceea2116538"
+      "hash": "sha256:1a3f2097e92727e80df87d7b63bf20e3a4884d6820ae5b6e45192d317a95bcf3"
     },
     {
       "date": "2026-05-06",
       "difficulty": 4,
-      "category": "Types of Bread",
+      "category": "Types of Pizza",
       "path": "days/2026-05-06.json",
-      "hash": "sha256:eb318678a747dcc144c2348798b8778ae253a15e3604a003721ccf8315233c48"
+      "hash": "sha256:7ac7399520b5aef8b9189e408bb8e6d3d37390c8068d84d90e6d6fbc539ae939"
     },
     {
       "date": "2026-05-07",
-      "difficulty": 5,
-      "category": "Famous Mountains",
+      "difficulty": 4,
+      "category": "Types of Bread",
       "path": "days/2026-05-07.json",
-      "hash": "sha256:1fc7dddf21fbefb5fffd2dbec10aa51cda27becc0301594a4b973a4edfd6efa6"
+      "hash": "sha256:cdd7dbe38a0e1b16cabe85c5bf9dbd31a646a60e20f8c6d3c204d7a4c30a1676"
     },
     {
       "date": "2026-05-08",
-      "difficulty": 4,
-      "category": "Streaming Services",
+      "difficulty": 5,
+      "category": "Major Airlines",
       "path": "days/2026-05-08.json",
-      "hash": "sha256:1ad03dd6ead73c5a8e8a1c5f4e8a2fcce5e1345392b6fe2c415dbc69877cd5b1"
+      "hash": "sha256:19b6fd795354db10bb6ddd8a16c41774f911165a7e84567ebac16ec66790c3f4"
     },
     {
       "date": "2026-05-09",
-      "difficulty": 3,
-      "category": "Types of Pizza",
+      "difficulty": 5,
+      "category": "Famous Mountains",
       "path": "days/2026-05-09.json",
-      "hash": "sha256:5ba0dfb6aa1ffae1a9588b8898dba67aed3b94dccbba341c350aba8184b8527d"
+      "hash": "sha256:1272fd34895ab852e1e62ddda384f502885cc1783a2b052c965b7b9414aca8db"
     },
     {
       "date": "2026-05-10",
       "difficulty": 5,
       "category": "Famous Scientists",
       "path": "days/2026-05-10.json",
-      "hash": "sha256:377226bdc21677361aa808d89dbb3d7f6f55347d58fe2c5dafb161e2c6982210"
+      "hash": "sha256:bde7ca74a23e0b1ce6a43bc4be1880948a134356269deb1cbce4f72bc0b8c147"
     },
     {
       "date": "2026-05-11",
       "difficulty": 4,
-      "category": "Car Brands",
+      "category": "Ice Cream Flavors",
       "path": "days/2026-05-11.json",
-      "hash": "sha256:019f6016d94debff0913534cf261c33de65aa1e2555610f7339602cea6eb2528"
+      "hash": "sha256:72e777b80932132abee988c18767717fd0f858d4a387348c6a474faf0e092581"
     },
     {
       "date": "2026-05-12",
       "difficulty": 4,
-      "category": "Famous Bridges",
+      "category": "NBA Teams",
       "path": "days/2026-05-12.json",
-      "hash": "sha256:ab1a58b35660111a83638e521033840c250a7f8f39ebd1d6d2144400b5615c6d"
+      "hash": "sha256:9938f2f81b8d1152f28c8e862d55850bfc82e65f96fb4c71568facbc1438e72c"
     },
     {
       "date": "2026-05-13",
-      "difficulty": 3,
-      "category": "Ice Cream Flavors",
+      "difficulty": 5,
+      "category": "American Car Brands",
       "path": "days/2026-05-13.json",
-      "hash": "sha256:841c8fbe2c6915fdb2670b90e5bcaf64ab6f96cc6072813001536adb9074ebfa"
+      "hash": "sha256:c3dba39da1b54f443918087187138666f150efe88fe3234cf6af73830cf23fd2"
     },
     {
       "date": "2026-05-14",
-      "difficulty": 4,
-      "category": "NBA Teams",
+      "difficulty": 5,
+      "category": "Famous Bridges",
       "path": "days/2026-05-14.json",
-      "hash": "sha256:94a2608f432cddaceb8263317991dd8fa0403205d9c860e1a0b8aa3002b3e189"
+      "hash": "sha256:f3e2dca59c1b5cc3fb255630050f26c34a26ea9524c824bb10324abe935606df"
     },
     {
       "date": "2026-05-15",
-      "difficulty": 3,
+      "difficulty": 5,
       "category": "Jazz Pianists",
       "path": "days/2026-05-15.json",
-      "hash": "sha256:96da81f45f5c1962272e6ce75e31e6391158333822d0a57e67c73ae4e3084d55"
+      "hash": "sha256:bd176f7c44c5aee5e3071309be5605b3d54dbf812bfb62df15f2ff4b4efcc0b7"
+    },
+    {
+      "date": "2026-05-16",
+      "difficulty": 6,
+      "category": "Companies Named After Founders",
+      "path": "days/2026-05-16.json",
+      "hash": "sha256:f6a14348f7011dd42d2eba6fcf1e77a26b51ec9f8e8de872636aa01246d9f83a"
     }
   ]
 }
