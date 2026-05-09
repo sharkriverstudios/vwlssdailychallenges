@@ -1,19 +1,114 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-07",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Famous Mountains",
-    "shareClueIndex": 7,
-    "clues": [
-      { "clue": "VRST"      , "answer": "EVEREST" },
-      { "clue": "KL MN JR"  , "answer": "KILIMANJARO" },
-      { "clue": "FJ"        , "answer": "FUJI" },
-      { "clue": "DN L"      , "answer": "DENALI" },
-      { "clue": "THM T TRH RN" , "answer": "THE MATTERHORN" },
-      { "clue": "MNT LYMPS" , "answer": "MOUNT OLYMPUS" },
-      { "clue": "RNR"       , "answer": "RAINIER" },
-      { "clue": "MN TS TH LNS", "answer": "MOUNT ST HELENS" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Sourdough",
+      "Baguette",
+      "Ciabatta",
+      "Rye Bread",
+      "Pita",
+      "Focaccia",
+      "Brioche",
+      "Naan",
+      "Challah",
+      "Bagel",
+      "Pumpernickel",
+      "Flatbread",
+      "Cornbread",
+      "Multigrain Bread",
+      "Whole Wheat Bread",
+      "White Bread",
+      "Pretzel",
+      "Lavash",
+      "Roti",
+      "Croissant",
+      "English Muffin",
+      "Matzo",
+      "Tortilla",
+      "Barmbrack",
+      "Pain Au Levain",
+      "Bannock",
+      "Fry Bread",
+      "Soda Bread",
+      "Paratha",
+      "Panettone",
+      "Kaiser Roll",
+      "Zopf",
+      "Ezekiel Bread",
+      "Baguette De Tradition",
+      "Khorasan Bread",
+      "Anadama Bread",
+      "Fougasse",
+      "Pain De Campagne",
+      "Arepa",
+      "Injera",
+      "Chapati",
+      "Damper",
+      "Parker House Roll",
+      "Stollen",
+      "Crumpet",
+      "Milk Bread",
+      "Lefse",
+      "Lahmacun",
+      "Khubz",
+      "Coburg Loaf",
+      "Bao",
+      "Tsoureki",
+      "Melonpan",
+      "Segale Bread",
+      "Bublik",
+      "Piadina",
+      "Miche",
+      "Viking Bread",
+      "Bara Brith",
+      "Fougasse",
+      "Aish Merahrah"
+    ],
+    "category" : "Types of Bread",
+    "clues" : [
+      {
+        "answer" : "BAGEL",
+        "clue" : "BGL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PITA",
+        "clue" : "PT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NAAN",
+        "clue" : "NN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SOURDOUGH",
+        "clue" : "SRDGH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CROISSANT",
+        "clue" : "CRS SNT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FOCACCIA",
+        "clue" : "FC CC",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PUMPERNICKEL",
+        "clue" : "PMPRNCKL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MULTIGRAIN",
+        "clue" : "ML TG RN",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-07",
+  "schemaVersion" : 1
 }

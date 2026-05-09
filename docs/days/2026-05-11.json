@@ -1,19 +1,110 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-11",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Car Brands",
-    "shareClueIndex": 6,
-    "clues": [
-      { "clue": "TYT"       , "answer": "TOYOTA" },
-      { "clue": "FRD"       , "answer": "FORD" },
-      { "clue": "CHV RLT"   , "answer": "CHEVROLET" },
-      { "clue": "TSL"       , "answer": "TESLA" },
-      { "clue": "HND"       , "answer": "HONDA" },
-      { "clue": "NS SN"     , "answer": "NISSAN" },
-      { "clue": "VL KSW GN" , "answer": "VOLKSWAGEN" },
-      { "clue": "MR CDS BNZ", "answer": "MERCEDES BENZ" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Vanilla",
+      "Chocolate",
+      "Strawberry",
+      "Mint Chocolate Chip",
+      "Cookies And Cream",
+      "Butter Pecan",
+      "Rocky Road",
+      "Pistachio",
+      "Neapolitan",
+      "Coffee",
+      "Cookie Dough",
+      "Salted Caramel",
+      "Birthday Cake",
+      "Rum Raisin",
+      "Cherry Garcia",
+      "French Vanilla",
+      "Moose Tracks",
+      "Cotton Candy",
+      "Lemon Sorbet",
+      "Black Raspberry",
+      "Peach",
+      "Mango",
+      "Green Tea",
+      "Pralines And Cream",
+      "Raspberry Ripple",
+      "Matcha",
+      "Bubblegum",
+      "Coconut",
+      "Banana",
+      "Honeycomb",
+      "Red Velvet",
+      "Blueberry Cheesecake",
+      "Tutti Frutti",
+      "Maple Walnut",
+      "White Chocolate Raspberry",
+      "Caramel Swirl",
+      "Brownie Batter",
+      "Chocolate Chip",
+      "Toffee",
+      "Almond Fudge",
+      "Cinnamon Bun",
+      "Pineapple Coconut",
+      "Berry White",
+      "Hazelnut",
+      "Tiramisu",
+      "Amaretto",
+      "Dulce De Leche",
+      "Graham Cracker",
+      "Espresso",
+      "Pumpkin Spice",
+      "Pecan Pie",
+      "Chocolate Marshmallow",
+      "S'mores",
+      "Cappuccino",
+      "Lemon Meringue",
+      "Black Walnut",
+      "Cranberry"
+    ],
+    "category" : "Ice Cream Flavors",
+    "clues" : [
+      {
+        "answer" : "VANILLA",
+        "clue" : "VNLL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHOCOLATE",
+        "clue" : "CHCLT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PISTACHIO",
+        "clue" : "PSTCH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ROCKY ROAD",
+        "clue" : "RCKRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "STRAWBERRY",
+        "clue" : "STR WB WRR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TIRAMISU",
+        "clue" : "TRMS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "COOKIES AND CREAM",
+        "clue" : "CK SND CRM",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MINT CHOCOLATE CHIP",
+        "clue" : "MN TCHC LTC HP",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-05-11",
+  "schemaVersion" : 1
 }

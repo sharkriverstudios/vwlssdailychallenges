@@ -1,51 +1,86 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-16",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Major US Holidays",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Montreal Canadiens",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings",
+      "Boston Bruins",
+      "Chicago Blackhawks",
+      "Edmonton Oilers",
+      "New York Islanders",
+      "Pittsburgh Penguins",
+      "New York Rangers",
+      "Philadelphia Flyers",
+      "Los Angeles Kings",
+      "Colorado Avalanche",
+      "New Jersey Devils",
+      "Tampa Bay Lightning",
+      "Carolina Hurricanes",
+      "Anaheim Ducks",
+      "Washington Capitals",
+      "St. Louis Blues",
+      "Calgary Flames",
+      "Dallas Stars",
+      "Ottawa Senators",
+      "Vancouver Millionaires",
+      "Seattle Metropolitans",
+      "Toronto Arenas",
+      "Toronto St. Patricks",
+      "Victoria Cougars",
+      "Quebec Bulldogs",
+      "Montreal Maroons",
+      "Pittsburgh Pirates",
+      "New York Americans",
+      "Oakland Seals",
+      "Cleveland Barons",
+      "Winnipeg Jets"
+    ],
+    "category" : "Stanley Cup Winning Teams",
+    "clues" : [
       {
-        "clue": "NW YRS DY",
-        "answer": "NEW YEARS DAY",
-        "difficulty": 2
+        "answer" : "TORONTO MAPLE LEAFS",
+        "clue" : "TRNT MPL LFS",
+        "difficulty" : 2
       },
       {
-        "clue": "VLNTNS DY",
-        "answer": "VALENTINES DAY",
-        "difficulty": 3
+        "answer" : "BOSTON BRUINS",
+        "clue" : "BSTN BRNS",
+        "difficulty" : 3
       },
       {
-        "clue": "ST PTRCKS DY",
-        "answer": "ST PATRICKS DAY",
-        "difficulty": 4
+        "answer" : "DETROIT RED WINGS",
+        "clue" : "DTR TRD WNGS",
+        "difficulty" : 3
       },
       {
-        "clue": "STR",
-        "answer": "EASTER",
-        "difficulty": 5
+        "answer" : "CHICAGO BLACKHAWKS",
+        "clue" : "CHC GB LCK HW KS",
+        "difficulty" : 5
       },
       {
-        "clue": "MMRL DY",
-        "answer": "MEMORIAL DAY",
-        "difficulty": 5
+        "answer" : "NEW YORK ISLANDERS",
+        "clue" : "N WY RKS LNDRS",
+        "difficulty" : 6
       },
       {
-        "clue": "NDPNDNC DY",
-        "answer": "INDEPENDENCE DAY",
-        "difficulty": 6
+        "answer" : "OTTAWA SENATORS",
+        "clue" : "TTW SNTRS",
+        "difficulty" : 6
       },
       {
-        "clue": "HLLWN",
-        "answer": "HALLOWEEN",
-        "difficulty": 7
+        "answer" : "PHILADELPHIA FLYERS",
+        "clue" : "PHL DLP HFL RS",
+        "difficulty" : 6
       },
       {
-        "clue": "THNKSGVNG",
-        "answer": "THANKSGIVING",
-        "difficulty": 8
+        "answer" : "NEW JERSEY DEVILS",
+        "clue" : "N W JR SYDV LS",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-04-16",
+  "schemaVersion" : 1
 }

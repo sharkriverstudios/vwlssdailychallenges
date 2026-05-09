@@ -1,51 +1,83 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-06",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Rock Guitarists",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Atlanta",
+      "Baltimore",
+      "Buffalo",
+      "Carolina",
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Dallas",
+      "Denver",
+      "Detroit",
+      "Green Bay",
+      "Houston",
+      "Indianapolis",
+      "Jacksonville",
+      "Kansas City",
+      "Las Vegas",
+      "Los Angeles",
+      "Miami",
+      "Minnesota",
+      "New England",
+      "New Orleans",
+      "New York",
+      "Philadelphia",
+      "Pittsburgh",
+      "San Francisco",
+      "Seattle",
+      "Tampa Bay",
+      "Tennessee",
+      "Washington",
+      "Arizona"
+    ],
+    "category" : "NFL Team Cities",
+    "clues" : [
       {
-        "clue": "RC CLPTN",
-        "answer": "ERIC CLAPTON",
-        "difficulty": 1
+        "answer" : "NEW YORK",
+        "clue" : "NW YRK",
+        "difficulty" : 2
       },
       {
-        "clue": "JMH NDRX",
-        "answer": "JIMI HENDRIX",
-        "difficulty": 2
+        "answer" : "CHICAGO",
+        "clue" : "CHC G",
+        "difficulty" : 2
       },
       {
-        "clue": "J MM YPG",
-        "answer": "JIMMY PAGE",
-        "difficulty": 3
+        "answer" : "DENVER",
+        "clue" : "D NVR",
+        "difficulty" : 3
       },
       {
-        "clue": "KT HRC HRDS",
-        "answer": "KEITH RICHARDS",
-        "difficulty": 4
+        "answer" : "DALLAS",
+        "clue" : "DLLS",
+        "difficulty" : 3
       },
       {
-        "clue": "DVD GLMR",
-        "answer": "DAVID GILMOUR",
-        "difficulty": 5
+        "answer" : "SEATTLE",
+        "clue" : "STTL",
+        "difficulty" : 3
       },
       {
-        "clue": "D DVN HLN",
-        "answer": "EDDIE VAN HALEN",
-        "difficulty": 6
+        "answer" : "LOS ANGELES",
+        "clue" : "LSNG LS",
+        "difficulty" : 3
       },
       {
-        "clue": "CR LSSN TN",
-        "answer": "CARLOS SANTANA",
-        "difficulty": 7
+        "answer" : "SAN FRANCISCO",
+        "clue" : "SNFRN CSC",
+        "difficulty" : 4
       },
       {
-        "clue": "MR KKNP FLR",
-        "answer": "MARK KNOPFLER",
-        "difficulty": 8
+        "answer" : "KANSAS CITY",
+        "clue" : "KNS SCT",
+        "difficulty" : 4
       }
-    ]
-  }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-04-06",
+  "schemaVersion" : 1
 }

@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "FGN",
+      "answer" : "FAGIN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "NCY",
+      "answer" : "NANCY"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BLL SKS",
+      "answer" : "BILL SIKES"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "STLL",
+      "answer" : "ESTELLA"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "J GRGRY",
+      "answer" : "JOE GARGERY"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PP",
+      "answer" : "PIP"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "MR PCKWCK",
+      "answer" : "MR. PICKWICK"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "LDY DDLCK",
+      "answer" : "LADY DEDLOCK"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "NCHLS NCKLBY",
+      "answer" : "NICHOLAS NICKLEBY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "LC MNTT",
+      "answer" : "LUCIE MANETTE"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "THMS GRDGRND",
+      "answer" : "THOMAS GRADGRIND"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MR JGGRS",
+      "answer" : "MR. JAGGERS"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "literature",
+    "classics"
+  ]
+}

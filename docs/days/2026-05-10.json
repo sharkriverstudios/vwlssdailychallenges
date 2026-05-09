@@ -1,19 +1,123 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-10",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Famous Scientists",
-    "shareClueIndex": 7,
-    "clues": [
-      { "clue": "SC NWTN"      , "answer": "ISAAC NEWTON" },
-      { "clue": "LBR T NSTN"   , "answer": "ALBERT EINSTEIN" },
-      { "clue": "MR C R"       , "answer": "MARIE CURIE" },
-      { "clue": "GL LG LL"     , "answer": "GALILEO GALILEI" },
-      { "clue": "CHR LS DR WN" , "answer": "CHARLES DARWIN" },
-      { "clue": "N KLT SL"     , "answer": "NIKOLA TESLA" },
-      { "clue": "ST PHN HW KNG", "answer": "STEPHEN HAWKING" },
-      { "clue": "RCHRD FNMN"   , "answer": "RICHARD FEYNMAN" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Marie Curie",
+      "Galileo Galilei",
+      "Charles Darwin",
+      "Nikola Tesla",
+      "Stephen Hawking",
+      "Michael Faraday",
+      "Louis Pasteur",
+      "Niels Bohr",
+      "Richard Feynman",
+      "Gregor Mendel",
+      "Carl Sagan",
+      "James Clerk Maxwell",
+      "Alexander Fleming",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Dmitri Mendeleev",
+      "Erwin Schrodinger",
+      "Enrico Fermi",
+      "Max Planck",
+      "Jane Goodall",
+      "Linus Pauling",
+      "Johannes Kepler",
+      "Antoine Lavoisier",
+      "Alfred Wegener",
+      "Francis Crick",
+      "Watson",
+      "Archimedes",
+      "Carl Linnaeus",
+      "Emmy Noether",
+      "Robert Hooke",
+      "Henrietta Leavitt",
+      "J. Robert Oppenheimer",
+      "Werner Heisenberg",
+      "Leonardo Da Vinci",
+      "Rachel Carson",
+      "Srinivasa Ramanujan",
+      "James Watson",
+      "Paul Dirac",
+      "Rene Descartes",
+      "Pythagoras",
+      "John Dalton",
+      "Humphry Davy",
+      "Alfred Nobel",
+      "Anders Celsius",
+      "Johann Gutenberg",
+      "Richard Dawkins",
+      "Vera Rubin",
+      "Hans Bethe",
+      "Hipparchus",
+      "Tycho Brahe",
+      "Barbara McClintock",
+      "Georg Ohm",
+      "Andrej Sakharov",
+      "Blaise Pascal",
+      "Luigi Galvani",
+      "Fritz Haber",
+      "E. O. Wilson",
+      "William Harvey",
+      "Thomas Edison",
+      "Jean-Baptiste Lamarck",
+      "Christiaan Huygens",
+      "Guglielmo Marconi",
+      "Subrahmanyan Chandrasekhar",
+      "Hans Geiger",
+      "Amedeo Avogadro",
+      "Alhazen",
+      "Heinrich Hertz",
+      "Charles Lyell"
+    ],
+    "category" : "Famous Scientists",
+    "clues" : [
+      {
+        "answer" : "ISAAC NEWTON",
+        "clue" : "SC NWTN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MARIE CURIE",
+        "clue" : "MR CR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ALBERT EINSTEIN",
+        "clue" : "L BR TNS TN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "NIKOLA TESLA",
+        "clue" : "NKL TSL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "STEPHEN HAWKING",
+        "clue" : "STP HN HW KNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHARLES DARWIN",
+        "clue" : "CHR LS DR WN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CARL SAGAN",
+        "clue" : "CRLS GN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MICHAEL FARADAY",
+        "clue" : "MC HLF RDY",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-05-10",
+  "schemaVersion" : 1
 }

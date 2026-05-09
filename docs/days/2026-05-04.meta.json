@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "business",
+    "culture",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "SN FRN CSCCHRNCL",
+      "difficulty" : 6,
+      "answer" : "SAN FRANCISCO CHRONICLE"
+    },
+    {
+      "clue" : "NW YRK PST",
+      "difficulty" : 3,
+      "answer" : "NEW YORK POST"
+    },
+    {
+      "clue" : "TH PHLDLPH NQRR",
+      "difficulty" : 5,
+      "answer" : "THE PHILADELPHIA INQUIRER"
+    },
+    {
+      "clue" : "TH TLNT JRNL-CNSTTTN",
+      "difficulty" : 6,
+      "answer" : "THE ATLANTA JOURNAL-CONSTITUTION"
+    },
+    {
+      "clue" : "MM HRLD",
+      "difficulty" : 4,
+      "answer" : "MIAMI HERALD"
+    },
+    {
+      "clue" : "DTRT FR PRSS",
+      "difficulty" : 5,
+      "answer" : "DETROIT FREE PRESS"
+    },
+    {
+      "clue" : "TH DLLS MRNNG NWS",
+      "difficulty" : 5,
+      "answer" : "THE DALLAS MORNING NEWS"
+    },
+    {
+      "clue" : "TH STTL TMS",
+      "difficulty" : 4,
+      "answer" : "THE SEATTLE TIMES"
+    },
+    {
+      "clue" : "TH SCRMNT B",
+      "difficulty" : 6,
+      "answer" : "THE SACRAMENTO BEE"
+    },
+    {
+      "clue" : "TH CHRLTT BSRVR",
+      "difficulty" : 6,
+      "answer" : "THE CHARLOTTE OBSERVER"
+    },
+    {
+      "clue" : "RLND SNTNL",
+      "difficulty" : 5,
+      "answer" : "ORLANDO SENTINEL"
+    },
+    {
+      "clue" : "TH CNCNNT NQRR",
+      "difficulty" : 7,
+      "answer" : "THE CINCINNATI ENQUIRER"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

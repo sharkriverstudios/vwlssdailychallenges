@@ -1,19 +1,94 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-06",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Types of Bread",
-    "shareClueIndex": 6,
-    "clues": [
-      { "clue": "SRDGH"     , "answer": "SOURDOUGH" },
-      { "clue": "PT"        , "answer": "PITA" },
-      { "clue": "NN"        , "answer": "NAAN" },
-      { "clue": "CBTT"      , "answer": "CIABATTA" },
-      { "clue": "BRCH"      , "answer": "BRIOCHE" },
-      { "clue": "PM PRNC KL", "answer": "PUMPERNICKEL" },
-      { "clue": "B GTT"     , "answer": "BAGUETTE" },
-      { "clue": "FCC C"     , "answer": "FOCACCIA" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Margherita",
+      "Pepperoni",
+      "Hawaiian",
+      "BBQ Chicken",
+      "Veggie",
+      "Meat Lovers",
+      "Supreme",
+      "Four Cheese",
+      "Buffalo Chicken",
+      "Mushroom",
+      "Sausage",
+      "Spinach And Feta",
+      "White Pizza",
+      "Pesto",
+      "Taco",
+      "Bacon",
+      "Chicken Alfredo",
+      "Cheeseburger",
+      "Philly Cheesesteak",
+      "Carbonara",
+      "Caprese",
+      "Mediterranean",
+      "Greek",
+      "Artichoke",
+      "Prosciutto",
+      "Diavola",
+      "Quattro Stagioni",
+      "Seafood",
+      "Neapolitan",
+      "Sicilian",
+      "Detroit Style",
+      "Chicago Deep Dish",
+      "New York Style",
+      "Calzone",
+      "Stuffed Crust",
+      "Garlic",
+      "Zucchini",
+      "Anchovy",
+      "Italian Sausage",
+      "Broccoli",
+      "Eggplant"
+    ],
+    "category" : "Types of Pizza",
+    "clues" : [
+      {
+        "answer" : "PEPPERONI",
+        "clue" : "PPPRN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HAWAIIAN",
+        "clue" : "HWN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARGHERITA",
+        "clue" : "MRGHRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BARBECUE CHICKEN",
+        "clue" : "BRBC CHCKN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SUPREME",
+        "clue" : "SPRM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VEGGIE",
+        "clue" : "VGG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHICAGO DEEP DISH",
+        "clue" : "CHC GD PD SH",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "FOUR CHEESE",
+        "clue" : "F RCH S",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 4
+  },
+  "date" : "2026-05-06",
+  "schemaVersion" : 1
 }

@@ -1,0 +1,78 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "CRLN",
+      "difficulty" : 5,
+      "answer" : "CORIOLANUS"
+    },
+    {
+      "clue" : "TRL ND CRSSD",
+      "difficulty" : 6,
+      "answer" : "TROILUS AND CRESSIDA"
+    },
+    {
+      "clue" : "CYMBLN",
+      "difficulty" : 5,
+      "answer" : "CYMBELINE"
+    },
+    {
+      "clue" : "PRCLS PRNC F TYR",
+      "difficulty" : 7,
+      "answer" : "PERICLES, PRINCE OF TYRE"
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "clue" : "JLS CSR",
+      "difficulty" : 4,
+      "answer" : "JULIUS CAESAR"
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "theater",
+    "literature",
+    "classics"
+  ],
+  "description" : "Plays written by Shakespeare that can't be considered a comedy or a history"
+}

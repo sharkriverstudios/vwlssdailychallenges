@@ -1,51 +1,109 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-04",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Broadway Musicals",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Zeus",
+      "Hera",
+      "Poseidon",
+      "Demeter",
+      "Athena",
+      "Apollo",
+      "Artemis",
+      "Ares",
+      "Aphrodite",
+      "Hephaestus",
+      "Hermes",
+      "Hestia",
+      "Dionysus",
+      "Hades",
+      "Persephone",
+      "Eros",
+      "Nike",
+      "Hebe",
+      "Iris",
+      "Selene",
+      "Helios",
+      "Gaia",
+      "Uranus",
+      "Chronos",
+      "Rhea",
+      "Leto",
+      "Nemesis",
+      "Nyx",
+      "Thanatos",
+      "Hypnos",
+      "Morpheus",
+      "Tyche",
+      "Asclepius",
+      "Pan",
+      "Eos",
+      "Hecate",
+      "Eris",
+      "Phobos",
+      "Deimos",
+      "Boreas",
+      "Zephyrus",
+      "Notus",
+      "Eurus",
+      "Themis",
+      "Mnemosyne",
+      "Oceanus",
+      "Tethys",
+      "Prometheus",
+      "Atlas",
+      "Metis",
+      "Eileithyia",
+      "Charon",
+      "Cerberus",
+      "Hecatoncheires",
+      "Ceto",
+      "Crius"
+    ],
+    "category" : "Greek Gods",
+    "clues" : [
       {
-        "clue": "CTS",
-        "answer": "CATS",
-        "difficulty": 1
+        "answer" : "ZEUS",
+        "clue" : "ZS",
+        "difficulty" : 1
       },
       {
-        "clue": "RNT",
-        "answer": "RENT",
-        "difficulty": 2
+        "answer" : "HERA",
+        "clue" : "HR",
+        "difficulty" : 3
       },
       {
-        "clue": "W CKD",
-        "answer": "WICKED",
-        "difficulty": 3
+        "answer" : "ATHENA",
+        "clue" : "THN",
+        "difficulty" : 3
       },
       {
-        "clue": "CHCG",
-        "answer": "CHICAGO",
-        "difficulty": 4
+        "answer" : "POSEIDON",
+        "clue" : "PSDN",
+        "difficulty" : 4
       },
       {
-        "clue": "THL NK NG",
-        "answer": "THE LION KING",
-        "difficulty": 5
+        "answer" : "HADES",
+        "clue" : "HDS",
+        "difficulty" : 4
       },
       {
-        "clue": "HM LT N",
-        "answer": "HAMILTON",
-        "difficulty": 6
+        "answer" : "APOLLO",
+        "clue" : "PLL",
+        "difficulty" : 4
       },
       {
-        "clue": "LSM SRB LS",
-        "answer": "LES MISERABLES",
-        "difficulty": 7
+        "answer" : "APHRODITE",
+        "clue" : "PHRDT",
+        "difficulty" : 5
       },
       {
-        "clue": "THPH NTM FTH PR",
-        "answer": "THE PHANTOM OF THE OPERA",
-        "difficulty": 8
+        "answer" : "HEPHAESTUS",
+        "clue" : "HPHSTS",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-04-04",
+  "schemaVersion" : 1
 }

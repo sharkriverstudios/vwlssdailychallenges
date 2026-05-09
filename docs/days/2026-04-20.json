@@ -1,51 +1,65 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-20",
-  "challenge": {
-    "difficulty": 2,
-    "category": "On the US Dollar Bill",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "category" : "Months of the Year",
+    "clues" : [
       {
-        "clue": "GRG WSHNGTN",
-        "answer": "GEORGE WASHINGTON",
-        "difficulty": 1
+        "answer" : "MAY",
+        "clue" : "MY",
+        "difficulty" : 1
       },
       {
-        "clue": "GRN NK",
-        "answer": "GREEN INK",
-        "difficulty": 1
+        "answer" : "JUNE",
+        "clue" : "JN",
+        "difficulty" : 2
       },
       {
-        "clue": "SRL NMBR",
-        "answer": "SERIAL NUMBER",
-        "difficulty": 2
+        "answer" : "JULY",
+        "clue" : "JL",
+        "difficulty" : 2
       },
       {
-        "clue": "FDRL RSRV SL",
-        "answer": "FEDERAL RESERVE SEAL",
-        "difficulty": 2
+        "answer" : "AUGUST",
+        "clue" : "GST",
+        "difficulty" : 3
       },
       {
-        "clue": "TRSRY SL",
-        "answer": "TREASURY SEAL",
-        "difficulty": 3
+        "answer" : "MARCH",
+        "clue" : "MRCH",
+        "difficulty" : 3
       },
       {
-        "clue": "PRTRT",
-        "answer": "PORTRAIT",
-        "difficulty": 4
+        "answer" : "DECEMBER",
+        "clue" : "DCMBR",
+        "difficulty" : 3
       },
       {
-        "clue": "WTRMRK",
-        "answer": "WATERMARK",
-        "difficulty": 5
+        "answer" : "APRIL",
+        "clue" : "PRL",
+        "difficulty" : 3
       },
       {
-        "clue": "SCRTY THRD",
-        "answer": "SECURITY THREAD",
-        "difficulty": 6
+        "answer" : "OCTOBER",
+        "clue" : "CTBR",
+        "difficulty" : 3
       }
-    ]
-  }
+    ],
+    "difficulty" : 1,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-20",
+  "schemaVersion" : 1
 }

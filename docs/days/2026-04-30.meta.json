@@ -1,0 +1,91 @@
+{
+  "description" : "Kinds of coffee, either that you order at the cafe or make at home",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "clue" : "RSTRTT",
+      "answer" : "RISTRETTO"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CRTD",
+      "answer" : "CORTADO"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "FFGT",
+      "answer" : "AFFOGATO"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "FLT WHT",
+      "answer" : "FLAT WHITE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "RD Y",
+      "answer" : "RED EYE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "BLCK Y",
+      "answer" : "BLACK EYE"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "RSH CFF",
+      "answer" : "IRISH COFFEE"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "VNNNS CFF",
+      "answer" : "VIENNESE COFFEE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CLD BRW",
+      "answer" : "COLD BREW"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "NTR CLD BRW",
+      "answer" : "NITRO COLD BREW"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "CD CFF",
+      "answer" : "ICED COFFEE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CD LTT",
+      "answer" : "ICED LATTE"
+    }
+  ],
+  "tags" : [
+    "culinary",
+    "culture"
+  ]
+}

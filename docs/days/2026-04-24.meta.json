@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "culinary"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "BROCCOLI CHEDDAR",
+      "clue" : "BRCCL CHDDR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "LENTIL",
+      "clue" : "LNTL",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SPLIT PEA",
+      "clue" : "SPLT P",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "EGG DROP",
+      "clue" : "GG DRP",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CLAM CHOWDER",
+      "clue" : "CLM CHWDR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "VEGETABLE",
+      "clue" : "VGTBL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CORN CHOWDER",
+      "clue" : "CRN CHWDR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ITALIAN WEDDING",
+      "clue" : "TLN WDDNG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "POTATO LEEK",
+      "clue" : "PTT LK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HOT AND SOUR",
+      "clue" : "HT ND SR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "WONTON",
+      "clue" : "WNTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LOBSTER BISQUE",
+      "clue" : "LBSTR BSQ",
+      "difficulty" : 7
+    }
+  ],
+  "description" : "Popular soup varieties and recipes",
+  "notes" : "include only a few non-american soups"
+}

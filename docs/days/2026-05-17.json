@@ -60,16 +60,11 @@
       {
         "answer" : "FORD",
         "clue" : "FRD",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "DISNEY",
-        "clue" : "DSN",
         "difficulty" : 2
       },
       {
-        "answer" : "BOEING",
-        "clue" : "BNG",
+        "answer" : "DISNEY",
+        "clue" : "DSNY",
         "difficulty" : 3
       },
       {
@@ -79,26 +74,31 @@
       },
       {
         "answer" : "CHANEL",
-        "clue" : "CHNL",
+        "clue" : "C HNL",
         "difficulty" : 5
       },
       {
-        "answer" : "FERRARI",
-        "clue" : "FRRR",
+        "answer" : "LEVI STRAUSS",
+        "clue" : "LVS TRSS",
         "difficulty" : 6
       },
       {
-        "answer" : "ROLLS-ROYCE",
-        "clue" : "RLLSRC",
+        "answer" : "BOEING",
+        "clue" : "BNG",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MICHELIN",
+        "clue" : "M CH LN",
         "difficulty" : 7
       },
       {
-        "answer" : "HEINEKEN",
-        "clue" : "HNKN",
+        "answer" : "ROLLS-ROYCE",
+        "clue" : "RLLSRYC",
         "difficulty" : 8
       }
     ],
-    "difficulty" : 5,
+    "difficulty" : 6,
     "shareClueIndex" : 0
   },
   "date" : "2026-05-17",

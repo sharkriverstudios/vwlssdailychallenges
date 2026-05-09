@@ -1,19 +1,83 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-01",
-  "challenge": {
-    "difficulty": 5,
-    "category": "007",
-    "shareClueIndex": 3,
-    "clues": [
-      { "clue": "JM S BND"        , "answer": "JAMES BOND" },
-      { "clue": "JWS"             , "answer": "JAWS" },
-      { "clue": "MS SMN PNNY"     , "answer": "MISS MONEYPENNY" },
-      { "clue": "DD JB"           , "answer": "ODDJOB" },
-      { "clue": "FLX LTR"         , "answer": "FELIX LEITER" },
-      { "clue": "RN STST VRB LFLD", "answer": "ERNST STAVRO BLOFELD" },
-      { "clue": "M"               , "answer": "M" },
-      { "clue": "Q"               , "answer": "Q" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Atlanta Braves",
+      "Chicago Cubs",
+      "Cincinnati Reds",
+      "Philadelphia Phillies",
+      "Pittsburgh Pirates",
+      "St. Louis Cardinals",
+      "San Francisco Giants",
+      "Los Angeles Dodgers",
+      "New York Yankees",
+      "Boston Red Sox",
+      "Cleveland Guardians",
+      "Detroit Tigers",
+      "Chicago White Sox",
+      "Minnesota Twins",
+      "Baltimore Orioles",
+      "Oakland Athletics",
+      "Milwaukee Brewers",
+      "Houston Astros",
+      "San Diego Padres",
+      "Seattle Mariners",
+      "Texas Rangers",
+      "Toronto Blue Jays",
+      "Miami Marlins",
+      "Arizona Diamondbacks",
+      "Colorado Rockies",
+      "Kansas City Royals",
+      "Washington Nationals",
+      "Tampa Bay Rays",
+      "New York Mets",
+      "Los Angeles Angels"
+    ],
+    "category" : "Oldest Surviving Baseball Teams",
+    "clues" : [
+      {
+        "answer" : "NEW YORK YANKEES",
+        "clue" : "NW YRK YNKS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHICAGO CUBS",
+        "clue" : "CHCG CBS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PITTSBURGH PIRATES",
+        "clue" : "PTTSBRGH PRTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SAN FRANCISCO GIANTS",
+        "clue" : "SN FRNCSC GNTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ST LOUIS CARDINALS",
+        "clue" : "STL SCR DNLS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ATLANTA BRAVES",
+        "clue" : "TLNT BRVS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CINCINNATI REDS",
+        "clue" : "CN CNN T RDS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PHILADELPHIA PHILLIES",
+        "clue" : "PHLD LPHPH LLS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-05-01",
+  "schemaVersion" : 1
 }

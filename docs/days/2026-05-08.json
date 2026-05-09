@@ -1,19 +1,118 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-08",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Streaming Services",
-    "shareClueIndex": 5,
-    "clues": [
-      { "clue": "NTFLX"     , "answer": "NETFLIX" },
-      { "clue": "H L"       , "answer": "HULU" },
-      { "clue": "DS NPLS"   , "answer": "DISNEY PLUS" },
-      { "clue": "PR MVD"    , "answer": "PRIME VIDEO" },
-      { "clue": "HB MX"     , "answer": "HBO MAX" },
-      { "clue": "PCCK"       , "answer": "PEACOCK" },
-      { "clue": "PRM NT PLS", "answer": "PARAMOUNT PLUS" },
-      { "clue": "PPL TV"    , "answer": "APPLE TV" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "American Airlines",
+      "Delta Air Lines",
+      "United Airlines",
+      "Southwest Airlines",
+      "Ryanair",
+      "Lufthansa",
+      "Emirates",
+      "Air France",
+      "British Airways",
+      "Qatar Airways",
+      "China Southern Airlines",
+      "Turkish Airlines",
+      "Singapore Airlines",
+      "Cathay Pacific Airways",
+      "Qantas",
+      "KLM Royal Dutch Airlines",
+      "Ethiopian Airlines",
+      "Air Canada",
+      "Japan Airlines",
+      "All Nippon Airways",
+      "Korean Air",
+      "Asiana Airlines",
+      "Alaska Airlines",
+      "JetBlue Airways",
+      "Spirit Airlines",
+      "Aeroflot",
+      "Aer Lingus",
+      "Swiss International Air Lines",
+      "Austrian Airlines",
+      "Iberia",
+      "Finnair",
+      "Hainan Airlines",
+      "Aeromexico",
+      "LATAM Airlines",
+      "Vueling Airlines",
+      "Norwegian Air Shuttle",
+      "Air India",
+      "Saudi Arabian Airlines",
+      "El Al Israel Airlines",
+      "Malaysia Airlines",
+      "Thai Airways",
+      "Garuda Indonesia",
+      "Philippine Airlines",
+      "Vietnam Airlines",
+      "Air New Zealand",
+      "Virgin Atlantic",
+      "EasyJet",
+      "Jetstar Airways",
+      "GOL Linhas Aereas",
+      "Copa Airlines",
+      "SAS Scandinavian Airlines",
+      "Scandinavian Airlines",
+      "AirAsia",
+      "Azul Brazilian Airlines",
+      "IndiGo",
+      "WestJet",
+      "Aegean Airlines",
+      "EgyptAir",
+      "TAP Air Portugal",
+      "Royal Air Maroc",
+      "Bangkok Airways",
+      "Brussels Airlines",
+      "Vietnam Airlines",
+      "Air Malta",
+      "Air Mauritius"
+    ],
+    "category" : "Major Airlines",
+    "clues" : [
+      {
+        "answer" : "AMERICAN AIRLINES",
+        "clue" : "MRCN RLNS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DELTA AIR LINES",
+        "clue" : "DL TR LNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "UNITED AIRLINES",
+        "clue" : "NTD RLNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LUFTHANSA",
+        "clue" : "LFTHNS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VIRGIN ATLANTIC",
+        "clue" : "VRGN TLNTC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BRITISH AIRWAYS",
+        "clue" : "BRTS HRW YS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "AIR FRANCE",
+        "clue" : "RF RNC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "EMIRATES",
+        "clue" : "MRTS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-08",
+  "schemaVersion" : 1
 }

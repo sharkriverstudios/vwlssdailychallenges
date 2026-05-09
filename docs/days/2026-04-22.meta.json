@@ -1,0 +1,93 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "clue" : "R RW S",
+      "answer" : "ARROWS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FDRL RSRV NT",
+      "answer" : "FEDERAL RESERVE NOTE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PRMD",
+      "answer" : "PYRAMID"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "TH GRT SL",
+      "answer" : "THE GREAT SEAL"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "LV BRNCH",
+      "answer" : "OLIVE BRANCH"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "Y F PRVDNC",
+      "answer" : "EYE OF PROVIDENCE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "NNNT CPTS",
+      "answer" : "ANNUNIT COEPTIS"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "NVS RD SCLRM",
+      "answer" : "NOVUS ORDO SECLORUM"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "LGL TNDR",
+      "answer" : "LEGAL TENDER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "THRTN CLNS",
+      "answer" : "THIRTEEN COLONIES"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NTD STTS NT",
+      "answer" : "UNITED STATES NOTE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FDRL RSRV DSTRCT",
+      "answer" : "FEDERAL RESERVE DISTRICT"
+    }
+  ],
+  "tags" : [
+    "common knowledge",
+    "history",
+    "culture",
+    "business"
+  ],
+  "notes" : "only things on the 1 dollar bill, focus on front and back design, include a few more obscure items",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

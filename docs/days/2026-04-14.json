@@ -1,43 +1,91 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-14",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Famous Philosophers",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Hurricane",
+      "Tornado",
+      "Blizzard",
+      "Thunderstorm",
+      "Hailstorm",
+      "Flood",
+      "Heatwave",
+      "Drought",
+      "Cyclone",
+      "Typhoon",
+      "Ice Storm",
+      "Sandstorm",
+      "Snowstorm",
+      "Dust Storm",
+      "Windstorm",
+      "Lightning Storm",
+      "Cold Snap",
+      "Polar Vortex",
+      "Sleet Storm",
+      "Flash Flood",
+      "Tropical Storm",
+      "Storm Surge",
+      "Derecho",
+      "Microburst",
+      "Waterspout",
+      "Nor'easter",
+      "Gale",
+      "Monsoon",
+      "Firestorm",
+      "Downburst",
+      "Squall Line",
+      "Bomb Cyclone",
+      "Lake Effect Snow",
+      "Heat Dome",
+      "Cold Wave",
+      "Ice Jam",
+      "Atmospheric River",
+      "Wildfire"
+    ],
+    "category" : "Extreme Weather",
+    "clues" : [
       {
-        "clue": "PLT",
-        "answer": "PLATO"
+        "answer" : "TORNADO",
+        "clue" : "TRND",
+        "difficulty" : 2
       },
       {
-        "clue": "RST TL",
-        "answer": "ARISTOTLE"
+        "answer" : "HURRICANE",
+        "clue" : "HRRCN",
+        "difficulty" : 3
       },
       {
-        "clue": "SRN KRK GRD",
-        "answer": "SOREN KIERKEGAARD"
+        "answer" : "BLIZZARD",
+        "clue" : "BLZZRD",
+        "difficulty" : 3
       },
       {
-        "clue": "FRD RCH NT Z SCH",
-        "answer": "FRIEDRICH NIETZSCHE"
+        "answer" : "CYCLONE",
+        "clue" : "CCLN",
+        "difficulty" : 3
       },
       {
-        "clue": "JHN LCK",
-        "answer": "JOHN LOCKE"
+        "answer" : "TYPHOON",
+        "clue" : "T PHN",
+        "difficulty" : 3
       },
       {
-        "clue": "DVD HM",
-        "answer": "DAVID HUME"
+        "answer" : "FLASH FLOOD",
+        "clue" : "FLSH FLD",
+        "difficulty" : 4
       },
       {
-        "clue": "RN DSCRTS",
-        "answer": "RENE DESCARTES"
+        "answer" : "DROUGHT",
+        "clue" : "DR GHT",
+        "difficulty" : 4
       },
       {
-        "clue": "SMN D BVR",
-        "answer": "SIMONE DE BEAUVOIR"
+        "answer" : "THUNDERSTORM",
+        "clue" : "THN DRST RM",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-14",
+  "schemaVersion" : 1
 }

@@ -1,0 +1,92 @@
+{
+  "description" : "Weather Events that make you stay inside, or maybe even evacuate",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "science",
+    "nature",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "clue" : "C STRM",
+      "answer" : "ICE STORM"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "SNDSTRM",
+      "answer" : "SANDSTORM"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "SNWSTRM",
+      "answer" : "SNOWSTORM"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "HLSTRM",
+      "answer" : "HAILSTORM"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "WNDSTRM",
+      "answer" : "WINDSTORM"
+    },
+    {
+      "difficulty" : 2,
+      "clue" : "FLD",
+      "answer" : "FLOOD"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PLR VRTX",
+      "answer" : "POLAR VORTEX"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "MNSN",
+      "answer" : "MONSOON"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "WLDFR",
+      "answer" : "WILDFIRE"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "TMSPHR C RVR",
+      "answer" : "ATMOSPHERIC RIVER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "DRCH",
+      "answer" : "DERECHO"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "SQLL LN",
+      "answer" : "SQUALL LINE"
+    }
+  ]
+}

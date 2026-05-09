@@ -1,43 +1,104 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-24",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Types of Soup",
-    "shareClueIndex": 5,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Chicken Noodle",
+      "Tomato",
+      "Minestrone",
+      "Clam Chowder",
+      "French Onion",
+      "Broccoli Cheddar",
+      "Lentil",
+      "Split Pea",
+      "Miso",
+      "Beef Barley",
+      "Italian Wedding",
+      "Potato Leek",
+      "Egg Drop",
+      "Gazpacho",
+      "Vegetable",
+      "Butternut Squash",
+      "Corn Chowder",
+      "Mulligatawny",
+      "Pumpkin",
+      "Zuppa Toscana",
+      "Hot And Sour",
+      "Chicken Tortilla",
+      "Pho",
+      "Ramen",
+      "Borscht",
+      "Avgolemono",
+      "Tom Yum",
+      "Gumbo",
+      "Manhattan Clam Chowder",
+      "Cream Of Mushroom",
+      "Wonton",
+      "Lobster Bisque",
+      "New England Clam Chowder",
+      "Mulligatawny",
+      "Cabbage",
+      "Caldo Verde",
+      "Matzah Ball",
+      "Chicken And Rice",
+      "Cream Of Chicken",
+      "Fish Soup",
+      "Turkey Noodle",
+      "Oxtail",
+      "Peanut",
+      "Tortellini",
+      "Chicken And Dumplings",
+      "Bouillabaisse",
+      "Sinigang",
+      "Fasolada",
+      "Pasta E Fagioli",
+      "Sancocho",
+      "Soto"
+    ],
+    "category" : "Types of Soup",
+    "clues" : [
       {
-        "clue": "TM T SP",
-        "answer": "TOMATO SOUP"
+        "answer" : "TOMATO",
+        "clue" : "TMT",
+        "difficulty" : 2
       },
       {
-        "clue": "CHC KNN DL",
-        "answer": "CHICKEN NOODLE"
+        "answer" : "CHICKEN NOODLE",
+        "clue" : "CHCKN NDL",
+        "difficulty" : 3
       },
       {
-        "clue": "MS",
-        "answer": "MISO"
+        "answer" : "MISO",
+        "clue" : "MS",
+        "difficulty" : 4
       },
       {
-        "clue": "MNSTRN",
-        "answer": "MINESTRONE"
+        "answer" : "MINESTRONE",
+        "clue" : "MNSTRN",
+        "difficulty" : 5
       },
       {
-        "clue": "PH",
-        "answer": "PHO"
+        "answer" : "FRENCH ONION",
+        "clue" : "FRN CHNN",
+        "difficulty" : 5
       },
       {
-        "clue": "FRNC HN N",
-        "answer": "FRENCH ONION"
+        "answer" : "GAZPACHO",
+        "clue" : "GZPCH",
+        "difficulty" : 6
       },
       {
-        "clue": "VGTBL BF",
-        "answer": "VEGETABLE BEEF"
+        "answer" : "BUTTERNUT SQUASH",
+        "clue" : "BTT RNTS QSH",
+        "difficulty" : 7
       },
       {
-        "clue": "CL MCH WDR",
-        "answer": "CLAM CHOWDER"
+        "answer" : "BOUILLABAISSE",
+        "clue" : "BLLBSS",
+        "difficulty" : 8
       }
-    ]
-  }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-04-24",
+  "schemaVersion" : 1
 }

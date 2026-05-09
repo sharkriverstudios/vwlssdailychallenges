@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "LEOPARD SEAL",
+      "clue" : "LP RDS L",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BELUGA WHALE",
+      "clue" : "BLG WHL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "VAQUITA",
+      "clue" : "VQT",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "SPERM WHALE",
+      "clue" : "SPRM WHL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GRAY WHALE",
+      "clue" : "GRY WHL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PILOT WHALE",
+      "clue" : "PLT WHL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FIN WHALE",
+      "clue" : "FN WHL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HARBOR PORPOISE",
+      "clue" : "HRBR PRPS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "WEDDELL SEAL",
+      "clue" : "WDDLL SL",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "RISSO'S DOLPHIN",
+      "clue" : "RSS'S DLPHN",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "CRABEATER SEAL",
+      "clue" : "CRBTR SL",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "HAWAIIAN MONK SEAL",
+      "clue" : "HWNN MNK SL",
+      "difficulty" : 10
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "nature",
+    "science"
+  ],
+  "description" : "mammals that spend the majority of their time in the water, either fresh water or saltwater",
+  "notes" : "can be singular or plural"
+}

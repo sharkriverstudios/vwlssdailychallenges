@@ -1,43 +1,114 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-25",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Famous Museums",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Louvre Museum",
+      "Metropolitan Museum Of Art",
+      "Rijksmuseum",
+      "Tate Modern",
+      "Uffizi Gallery",
+      "Prado Museum",
+      "Hermitage Museum",
+      "Musee D'Orsay",
+      "National Gallery",
+      "Vatican Museums",
+      "Guggenheim Museum",
+      "Museum Of Modern Art",
+      "Art Institute Of Chicago",
+      "British Museum",
+      "Centre Pompidou",
+      "Getty Center",
+      "National Gallery Of Art",
+      "Museum Of Fine Arts Boston",
+      "Kunsthistorisches Museum",
+      "Van Gogh Museum",
+      "Whitney Museum Of American Art",
+      "Sao Paulo Museum Of Art",
+      "Museo Nacional Centro De Arte Reina Sofia",
+      "Philadelphia Museum Of Art",
+      "Peggy Guggenheim Collection",
+      "Smithsonian American Art Museum",
+      "Neue Pinakothek",
+      "National Museum Of Modern Art Tokyo",
+      "Museo Nacional De Bellas Artes",
+      "Stedelijk Museum",
+      "Museo Soumaya",
+      "Museum Of Contemporary Art Los Angeles",
+      "Pushkin State Museum Of Fine Arts",
+      "National Museum Of Western Art",
+      "National Museum Of Korea",
+      "Israel Museum",
+      "Victoria And Albert Museum",
+      "Museo Tamayo",
+      "Brooklyn Museum",
+      "Montreal Museum Of Fine Arts",
+      "National Portrait Gallery",
+      "Royal Ontario Museum",
+      "Kimbell Art Museum",
+      "Denver Art Museum",
+      "Minneapolis Institute Of Art",
+      "Detroit Institute Of Arts",
+      "Cleveland Museum Of Art",
+      "National Gallery Of Victoria",
+      "De Young Museum",
+      "Asian Art Museum San Francisco",
+      "Dallas Museum Of Art",
+      "High Museum Of Art",
+      "Seattle Art Museum",
+      "Nelson Atkins Museum Of Art",
+      "Rubin Museum Of Art",
+      "Chrysler Museum Of Art",
+      "Crystal Bridges Museum Of American Art",
+      "Baltimore Museum Of Art",
+      "Indianapolis Museum Of Art",
+      "Phoenix Art Museum",
+      "Cincinnati Art Museum"
+    ],
+    "category" : "Art Museums",
+    "clues" : [
       {
-        "clue": "THLVR",
-        "answer": "THE LOUVRE"
+        "answer" : "THE LOUVRE",
+        "clue" : "THLVR",
+        "difficulty" : 3
       },
       {
-        "clue": "T HM T",
-        "answer": "THE MET"
+        "answer" : "TATE MODERN",
+        "clue" : "TT MDRN",
+        "difficulty" : 5
       },
       {
-        "clue": "GG GN HM",
-        "answer": "GUGGENHEIM"
+        "answer" : "MUSEUM OF MODERN ART",
+        "clue" : "MSM F MDRN RT",
+        "difficulty" : 5
       },
       {
-        "clue": "THH RM TG",
-        "answer": "THE HERMITAGE"
+        "answer" : "THE PRADO",
+        "clue" : "THP RD",
+        "difficulty" : 5
       },
       {
-        "clue": "THPRD",
-        "answer": "THE PRADO"
+        "answer" : "THE HERMITAGE",
+        "clue" : "THHRMTG",
+        "difficulty" : 6
       },
       {
-        "clue": "SMTHSNN",
-        "answer": "SMITHSONIAN"
+        "answer" : "GUGGENHEIM MUSEUM",
+        "clue" : "GGGNHM MSM",
+        "difficulty" : 6
       },
       {
-        "clue": "GT TYM SM",
-        "answer": "GETTY MUSEUM"
+        "answer" : "METROPOLITAN MUSEUM OF ART",
+        "clue" : "MTRPLTN MSM F RT",
+        "difficulty" : 7
       },
       {
-        "clue": "RS MSM",
-        "answer": "ORSAY MUSEUM"
+        "answer" : "UFFIZI GALLERY",
+        "clue" : "FFZ GLLR",
+        "difficulty" : 8
       }
-    ]
-  }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-25",
+  "schemaVersion" : 1
 }

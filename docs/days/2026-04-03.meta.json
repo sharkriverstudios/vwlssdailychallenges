@@ -1,0 +1,92 @@
+{
+  "description" : "Popular broadway musicals that were first shown after the year 2000",
+  "tags" : [
+    "theater",
+    "popular culture",
+    "music"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "WTRSS",
+      "answer" : "WAITRESS",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "HDSTWN",
+      "answer" : "HADESTOWN",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "DR VN HNSN",
+      "answer" : "DEAR EVAN HANSEN",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "JRSY BYS",
+      "answer" : "JERSEY BOYS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "NC",
+      "answer" : "ONCE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "TH BNDS VST",
+      "answer" : "THE BAND'S VISIT",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TH DDMS FMLY",
+      "answer" : "THE ADDAMS FAMILY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NXT T NRML",
+      "answer" : "NEXT TO NORMAL",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TH PRM",
+      "answer" : "THE PROM",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NSTS",
+      "answer" : "ANASTASIA",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "BTLJC",
+      "answer" : "BEETLEJUICE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SCHL F RCK",
+      "answer" : "SCHOOL OF ROCK",
+      "difficulty" : 5
+    }
+  ]
+}

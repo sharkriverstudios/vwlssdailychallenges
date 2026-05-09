@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "BRCH",
+      "difficulty" : 5,
+      "answer" : "BRIOCHE"
+    },
+    {
+      "clue" : "CHLLH",
+      "difficulty" : 5,
+      "answer" : "CHALLAH"
+    },
+    {
+      "clue" : "BGTT",
+      "difficulty" : 5,
+      "answer" : "BAGUETTE"
+    },
+    {
+      "clue" : "TRTLL",
+      "difficulty" : 5,
+      "answer" : "TORTILLA"
+    },
+    {
+      "clue" : "CBTT",
+      "difficulty" : 5,
+      "answer" : "CIABATTA"
+    },
+    {
+      "clue" : "RY BRD",
+      "difficulty" : 4,
+      "answer" : "RYE BREAD"
+    },
+    {
+      "clue" : "NGLSH MFFN",
+      "difficulty" : 5,
+      "answer" : "ENGLISH MUFFIN"
+    },
+    {
+      "clue" : "PRTZL",
+      "difficulty" : 3,
+      "answer" : "PRETZEL"
+    },
+    {
+      "clue" : "WHL WHT BRD",
+      "difficulty" : 6,
+      "answer" : "WHOLE WHEAT BREAD"
+    },
+    {
+      "clue" : "NDM BRD",
+      "difficulty" : 7,
+      "answer" : "ANADAMA BREAD"
+    },
+    {
+      "clue" : "PN D CMPGN",
+      "difficulty" : 8,
+      "answer" : "PAIN DE CAMPAGNE"
+    },
+    {
+      "clue" : "BRM BRCK",
+      "difficulty" : 9,
+      "answer" : "BARM BRACK"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

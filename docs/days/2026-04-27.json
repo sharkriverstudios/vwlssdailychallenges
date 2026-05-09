@@ -1,43 +1,107 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-27",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Types of Cheese",
-    "shareClueIndex": 5,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Cheddar",
+      "Mozzarella",
+      "Brie",
+      "Gouda",
+      "Parmesan",
+      "Feta",
+      "Swiss",
+      "Blue Cheese",
+      "Camembert",
+      "Provolone",
+      "Monterey Jack",
+      "Colby",
+      "Roquefort",
+      "Gruyere",
+      "Havarti",
+      "Ricotta",
+      "Mascarpone",
+      "Fontina",
+      "Emmental",
+      "Edam",
+      "Pecorino",
+      "Halloumi",
+      "Queso Blanco",
+      "Asiago",
+      "Paneer",
+      "Cotija",
+      "Cheshire",
+      "Stilton",
+      "Wensleydale",
+      "Manchego",
+      "Burrata",
+      "Taleggio",
+      "Muenster",
+      "Limburger",
+      "Neufchatel",
+      "Red Leicester",
+      "Double Gloucester",
+      "Cottage Cheese",
+      "Ricotta Salata",
+      "Reblochon",
+      "Jarlsberg",
+      "Aged Havarti",
+      "Caciocavallo",
+      "Caerphilly",
+      "Chevre",
+      "Queso Fresco",
+      "Cantal",
+      "Beaufort",
+      "Raclette",
+      "Boursin",
+      "Fromage Frais",
+      "Brillat-Savarin",
+      "Pont L'Eveque",
+      "Vacherin"
+    ],
+    "category" : "Types of Cheese",
+    "clues" : [
       {
-        "clue": "CHDDR",
-        "answer": "CHEDDAR"
+        "answer" : "CHEDDAR",
+        "clue" : "CHDDR",
+        "difficulty" : 1
       },
       {
-        "clue": "BR",
-        "answer": "BRIE"
+        "answer" : "SWISS",
+        "clue" : "SWSS",
+        "difficulty" : 1
       },
       {
-        "clue": "FT",
-        "answer": "FETA"
+        "answer" : "MOZZARELLA",
+        "clue" : "MZZRLL",
+        "difficulty" : 1
       },
       {
-        "clue": "GD",
-        "answer": "GOUDA"
+        "answer" : "BRIE",
+        "clue" : "BR",
+        "difficulty" : 2
       },
       {
-        "clue": "S WSS",
-        "answer": "SWISS"
+        "answer" : "FETA",
+        "clue" : "FT",
+        "difficulty" : 2
       },
       {
-        "clue": "M ZZ RLL",
-        "answer": "MOZZARELLA"
+        "answer" : "GOUDA",
+        "clue" : "GD",
+        "difficulty" : 2
       },
       {
-        "clue": "PRM SN",
-        "answer": "PARMESAN"
+        "answer" : "PARMESAN",
+        "clue" : "PR MS N",
+        "difficulty" : 3
       },
       {
-        "clue": "BLCH S",
-        "answer": "BLUE CHEESE"
+        "answer" : "RICOTTA",
+        "clue" : "RC TT",
+        "difficulty" : 3
       }
-    ]
-  }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-04-27",
+  "schemaVersion" : 1
 }

@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "OLYMPUS MONS",
+      "clue" : "LYMPS MNS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "NEPTUNE",
+      "clue" : "NPTN",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "PLUTO",
+      "clue" : "PLT",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CALLISTO",
+      "clue" : "CLLST",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "IO",
+      "clue" : " ",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "EUROPA",
+      "clue" : "RP",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "THE MOON",
+      "clue" : "TH MN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "VALLES MARINERIS",
+      "clue" : "VLLS MRNR",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "TRITON",
+      "clue" : "TRTN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "KUIPER BELT",
+      "clue" : "KPR BLT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "OORT CLOUD",
+      "clue" : "RT CLD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HELIOPAUSE",
+      "clue" : "HLPS",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "science",
+    "astronomy"
+  ],
+  "description" : "planets, major moons and other features of our solar system"
+}

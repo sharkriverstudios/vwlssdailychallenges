@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "science",
+    "history"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "LOUIS PASTEUR",
+      "difficulty" : 4,
+      "clue" : "LS PSTR"
+    },
+    {
+      "answer" : "NIELS BOHR",
+      "difficulty" : 4,
+      "clue" : "NLS BHR"
+    },
+    {
+      "answer" : "RICHARD FEYNMAN",
+      "difficulty" : 5,
+      "clue" : "RCHRD FYNMN"
+    },
+    {
+      "answer" : "GALILEO GALILEI",
+      "difficulty" : 4,
+      "clue" : "GLLL GLL"
+    },
+    {
+      "answer" : "GREGOR MENDEL",
+      "difficulty" : 5,
+      "clue" : "GRGR MNDL"
+    },
+    {
+      "answer" : "JAMES CLERK MAXWELL",
+      "difficulty" : 4,
+      "clue" : "JMS CLRK MXWLL"
+    },
+    {
+      "answer" : "ALEXANDER FLEMING",
+      "difficulty" : 5,
+      "clue" : "LXNDR FLMNG"
+    },
+    {
+      "answer" : "ROSALIND FRANKLIN",
+      "difficulty" : 5,
+      "clue" : "RSLND FRNKLN"
+    },
+    {
+      "answer" : "ADA LOVELACE",
+      "difficulty" : 6,
+      "clue" : "D LVLC"
+    },
+    {
+      "answer" : "DMITRI MENDELEEV",
+      "difficulty" : 6,
+      "clue" : "DMTR MNDLV"
+    },
+    {
+      "answer" : "ENRICO FERMI",
+      "difficulty" : 6,
+      "clue" : "NRC FRM"
+    },
+    {
+      "answer" : "MAX PLANCK",
+      "difficulty" : 5,
+      "clue" : "MX PLNCK"
+    }
+  ]
+}

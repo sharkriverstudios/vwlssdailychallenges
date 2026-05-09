@@ -1,0 +1,93 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "RGB",
+      "answer" : "RGB",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "STRTN",
+      "answer" : "SATURATION",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "WHT SPC",
+      "answer" : "WHITE SPACE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CMYK",
+      "answer" : "CMYK",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "LGNMNT",
+      "answer" : "ALIGNMENT",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "PRTTP",
+      "answer" : "PROTOTYPE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CNGRPHY",
+      "answer" : "ICONOGRAPHY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "MNCHR",
+      "answer" : "MONOCHROME",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "PXL",
+      "answer" : "PIXEL",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "BLNC",
+      "answer" : "BALANCE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "HRRCHY",
+      "answer" : "HIERARCHY",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "MPHSS",
+      "answer" : "EMPHASIS",
+      "difficulty" : 7
+    }
+  ],
+  "notes" : "tend toward the more concrete concepts: color names like CYAN, terms like kerning, simple concepts",
+  "tags" : [
+    "arts",
+    "technology",
+    "culture"
+  ],
+  "description" : "colors, shapes, techniques and tools used in the field of Graphic Design"
+}

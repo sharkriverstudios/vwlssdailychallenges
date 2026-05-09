@@ -1,66 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "KELLOGG",
-      "difficulty" : 4,
-      "clue" : "KLLGG"
-    },
-    {
-      "answer" : "HERSHEY",
-      "difficulty" : 4,
-      "clue" : "HRSHY"
-    },
-    {
-      "answer" : "PORSCHE",
-      "difficulty" : 5,
-      "clue" : "PRSCH"
-    },
-    {
-      "answer" : "HARLEY-DAVIDSON",
-      "difficulty" : 6,
-      "clue" : "HRLYDVD"
-    },
-    {
-      "answer" : "BURBERRY",
-      "difficulty" : 5,
-      "clue" : "BRBRRY"
-    },
-    {
-      "answer" : "BOSCH",
-      "difficulty" : 5,
-      "clue" : "BSCH"
-    },
-    {
-      "answer" : "MICHELIN",
-      "difficulty" : 6,
-      "clue" : "MCHLN"
-    },
-    {
-      "answer" : "LEVI STRAUSS",
-      "difficulty" : 6,
-      "clue" : "LVSTRSS"
-    },
-    {
-      "answer" : "BEN & JERRY'S",
-      "difficulty" : 5,
-      "clue" : "BNJRRYS"
-    },
-    {
-      "answer" : "WARNER BROS",
-      "difficulty" : 5,
-      "clue" : "WRNRBRS"
-    },
-    {
-      "answer" : "TESLA",
-      "difficulty" : 5,
-      "clue" : "TSL"
-    },
-    {
-      "answer" : "ARMSTRONG",
-      "difficulty" : 7,
-      "clue" : "RMSTRNG"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -82,5 +20,70 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "FRRR",
+      "answer" : "FERRARI",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "HRSH",
+      "answer" : "HERSHEY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "HNKN",
+      "answer" : "HEINEKEN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "KLLGG",
+      "answer" : "KELLOGG",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "PRSCH",
+      "answer" : "PORSCHE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "HRLYDVD",
+      "answer" : "HARLEY-DAVIDSON",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "BRBRRY",
+      "answer" : "BURBERRY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BSCH",
+      "answer" : "BOSCH",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "BNJRRYS",
+      "answer" : "BEN & JERRY'S",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "WRNRBRS",
+      "answer" : "WARNER BROS",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "TSL",
+      "answer" : "TESLA",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "RMSTRNG",
+      "answer" : "ARMSTRONG",
+      "difficulty" : 7
+    }
+  ],
+  "tags" : [
+    "business"
   ]
 }

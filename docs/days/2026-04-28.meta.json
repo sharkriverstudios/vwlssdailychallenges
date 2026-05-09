@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "geography",
+    "nature"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "H RVR",
+      "answer" : "OHIO RIVER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "MSSR RVR",
+      "answer" : "MISSOURI RIVER",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "HDSN RVR",
+      "answer" : "HUDSON RIVER",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TNNSS RVR",
+      "answer" : "TENNESSEE RIVER",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "SNK RVR",
+      "answer" : "SNAKE RIVER",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "RKNS RVR",
+      "answer" : "ARKANSAS RIVER",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SCRMNT RVR",
+      "answer" : "SACRAMENTO RIVER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SSQHNN RVR",
+      "answer" : "SUSQUEHANNA RIVER",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PLTT RVR",
+      "answer" : "PLATTE RIVER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CNNCTCT RVR",
+      "answer" : "CONNECTICUT RIVER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CMBRLND RVR",
+      "answer" : "CUMBERLAND RIVER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SVNNH RVR",
+      "answer" : "SAVANNAH RIVER",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "rivers of North America"
+}

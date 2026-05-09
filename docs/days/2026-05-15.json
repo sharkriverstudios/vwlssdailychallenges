@@ -1,51 +1,106 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-15",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Jazz Pianists",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Duke Ellington",
+      "Thelonious Monk",
+      "Oscar Peterson",
+      "Bill Evans",
+      "Herbie Hancock",
+      "Chick Corea",
+      "Art Tatum",
+      "Bud Powell",
+      "Dave Brubeck",
+      "McCoy Tyner",
+      "Keith Jarrett",
+      "Count Basie",
+      "Fats Waller",
+      "Horace Silver",
+      "Ahmad Jamal",
+      "Cecil Taylor",
+      "Sun Ra",
+      "Brad Mehldau",
+      "Michel Petrucciani",
+      "Erroll Garner",
+      "Joe Zawinul",
+      "Mary Lou Williams",
+      "Lennie Tristano",
+      "Red Garland",
+      "George Shearing",
+      "Kenny Barron",
+      "Randy Weston",
+      "Ramsey Lewis",
+      "Marcus Roberts",
+      "Tommy Flanagan",
+      "Mulgrew Miller",
+      "Gene Harris",
+      "Cedar Walton",
+      "Nat King Cole",
+      "Hank Jones",
+      "Toshiko Akiyoshi",
+      "Vijay Iyer",
+      "Geri Allen",
+      "Benny Green",
+      "Jessica Williams",
+      "Joanne Brackeen",
+      "Jason Moran",
+      "Earl Hines",
+      "Jaki Byard",
+      "Mal Waldron",
+      "Jacky Terrasson",
+      "Barry Harris",
+      "Fred Hersch",
+      "Hiromi Uehara",
+      "Kenny Drew",
+      "Mose Allison",
+      "Michel Camilo",
+      "Tete Montoliu"
+    ],
+    "category" : "Jazz Pianists",
+    "clues" : [
       {
-        "clue": "DKL LNG TN",
-        "answer": "DUKE ELLINGTON",
-        "difficulty": 2
+        "answer" : "DUKE ELLINGTON",
+        "clue" : "DK LLNGTN",
+        "difficulty" : 3
       },
       {
-        "clue": "D VB RB CK",
-        "answer": "DAVE BRUBECK",
-        "difficulty": 8
+        "answer" : "CHICK COREA",
+        "clue" : "CHCK CR",
+        "difficulty" : 3
       },
       {
-        "clue": "BL LVN S",
-        "answer": "BILL EVANS",
-        "difficulty": 3
+        "answer" : "HERBIE HANCOCK",
+        "clue" : "HRB HN CCK",
+        "difficulty" : 4
       },
       {
-        "clue": "THL NS MNK",
-        "answer": "THELONIOUS MONK",
-        "difficulty": 3
+        "answer" : "DAVE BRUBECK",
+        "clue" : "D VB RBCK",
+        "difficulty" : 4
       },
       {
-        "clue": "H RB HNC CK",
-        "answer": "HERBIE HANCOCK",
-        "difficulty": 4
+        "answer" : "ART TATUM",
+        "clue" : "RT TTM",
+        "difficulty" : 4
       },
       {
-        "clue": "SCRP TRSN",
-        "answer": "OSCAR PETERSON",
-        "difficulty": 5
+        "answer" : "OSCAR PETERSON",
+        "clue" : "S CRP TRS N",
+        "difficulty" : 5
       },
       {
-        "clue": "F TS WLL R",
-        "answer": "FATS WALLER",
-        "difficulty": 6
+        "answer" : "BILL EVANS",
+        "clue" : "BLLV NS",
+        "difficulty" : 5
       },
       {
-        "clue": "RT T TM",
-        "answer": "ART TATUM",
-        "difficulty": 7
+        "answer" : "THELONIOUS MONK",
+        "clue" : "THLNS MNK",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-05-15",
+  "schemaVersion" : 1
 }

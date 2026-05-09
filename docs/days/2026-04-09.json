@@ -1,43 +1,102 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-09",
-  "challenge": {
-    "difficulty": 2,
-    "category": "NFL Team Cities",
-    "shareClueIndex": 1,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Yellowstone",
+      "Yosemite",
+      "Grand Canyon",
+      "Zion",
+      "Bryce Canyon",
+      "Rocky Mountain",
+      "Great Smoky Mountains",
+      "Olympic",
+      "Acadia",
+      "Glacier",
+      "Joshua Tree",
+      "Arches",
+      "Sequoia",
+      "Kings Canyon",
+      "Badlands",
+      "Everglades",
+      "Death Valley",
+      "Denali",
+      "Redwood",
+      "Shenandoah",
+      "Mount Rainier",
+      "Hawaii Volcanoes",
+      "Grand Teton",
+      "Carlsbad Caverns",
+      "Cuyahoga Valley",
+      "Crater Lake",
+      "Great Basin",
+      "Petrified Forest",
+      "Canyonlands",
+      "Saguaro",
+      "Lassen Volcanic",
+      "Big Bend",
+      "Mammoth Cave",
+      "Channel Islands",
+      "Capitol Reef",
+      "Biscayne",
+      "Katmai",
+      "Isle Royale",
+      "Voyageurs",
+      "Mesa Verde",
+      "Hot Springs",
+      "Gates of the Arctic",
+      "North Cascades",
+      "Theodore Roosevelt",
+      "Pinnacles",
+      "Wind Cave",
+      "Black Canyon of the Gunnison",
+      "Wrangell-St. Elias",
+      "Dry Tortugas"
+    ],
+    "category" : "U.S. National Parks",
+    "clues" : [
       {
-        "clue": "GRN BY",
-        "answer": "GREEN BAY"
+        "answer" : "YELLOWSTONE",
+        "clue" : "YLLWSTN",
+        "difficulty" : 1
       },
       {
-        "clue": "KNS S CTY",
-        "answer": "KANSAS CITY"
+        "answer" : "GRAND CANYON",
+        "clue" : "GR NDCN YN",
+        "difficulty" : 2
       },
       {
-        "clue": "LS VGS",
-        "answer": "LAS VEGAS"
+        "answer" : "YOSEMITE",
+        "clue" : "YS MT",
+        "difficulty" : 2
       },
       {
-        "clue": "BFFL",
-        "answer": "BUFFALO"
+        "answer" : "GLACIER",
+        "clue" : "G LCR",
+        "difficulty" : 3
       },
       {
-        "clue": "CLV LND",
-        "answer": "CLEVELAND"
+        "answer" : "ZION",
+        "clue" : "ZN",
+        "difficulty" : 4
       },
       {
-        "clue": "MM",
-        "answer": "MIAMI"
+        "answer" : "EVERGLADES",
+        "clue" : "VRGLDS",
+        "difficulty" : 5
       },
       {
-        "clue": "DTRT",
-        "answer": "DETROIT"
+        "answer" : "JOSHUA TREE",
+        "clue" : "J SHTR",
+        "difficulty" : 6
       },
       {
-        "clue": "PHL DLPH",
-        "answer": "PHILADELPHIA"
+        "answer" : "OLYMPIC",
+        "clue" : "LM PC",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-04-09",
+  "schemaVersion" : 1
 }

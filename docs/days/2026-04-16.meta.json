@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "sports",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "PITTSBURGH PENGUINS",
+      "clue" : "PTTSBRGH PNGNS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "EDMONTON OILERS",
+      "clue" : "DMNTN LRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LOS ANGELES KINGS",
+      "clue" : "LS NGLS KNGS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "COLORADO AVALANCHE",
+      "clue" : "CLRD VLNCH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "TAMPA BAY LIGHTNING",
+      "clue" : "TMP BY LGHTNNG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CAROLINA HURRICANES",
+      "clue" : "CRLN HRRCNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MONTREAL CANADIENS",
+      "clue" : "MNTRL CNDNS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "ANAHEIM DUCKS",
+      "clue" : "NHM DCKS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "WASHINGTON CAPITALS",
+      "clue" : "WSHNGTN CPTLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ST. LOUIS BLUES",
+      "clue" : "ST LS BLS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CALGARY FLAMES",
+      "clue" : "CLGRY FLMS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DALLAS STARS",
+      "clue" : "DLLS STRS",
+      "difficulty" : 5
+    }
+  ],
+  "description" : "Teams that have won the Stanley Cup since the formation of the NHL"
+}

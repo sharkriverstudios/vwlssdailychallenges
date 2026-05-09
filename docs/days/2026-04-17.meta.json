@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "MMNL KNT",
+      "answer" : "IMMANUEL KANT",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BRCH SPNZ",
+      "answer" : "BARUCH SPINOZA",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "JHN LCK",
+      "answer" : "JOHN LOCKE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "DVD HM",
+      "answer" : "DAVID HUME",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "JN-JQRS RSS",
+      "answer" : "JEAN-JACQUES ROUSSEAU",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "JHN STRT MLL",
+      "answer" : "JOHN STUART MILL",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "THMS HBBS",
+      "answer" : "THOMAS HOBBES",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "FRDRCH NTZSCH",
+      "answer" : "FRIEDRICH NIETZSCHE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "LDWG WTTGNSTN",
+      "answer" : "LUDWIG WITTGENSTEIN",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "SRN KRKGRD",
+      "answer" : "SOREN KIERKEGAARD",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BRTRND RSSLL",
+      "answer" : "BERTRAND RUSSELL",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SMN D BVVR",
+      "answer" : "SIMONE DE BEAUVOIR",
+      "difficulty" : 7
+    }
+  ],
+  "tags" : [
+    "philosophy",
+    "history"
+  ]
+}

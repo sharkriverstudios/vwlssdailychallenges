@@ -1,51 +1,113 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-02",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Famous Detectives",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Sherlock Holmes",
+      "Hercule Poirot",
+      "Miss Marple",
+      "Philip Marlowe",
+      "Sam Spade",
+      "Columbo",
+      "Jessica Fletcher",
+      "Nero Wolfe",
+      "Harry Bosch",
+      "Inspector Morse",
+      "Ellery Queen",
+      "Jim Rockford",
+      "Inspector Gadget",
+      "Father Brown",
+      "Jules Maigret",
+      "Thomas Magnum",
+      "Nancy Drew",
+      "Dick Tracy",
+      "C. Auguste Dupin",
+      "Vera Stanhope",
+      "Inspector Clouseau",
+      "Adrian Monk",
+      "Alex Cross",
+      "Lisbeth Salander",
+      "Veronica Mars",
+      "Inspector Lestrade",
+      "Gil Grissom",
+      "John Rebus",
+      "Kurt Wallander",
+      "Kinsey Millhone",
+      "Lincoln Rhyme",
+      "Inspector Lynley",
+      "Roderick Alleyn",
+      "Dave Robicheaux",
+      "Augustus Landor",
+      "Perry Mason",
+      "Temperance Brennan",
+      "Irene Adler",
+      "Brother Cadfael",
+      "Inspector Barnaby",
+      "Detective Munch",
+      "Inspector Banks",
+      "Spenser",
+      "Harry Hole",
+      "Maud Silver",
+      "Phryne Fisher",
+      "Mike Hammer",
+      "Caleb Carr",
+      "Inspector Javert",
+      "Inspector Wexford",
+      "Inspector Alleyn",
+      "Detective Stabler",
+      "Inspector Frost",
+      "Henning Juul",
+      "Inspector Lewis",
+      "Amelia Peabody",
+      "Peter Wimsey",
+      "Dr. Watson",
+      "Jessica Jones",
+      "Inspector Grant"
+    ],
+    "category" : "Famous Detectives",
+    "clues" : [
       {
-        "clue": "SHRLCK HLMS",
-        "answer": "SHERLOCK HOLMES",
-        "difficulty": 2
+        "answer" : "SHERLOCK HOLMES",
+        "clue" : "SHRLCK HLMS",
+        "difficulty" : 2
       },
       {
-        "clue": "HR CLPR T",
-        "answer": "HERCULE POIROT",
-        "difficulty": 3
+        "answer" : "COLUMBO",
+        "clue" : "CLMB",
+        "difficulty" : 2
       },
       {
-        "clue": "JS SCFLT CHR",
-        "answer": "JESSICA FLETCHER",
-        "difficulty": 8
+        "answer" : "MISS MARPLE",
+        "clue" : "MSS MRPL",
+        "difficulty" : 3
       },
       {
-        "clue": "MS SMR PL",
-        "answer": "MISS MARPLE",
-        "difficulty": 4
+        "answer" : "HERCULE POIROT",
+        "clue" : "HRCL PRT",
+        "difficulty" : 3
       },
       {
-        "clue": "S MSPD",
-        "answer": "SAM SPADE",
-        "difficulty": 4
+        "answer" : "JESSICA FLETCHER",
+        "clue" : "JSSC FLTCHR",
+        "difficulty" : 4
       },
       {
-        "clue": "PH LPM RLW",
-        "answer": "PHILIP MARLOWE",
-        "difficulty": 5
+        "answer" : "PHILIP MARLOWE",
+        "clue" : "PHLP MRLW",
+        "difficulty" : 4
       },
       {
-        "clue": "CLMB",
-        "answer": "COLUMBO",
-        "difficulty": 6
+        "answer" : "SAM SPADE",
+        "clue" : "SM SPD",
+        "difficulty" : 5
       },
       {
-        "clue": "NRW LF",
-        "answer": "NERO WOLFE",
-        "difficulty": 7
+        "answer" : "NERO WOLFE",
+        "clue" : "NR WLF",
+        "difficulty" : 5
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-02",
+  "schemaVersion" : 1
 }

@@ -1,19 +1,118 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-09",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Types of Pizza",
-    "shareClueIndex": 4,
-    "clues": [
-      { "clue": "NWYRK STL"    , "answer": "NEW YORK STYLE" },
-      { "clue": "CHCG DPDSH"   , "answer": "CHICAGO DEEP DISH" },
-      { "clue": "NPLTN"        , "answer": "NEAPOLITAN" },
-      { "clue": "HWNP ZZ"      , "answer": "HAWAIIAN PIZZA" },
-      { "clue": "PN PZ Z"      , "answer": "PAN PIZZA" },
-      { "clue": "BR K FST PZ Z", "answer": "BREAKFAST PIZZA" },
-      { "clue": "SC LN"        , "answer": "SICILIAN" },
-      { "clue": "FRZN PZZ"     , "answer": "FROZEN PIZZA" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Mount Kilimanjaro",
+      "Mount Denali",
+      "Mount Elbrus",
+      "Mount Aconcagua",
+      "Mount Vinson",
+      "Mount Kosciuszko",
+      "Mont Blanc",
+      "Matterhorn",
+      "Mount Fuji",
+      "Mount McKinley",
+      "Mount Rainier",
+      "Mount Whitney",
+      "Mount Shasta",
+      "Mount St. Helens",
+      "Mount Etna",
+      "Mount Vesuvius",
+      "Mount Olympus",
+      "Table Mountain",
+      "Sugarloaf Mountain",
+      "Mount Ararat",
+      "Mount Sinai",
+      "Mount Cook",
+      "Ben Nevis",
+      "Mount Tasman",
+      "Mount Elbert",
+      "Mount Hood",
+      "Mount Adams",
+      "Pico De Orizaba",
+      "Mount Mitchell",
+      "Mount Katahdin",
+      "Mount Washington",
+      "Mount Rushmore",
+      "Mount Logan",
+      "Mount Robson",
+      "Mount Assiniboine",
+      "Mount Athos",
+      "Mount Roraima",
+      "Mount Toubkal",
+      "Mount Damavand",
+      "Mount Elgon",
+      "Mount Kenya",
+      "Mount Meru",
+      "Mount Parnassus",
+      "Mount Erebus",
+      "Mount Agung",
+      "Mount Bromo",
+      "Mount Tambora",
+      "Mount Kinabalu",
+      "Mount Popocatepetl",
+      "Mount Chimborazo",
+      "Mount Cotopaxi",
+      "Mount Huascaran",
+      "Mount Fitz Roy",
+      "Mount Annapurna",
+      "Mount Makalu",
+      "Mount Cho Oyu",
+      "Mount Lhotse",
+      "Mount Dhaulagiri",
+      "Mount Manaslu",
+      "Mount Nanga Parbat",
+      "Mount Broad Peak",
+      "Mount Gasherbrum"
+    ],
+    "category" : "Famous Mountains",
+    "clues" : [
+      {
+        "answer" : "MOUNT FUJI",
+        "clue" : "MNT FJ",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MOUNT EVEREST",
+        "clue" : "MNT VRST",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "KILIMANJARO",
+        "clue" : "KLMNJR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MATTERHORN",
+        "clue" : "MTT RHRN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DENALI",
+        "clue" : "D NL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MOUNT RUSHMORE",
+        "clue" : "MNTR SHMR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MOUNT VESUVIUS",
+        "clue" : "MN TVS VS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "BEN NEVIS",
+        "clue" : "BNN VS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-05-09",
+  "schemaVersion" : 1
 }

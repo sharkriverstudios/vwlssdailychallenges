@@ -1,43 +1,83 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-12",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Famous Bridges",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Atlanta Hawks",
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "Detroit Pistons",
+      "Golden State Warriors",
+      "Houston Rockets",
+      "Indiana Pacers",
+      "Los Angeles Clippers",
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Miami Heat",
+      "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "New Orleans Pelicans",
+      "New York Knicks",
+      "Oklahoma City Thunder",
+      "Orlando Magic",
+      "Philadelphia 76ers",
+      "Phoenix Suns",
+      "Portland Trail Blazers",
+      "Sacramento Kings",
+      "San Antonio Spurs",
+      "Toronto Raptors",
+      "Utah Jazz",
+      "Washington Wizards"
+    ],
+    "category" : "NBA Teams",
+    "clues" : [
       {
-        "clue": "BRKLN BRDG",
-        "answer": "BROOKLYN BRIDGE"
+        "answer" : "MIAMI HEAT",
+        "clue" : "MM HT",
+        "difficulty" : 2
       },
       {
-        "clue": "TWR BRDG",
-        "answer": "TOWER BRIDGE"
+        "answer" : "LOS ANGELES LAKERS",
+        "clue" : "LS NGLS LKRS",
+        "difficulty" : 3
       },
       {
-        "clue": "SYDNY HRBR BRDG",
-        "answer": "SYDNEY HARBOR BRIDGE"
+        "answer" : "BOSTON CELTICS",
+        "clue" : "BS TN C LTCS",
+        "difficulty" : 3
       },
       {
-        "clue": "GLD NGT BRDG",
-        "answer": "GOLDEN GATE BRIDGE"
+        "answer" : "CHICAGO BULLS",
+        "clue" : "CHC GB LLS",
+        "difficulty" : 3
       },
       {
-        "clue": "MCKNC BRDG",
-        "answer": "MACKINAC BRIDGE"
+        "answer" : "SAN ANTONIO SPURS",
+        "clue" : "SN NTN SPRS",
+        "difficulty" : 3
       },
       {
-        "clue": "LN DNBR DG",
-        "answer": "LONDON BRIDGE"
+        "answer" : "TORONTO RAPTORS",
+        "clue" : "TRNT RPTRS",
+        "difficulty" : 3
       },
       {
-        "clue": "VR ZZN NR RWS BRDG",
-        "answer": "VERAZZANO NARROWS BRIDGE"
+        "answer" : "NEW YORK KNICKS",
+        "clue" : "NWY RKKN CKS",
+        "difficulty" : 4
       },
       {
-        "clue": "FRTH RD BRDG",
-        "answer": "FORTH ROAD BRIDGE"
+        "answer" : "GOLDEN STATE WARRIORS",
+        "clue" : "GL DNS TT WR RRS",
+        "difficulty" : 4
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-12",
+  "schemaVersion" : 1
 }

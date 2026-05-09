@@ -1,19 +1,112 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-03",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Coffee",
-    "shareClueIndex": 5,
-    "clues": [
-      { "clue": "SPRSS"     , "answer": "ESPRESSO" },
-      { "clue": "BLCK"      , "answer": "BLACK" },
-      { "clue": "LTT"       , "answer": "LATTE" },
-      { "clue": "CP PCC N"  , "answer": "CAPPUCCINO" },
-      { "clue": "MR C N"    , "answer": "AMERICANO" },
-      { "clue": "FL TW HT"  , "answer": "FLAT WHITE" },
-      { "clue": "MCC HT"    , "answer": "MACCHIATO" },
-      { "clue": "FTRDNNRCFF", "answer": "AFTER DINNER COFFEE" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Andromeda",
+      "Aquarius",
+      "Aquila",
+      "Aries",
+      "Auriga",
+      "Boötes",
+      "Cancer",
+      "Canis Major",
+      "Canis Minor",
+      "Capricornus",
+      "Cassiopeia",
+      "Centaurus",
+      "Cepheus",
+      "Cetus",
+      "Corona Borealis",
+      "Corvus",
+      "Crux",
+      "Cygnus",
+      "Draco",
+      "Equuleus",
+      "Eridanus",
+      "Gemini",
+      "Hercules",
+      "Hydra",
+      "Leo",
+      "Leo Minor",
+      "Libra",
+      "Lyra",
+      "Orion",
+      "Pegasus",
+      "Perseus",
+      "Pisces",
+      "Sagittarius",
+      "Scorpius",
+      "Taurus",
+      "Ursa Major",
+      "Ursa Minor",
+      "Virgo",
+      "Vulpecula",
+      "Pavo",
+      "Phoenix",
+      "Sagitta",
+      "Sculptor",
+      "Serpens",
+      "Triangulum",
+      "Ophiuchus",
+      "Lupus",
+      "Grus",
+      "Hercules",
+      "Hydrus",
+      "Indus",
+      "Lyra",
+      "Monoceros",
+      "Norma",
+      "Octans",
+      "Pictor",
+      "Reticulum",
+      "Telescopium",
+      "Vela"
+    ],
+    "category" : "Constellations",
+    "clues" : [
+      {
+        "answer" : "LEO",
+        "clue" : "L",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "CANCER",
+        "clue" : "CNCR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "TAURUS",
+        "clue" : "TRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ORION",
+        "clue" : "RN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DRACO",
+        "clue" : "DR C",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PEGASUS",
+        "clue" : "PGS S",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "URSA MAJOR",
+        "clue" : "RS MJR",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "CASSIOPEIA",
+        "clue" : "CSSP",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-03",
+  "schemaVersion" : 1
 }

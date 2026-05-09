@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "Well-known art museums",
+  "tags" : [
+    "arts",
+    "culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "MUSEE D'ORSAY",
+      "difficulty" : 6,
+      "clue" : "MS DRSY"
+    },
+    {
+      "answer" : "ART INSTITUTE OF CHICAGO",
+      "difficulty" : 8,
+      "clue" : "RT NSTTT F CHCG"
+    },
+    {
+      "answer" : "RIJKSMUSEUM",
+      "difficulty" : 8,
+      "clue" : "RJKSSM"
+    },
+    {
+      "answer" : "BRITISH MUSEUM",
+      "difficulty" : 4,
+      "clue" : "BRTSH MSM"
+    },
+    {
+      "answer" : "NATIONAL GALLERY",
+      "difficulty" : 4,
+      "clue" : "NTNL GLLRY"
+    },
+    {
+      "answer" : "VATICAN MUSEUMS",
+      "difficulty" : 7,
+      "clue" : "VTCN MSMS"
+    },
+    {
+      "answer" : "GETTY CENTER",
+      "difficulty" : 6,
+      "clue" : "GTTY CNTR"
+    },
+    {
+      "answer" : "WHITNEY MUSEUM OF AMERICAN ART",
+      "difficulty" : 8,
+      "clue" : "WHTNY MSM F MRCN RT"
+    },
+    {
+      "answer" : "MUSEUM OF FINE ARTS BOSTON",
+      "difficulty" : 7,
+      "clue" : "MSM F FN RTS BSTN"
+    },
+    {
+      "answer" : "PHILADELPHIA MUSEUM OF ART",
+      "difficulty" : 8,
+      "clue" : "PHLDLPH MSM F RT"
+    },
+    {
+      "answer" : "SMITHSONIAN AMERICAN ART MUSEUM",
+      "difficulty" : 9,
+      "clue" : "SMTHSN MRCN RT MSM"
+    },
+    {
+      "answer" : "NATIONAL MUSEUM OF MODERN ART TOKYO",
+      "difficulty" : 9,
+      "clue" : "NTNL MSM F MDRN RT TKY"
+    }
+  ]
+}

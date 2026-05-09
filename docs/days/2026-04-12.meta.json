@@ -1,0 +1,93 @@
+{
+  "description" : "places that tourists go to in the great plains region of the US",
+  "tags" : [
+    "geography",
+    "culture",
+    "history"
+  ],
+  "notes" : "It's okay to have a few national parks, but concentrate on more quirky locations",
+  "extraClues" : [
+    {
+      "answer" : "TALLGRASS PRAIRIE NATIONAL PRESERVE",
+      "clue" : "TLLGRSS PRR NTNL PRSRV",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "THE ENCHANTED HIGHWAY",
+      "clue" : "TH NCHNTD HGHWY",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CUSTER STATE PARK",
+      "clue" : "CSTR STT PRK",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "LEWIS AND CLARK INTERPRETIVE CENTER",
+      "clue" : "LWS ND CLRK NTRPRTV CNTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MONUMENT ROCKS",
+      "clue" : "MNMNT RCKS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "THE BUFFALO BILL RANCH",
+      "clue" : "TH BFFL BLL RNCH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HOMESTEAD NATIONAL HISTORICAL PARK",
+      "clue" : "HMSTD NTNL HSTRCL PRK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SCOTTS BLUFF NATIONAL MONUMENT",
+      "clue" : "SCTTS BLFF NTNL MNMNT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PIPSTONE NATIONAL MONUMENT",
+      "clue" : "PPSTN NTNL MNMNT",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "DINOSAUR PARK",
+      "clue" : "DNSR PRK",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "THE GREAT PLAINS ZOO",
+      "clue" : "TH GRT PLNS Z",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FORT ROBINSON STATE PARK",
+      "clue" : "FRT RBNSN STT PRK",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

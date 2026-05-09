@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 1,
+      "clue" : "LBR DY",
+      "answer" : "LABOR DAY"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "FTHR'S DY",
+      "answer" : "FATHER'S DAY"
+    },
+    {
+      "difficulty" : 2,
+      "clue" : "NW YR'S DY",
+      "answer" : "NEW YEAR'S DAY"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "MTHR'S DY",
+      "answer" : "MOTHER'S DAY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MRTN LTHR KNG JR. DY",
+      "answer" : "MARTIN LUTHER KING JR. DAY"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "CLMBS DY",
+      "answer" : "COLUMBUS DAY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "JNTNTH",
+      "answer" : "JUNETEENTH"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "RBR DY",
+      "answer" : "ARBOR DAY"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PRSDNTS' DY",
+      "answer" : "PRESIDENTS' DAY"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "ST. PTRCK'S DY",
+      "answer" : "ST. PATRICK'S DAY"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "GRNDHG DY",
+      "answer" : "GROUNDHOG DAY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MRD GRS",
+      "answer" : "MARDI GRAS"
+    }
+  ],
+  "tags" : [
+    "culture",
+    "history"
+  ]
+}

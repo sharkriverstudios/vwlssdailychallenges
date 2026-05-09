@@ -1,43 +1,105 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-23",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Dog Breeds",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "King",
+      "Queen",
+      "Rook",
+      "Bishop",
+      "Knight",
+      "Pawn",
+      "Check",
+      "Checkmate",
+      "Stalemate",
+      "Castling",
+      "En Passant",
+      "Fianchetto",
+      "Pin",
+      "Fork",
+      "Skewer",
+      "Gambit",
+      "Sicilian Defense",
+      "French Defense",
+      "Caro-Kann Defense",
+      "King's Indian Defense",
+      "Queen's Gambit",
+      "Reti Opening",
+      "Alekhine's Defense",
+      "Pawn Structure",
+      "Blitz",
+      "Endgame",
+      "Open File",
+      "Back Rank",
+      "Discovered Attack",
+      "Zwischenzug",
+      "Deflection",
+      "Perpetual Check",
+      "Zugzwang",
+      "Promotion",
+      "Lucena Position",
+      "Opposition",
+      "Tempo",
+      "Desperado",
+      "King's Gambit",
+      "Petrov's Defense",
+      "Scotch Game",
+      "Italian Game",
+      "Fool's Mate",
+      "Scholar's Mate",
+      "Middle Game",
+      "Opening",
+      "Complex",
+      "Knight's Tour",
+      "Double Attack",
+      "Overloading",
+      "Underpromotion",
+      "Tempo Loss"
+    ],
+    "category" : "Chess",
+    "clues" : [
       {
-        "clue": "PDL",
-        "answer": "POODLE"
+        "answer" : "KING",
+        "clue" : "KNG",
+        "difficulty" : 1
       },
       {
-        "clue": "LBRDR RTRVR",
-        "answer": "LABRADOR RETRIEVER"
+        "answer" : "BISHOP",
+        "clue" : "BSHP",
+        "difficulty" : 1
       },
       {
-        "clue": "BGL",
-        "answer": "BEAGLE"
+        "answer" : "KNIGHT",
+        "clue" : "KNGHT",
+        "difficulty" : 2
       },
       {
-        "clue": "GLDNR TRVR",
-        "answer": "GOLDEN RETRIEVER"
+        "answer" : "CHECKMATE",
+        "clue" : "CHCKMT",
+        "difficulty" : 4
       },
       {
-        "clue": "GR MNS HPHRD",
-        "answer": "GERMAN SHEPHERD"
+        "answer" : "STALEMATE",
+        "clue" : "STLMT",
+        "difficulty" : 4
       },
       {
-        "clue": "FRN CHBL LDG",
-        "answer": "FRENCH BULLDOG"
+        "answer" : "CASTLING",
+        "clue" : "CSTLNG",
+        "difficulty" : 4
       },
       {
-        "clue": "BR DRCL L",
-        "answer": "BORDER COLLIE"
+        "answer" : "GAMBIT",
+        "clue" : "GMBT",
+        "difficulty" : 6
       },
       {
-        "clue": "MLTS",
-        "answer": "MALTESE"
+        "answer" : "SICILIAN DEFENSE",
+        "clue" : "SCLN DFNS",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-04-23",
+  "schemaVersion" : 1
 }

@@ -1,51 +1,94 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-21",
-  "challenge": {
-    "difficulty": 2,
-    "category": "Chess Pieces and Terms",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco Da Gama",
+      "James Cook",
+      "Marco Polo",
+      "Hernan Cortes",
+      "Francisco Pizarro",
+      "Amerigo Vespucci",
+      "Henry Hudson",
+      "John Cabot",
+      "Bartolomeu Dias",
+      "Juan Ponce De Leon",
+      "Jacques Cartier",
+      "Samuel De Champlain",
+      "John Smith",
+      "Francis Drake",
+      "Leif Erikson",
+      "Roald Amundsen",
+      "Vitus Bering",
+      "David Livingstone",
+      "Erik The Red",
+      "Zheng He",
+      "Abel Tasman",
+      "Pedro Alvares Cabral",
+      "Giovanni Da Verrazzano",
+      "Martin Waldseemuller",
+      "Hernando De Soto",
+      "Louis Jolliet",
+      "Nicolas Baudin",
+      "William Clark",
+      "Meriwether Lewis",
+      "Richard Francis Burton",
+      "Matthew Flinders",
+      "Sebastian Cabot",
+      "Vitus Jonassen Bering",
+      "Henry The Navigator",
+      "James Bruce",
+      "George Vancouver",
+      "Rene-Robert Cavelier La Salle",
+      "Alexander Mackenzie",
+      "Ferdinand Von Richthofen"
+    ],
+    "category" : "The Age of Exploration",
+    "clues" : [
       {
-        "clue": "KNG",
-        "answer": "KING",
-        "difficulty": 1
+        "answer" : "CHRISTOPHER COLUMBUS",
+        "clue" : "CHRSTPHR CLMBS",
+        "difficulty" : 1
       },
       {
-        "clue": "QN",
-        "answer": "QUEEN",
-        "difficulty": 1
+        "answer" : "MARCO POLO",
+        "clue" : "MRC PL",
+        "difficulty" : 1
       },
       {
-        "clue": "RK",
-        "answer": "ROOK",
-        "difficulty": 2
+        "answer" : "JAMES COOK",
+        "clue" : "JM SC K",
+        "difficulty" : 2
       },
       {
-        "clue": "BSHP",
-        "answer": "BISHOP",
-        "difficulty": 2
+        "answer" : "FRANCIS DRAKE",
+        "clue" : "FRN CS DRK",
+        "difficulty" : 3
       },
       {
-        "clue": "KNGHT",
-        "answer": "KNIGHT",
-        "difficulty": 3
+        "answer" : "HENRY HUDSON",
+        "clue" : "HNR HDSN",
+        "difficulty" : 3
       },
       {
-        "clue": "PWN",
-        "answer": "PAWN",
-        "difficulty": 4
+        "answer" : "FERDINAND MAGELLAN",
+        "clue" : "FRDN ND MGL LN",
+        "difficulty" : 4
       },
       {
-        "clue": "CHCK",
-        "answer": "CHECK",
-        "difficulty": 5
+        "answer" : "VASCO DA GAMA",
+        "clue" : "VS CD GM",
+        "difficulty" : 4
       },
       {
-        "clue": "CHCKMT",
-        "answer": "CHECKMATE",
-        "difficulty": 6
+        "answer" : "LEIF ERIKSON",
+        "clue" : "LFR KS N",
+        "difficulty" : 5
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-04-21",
+  "schemaVersion" : 1
 }

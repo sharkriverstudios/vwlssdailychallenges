@@ -1,43 +1,125 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-11",
-  "challenge": {
-    "difficulty": 2,
-    "category": "Sea Mammals",
-    "shareClueIndex": 4,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Jimi Hendrix",
+      "Eric Clapton",
+      "Jimmy Page",
+      "Keith Richards",
+      "Eddie Van Halen",
+      "Slash",
+      "David Gilmour",
+      "Angus Young",
+      "Brian May",
+      "Chuck Berry",
+      "Carlos Santana",
+      "Stevie Ray Vaughan",
+      "Pete Townshend",
+      "Tony Iommi",
+      "Ritchie Blackmore",
+      "Joe Perry",
+      "Kirk Hammett",
+      "Randy Rhoads",
+      "George Harrison",
+      "Jeff Beck",
+      "Tom Morello",
+      "Duane Allman",
+      "Buddy Guy",
+      "Mark Knopfler",
+      "Richie Sambora",
+      "Mick Mars",
+      "John Frusciante",
+      "Steve Vai",
+      "Joe Satriani",
+      "Alex Lifeson",
+      "Billy Gibbons",
+      "Jerry Cantrell",
+      "Yngwie Malmsteen",
+      "Frank Zappa",
+      "Johnny Ramone",
+      "Lindsey Buckingham",
+      "John Petrucci",
+      "Kerry King",
+      "Steve Howe",
+      "Mike McCready",
+      "Nils Lofgren",
+      "Gary Moore",
+      "James Hetfield",
+      "Mick Ronson",
+      "Tommy Iommi",
+      "Ace Frehley",
+      "Joe Walsh",
+      "Richie Blackmore",
+      "Dimebag Darrell",
+      "Kim Thayil",
+      "Adrian Smith",
+      "Izzy Stradlin",
+      "Robert Fripp",
+      "Kurt Cobain",
+      "Matt Bellamy",
+      "Steve Morse",
+      "Michael Schenker",
+      "Paul Gilbert",
+      "Johnny Winter",
+      "Robin Trower",
+      "Phil Collen",
+      "Billy Corgan",
+      "Zakk Wylde",
+      "John Mayer",
+      "Peter Frampton",
+      "Jake E. Lee",
+      "Dave Mustaine",
+      "Rory Gallagher",
+      "Nuno Bettencourt",
+      "Ronnie Wood",
+      "Andy Summers",
+      "Derek Trucks"
+    ],
+    "category" : "Rock Guitarists",
+    "clues" : [
       {
-        "clue": "DL PHN",
-        "answer": "DOLPHIN"
+        "answer" : "JIMI HENDRIX",
+        "clue" : "JM HNDRX",
+        "difficulty" : 1
       },
       {
-        "clue": "WHLS",
-        "answer": "WHALES"
+        "answer" : "SLASH",
+        "clue" : "SLSH",
+        "difficulty" : 2
       },
       {
-        "clue": "RCS",
-        "answer": "ORCAS"
+        "answer" : "ERIC CLAPTON",
+        "clue" : "RCCLP TN",
+        "difficulty" : 3
       },
       {
-        "clue": "MNT",
-        "answer": "MANATEE"
+        "answer" : "CHUCK BERRY",
+        "clue" : "CHC KB RR",
+        "difficulty" : 4
       },
       {
-        "clue": "SL",
-        "answer": "SEAL"
+        "answer" : "CARLOS SANTANA",
+        "clue" : "CRL SS NTN",
+        "difficulty" : 4
       },
       {
-        "clue": "SLN",
-        "answer": "SEA LION"
+        "answer" : "STEVIE RAY VAUGHAN",
+        "clue" : "STV RY VGHN",
+        "difficulty" : 5
       },
       {
-        "clue": "WLR S",
-        "answer": "WALRUS"
+        "answer" : "EDDIE VAN HALEN",
+        "clue" : "D DV NH LN",
+        "difficulty" : 6
       },
       {
-        "clue": "TTR",
-        "answer": "OTTER"
+        "answer" : "DUANE ALLMAN",
+        "clue" : "D NL LMN",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-11",
+  "schemaVersion" : 1
 }

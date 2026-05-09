@@ -1,51 +1,90 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-22",
-  "challenge": {
-    "difficulty": 1,
-    "category": "Months of the Year",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "George Washington",
+      "Pyramid",
+      "The Great Seal",
+      "Eagle",
+      "In God We Trust",
+      "The United States Of America",
+      "Federal Reserve Note",
+      "One",
+      "One Dollar",
+      "Washington Monument",
+      "Treasury Seal",
+      "Serial Number",
+      "Department Of The Treasury",
+      "Eye Of Providence",
+      "Annuit Coeptis",
+      "Novus Ordo Seclorum",
+      "MDCCLXXVI",
+      "Olive Branch",
+      "Arrows",
+      "Stars",
+      "Thirteen Colonies",
+      "US Treasury",
+      "Secretary Of The Treasury",
+      "Series Year",
+      "Microprinting",
+      "Legal Tender",
+      "United States Note",
+      "Federal Reserve District",
+      "Portrait Of George Washington",
+      "Green Ink",
+      "Engraving",
+      "Engraver Initials",
+      "Bank Signature",
+      "Seal Of The United States",
+      "US Flag",
+      "Latin Motto",
+      "Bureau Of Engraving And Printing"
+    ],
+    "category" : "On the US Dollar Bill",
+    "clues" : [
       {
-        "clue": "MRCH",
-        "answer": "MARCH",
-        "difficulty": 1
+        "answer" : "GEORGE WASHINGTON",
+        "clue" : "GRG WSHNGTN",
+        "difficulty" : 2
       },
       {
-        "clue": "JL",
-        "answer": "JULY",
-        "difficulty": 1
+        "answer" : "IN GOD WE TRUST",
+        "clue" : "N GD W TRST",
+        "difficulty" : 3
       },
       {
-        "clue": "DCMBR",
-        "answer": "DECEMBER",
-        "difficulty": 1
+        "answer" : "THE UNITED STATES OF AMERICA",
+        "clue" : "TH NTD STTS F MRC",
+        "difficulty" : 3
       },
       {
-        "clue": "CTBR",
-        "answer": "OCTOBER",
-        "difficulty": 1
+        "answer" : "ONE DOLLAR",
+        "clue" : "NDL LR",
+        "difficulty" : 4
       },
       {
-        "clue": "JNRY",
-        "answer": "JANUARY",
-        "difficulty": 2
+        "answer" : "SERIAL NUMBER",
+        "clue" : "SR LN MBR",
+        "difficulty" : 5
       },
       {
-        "clue": "SPTMBR",
-        "answer": "SEPTEMBER",
-        "difficulty": 1
+        "answer" : "TREASURY SEAL",
+        "clue" : "TRSR SL",
+        "difficulty" : 5
       },
       {
-        "clue": "FBRRY",
-        "answer": "FEBRUARY",
-        "difficulty": 3
+        "answer" : "STARS",
+        "clue" : "STRS",
+        "difficulty" : 6
       },
       {
-        "clue": "PRL",
-        "answer": "APRIL",
-        "difficulty": 5
+        "answer" : "MICROPRINTING",
+        "clue" : "MCRPRNTNG",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-04-22",
+  "schemaVersion" : 1
 }

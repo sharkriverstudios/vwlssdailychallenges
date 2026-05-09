@@ -1,19 +1,112 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-05",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Major US Newspapers",
-    "shareClueIndex": 6,
-    "clues": [
-      { "clue": "NWY RK TM S"   , "answer": "NEW YORK TIMES" },
-      { "clue": "WS HNG TNP ST" , "answer": "WASHINGTON POST" },
-      { "clue": "WL LST RT JRNL", "answer": "WALL STREET JOURNAL" },
-      { "clue": "L SNG LST MS"  , "answer": "LOS ANGELES TIMES" },
-      { "clue": "CHC GTR BN"    , "answer": "CHICAGO TRIBUNE" },
-      { "clue": "BST NG LB"     , "answer": "BOSTON GLOBE" },
-      { "clue": "THG RDN"       , "answer": "THE GUARDIAN" },
-      { "clue": "FN NCLT MS"    , "answer": "FINANCIAL TIMES" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "Netflix",
+      "Hulu",
+      "Amazon Prime Video",
+      "Disney Plus",
+      "HBO Max",
+      "Peacock",
+      "Apple TV Plus",
+      "Paramount Plus",
+      "YouTube",
+      "Sling TV",
+      "Crave",
+      "Discovery Plus",
+      "ESPN Plus",
+      "BritBox",
+      "Starz",
+      "Showtime",
+      "Acorn TV",
+      "FuboTV",
+      "Sundance Now",
+      "Shudder",
+      "Crunchyroll",
+      "Funimation",
+      "Tubi",
+      "Pluto TV",
+      "Kanopy",
+      "Vudu",
+      "Roku Channel",
+      "CuriosityStream",
+      "DAZN",
+      "Plex",
+      "Mubi",
+      "Hoopla",
+      "CBS All Access",
+      "Quibi",
+      "YouTube TV",
+      "Philo",
+      "Vimeo",
+      "Xumo",
+      "IMDB TV",
+      "Boomerang",
+      "VRV",
+      "BBC iPlayer",
+      "All 4",
+      "ITV Hub",
+      "Now TV",
+      "Rakuten TV",
+      "Hotstar",
+      "JioCinema",
+      "SonyLIV",
+      "MX Player",
+      "Zee5",
+      "Viki",
+      "Hayu",
+      "Sky Go",
+      "Virgin TV Go",
+      "Fandor",
+      "Crackle",
+      "Popcornflix",
+      "Redbox"
+    ],
+    "category" : "Streaming Services",
+    "clues" : [
+      {
+        "answer" : "HULU",
+        "clue" : "HL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "NETFLIX",
+        "clue" : "NTFLX",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HBO MAX",
+        "clue" : "H BM X",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DISNEY PLUS",
+        "clue" : "DSN YP LS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PEACOCK",
+        "clue" : "PCCK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BRITBOX",
+        "clue" : "BRTBX",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "APPLE TV PLUS",
+        "clue" : "PPL TV PLS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "AMAZON PRIME VIDEO",
+        "clue" : "MZ NP RM VD",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-05-05",
+  "schemaVersion" : 1
 }

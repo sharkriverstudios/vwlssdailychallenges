@@ -1,43 +1,76 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-07",
-  "challenge": {
-    "difficulty": 1,
-    "category": "Planets",
-    "shareClueIndex": 0,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "California",
+      "Texas",
+      "Florida",
+      "Alaska",
+      "Hawaii",
+      "New York",
+      "New Jersey",
+      "Massachusetts",
+      "North Carolina",
+      "South Carolina",
+      "Virginia",
+      "Maryland",
+      "Connecticut",
+      "Rhode Island",
+      "Maine",
+      "Oregon",
+      "Washington",
+      "Georgia",
+      "Alabama",
+      "Mississippi",
+      "Louisiana",
+      "Delaware",
+      "New Hampshire"
+    ],
+    "category" : "Seaside U.S. States",
+    "clues" : [
       {
-        "clue": "MRCRY",
-        "answer": "MERCURY"
+        "answer" : "FLORIDA",
+        "clue" : "FLRD",
+        "difficulty" : 1
       },
       {
-        "clue": "VNS",
-        "answer": "VENUS"
+        "answer" : "CALIFORNIA",
+        "clue" : "CLFRN",
+        "difficulty" : 1
       },
       {
-        "clue": "RTH",
-        "answer": "EARTH"
+        "answer" : "HAWAII",
+        "clue" : "HW",
+        "difficulty" : 1
       },
       {
-        "clue": "MRS",
-        "answer": "MARS"
+        "answer" : "TEXAS",
+        "clue" : "TXS",
+        "difficulty" : 1
       },
       {
-        "clue": "JPTR",
-        "answer": "JUPITER"
+        "answer" : "GEORGIA",
+        "clue" : "GRG",
+        "difficulty" : 3
       },
       {
-        "clue": "STRN",
-        "answer": "SATURN"
+        "answer" : "ALASKA",
+        "clue" : "L SK",
+        "difficulty" : 5
       },
       {
-        "clue": "RNS",
-        "answer": "URANUS"
+        "answer" : "SOUTH CAROLINA",
+        "clue" : "STH CRLN",
+        "difficulty" : 5
       },
       {
-        "clue": "NPTN",
-        "answer": "NEPTUNE"
+        "answer" : "NEW HAMPSHIRE",
+        "clue" : "N WH MP SHR",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-04-07",
+  "schemaVersion" : 1
 }

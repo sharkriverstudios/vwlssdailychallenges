@@ -1,43 +1,115 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-08",
-  "challenge": {
-    "difficulty": 1,
-    "category": "U.S. States",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "Pluto",
+      "Ceres",
+      "Eris",
+      "Haumea",
+      "Makemake",
+      "Ganymede",
+      "Titan",
+      "Callisto",
+      "Io",
+      "Europa",
+      "Rhea",
+      "Triton",
+      "Oberon",
+      "Titania",
+      "Umbriel",
+      "Ariel",
+      "Charon",
+      "Phobos",
+      "Deimos",
+      "Mimas",
+      "Enceladus",
+      "Tethys",
+      "Dione",
+      "Iapetus",
+      "Miranda",
+      "Proteus",
+      "Nereid",
+      "Hyperion",
+      "Phoebe",
+      "Vesta",
+      "Eros",
+      "Bennu",
+      "Ryugu",
+      "Juno",
+      "Pallas",
+      "Hygiea",
+      "The Moon",
+      "The Sun",
+      "Asteroid Belt",
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Heliosphere",
+      "Great Red Spot",
+      "Rings Of Saturn",
+      "Olympus Mons",
+      "Valles Marineris",
+      "Syrtis Major",
+      "Tharsis",
+      "Caloris Basin",
+      "Valhalla",
+      "Hellas Basin",
+      "Mare Tranquillitatis",
+      "Tycho Crater",
+      "Fomalhaut B"
+    ],
+    "category" : "Our Solar System",
+    "clues" : [
       {
-        "clue": "TXS",
-        "answer": "TEXAS"
+        "answer" : "MARS",
+        "clue" : "MRS",
+        "difficulty" : 1
       },
       {
-        "clue": "FLRD",
-        "answer": "FLORIDA"
+        "answer" : "VENUS",
+        "clue" : "VNS",
+        "difficulty" : 1
       },
       {
-        "clue": "CLFRN",
-        "answer": "CALIFORNIA"
+        "answer" : "EARTH",
+        "clue" : "RTH",
+        "difficulty" : 2
       },
       {
-        "clue": "MCHGN",
-        "answer": "MICHIGAN"
+        "answer" : "JUPITER",
+        "clue" : "JPTR",
+        "difficulty" : 2
       },
       {
-        "clue": "VRGN",
-        "answer": "VIRGINIA"
+        "answer" : "SATURN",
+        "clue" : "STRN",
+        "difficulty" : 2
       },
       {
-        "clue": "NVD",
-        "answer": "NEVADA"
+        "answer" : "TITAN",
+        "clue" : "TTN",
+        "difficulty" : 5
       },
       {
-        "clue": "RZN",
-        "answer": "ARIZONA"
+        "answer" : "GANYMEDE",
+        "clue" : "GNMD",
+        "difficulty" : 6
       },
       {
-        "clue": "LBM",
-        "answer": "ALABAMA"
+        "answer" : "RINGS OF SATURN",
+        "clue" : "RNGS F STRN",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-04-08",
+  "schemaVersion" : 1
 }

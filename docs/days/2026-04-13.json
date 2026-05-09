@@ -1,43 +1,93 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-13",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Shakespeare Plays",
-    "shareClueIndex": 4,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "New Year's Day",
+      "Martin Luther King Jr. Day",
+      "Presidents' Day",
+      "Valentine's Day",
+      "St. Patrick's Day",
+      "Easter Sunday",
+      "Mother's Day",
+      "Memorial Day",
+      "Father's Day",
+      "Independence Day",
+      "Labor Day",
+      "Columbus Day",
+      "Halloween",
+      "Veterans Day",
+      "Thanksgiving Day",
+      "Christmas Day",
+      "Juneteenth",
+      "New Year's Eve",
+      "Groundhog Day",
+      "Arbor Day",
+      "Flag Day",
+      "Patriot Day",
+      "Lunar New Year",
+      "Hanukkah",
+      "Kwanzaa",
+      "Boxing Day",
+      "Black Friday",
+      "Good Friday",
+      "Cinco De Mayo",
+      "Mardi Gras",
+      "Rosh Hashanah",
+      "Yom Kippur",
+      "Passover",
+      "Palm Sunday",
+      "Ash Wednesday",
+      "Purim",
+      "Diwali",
+      "Ramadan",
+      "All Saints' Day",
+      "Day Of The Dead"
+    ],
+    "category" : "Major US Holidays",
+    "clues" : [
       {
-        "clue": "HMLT",
-        "answer": "HAMLET"
+        "answer" : "CHRISTMAS",
+        "clue" : "CHRS TMS",
+        "difficulty" : 1
       },
       {
-        "clue": "MC BTH",
-        "answer": "MACBETH"
+        "answer" : "HALLOWEEN",
+        "clue" : "HL LW N",
+        "difficulty" : 2
       },
       {
-        "clue": "KNG LR",
-        "answer": "KING LEAR"
+        "answer" : "THANKSGIVING DAY",
+        "clue" : "THN KS GVNG DY",
+        "difficulty" : 3
       },
       {
-        "clue": "TH TM PST",
-        "answer": "THE TEMPEST"
+        "answer" : "VALENTINE'S DAY",
+        "clue" : "VLN TNSD Y",
+        "difficulty" : 4
       },
       {
-        "clue": "MCH D B T NTHNG",
-        "answer": "MUCH ADO ABOUT NOTHING"
+        "answer" : "EASTER SUNDAY",
+        "clue" : "STR SNDY",
+        "difficulty" : 5
       },
       {
-        "clue": "RCH RD TH THRD",
-        "answer": "RICHARD THE THIRD"
+        "answer" : "VETERANS DAY",
+        "clue" : "VT RNS DY",
+        "difficulty" : 5
       },
       {
-        "clue": "TWL FTH NGHT",
-        "answer": "TWELFTH NIGHT"
+        "answer" : "MEMORIAL DAY",
+        "clue" : "MM RLD Y",
+        "difficulty" : 5
       },
       {
-        "clue": "JLS CSR",
-        "answer": "JULIUS CAESAR"
+        "answer" : "INDEPENDENCE DAY",
+        "clue" : "ND PND NCDY",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-13",
+  "schemaVersion" : 1
 }

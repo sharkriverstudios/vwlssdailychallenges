@@ -1,0 +1,91 @@
+{
+  "description" : "pieces, terms & strategies associated with chess",
+  "extraClues" : [
+    {
+      "difficulty" : 1,
+      "clue" : "RK",
+      "answer" : "ROOK"
+    },
+    {
+      "difficulty" : 1,
+      "clue" : "PWN",
+      "answer" : "PAWN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "FRK",
+      "answer" : "FORK"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "N PSSNT",
+      "answer" : "EN PASSANT"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "ZGZWNG",
+      "answer" : "ZUGZWANG"
+    },
+    {
+      "difficulty" : 1,
+      "clue" : "QN",
+      "answer" : "QUEEN"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "FNCHTT",
+      "answer" : "FIANCHETTO"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "PRPTL CHCK",
+      "answer" : "PERPETUAL CHECK"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "LCN PSTN",
+      "answer" : "LUCENA POSITION"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "PTRV'S DFNS",
+      "answer" : "PETROV'S DEFENSE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "DSCVRD TTK",
+      "answer" : "DISCOVERED ATTACK"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "NDRPRMTN",
+      "answer" : "UNDERPROMOTION"
+    }
+  ],
+  "tags" : [
+    "sports",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

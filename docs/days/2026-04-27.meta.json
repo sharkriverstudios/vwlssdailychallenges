@@ -1,0 +1,89 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "clue" : "CMMBRT",
+      "answer" : "CAMEMBERT"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "RQFRT",
+      "answer" : "ROQUEFORT"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PRVLN",
+      "answer" : "PROVOLONE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MNTRY JCK",
+      "answer" : "MONTEREY JACK"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "MSCRPN",
+      "answer" : "MASCARPONE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "GRYR",
+      "answer" : "GRUYERE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "HVRT",
+      "answer" : "HAVARTI"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "STLTN",
+      "answer" : "STILTON"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "PCRN",
+      "answer" : "PECORINO"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "LMBRGR",
+      "answer" : "LIMBURGER"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "TLGG",
+      "answer" : "TALEGGIO"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "WNLYDL",
+      "answer" : "WENSLEYDALE"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "culinary"
+  ]
+}

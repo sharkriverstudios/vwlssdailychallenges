@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "NANCY DREW",
+      "difficulty" : 2,
+      "clue" : "NCY DRW"
+    },
+    {
+      "answer" : "INSPECTOR MORSE",
+      "difficulty" : 6,
+      "clue" : "NSPCTR MRS"
+    },
+    {
+      "answer" : "ELLERY QUEEN",
+      "difficulty" : 7,
+      "clue" : "LLRY QN"
+    },
+    {
+      "answer" : "FATHER BROWN",
+      "difficulty" : 5,
+      "clue" : "FTHR BRWN"
+    },
+    {
+      "answer" : "JULES MAIGRET",
+      "difficulty" : 6,
+      "clue" : "JLS MGR"
+    },
+    {
+      "answer" : "THOMAS MAGNUM",
+      "difficulty" : 6,
+      "clue" : "THMS MGNM"
+    },
+    {
+      "answer" : "DICK TRACY",
+      "difficulty" : 3,
+      "clue" : "DCK TRCY"
+    },
+    {
+      "answer" : "C. AUGUSTE DUPIN",
+      "difficulty" : 9,
+      "clue" : "C GST DP"
+    },
+    {
+      "answer" : "ADRIAN MONK",
+      "difficulty" : 4,
+      "clue" : "DRN MNK"
+    },
+    {
+      "answer" : "VERONICA MARS",
+      "difficulty" : 6,
+      "clue" : "VRNC MRS"
+    },
+    {
+      "answer" : "PERRY MASON",
+      "difficulty" : 2,
+      "clue" : "PRRY MS"
+    },
+    {
+      "answer" : "DETECTIVE MUNCH",
+      "difficulty" : 8,
+      "clue" : "DTCTV MNCH"
+    }
+  ],
+  "tags" : [
+    "literature",
+    "popular culture",
+    "television"
+  ]
+}

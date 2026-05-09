@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "KRKM DSRT",
+      "answer" : "KARAKUM DESERT",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "THR DSRT",
+      "answer" : "THAR DESERT",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TKLMKN DSRT",
+      "answer" : "TAKLAMAKAN DESERT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NGV DSRT",
+      "answer" : "NEGEV DESERT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PTGNN DSRT",
+      "answer" : "PATAGONIAN DESERT",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "CHHWHN DSRT",
+      "answer" : "CHIHUAHUAN DESERT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "GRT VCTR DSRT",
+      "answer" : "GREAT VICTORIA DESERT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SMPSN DSRT",
+      "answer" : "SIMPSPON DESERT",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "KYZLKM DSRT",
+      "answer" : "KYZYLKUM DESERT",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "SRYN DSRT",
+      "answer" : "SYRIAN DESERT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CNTRL SN NRTHRN DSRT",
+      "answer" : "CENTRAL ASIAN NORTHERN DESERT",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "RGSTN DSRT",
+      "answer" : "REGISTAN DESERT",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "geography",
+    "nature"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "BOSTON RED SOX",
+      "clue" : "BSTN RD SX",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "DETROIT TIGERS",
+      "clue" : "DTRT TGRS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CHICAGO WHITE SOX",
+      "clue" : "CHCG WHT SX",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "BALTIMORE ORIOLES",
+      "clue" : "BLTMR RLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "OAKLAND ATHLETICS",
+      "clue" : "KLND THLTCS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CLEVELAND GUARDIANS",
+      "clue" : "CLVLND GRDNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MINNESOTA TWINS",
+      "clue" : "MNNST TWNS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "LOS ANGELES DODGERS",
+      "clue" : "LS NGLS DDGRS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "WASHINGTON NATIONALS",
+      "clue" : "WSHNGTN NTNLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HOUSTON ASTROS",
+      "clue" : "HSTN STRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TORONTO BLUE JAYS",
+      "clue" : "TRNT BL JYS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MILWAUKEE BREWERS",
+      "clue" : "MLWKK BRWRS",
+      "difficulty" : 5
+    }
+  ],
+  "tags" : [
+    "sports",
+    "history"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "The MLB baseball teams that started longest ago and are still around today"
+}

@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "Current and Historical American Car Brands",
+  "extraClues" : [
+    {
+      "clue" : "D DG",
+      "answer" : "DODGE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BCK",
+      "answer" : "BUICK",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "GMC",
+      "answer" : "GMC",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "RM",
+      "answer" : "RAM",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "JP",
+      "answer" : "JEEP",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "PNTC",
+      "answer" : "PONTIAC",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "MRCRY",
+      "answer" : "MERCURY",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "STRN",
+      "answer" : "SATURN",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "PLYMTH",
+      "answer" : "PLYMOUTH",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "HMMR",
+      "answer" : "HUMMER",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "MC",
+      "answer" : "AMC",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "PCKRD",
+      "answer" : "PACKARD",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "business",
+    "popular culture",
+    "history"
+  ]
+}

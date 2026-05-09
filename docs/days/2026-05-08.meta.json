@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "SOUTHWEST AIRLINES",
+      "difficulty" : 3,
+      "clue" : "STHWST RLNS"
+    },
+    {
+      "answer" : "RYANAIR",
+      "difficulty" : 4,
+      "clue" : "RYNR"
+    },
+    {
+      "answer" : "CATHAY PACIFIC AIRWAYS",
+      "difficulty" : 5,
+      "clue" : "CTHY PCFC RWYS"
+    },
+    {
+      "answer" : "QANTAS",
+      "difficulty" : 5,
+      "clue" : "QNTS"
+    },
+    {
+      "answer" : "QATAR AIRWAYS",
+      "difficulty" : 5,
+      "clue" : "QTR RWYS"
+    },
+    {
+      "answer" : "AIR CANADA",
+      "difficulty" : 5,
+      "clue" : "R CND"
+    },
+    {
+      "answer" : "KOREAN AIR",
+      "difficulty" : 5,
+      "clue" : "KRN R"
+    },
+    {
+      "answer" : "SINGAPORE AIRLINES",
+      "difficulty" : 4,
+      "clue" : "SNGPR RLNS"
+    },
+    {
+      "answer" : "TURKISH AIRLINES",
+      "difficulty" : 4,
+      "clue" : "TRKSH RLNS"
+    },
+    {
+      "answer" : "JETBLUE AIRWAYS",
+      "difficulty" : 5,
+      "clue" : "JTBLL RWYS"
+    },
+    {
+      "answer" : "SWISS INTERNATIONAL AIR LINES",
+      "difficulty" : 7,
+      "clue" : "SWSS NTRNTNL R LNS"
+    },
+    {
+      "answer" : "NORWEGIAN AIR SHUTTLE",
+      "difficulty" : 7,
+      "clue" : "NRWGN R SHTTL"
+    }
+  ],
+  "tags" : [
+    "business",
+    "geography",
+    "popular culture"
+  ]
+}

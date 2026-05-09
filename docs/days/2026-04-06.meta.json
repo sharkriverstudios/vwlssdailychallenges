@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "HSTN",
+      "answer" : "HOUSTON",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "MM",
+      "answer" : "MIAMI",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "PHLDLPH",
+      "answer" : "PHILADELPHIA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BLTMR",
+      "answer" : "BALTIMORE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "BFFL",
+      "answer" : "BUFFALO",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "CLVLND",
+      "answer" : "CLEVELAND",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "DTRT",
+      "answer" : "DETROIT",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "GRN BY",
+      "answer" : "GREEN BAY",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "MNNST",
+      "answer" : "MINNESOTA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "NW RLNS",
+      "answer" : "NEW ORLEANS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "PTTSBRGH",
+      "answer" : "PITTSBURGH",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TNNSS",
+      "answer" : "TENNESSEE",
+      "difficulty" : 5
+    }
+  ],
+  "tags" : [
+    "sports",
+    "geography"
+  ]
+}

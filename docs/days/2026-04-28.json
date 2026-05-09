@@ -1,43 +1,114 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-28",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Major Deserts",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Mississippi River",
+      "Missouri River",
+      "Yukon River",
+      "Rio Grande",
+      "Colorado River",
+      "Arkansas River",
+      "Columbia River",
+      "Red River",
+      "Ohio River",
+      "Snake River",
+      "St. Lawrence River",
+      "Potomac River",
+      "Hudson River",
+      "Tennessee River",
+      "Chattahoochee River",
+      "Sacramento River",
+      "Delaware River",
+      "Allegheny River",
+      "Susquehanna River",
+      "Illinois River",
+      "Platte River",
+      "Canadian River",
+      "James River",
+      "Savannah River",
+      "Pecos River",
+      "Apalachicola River",
+      "Connecticut River",
+      "Cumberland River",
+      "Trinity River",
+      "Brazos River",
+      "Neches River",
+      "Mobile River",
+      "Kansas River",
+      "Skagit River",
+      "Kenai River",
+      "Kuskokwim River",
+      "Des Moines River",
+      "Willamette River",
+      "Gila River",
+      "Milk River",
+      "Green River",
+      "Red River Of The North",
+      "Fraser River",
+      "Peace River",
+      "Ottawa River",
+      "Saint John River",
+      "Nelson River",
+      "Mackenzie River",
+      "Churchill River",
+      "Saskatchewan River",
+      "Rio Usumacinta",
+      "Rio Balsas",
+      "Rio Conchos",
+      "Rio Lerma",
+      "Rio Papaloapan",
+      "Yampa River",
+      "Powder River",
+      "Wabash River",
+      "Kootenay River",
+      "Licking River",
+      "Roanoke River"
+    ],
+    "category" : "North American Rivers",
+    "clues" : [
       {
-        "clue": "SHR",
-        "answer": "SAHARA"
+        "answer" : "MISSISSIPPI RIVER",
+        "clue" : "MSSSSPP RVR",
+        "difficulty" : 2
       },
       {
-        "clue": "GB",
-        "answer": "GOBI"
+        "answer" : "COLUMBIA RIVER",
+        "clue" : "CLMB RVR",
+        "difficulty" : 3
       },
       {
-        "clue": "TCM",
-        "answer": "ATACAMA"
+        "answer" : "ST LAWRENCE",
+        "clue" : "ST LWRNC",
+        "difficulty" : 3
       },
       {
-        "clue": "K LH R",
-        "answer": "KALAHARI"
+        "answer" : "COLORADO RIVER",
+        "clue" : "CLR DR VR",
+        "difficulty" : 4
       },
       {
-        "clue": "MJV",
-        "answer": "MOJAVE"
+        "answer" : "RIO GRANDE",
+        "clue" : "RG RND",
+        "difficulty" : 4
       },
       {
-        "clue": "DTHVLL",
-        "answer": "DEATH VALLEY"
+        "answer" : "DELAWARE RIVER",
+        "clue" : "DL WRR VR",
+        "difficulty" : 5
       },
       {
-        "clue": "SN RN",
-        "answer": "SONORAN"
+        "answer" : "POTOMAC",
+        "clue" : "PTMC",
+        "difficulty" : 5
       },
       {
-        "clue": "NM BD SRT",
-        "answer": "NAMIB DESERT"
+        "answer" : "YUKON",
+        "clue" : "YKN",
+        "difficulty" : 5
       }
-    ]
-  }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-04-28",
+  "schemaVersion" : 1
 }

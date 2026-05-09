@@ -1,43 +1,97 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-10",
-  "challenge": {
-    "difficulty": 2,
-    "category": "U.S. National Parks",
-    "shareClueIndex": 5,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Dolphin",
+      "Blue Whale",
+      "Humpback Whale",
+      "Sperm Whale",
+      "Orca",
+      "Narwhal",
+      "Beluga Whale",
+      "Gray Whale",
+      "Minke Whale",
+      "Pilot Whale",
+      "Fin Whale",
+      "Killer Whale",
+      "Bottlenose Dolphin",
+      "Common Dolphin",
+      "Spinner Dolphin",
+      "Risso's Dolphin",
+      "Harbor Porpoise",
+      "Vaquita",
+      "Dall's Porpoise",
+      "Sea Otter",
+      "Walrus",
+      "Manatee",
+      "Dugong",
+      "Steller Sea Lion",
+      "California Sea Lion",
+      "Australian Sea Lion",
+      "Hawaiian Monk Seal",
+      "Mediterranean Monk Seal",
+      "Northern Elephant Seal",
+      "Southern Elephant Seal",
+      "Harp Seal",
+      "Hooded Seal",
+      "Bearded Seal",
+      "Ribbon Seal",
+      "Weddell Seal",
+      "Crabeater Seal",
+      "Leopard Seal",
+      "Ross Seal",
+      "Baikal Seal",
+      "Amazon River Dolphin",
+      "Ganges River Dolphin",
+      "Indus River Dolphin",
+      "Yangtze River Dolphin",
+      "South Asian River Dolphin"
+    ],
+    "category" : "Sea Mammals",
+    "clues" : [
       {
-        "clue": "YLLW STN",
-        "answer": "YELLOWSTONE"
+        "answer" : "DOLPHIN",
+        "clue" : "DLPHN",
+        "difficulty" : 1
       },
       {
-        "clue": "GRND CNYN",
-        "answer": "GRAND CANYON"
+        "answer" : "WALRUS",
+        "clue" : "WLRS",
+        "difficulty" : 2
       },
       {
-        "clue": "YS MT",
-        "answer": "YOSEMITE"
+        "answer" : "BLUE WHALE",
+        "clue" : "BL WHL",
+        "difficulty" : 3
       },
       {
-        "clue": "ZN",
-        "answer": "ZION"
+        "answer" : "NARWHAL",
+        "clue" : "NRWHL",
+        "difficulty" : 4
       },
       {
-        "clue": "RCKY MNTN",
-        "answer": "ROCKY MOUNTAIN"
+        "answer" : "SEA OTTER",
+        "clue" : "ST TR",
+        "difficulty" : 5
       },
       {
-        "clue": "CRTR LK",
-        "answer": "CRATER LAKE"
+        "answer" : "ORCA",
+        "clue" : "RC",
+        "difficulty" : 6
       },
       {
-        "clue": "GRND TTN",
-        "answer": "GRAND TETON"
+        "answer" : "MANATEE",
+        "clue" : "MNT",
+        "difficulty" : 6
       },
       {
-        "clue": "GLCR",
-        "answer": "GLACIER"
+        "answer" : "HUMPBACK WHALE",
+        "clue" : "HM PB CKW HL",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-04-10",
+  "schemaVersion" : 1
 }

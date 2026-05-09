@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "VESPER LYND",
+      "difficulty" : 5,
+      "clue" : "VSPR LYND"
+    },
+    {
+      "answer" : "ALEC TREVELYAN",
+      "difficulty" : 7,
+      "clue" : "LC TRVLYN"
+    },
+    {
+      "answer" : "SILVA",
+      "difficulty" : 6,
+      "clue" : "SLV"
+    },
+    {
+      "answer" : "SCARAMANGA",
+      "difficulty" : 7,
+      "clue" : "SCRMNG"
+    },
+    {
+      "answer" : "TRACY BOND",
+      "difficulty" : 5,
+      "clue" : "TRCY BND"
+    },
+    {
+      "answer" : "Q",
+      "difficulty" : 1,
+      "clue" : "Q"
+    },
+    {
+      "answer" : "LE CHIFFRE",
+      "difficulty" : 6,
+      "clue" : "L CHFFR"
+    },
+    {
+      "answer" : "TIFFANY CASE",
+      "difficulty" : 7,
+      "clue" : "TFFNY CS"
+    },
+    {
+      "answer" : "HOLLY GOODHEAD",
+      "difficulty" : 8,
+      "clue" : "HLLY GDHD"
+    },
+    {
+      "answer" : "NATALYA SIMONOVA",
+      "difficulty" : 9,
+      "clue" : "NTLY SMNV"
+    },
+    {
+      "answer" : "ROSA KLEBB",
+      "difficulty" : 8,
+      "clue" : "RS KLBB"
+    },
+    {
+      "answer" : "BARON SAMEDI",
+      "difficulty" : 9,
+      "clue" : "BRN SMD"
+    }
+  ],
+  "description" : "Characters from the movie franchise",
+  "tags" : [
+    "cinema",
+    "popular culture"
+  ]
+}

@@ -1,51 +1,110 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-03",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Famous Pirates",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Hamilton",
+      "Wicked",
+      "The Book Of Mormon",
+      "Dear Evan Hansen",
+      "Avenue Q",
+      "Spring Awakening",
+      "The Producers",
+      "In The Heights",
+      "Jersey Boys",
+      "Hairspray",
+      "Kinky Boots",
+      "Mean Girls",
+      "Come From Away",
+      "The Band's Visit",
+      "Once",
+      "Waitress",
+      "The Addams Family",
+      "Aladdin",
+      "Frozen",
+      "The Lion King",
+      "Matilda",
+      "Billy Elliot",
+      "Next To Normal",
+      "Hadestown",
+      "The Prom",
+      "Beetlejuice",
+      "Anastasia",
+      "School Of Rock",
+      "The Color Purple",
+      "Legally Blonde",
+      "The Last Five Years",
+      "American Idiot",
+      "Fun Home",
+      "Beautiful: The Carole King Musical",
+      "Newsies",
+      "Groundhog Day",
+      "A Gentleman's Guide To Love And Murder",
+      "Shrek The Musical",
+      "Spamalot",
+      "Rock Of Ages",
+      "The Drowsy Chaperone",
+      "The Book Of Mormon",
+      "The SpongeBob Musical",
+      "Moulin Rouge!",
+      "Tina: The Tina Turner Musical",
+      "A Bronx Tale",
+      "Charlie And The Chocolate Factory",
+      "The Cher Show",
+      "The Bridges Of Madison County",
+      "Finding Neverland",
+      "Big Fish",
+      "Amelie",
+      "Bring It On: The Musical",
+      "Catch Me If You Can",
+      "Sister Act",
+      "Seussical",
+      "The Wedding Singer"
+    ],
+    "category" : "Broadway Musicals of the 21st century",
+    "clues" : [
       {
-        "clue": "BLCKBRD",
-        "answer": "BLACKBEARD",
-        "difficulty": 2
+        "answer" : "WICKED",
+        "clue" : "WCKD",
+        "difficulty" : 1
       },
       {
-        "clue": "NN BN NY",
-        "answer": "ANNE BONNY",
-        "difficulty": 3
+        "answer" : "HAMILTON",
+        "clue" : "H ML TN",
+        "difficulty" : 2
       },
       {
-        "clue": "MRY RD",
-        "answer": "MARY READ",
-        "difficulty": 3
+        "answer" : "HAIRSPRAY",
+        "clue" : "H RSP R",
+        "difficulty" : 3
       },
       {
-        "clue": "HNRY MRGN",
-        "answer": "HENRY MORGAN",
-        "difficulty": 4
+        "answer" : "KINKY BOOTS",
+        "clue" : "KNKBTS",
+        "difficulty" : 4
       },
       {
-        "clue": "WLL MKD D",
-        "answer": "WILLIAM KIDD",
-        "difficulty": 5
+        "answer" : "COME FROM AWAY",
+        "clue" : "CM FRM WY",
+        "difficulty" : 4
       },
       {
-        "clue": "DWRD LW",
-        "answer": "EDWARD LOW",
-        "difficulty": 6
+        "answer" : "AVENUE Q",
+        "clue" : "V NQ",
+        "difficulty" : 5
       },
       {
-        "clue": "CL C JC K",
-        "answer": "CALICO JACK",
-        "difficulty": 7
+        "answer" : "IN THE HEIGHTS",
+        "clue" : "NT HHG HTS",
+        "difficulty" : 5
       },
       {
-        "clue": "BRTH LMWRB RTS",
-        "answer": "BARTHOLOMEW ROBERTS",
-        "difficulty": 9
+        "answer" : "THE BOOK OF MORMON",
+        "clue" : "THB KF MRMN",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-03",
+  "schemaVersion" : 1
 }

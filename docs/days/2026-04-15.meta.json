@@ -1,0 +1,91 @@
+{
+  "description" : "Common Kitchen Tools",
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "clue" : "PTT MSHR",
+      "answer" : "POTATO MASHER"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "ZSTR",
+      "answer" : "ZESTER"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "BRD KNF",
+      "answer" : "BREAD KNIFE"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "PLR",
+      "answer" : "PEELER"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "RLLNG PN",
+      "answer" : "ROLLING PIN"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "CN PNR",
+      "answer" : "CAN OPENER"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "MT TNDRZR",
+      "answer" : "MEAT TENDERIZER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "KTCHN SHRS",
+      "answer" : "KITCHEN SHEARS"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MRTR ND PSTL",
+      "answer" : "MORTAR AND PESTLE"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "CHS GRTR",
+      "answer" : "CHEESE GRATER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "SLD SPNNR",
+      "answer" : "SALAD SPINNER"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "CK CTT",
+      "answer" : "COOKIE CUTTER"
+    }
+  ],
+  "tags" : [
+    "culinary",
+    "home"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "geography",
+    "nature"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "MNT CNCCG",
+      "difficulty" : 7,
+      "answer" : "MOUNT ACONCAGUA"
+    },
+    {
+      "clue" : "MNT KNY",
+      "difficulty" : 5,
+      "answer" : "MOUNT KENYA"
+    },
+    {
+      "clue" : "MNT WHTNY",
+      "difficulty" : 5,
+      "answer" : "MOUNT WHITNEY"
+    },
+    {
+      "clue" : "MNT TN",
+      "difficulty" : 4,
+      "answer" : "MOUNT ETNA"
+    },
+    {
+      "clue" : "MNT KSCSZK",
+      "difficulty" : 8,
+      "answer" : "MOUNT KOSCIUSZKO"
+    },
+    {
+      "clue" : "MNT LBR",
+      "difficulty" : 5,
+      "answer" : "MOUNT ELBRUS"
+    },
+    {
+      "clue" : "TBL MNTN",
+      "difficulty" : 3,
+      "answer" : "TABLE MOUNTAIN"
+    },
+    {
+      "clue" : "MNT RNR",
+      "difficulty" : 5,
+      "answer" : "MOUNT RAINIER"
+    },
+    {
+      "clue" : "K2",
+      "difficulty" : 1,
+      "answer" : "K2"
+    },
+    {
+      "clue" : "MNT MCKNL",
+      "difficulty" : 6,
+      "answer" : "MOUNT MC KINLEY"
+    },
+    {
+      "clue" : "MNT KTHTN",
+      "difficulty" : 7,
+      "answer" : "MOUNT KATAHDIN"
+    },
+    {
+      "clue" : "MNT PPCTPTL",
+      "difficulty" : 9,
+      "answer" : "MOUNT POPCATEPETL"
+    }
+  ]
+}

@@ -1,43 +1,87 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-13",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Ice Cream Flavors",
-    "shareClueIndex": 5,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Ford",
+      "Chevrolet",
+      "Cadillac",
+      "Chrysler",
+      "Dodge",
+      "Jeep",
+      "Tesla",
+      "Buick",
+      "Lincoln",
+      "GMC",
+      "Ram",
+      "Pontiac",
+      "Oldsmobile",
+      "Mercury",
+      "Saturn",
+      "Plymouth",
+      "Hummer",
+      "Studebaker",
+      "AMC",
+      "Packard",
+      "DeLorean",
+      "Rivian",
+      "Fisker",
+      "Saleen",
+      "Shelby",
+      "Zimmer",
+      "Vector",
+      "Excalibur",
+      "Tucker",
+      "Eagle",
+      "Scion",
+      "Geo",
+      "Imperial",
+      "SRT"
+    ],
+    "category" : "American Car Brands",
+    "clues" : [
       {
-        "clue": "VNLL",
-        "answer": "VANILLA"
+        "answer" : "FORD",
+        "clue" : "FRD",
+        "difficulty" : 1
       },
       {
-        "clue": "CHC LT",
-        "answer": "CHOCOLATE"
+        "answer" : "TESLA",
+        "clue" : "TSL",
+        "difficulty" : 2
       },
       {
-        "clue": "ST RWBR RY",
-        "answer": "STRAWBERRY"
+        "answer" : "CHEVROLET",
+        "clue" : "CHVRLT",
+        "difficulty" : 3
       },
       {
-        "clue": "MNTCHCLTCHP",
-        "answer": "MINT CHOCOLATE CHIP"
+        "answer" : "CADILLAC",
+        "clue" : "CDLLC",
+        "difficulty" : 4
       },
       {
-        "clue": "CK SND CRM",
-        "answer": "COOKIES AND CREAM"
+        "answer" : "CHRYSLER",
+        "clue" : "CHRSLR",
+        "difficulty" : 4
       },
       {
-        "clue": "RCKRD",
-        "answer": "ROCKY ROAD"
+        "answer" : "LINCOLN",
+        "clue" : "LN CLN",
+        "difficulty" : 5
       },
       {
-        "clue": "BT TRP CN",
-        "answer": "BUTTER PECAN"
+        "answer" : "OLDSMOBILE",
+        "clue" : "LDSMBL",
+        "difficulty" : 6
       },
       {
-        "clue": "NP LT N",
-        "answer": "NEAPOLITAN"
+        "answer" : "STUDEBAKER",
+        "clue" : "STDBKR",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-13",
+  "schemaVersion" : 1
 }

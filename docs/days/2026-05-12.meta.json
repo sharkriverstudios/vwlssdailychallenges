@@ -1,0 +1,89 @@
+{
+  "tags" : [
+    "sports"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "PORTLAND TRAIL BLAZERS",
+      "clue" : "PRTLND TRL BLZRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BROOKLYN NETS",
+      "clue" : "BRKLYN NTS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "PHILADELPHIA 76ERS",
+      "clue" : "PHLDLPH 76RS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HOUSTON ROCKETS",
+      "clue" : "HSTN RCKTS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "MINNESOTA TIMBERWOLVES",
+      "clue" : "MNNST TMBRWLVS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MILWAUKEE BUCKS",
+      "clue" : "MLWK BCKS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "UTAH JAZZ",
+      "clue" : "TH JZZ",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "ORLANDO MAGIC",
+      "clue" : "RLND MGC",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "ATLANTA HAWKS",
+      "clue" : "TLNT HWKS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "DENVER NUGGETS",
+      "clue" : "DNVR NGGTS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SACRAMENTO KINGS",
+      "clue" : "SCRMNT KNGS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WASHINGTON WIZARDS",
+      "clue" : "WSHNGTN WZRDS",
+      "difficulty" : 4
+    }
+  ]
+}

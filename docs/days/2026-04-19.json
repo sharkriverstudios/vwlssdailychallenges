@@ -1,51 +1,84 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-19",
-  "challenge": {
-    "difficulty": 3,
-    "category": "Graphic Design Colors",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear",
+      "Romeo And Juliet",
+      "Julius Caesar",
+      "Antony And Cleopatra",
+      "Coriolanus",
+      "Timon Of Athens",
+      "Titus Andronicus",
+      "Troilus And Cressida",
+      "All's Well That Ends Well",
+      "Measure For Measure",
+      "The Winter's Tale",
+      "Pericles, Prince Of Tyre",
+      "Cymbeline",
+      "The Tempest",
+      "The Two Noble Kinsmen",
+      "Love's Labour's Lost",
+      "The Merchant Of Venice",
+      "The Merry Wives Of Windsor",
+      "Much Ado About Nothing",
+      "Twelfth Night",
+      "As You Like It",
+      "A Midsummer Night's Dream",
+      "The Taming Of The Shrew",
+      "The Comedy Of Errors",
+      "The Two Gentlemen Of Verona",
+      "The Tragedy Of Richard III",
+      "The Tragedy Of Richard II",
+      "The Tragedy Of King John"
+    ],
+    "category" : "Shakespeare Dramas",
+    "clues" : [
       {
-        "clue": "RD",
-        "answer": "RED",
-        "difficulty": 1
+        "answer" : "ROMEO AND JULIET",
+        "clue" : "RM ND JLT",
+        "difficulty" : 1
       },
       {
-        "clue": "BL",
-        "answer": "BLUE",
-        "difficulty": 2
+        "answer" : "HAMLET",
+        "clue" : "HMLT",
+        "difficulty" : 2
       },
       {
-        "clue": "YLLW",
-        "answer": "YELLOW",
-        "difficulty": 3
+        "answer" : "MACBETH",
+        "clue" : "M CB TH",
+        "difficulty" : 2
       },
       {
-        "clue": "CN",
-        "answer": "CYAN",
-        "difficulty": 3
+        "answer" : "OTHELLO",
+        "clue" : "THLL",
+        "difficulty" : 3
       },
       {
-        "clue": "MGNT",
-        "answer": "MAGENTA",
-        "difficulty": 4
+        "answer" : "KING LEAR",
+        "clue" : "KNG LR",
+        "difficulty" : 3
       },
       {
-        "clue": "BLCK",
-        "answer": "BLACK",
-        "difficulty": 5
+        "answer" : "ANTONY AND CLEOPATRA",
+        "clue" : "NTN ND CLPTR",
+        "difficulty" : 5
       },
       {
-        "clue": "WHT",
-        "answer": "WHITE",
-        "difficulty": 6
+        "answer" : "TITUS ANDRONICUS",
+        "clue" : "TTS NDRNCS",
+        "difficulty" : 7
       },
       {
-        "clue": "GRY",
-        "answer": "GRAY",
-        "difficulty": 7
+        "answer" : "TIMON OF ATHENS",
+        "clue" : "T MN FT HNS",
+        "difficulty" : 8
       }
-    ]
-  }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-04-19",
+  "schemaVersion" : 1
 }

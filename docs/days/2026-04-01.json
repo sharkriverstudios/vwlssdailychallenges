@@ -1,51 +1,109 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-01",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Dickens Characters",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Ebenezer Scrooge",
+      "Tiny Tim",
+      "Oliver Twist",
+      "Fagin",
+      "Bill Sikes",
+      "Nancy",
+      "Mr. Bumble",
+      "David Copperfield",
+      "Uriah Heep",
+      "Mr. Micawber",
+      "Betsey Trotwood",
+      "Sydney Carton",
+      "Estella",
+      "Miss Havisham",
+      "Joe Gargery",
+      "Pip",
+      "Magwitch",
+      "Mr. Jaggers",
+      "Herbert Pocket",
+      "Thomas Gradgrind",
+      "Sissy Jupe",
+      "Mr. Murdstone",
+      "Rosa Dartle",
+      "Nicholas Nickleby",
+      "Kate Nickleby",
+      "Wackford Squeers",
+      "Barnaby Rudge",
+      "Mr. Pickwick",
+      "Sam Weller",
+      "Lady Dedlock",
+      "Arthur Clennam",
+      "Amy Dorrit",
+      "Little Nell",
+      "Quilp",
+      "Paul Dombey",
+      "Florence Dombey",
+      "Mr. Creakle",
+      "James Steerforth",
+      "Betsy Trotwood",
+      "Mrs. Jellyby",
+      "Mrs. Gummidge",
+      "Bella Wilfer",
+      "Mr. Boffin",
+      "Lucie Manette",
+      "Charles Darnay",
+      "Rachael",
+      "Stephen Blackpool",
+      "John Harmon",
+      "Bradley Headstone",
+      "Tom Pinch",
+      "Ralph Nickleby",
+      "Mrs. Clennam",
+      "Jenny Wren",
+      "Rachel Wardle",
+      "Mr. Podsnap",
+      "Mr. Toots"
+    ],
+    "category" : "Dickens Characters",
+    "clues" : [
       {
-        "clue": "LVR TWST",
-        "answer": "OLIVER TWIST",
-        "difficulty": 2
+        "answer" : "TINY TIM",
+        "clue" : "TN TM",
+        "difficulty" : 1
       },
       {
-        "clue": "BNZRSCRG",
-        "answer": "EBENEZER SCROOGE",
-        "difficulty": 8
+        "answer" : "EBENEZER SCROOGE",
+        "clue" : "BNZR SCRG",
+        "difficulty" : 2
       },
       {
-        "clue": "FGN",
-        "answer": "FAGIN",
-        "difficulty": 3
+        "answer" : "OLIVER TWIST",
+        "clue" : "LVR TWST",
+        "difficulty" : 2
       },
       {
-        "clue": "TNY TM",
-        "answer": "TINY TIM",
-        "difficulty": 3
+        "answer" : "DAVID COPPERFIELD",
+        "clue" : "DVD CPPRFLD",
+        "difficulty" : 3
       },
       {
-        "clue": "RH HP",
-        "answer": "URIAH HEEP",
-        "difficulty": 4
+        "answer" : "MISS HAVISHAM",
+        "clue" : "MSS HVSHM",
+        "difficulty" : 4
       },
       {
-        "clue": "MSS HVSHM",
-        "answer": "MISS HAVISHAM",
-        "difficulty": 5
+        "answer" : "SYDNEY CARTON",
+        "clue" : "SDN CRTN",
+        "difficulty" : 5
       },
       {
-        "clue": "DVDCPP RFLD",
-        "answer": "DAVID COPPERFIELD",
-        "difficulty": 6
+        "answer" : "URIAH HEEP",
+        "clue" : "RH HP",
+        "difficulty" : 5
       },
       {
-        "clue": "MRMC WBR",
-        "answer": "MR MICAWBER",
-        "difficulty": 7
+        "answer" : "MR. MICAWBER",
+        "clue" : "MR MCWBR",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-04-01",
+  "schemaVersion" : 1
 }

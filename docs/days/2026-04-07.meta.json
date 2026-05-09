@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "geography",
+    "common knowledge"
+  ],
+  "description" : "U.S. States that border the ocean, favoring ones with longer coastlines",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "OREGON",
+      "clue" : "RGN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "WASHINGTON",
+      "clue" : "WSHNGTN",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "MAINE",
+      "clue" : "MN",
+      "difficulty" : 1
+    },
+    {
+      "answer" : "VIRGINIA",
+      "clue" : "VRGNN",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "NORTH CAROLINA",
+      "clue" : "NRTH CRLN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MASSACHUSETTS",
+      "clue" : "MSSCHSTTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "NEW YORK",
+      "clue" : "NW YRK",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "NEW JERSEY",
+      "clue" : "NW JRSY",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "MARYLAND",
+      "clue" : "MRYLND",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "LOUISIANA",
+      "clue" : "LSN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SOUTH CAROLINA",
+      "clue" : "STH CRLN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DELAWARE",
+      "clue" : "DLWR",
+      "difficulty" : 2
+    }
+  ]
+}

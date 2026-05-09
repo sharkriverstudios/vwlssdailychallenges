@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "popular culture",
+    "technology",
+    "business"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "PARAMOUNT PLUS",
+      "clue" : "PRMNT PLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ESPN PLUS",
+      "clue" : "SPN PLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CRUNCHYROLL",
+      "clue" : "CRNCHYRL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SHOWTIME",
+      "clue" : "SHTM",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "YOUTUBE",
+      "clue" : "YT",
+      "difficulty" : 1
+    },
+    {
+      "answer" : "TUBI",
+      "clue" : "TB",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "PLUTO TV",
+      "clue" : "PLT TV",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "FUNIMATION",
+      "clue" : "FNMNTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SHUDDER",
+      "clue" : "SHDDR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FUBOTV",
+      "clue" : "FBTV",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CRAVE",
+      "clue" : "CRV",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "STARZ",
+      "clue" : "STRZ",
+      "difficulty" : 3
+    }
+  ]
+}

@@ -1,43 +1,94 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-12",
-  "challenge": {
-    "difficulty": 2,
-    "category": "Midwest Tourist Attractions",
-    "shareClueIndex": 2,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Mount Rushmore",
+      "Badlands National Park",
+      "The Gateway Arch",
+      "Crazy Horse Memorial",
+      "Corn Palace",
+      "Wall Drug",
+      "Pioneer Village",
+      "Carhenge",
+      "Flint Hills",
+      "Boot Hill Museum",
+      "The Enchanted Highway",
+      "Tallgrass Prairie National Preserve",
+      "Custer State Park",
+      "Lewis And Clark Interpretive Center",
+      "International Peace Garden",
+      "The Prairie Museum Of Art And History",
+      "Chimney Rock National Historic Site",
+      "Niobrara National Scenic River",
+      "The Buffalo Bill Ranch",
+      "The Great Platte River Road Archway Monument",
+      "Homestead National Historical Park",
+      "Monument Rocks",
+      "Scotts Bluff National Monument",
+      "Fort Robinson State Park",
+      "The World's Largest Ball Of Twine",
+      "Dinosaur Park",
+      "The Kansas Cosmosphere",
+      "Fort Larned National Historic Site",
+      "The Tallgrass Prairie Preserve",
+      "Sod House Museum",
+      "The Little House On The Prairie Museum",
+      "The Great Plains Zoo",
+      "Prairie Dog Town",
+      "The National Buffalo Museum",
+      "The Ingalls Homestead",
+      "The Geographic Center Of The United States",
+      "Pipestone National Monument",
+      "The Pawnee Indian Museum State Historic Site",
+      "The Cowboy Hall Of Fame",
+      "Knife River Indian Villages National Historic Site",
+      "The Great Plains Art Museum"
+    ],
+    "category" : "Tourist Attractions of the Great Plains",
+    "clues" : [
       {
-        "clue": "MNT RSH MR",
-        "answer": "MOUNT RUSHMORE"
+        "answer" : "MOUNT RUSHMORE",
+        "clue" : "MNT RSHMR",
+        "difficulty" : 2
       },
       {
-        "clue": "ST LS RCH",
-        "answer": "ST LOUIS ARCH"
+        "answer" : "CRAZY HORSE MEMORIAL",
+        "clue" : "CRZ HRS MMRL",
+        "difficulty" : 3
       },
       {
-        "clue": "MLL F MRC",
-        "answer": "MALL OF AMERICA"
+        "answer" : "BADLANDS NATIONAL PARK",
+        "clue" : "BDLNDS NTNL PRK",
+        "difficulty" : 3
       },
       {
-        "clue": "MCK NC SLND",
-        "answer": "MACKINAC ISLAND"
+        "answer" : "THE GATEWAY ARCH",
+        "clue" : "THGT WY RCH",
+        "difficulty" : 4
       },
       {
-        "clue": "RCK ND RLL HLL F FM",
-        "answer": "ROCK AND ROLL HALL OF FAME"
+        "answer" : "WALL DRUG",
+        "clue" : "WL LDRG",
+        "difficulty" : 4
       },
       {
-        "clue": "C DR PNT",
-        "answer": "CEDAR POINT"
+        "answer" : "INTERNATIONAL PEACE GARDEN",
+        "clue" : "NTRNTNL PC GRDN",
+        "difficulty" : 5
       },
       {
-        "clue": "M T WN MS M",
-        "answer": "MOTOWN MUSEUM"
+        "answer" : "CORN PALACE",
+        "clue" : "CR NP LC",
+        "difficulty" : 5
       },
       {
-        "clue": "NDNPLS MTR SPDWY",
-        "answer": "INDIANAPOLIS MOTOR SPEEDWAY"
+        "answer" : "CARHENGE",
+        "clue" : "CRHNG",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-04-12",
+  "schemaVersion" : 1
 }

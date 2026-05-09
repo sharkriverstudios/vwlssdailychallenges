@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "RTMS",
+      "difficulty" : 5,
+      "answer" : "ARTEMIS"
+    },
+    {
+      "clue" : "HRMS",
+      "difficulty" : 5,
+      "answer" : "HERMES"
+    },
+    {
+      "clue" : "DMTR",
+      "difficulty" : 4,
+      "answer" : "DEMETER"
+    },
+    {
+      "clue" : "DNS",
+      "difficulty" : 5,
+      "answer" : "DIONYSUS"
+    },
+    {
+      "clue" : "PRSPHN",
+      "difficulty" : 7,
+      "answer" : "PERSEPHONE"
+    },
+    {
+      "clue" : "HCT",
+      "difficulty" : 6,
+      "answer" : "HECATE"
+    },
+    {
+      "clue" : "THNTS",
+      "difficulty" : 8,
+      "answer" : "THANATOS"
+    },
+    {
+      "clue" : "HCT",
+      "difficulty" : 6,
+      "answer" : "HECATE"
+    },
+    {
+      "clue" : "PRMTHS",
+      "difficulty" : 7,
+      "answer" : "PROMETHEUS"
+    },
+    {
+      "clue" : "MNMSYN",
+      "difficulty" : 9,
+      "answer" : "MNEMOSYNE"
+    },
+    {
+      "clue" : "CNS",
+      "difficulty" : 8,
+      "answer" : "OCEANUS"
+    },
+    {
+      "clue" : "TYPN",
+      "difficulty" : 9,
+      "answer" : "TYPHON"
+    }
+  ],
+  "tags" : [
+    "mythology",
+    "classics"
+  ]
+}

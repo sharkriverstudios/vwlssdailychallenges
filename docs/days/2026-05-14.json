@@ -1,43 +1,104 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-14",
-  "challenge": {
-    "difficulty": 4,
-    "category": "NBA Teams",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Golden Gate Bridge",
+      "Brooklyn Bridge",
+      "Sydney Harbour Bridge",
+      "London Bridge",
+      "Tower Bridge",
+      "Charles Bridge",
+      "Ponte Vecchio",
+      "Rialto Bridge",
+      "Chesapeake Bay Bridge",
+      "Mackinac Bridge",
+      "Akashi Kaikyō Bridge",
+      "George Washington Bridge",
+      "Millau Viaduct",
+      "Verrazzano-Narrows Bridge",
+      "Forth Bridge",
+      "Helix Bridge",
+      "Pont Neuf",
+      "Pont Alexandre III",
+      "Zhangjiajie Glass Bridge",
+      "Bay Bridge",
+      "Tsing Ma Bridge",
+      "Ponte Sant'Angelo",
+      "Peace Bridge",
+      "Jacques Cartier Bridge",
+      "Bosphorus Bridge",
+      "Erasmus Bridge",
+      "Puente de la Mujer",
+      "Gateshead Millennium Bridge",
+      "Kwun Tong Bypass",
+      "Øresund Bridge",
+      "Pont du Gard",
+      "Tacoma Narrows Bridge",
+      "Humber Bridge",
+      "Severn Bridge",
+      "Karlův Most",
+      "Juscelino Kubitschek Bridge",
+      "U Bein Bridge",
+      "Langkawi Sky Bridge",
+      "Khaju Bridge",
+      "Kintai Bridge",
+      "New River Gorge Bridge",
+      "Bixby Creek Bridge",
+      "Hohenzollern Bridge",
+      "Captain William Moore Bridge",
+      "Ponte della Costituzione",
+      "Storstrøm Bridge",
+      "Banpo Bridge",
+      "Lupu Bridge",
+      "Széchenyi Chain Bridge",
+      "Ada Bridge",
+      "Stari Most"
+    ],
+    "category" : "Famous Bridges",
+    "clues" : [
       {
-        "clue": "BSTNCLTCS",
-        "answer": "BOSTON CELTICS"
+        "answer" : "GOLDEN GATE BRIDGE",
+        "clue" : "GLDN GT BRDG",
+        "difficulty" : 1
       },
       {
-        "clue": "LSNGLSLKRS",
-        "answer": "LOS ANGELES LAKERS"
+        "answer" : "BROOKLYN BRIDGE",
+        "clue" : "BRKL NB RDG",
+        "difficulty" : 1
       },
       {
-        "clue": "CHC GBL LS",
-        "answer": "CHICAGO BULLS"
+        "answer" : "SYDNEY HARBOUR BRIDGE",
+        "clue" : "SYDNY HRBR BRDG",
+        "difficulty" : 2
       },
       {
-        "clue": "GLDNS TT WRR RS",
-        "answer": "GOLDEN STATE WARRIORS"
+        "answer" : "LONDON BRIDGE",
+        "clue" : "LN DNB RDG",
+        "difficulty" : 2
       },
       {
-        "clue": "BRK LNN TS",
-        "answer": "BROOKLYN NETS"
+        "answer" : "TOWER BRIDGE",
+        "clue" : "T WRBR DG",
+        "difficulty" : 3
       },
       {
-        "clue": "ML WKB CKS",
-        "answer": "MILWAUKEE BUCKS"
+        "answer" : "BAY BRIDGE",
+        "clue" : "BYBR DG",
+        "difficulty" : 5
       },
       {
-        "clue": "PHN X SNS",
-        "answer": "PHOENIX SUNS"
+        "answer" : "GEORGE WASHINGTON BRIDGE",
+        "clue" : "GR GWS HNG TNBR DG",
+        "difficulty" : 6
       },
       {
-        "clue": "DL LSMV RCK S",
-        "answer": "DALLAS MAVERICKS"
+        "answer" : "VERRAZZANO-NARROWS BRIDGE",
+        "clue" : "VRRZZNNRRWSBRDG",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-05-14",
+  "schemaVersion" : 1
 }

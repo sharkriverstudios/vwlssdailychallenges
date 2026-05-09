@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "engineering",
+    "geography",
+    "history"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "RIALTO BRIDGE",
+      "difficulty" : 6,
+      "clue" : "RLT BRDG"
+    },
+    {
+      "answer" : "PONTE VECCHIO",
+      "difficulty" : 8,
+      "clue" : "PNT VCCH"
+    },
+    {
+      "answer" : "CHESAPEAKE BAY BRIDGE",
+      "difficulty" : 6,
+      "clue" : "CHSPK BY BRDG"
+    },
+    {
+      "answer" : "CHARLES BRIDGE",
+      "difficulty" : 5,
+      "clue" : "CHRLS BRDG"
+    },
+    {
+      "answer" : "MACKINAC BRIDGE",
+      "difficulty" : 6,
+      "clue" : "MCKNC BRDG"
+    },
+    {
+      "answer" : "AKASHI KAIKYŌ BRIDGE",
+      "difficulty" : 8,
+      "clue" : "KSH KKY BRDG"
+    },
+    {
+      "answer" : "MILLAU VIADUCT",
+      "difficulty" : 6,
+      "clue" : "MLL VDC"
+    },
+    {
+      "answer" : "FORTH BRIDGE",
+      "difficulty" : 5,
+      "clue" : "FRTH BRDG"
+    },
+    {
+      "answer" : "HELIX BRIDGE",
+      "difficulty" : 7,
+      "clue" : "HLX BRDG"
+    },
+    {
+      "answer" : "PONT NEUF",
+      "difficulty" : 8,
+      "clue" : "PNT NF"
+    },
+    {
+      "answer" : "PONT ALEXANDRE III",
+      "difficulty" : 8,
+      "clue" : "PNT LXNDR"
+    },
+    {
+      "answer" : "ZHANGJIAJIE GLASS BRIDGE",
+      "difficulty" : 9,
+      "clue" : "ZHNGJJ GLS BRDG"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "MEAT LOVERS",
+      "clue" : "MT LVRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BUFFALO CHICKEN",
+      "clue" : "BFFL CHCKN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MUSHROOM",
+      "clue" : "MSHRM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SAUSAGE",
+      "clue" : "SSG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SPINACH AND FETA",
+      "clue" : "SPNCH ND FT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "WHITE PIZZA",
+      "clue" : "WHT PZZ",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PROSCIUTTO",
+      "clue" : "PRSCNTT",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "PHILLY CHEESESTEAK",
+      "clue" : "PHLLY CHSSTK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "QUATTRO STAGIONI",
+      "clue" : "QTTR STGN",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "SEAFOOD",
+      "clue" : "SF",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "NEAPOLITAN",
+      "clue" : "NPLTN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "DETROIT STYLE",
+      "clue" : "DTRT STYL",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "culinary"
+  ]
+}

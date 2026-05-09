@@ -1,51 +1,93 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-05",
-  "challenge": {
-    "difficulty": 6,
-    "category": "Greek Gods",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Blackbeard",
+      "Captain Kidd",
+      "Anne Bonny",
+      "Calico Jack",
+      "Bartholomew Roberts",
+      "Black Bart",
+      "Henry Morgan",
+      "Edward Low",
+      "Charles Vane",
+      "William Kidd",
+      "Sir Francis Drake",
+      "Jean Lafitte",
+      "Long Ben",
+      "Stede Bonnet",
+      "Samuel Bellamy",
+      "Mary Read",
+      "Captain Flint",
+      "Thomas Tew",
+      "William Dampier",
+      "Christopher Condent",
+      "Roche Braziliano",
+      "Henry Every",
+      "Benjamin Hornigold",
+      "Edward England",
+      "Howell Davis",
+      "George Lowther",
+      "Charles Gibbs",
+      "Jack Rackham",
+      "John Rackham",
+      "Peter Easton",
+      "Francis Spriggs",
+      "Henry Jennings",
+      "Edward Teach",
+      "William Fly",
+      "Olivier Levasseur",
+      "Richard Worley",
+      "John Bowen",
+      "Emanuel Wynn",
+      "Christopher Myngs",
+      "Pirate Black Sam"
+    ],
+    "category" : "Famous Pirates",
+    "clues" : [
       {
-        "clue": "ZS",
-        "answer": "ZEUS",
-        "difficulty": 1
+        "answer" : "BLACKBEARD",
+        "clue" : "BLCKBRD",
+        "difficulty" : 2
       },
       {
-        "clue": "HR",
-        "answer": "HERA",
-        "difficulty": 2
+        "answer" : "CALICO JACK",
+        "clue" : "CLC JCK",
+        "difficulty" : 4
       },
       {
-        "clue": "RS",
-        "answer": "ARES",
-        "difficulty": 3
+        "answer" : "SIR FRANCIS DRAKE",
+        "clue" : "SR FRNCS DRK",
+        "difficulty" : 4
       },
       {
-        "clue": "THN",
-        "answer": "ATHENA",
-        "difficulty": 4
+        "answer" : "CAPTAIN KIDD",
+        "clue" : "CP TNK DD",
+        "difficulty" : 5
       },
       {
-        "clue": "PLL",
-        "answer": "APOLLO",
-        "difficulty": 5
+        "answer" : "ANNE BONNY",
+        "clue" : "N NBN N",
+        "difficulty" : 5
       },
       {
-        "clue": "PSD N",
-        "answer": "POSEIDON",
-        "difficulty": 6
+        "answer" : "HENRY MORGAN",
+        "clue" : "HN RM RGN",
+        "difficulty" : 6
       },
       {
-        "clue": "RT MS",
-        "answer": "ARTEMIS",
-        "difficulty": 7
+        "answer" : "JEAN LAFITTE",
+        "clue" : "J NLF TT",
+        "difficulty" : 6
       },
       {
-        "clue": "HP HSTS",
-        "answer": "HEPHAESTUS",
-        "difficulty": 8
+        "answer" : "MARY READ",
+        "clue" : "MR RD",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-05",
+  "schemaVersion" : 1
 }

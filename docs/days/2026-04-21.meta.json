@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "RLD MNDNSN",
+      "answer" : "ROALD AMUNDSEN",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "HRNN CRTS",
+      "answer" : "HERNAN CORTES",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "MRG VSPCC",
+      "answer" : "AMERIGO VESPUCCI",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "JN PNC D LN",
+      "answer" : "JUAN PONCE DE LEON",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "JCQS CRT",
+      "answer" : "JACQUES CARTIER",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SML D CHMPLN",
+      "answer" : "SAMUEL DE CHAMPLAIN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "JHN CBT",
+      "answer" : "JOHN CABOT",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "BRTLMD DS",
+      "answer" : "BARTOLOMEU DIAS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "ZNG H",
+      "answer" : "ZENG HE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "BL TSMN",
+      "answer" : "ABEL TASMAN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PDR LVR CBRL",
+      "answer" : "PEDRO ALVARES CABRAL",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "GVNN D VRRZZN",
+      "answer" : "GIOVANNI DA VERRAZZANO",
+      "difficulty" : 10
+    }
+  ],
+  "notes" : "concentrate on the age of exploration, incldue one explorer post 1850",
+  "tags" : [
+    "history",
+    "geography"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "Well known explorers"
+}

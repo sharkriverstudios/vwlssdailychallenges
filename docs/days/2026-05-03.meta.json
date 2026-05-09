@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "clue" : "PRSS",
+      "answer" : "PERSEUS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SCRPS",
+      "answer" : "SCORPIUS"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "QRQS",
+      "answer" : "AQUARIUS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "RS",
+      "answer" : "ARIES"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "GMN",
+      "answer" : "GEMINI"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "VRG",
+      "answer" : "VIRGO"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "CGNS",
+      "answer" : "CYGNUS"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "HRCLS",
+      "answer" : "HERCULES"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PSCS",
+      "answer" : "PISCES"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CPRCRNS",
+      "answer" : "CAPRICORNUS"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "PHCHS",
+      "answer" : "OPHIUCHUS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NDRMD",
+      "answer" : "ANDROMEDA"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "astronomy",
+    "mythology"
+  ]
+}

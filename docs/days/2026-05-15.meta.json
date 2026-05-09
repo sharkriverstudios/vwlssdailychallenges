@@ -1,65 +1,7 @@
 {
-  "extraClues" : [
-    {
-      "clue" : "WSHNGTN",
-      "answer" : "WASHINGTON",
-      "difficulty" : 3
-    },
-    {
-      "clue" : "VRGN",
-      "answer" : "VIRGINIA",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "MSSCHSTTS",
-      "answer" : "MASSACHUSETTS",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "MRYLND",
-      "answer" : "MARYLAND",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "STH CRLN",
-      "answer" : "SOUTH CAROLINA",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "RHD SLND",
-      "answer" : "RHODE ISLAND",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "NW JRSY",
-      "answer" : "NEW JERSEY",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "GRG",
-      "answer" : "GEORGIA",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "MN",
-      "answer" : "MAINE",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "DLWR",
-      "answer" : "DELAWARE",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "LSN",
-      "answer" : "LOUISIANA",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "MSSSSPP",
-      "answer" : "MISSISSIPPI",
-      "difficulty" : 8
-    }
+  "tags" : [
+    "music",
+    "popular culture"
   ],
   "clueNotes" : [
     "",
@@ -82,5 +24,67 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "COUNT BASIE",
+      "difficulty" : 4,
+      "clue" : "CNT BS"
+    },
+    {
+      "answer" : "MCCOY TYNER",
+      "difficulty" : 6,
+      "clue" : "MCCY TNR"
+    },
+    {
+      "answer" : "KEITH JARRETT",
+      "difficulty" : 5,
+      "clue" : "KTH JRR"
+    },
+    {
+      "answer" : "FATS WALLER",
+      "difficulty" : 5,
+      "clue" : "FTS WLLR"
+    },
+    {
+      "answer" : "AHMAD JAMAL",
+      "difficulty" : 6,
+      "clue" : "HMD JML"
+    },
+    {
+      "answer" : "ERROLL GARNER",
+      "difficulty" : 7,
+      "clue" : "RRL GRNR"
+    },
+    {
+      "answer" : "BUD POWELL",
+      "difficulty" : 5,
+      "clue" : "BD PWLL"
+    },
+    {
+      "answer" : "CEDAR WALTON",
+      "difficulty" : 7,
+      "clue" : "CDR WLN"
+    },
+    {
+      "answer" : "JOE ZAWINUL",
+      "difficulty" : 8,
+      "clue" : "J ZWNL"
+    },
+    {
+      "answer" : "RAMSEY LEWIS",
+      "difficulty" : 7,
+      "clue" : "RMSY LWS"
+    },
+    {
+      "answer" : "LENNIE TRISTANO",
+      "difficulty" : 8,
+      "clue" : "LNN TRSTN"
+    },
+    {
+      "answer" : "SUN RA",
+      "difficulty" : 5,
+      "clue" : "SN R"
+    }
   ]
 }

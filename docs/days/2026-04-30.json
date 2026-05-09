@@ -1,43 +1,120 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-30",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Constellations",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Espresso",
+      "Americano",
+      "Latte",
+      "Cappuccino",
+      "Macchiato",
+      "Mocha",
+      "Flat White",
+      "Cortado",
+      "Affogato",
+      "Ristretto",
+      "Lungo",
+      "Doppio",
+      "Red Eye",
+      "Black Eye",
+      "Irish Coffee",
+      "Turkish Coffee",
+      "Viennese Coffee",
+      "Cold Brew",
+      "Nitro Cold Brew",
+      "Iced Coffee",
+      "Iced Latte",
+      "Iced Cappuccino",
+      "Frappe",
+      "Cafe Au Lait",
+      "Cafe Mocha",
+      "Cafe Breve",
+      "Espresso Con Panna",
+      "Café Bombón",
+      "Cafe Cubano",
+      "Café De Olla",
+      "Mazagran",
+      "Galao",
+      "Café Zorro",
+      "Long Black",
+      "Piccolo Latte",
+      "Espresso Romano",
+      "Vienna Coffee",
+      "Bicerin",
+      "Pharisäer",
+      "Café Touba",
+      "Mocaccino",
+      "Breve",
+      "Raf Coffee",
+      "Espresso Lungo",
+      "Espresso Macchiato",
+      "Cafe Con Leche",
+      "Wiener Melange",
+      "Marocchino",
+      "Caramel Macchiato",
+      "Espresso Martini",
+      "Flat White",
+      "Dirty Chai",
+      "Pumpkin Spice Latte",
+      "Egg Coffee",
+      "Butter Coffee",
+      "White Coffee",
+      "Green Coffee",
+      "Vietnamese Iced Coffee",
+      "Bulletproof Coffee",
+      "Cuban Espresso",
+      "Kopi Luwak",
+      "Café Crema",
+      "Affogato Al Caffè",
+      "Yuenyeung",
+      "Dalgona Coffee",
+      "Café Rápido",
+      "Café Breve"
+    ],
+    "category" : "Coffee",
+    "clues" : [
       {
-        "clue": "R N",
-        "answer": "ORION"
+        "answer" : "CAPPUCCINO",
+        "clue" : "CP PCCN",
+        "difficulty" : 2
       },
       {
-        "clue": "RS MJR",
-        "answer": "URSA MAJOR"
+        "answer" : "LATTE",
+        "clue" : "LTT",
+        "difficulty" : 3
       },
       {
-        "clue": "LBR",
-        "answer": "LIBRA"
+        "answer" : "MOCHA",
+        "clue" : "M CH",
+        "difficulty" : 4
       },
       {
-        "clue": "CSSP",
-        "answer": "CASSIOPEIA"
+        "answer" : "AMERICANO",
+        "clue" : "MRCN",
+        "difficulty" : 5
       },
       {
-        "clue": "GMN",
-        "answer": "GEMINI"
+        "answer" : "ESPRESSO",
+        "clue" : "SPR SS",
+        "difficulty" : 5
       },
       {
-        "clue": "RS MNR",
-        "answer": "URSA MINOR"
+        "answer" : "FRAPPE",
+        "clue" : "FRPP",
+        "difficulty" : 6
       },
       {
-        "clue": "TRS",
-        "answer": "TAURUS"
+        "answer" : "MACCHIATO",
+        "clue" : "MCCHT",
+        "difficulty" : 6
       },
       {
-        "clue": "SG TT RS",
-        "answer": "SAGITTARIUS"
+        "answer" : "TURKISH COFFEE",
+        "clue" : "TRKSH CFF",
+        "difficulty" : 8
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-04-30",
+  "schemaVersion" : 1
 }

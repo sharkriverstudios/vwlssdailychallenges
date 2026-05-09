@@ -1,19 +1,112 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-04",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Major Airlines",
-    "shareClueIndex": 6,
-    "clues": [
-      { "clue": "DL TRLNS"     , "answer": "DELTA AIRLINES" },
-      { "clue": "JT BL"        , "answer": "JETBLUE" },
-      { "clue": "NT DR LNS"    , "answer": "UNITED AIRLINES" },
-      { "clue": "ST HW STRL NS", "answer": "SOUTHWEST AIRLINES" },
-      { "clue": "MR CNRL NS"   , "answer": "AMERICAN AIRLINES" },
-      { "clue": "L SKRL NS"    , "answer": "ALASKA AIRLINES" },
-      { "clue": "BRT SHR WYS"  , "answer": "BRITISH AIRWAYS" },
-      { "clue": "LFT HNS"      , "answer": "LUFTHANSA" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "The New York Times",
+      "The Washington Post",
+      "The Wall Street Journal",
+      "Los Angeles Times",
+      "Chicago Tribune",
+      "USA Today",
+      "The Boston Globe",
+      "San Francisco Chronicle",
+      "The Philadelphia Inquirer",
+      "The Dallas Morning News",
+      "Houston Chronicle",
+      "The Atlanta Journal-Constitution",
+      "Star Tribune",
+      "The Denver Post",
+      "The Seattle Times",
+      "The San Diego Union-Tribune",
+      "The Arizona Republic",
+      "New York Post",
+      "Chicago Sun-Times",
+      "The Plain Dealer",
+      "The Oregonian",
+      "Miami Herald",
+      "Tampa Bay Times",
+      "Detroit Free Press",
+      "The Sacramento Bee",
+      "The Kansas City Star",
+      "The Charlotte Observer",
+      "St. Louis Post-Dispatch",
+      "Orlando Sentinel",
+      "The Baltimore Sun",
+      "The Indianapolis Star",
+      "The Courier-Journal",
+      "The Cincinnati Enquirer",
+      "Milwaukee Journal Sentinel",
+      "The Salt Lake Tribune",
+      "The Des Moines Register",
+      "The Virginian-Pilot",
+      "The Buffalo News",
+      "The Hartford Courant",
+      "The Tennessean",
+      "The Columbus Dispatch",
+      "The Pioneer Press",
+      "The Times-Picayune",
+      "The News & Observer",
+      "Star-Ledger",
+      "The Fresno Bee",
+      "Las Vegas Review-Journal",
+      "The Oklahoman",
+      "The Honolulu Star-Advertiser",
+      "The Palm Beach Post",
+      "The Commercial Appeal",
+      "The Daily Herald",
+      "The Providence Journal",
+      "The Asbury Park Press",
+      "The Birmingham News",
+      "The Richmond Times-Dispatch",
+      "The Toledo Blade",
+      "The Albuquerque Journal",
+      "The New Orleans Advocate"
+    ],
+    "category" : "Major US Newspapers",
+    "clues" : [
+      {
+        "answer" : "NEW YORK TIMES",
+        "clue" : "NW YRK TMS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "THE WASHINGTON POST",
+        "clue" : "TH WSHNGTN PST",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "LOS ANGELES TIMES",
+        "clue" : "LS NGLS TMS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "USA TODAY",
+        "clue" : "S TDY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHICAGO TRIBUNE",
+        "clue" : "CHC GT RBN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE WALL STREET JOURNAL",
+        "clue" : "THW LLS TRT JRNL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BOSTON GLOBE",
+        "clue" : "BS TNG LB",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HOUSTON CHRONICLE",
+        "clue" : "HS TNC HRNCL",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-05-04",
+  "schemaVersion" : 1
 }

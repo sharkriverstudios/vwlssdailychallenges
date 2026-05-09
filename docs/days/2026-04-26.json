@@ -1,43 +1,93 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-26",
-  "challenge": {
-    "difficulty": 5,
-    "category": "Explorers",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Australian Cattle Dog",
+      "Border Collie",
+      "Shetland Sheepdog",
+      "Australian Shepherd",
+      "Belgian Malinois",
+      "German Shepherd",
+      "Old English Sheepdog",
+      "Welsh Corgi",
+      "Collie",
+      "Belgian Tervuren",
+      "Briard",
+      "Bearded Collie",
+      "Rough Collie",
+      "Smooth Collie",
+      "Pembroke Welsh Corgi",
+      "Cardigan Welsh Corgi",
+      "Puli",
+      "Swedish Vallhund",
+      "Finnish Lapphund",
+      "Icelandic Sheepdog",
+      "Polish Lowland Sheepdog",
+      "Pyrenean Shepherd",
+      "Canaan Dog",
+      "Bouvier Des Flandres",
+      "Mudi",
+      "Entlebucher Mountain Dog",
+      "Appenzeller Sennenhund",
+      "Anatolian Shepherd Dog",
+      "Dutch Shepherd",
+      "Komondor",
+      "Kuvasz",
+      "Norwegian Buhund",
+      "Bergamasco Sheepdog",
+      "Saarloos Wolfdog",
+      "White Swiss Shepherd Dog",
+      "Czechoslovakian Vlcak",
+      "Lapponian Herder",
+      "Catalan Sheepdog",
+      "Tibetan Mastiff",
+      "Estrela Mountain Dog"
+    ],
+    "category" : "Herding Dog Breeds",
+    "clues" : [
       {
-        "clue": "CHRST PHRC LMBS",
-        "answer": "CHRISTOPHER COLUMBUS"
+        "answer" : "GERMAN SHEPHERD",
+        "clue" : "GRMN SHPHRD",
+        "difficulty" : 1
       },
       {
-        "clue": "FRD NND MG LLN",
-        "answer": "FERDINAND MAGELLAN"
+        "answer" : "BORDER COLLIE",
+        "clue" : "BRDR CLL",
+        "difficulty" : 1
       },
       {
-        "clue": "MRC PL",
-        "answer": "MARCO POLO"
+        "answer" : "AUSTRALIAN SHEPHERD",
+        "clue" : "STRL NSH PHRD",
+        "difficulty" : 2
       },
       {
-        "clue": "JM SCK",
-        "answer": "JAMES COOK"
+        "answer" : "SHELTIE",
+        "clue" : "SHLT",
+        "difficulty" : 3
       },
       {
-        "clue": "VSC D GM",
-        "answer": "VASCO DA GAMA"
+        "answer" : "BELGIAN MALINOIS",
+        "clue" : "BLGN MLNS",
+        "difficulty" : 3
       },
       {
-        "clue": "JH NCB T",
-        "answer": "JOHN CABOT"
+        "answer" : "WELSH CORGI",
+        "clue" : "WLS HC RG",
+        "difficulty" : 5
       },
       {
-        "clue": "HRN NCRT S",
-        "answer": "HERNAN CORTES"
+        "answer" : "CANAAN DOG",
+        "clue" : "CNN DG",
+        "difficulty" : 5
       },
       {
-        "clue": "RLD MNDSN",
-        "answer": "ROALD AMUNDSEN"
+        "answer" : "OLD ENGLISH SHEEPDOG",
+        "clue" : "LD N GLSH SHP DG",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-04-26",
+  "schemaVersion" : 1
 }

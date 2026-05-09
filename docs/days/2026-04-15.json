@@ -1,43 +1,109 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-15",
-  "challenge": {
-    "difficulty": 3,
-    "category": "1980s Stanley Cup Winning Teams",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Spatula",
+      "Whisk",
+      "Colander",
+      "Peeler",
+      "Ladle",
+      "Tongs",
+      "Grater",
+      "Rolling Pin",
+      "Can Opener",
+      "Measuring Cup",
+      "Measuring Spoon",
+      "Mixing Bowl",
+      "Cutting Board",
+      "Knife",
+      "Potato Masher",
+      "Garlic Press",
+      "Zester",
+      "Sifter",
+      "Ice Cream Scoop",
+      "Pizza Cutter",
+      "Pot Holder",
+      "Oven Mitt",
+      "Basting Brush",
+      "Salad Spinner",
+      "Slotted Spoon",
+      "Skimmer",
+      "Kitchen Shears",
+      "Meat Tenderizer",
+      "Mortar And Pestle",
+      "Pastry Brush",
+      "Soup Ladle",
+      "Egg Slicer",
+      "Mandoline",
+      "Fish Turner",
+      "Cookie Cutter",
+      "Funnel",
+      "Cheese Grater",
+      "Thermometer",
+      "Nutcracker",
+      "Citrus Juicer",
+      "Rolling Mat",
+      "Food Mill",
+      "Melon Baller",
+      "Paring Knife",
+      "Bread Knife",
+      "Cleaver",
+      "Carving Fork",
+      "Butter Knife",
+      "Corkscrew",
+      "Meat Fork",
+      "Pastry Blender",
+      "Serrated Knife",
+      "Cheese Slicer",
+      "Apple Corer",
+      "Egg Beater",
+      "Pepper Mill"
+    ],
+    "category" : "Kitchen Tools",
+    "clues" : [
       {
-        "clue": "NW YRK SLNDRS",
-        "answer": "NEW YORK ISLANDERS"
+        "answer" : "WHISK",
+        "clue" : "WHSK",
+        "difficulty" : 1
       },
       {
-        "clue": "DMNTN LRS",
-        "answer": "EDMONTON OILERS"
+        "answer" : "KNIFE",
+        "clue" : "KNF",
+        "difficulty" : 1
       },
       {
-        "clue": "CL GRY FLMS",
-        "answer": "CALGARY FLAMES"
+        "answer" : "SPATULA",
+        "clue" : "SPTL",
+        "difficulty" : 2
       },
       {
-        "clue": "MNT RL CN D N S",
-        "answer": "MONTREAL CANADIENS"
+        "answer" : "COLANDER",
+        "clue" : "CLNDR",
+        "difficulty" : 3
       },
       {
-        "clue": "NW YRK RNGRS",
-        "answer": "NEW YORK RANGERS"
+        "answer" : "MEASURING CUP",
+        "clue" : "MS RNG CP",
+        "difficulty" : 4
       },
       {
-        "clue": "PTTS BRGH PNGNS",
-        "answer": "PITTSBURGH PENGUINS"
+        "answer" : "CUTTING BOARD",
+        "clue" : "CTTNG BRD",
+        "difficulty" : 5
       },
       {
-        "clue": "B STN BRNS",
-        "answer": "BOSTON BRUINS"
+        "answer" : "TONGS",
+        "clue" : "T NGS",
+        "difficulty" : 6
       },
       {
-        "clue": "PHL DLPH FLYRS",
-        "answer": "PHILADELPHIA FLYERS"
+        "answer" : "GARLIC PRESS",
+        "clue" : "GRL CP RSS",
+        "difficulty" : 7
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 7
+  },
+  "date" : "2026-04-15",
+  "schemaVersion" : 1
 }

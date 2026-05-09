@@ -1,51 +1,114 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-17",
-  "challenge": {
-    "difficulty": 2,
-    "category": "Weather Words",
-    "shareClueIndex": 7,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Immanuel Kant",
+      "Friedrich Nietzsche",
+      "René Descartes",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "David Hume",
+      "Georg Wilhelm Friedrich Hegel",
+      "Confucius",
+      "Thomas Hobbes",
+      "Karl Marx",
+      "Voltaire",
+      "Baruch Spinoza",
+      "Ludwig Wittgenstein",
+      "Bertrand Russell",
+      "Arthur Schopenhauer",
+      "Epicurus",
+      "Albert Camus",
+      "Michel Foucault",
+      "John Stuart Mill",
+      "Simone de Beauvoir",
+      "Søren Kierkegaard",
+      "Jean-Paul Sartre",
+      "Zeno of Citium",
+      "Francis Bacon",
+      "Gottfried Wilhelm Leibniz",
+      "Augustine of Hippo",
+      "Thomas Aquinas",
+      "Heraclitus",
+      "Diogenes",
+      "Pythagoras",
+      "Anaximander",
+      "Marcus Aurelius",
+      "Galen",
+      "Machiavelli",
+      "Avicenna",
+      "Al-Farabi",
+      "Rumi",
+      "Mencius",
+      "Zhuangzi",
+      "Al-Ghazali",
+      "Chuang Tzu",
+      "Sun Tzu",
+      "Hypatia",
+      "Plotinus",
+      "John Dewey",
+      "Emma Goldman",
+      "Ralph Waldo Emerson",
+      "Henry David Thoreau",
+      "Mary Wollstonecraft",
+      "Noam Chomsky",
+      "Erich Fromm",
+      "Hannah Arendt",
+      "Judith Butler",
+      "Gilles Deleuze",
+      "Jacques Derrida",
+      "Alain Badiou",
+      "Slavoj Žižek",
+      "Peter Singer"
+    ],
+    "category" : "Famous Philosophers",
+    "clues" : [
       {
-        "clue": "SNSHN",
-        "answer": "SUNSHINE",
-        "difficulty": 1
+        "answer" : "PLATO",
+        "clue" : "PLT",
+        "difficulty" : 1
       },
       {
-        "clue": "CLDS",
-        "answer": "CLOUDS",
-        "difficulty": 2
+        "answer" : "SOCRATES",
+        "clue" : "SCRTS",
+        "difficulty" : 1
       },
       {
-        "clue": "RN",
-        "answer": "RAIN",
-        "difficulty": 2
+        "answer" : "KARL MARX",
+        "clue" : "KRL MRX",
+        "difficulty" : 2
       },
       {
-        "clue": "SNW",
-        "answer": "SNOW",
-        "difficulty": 3
+        "answer" : "VOLTAIRE",
+        "clue" : "VLTR",
+        "difficulty" : 3
       },
       {
-        "clue": "WND",
-        "answer": "WIND",
-        "difficulty": 2
+        "answer" : "CONFUCIUS",
+        "clue" : "CNFCS",
+        "difficulty" : 3
       },
       {
-        "clue": "FG",
-        "answer": "FOG",
-        "difficulty": 1
+        "answer" : "RENE DESCARTES",
+        "clue" : "RN DSCRTS",
+        "difficulty" : 4
       },
       {
-        "clue": "THNDR",
-        "answer": "THUNDER",
-        "difficulty": 4
+        "answer" : "ARISTOTLE",
+        "clue" : "RS TT L",
+        "difficulty" : 5
       },
       {
-        "clue": "LGHTNNG",
-        "answer": "LIGHTNING",
-        "difficulty": 4
+        "answer" : "JEAN-PAUL SARTRE",
+        "clue" : "JN PLS RTR",
+        "difficulty" : 6
       }
-    ]
-  }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 6
+  },
+  "date" : "2026-04-17",
+  "schemaVersion" : 1
 }

@@ -1,43 +1,89 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-04-29",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Major League Baseball Teams",
-    "shareClueIndex": 6,
-    "clues": [
+  "challenge" : {
+    "candidates" : [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Patagonian Desert",
+      "Great Victoria Desert",
+      "Syrian Desert",
+      "Karakum Desert",
+      "Thar Desert",
+      "Namib Desert",
+      "Atacama Desert",
+      "Sonoran Desert",
+      "Chihuahuan Desert",
+      "Great Basin Desert",
+      "Mojave Desert",
+      "Simpson Desert",
+      "Taklamakan Desert",
+      "Dasht-e Kavir",
+      "Dasht-e Lut",
+      "Colorado Plateau",
+      "Negev Desert",
+      "Sechura Desert",
+      "Rupshu Desert",
+      "Registan Desert",
+      "Central Asian Northern Desert",
+      "Dzungarian Basin",
+      "Judean Desert",
+      "Cholistan Desert",
+      "Tabernas Desert",
+      "Dahna Desert",
+      "Monte Desert",
+      "Yuma Desert",
+      "Antarctic Desert",
+      "Kyzylkum Desert",
+      "Aral Karakum Desert",
+      "Nubian Desert"
+    ],
+    "category" : "Major Deserts",
+    "clues" : [
       {
-        "clue": "BSTN RD SX",
-        "answer": "BOSTON RED SOX"
+        "answer" : "GOBI",
+        "clue" : "GB",
+        "difficulty" : 2
       },
       {
-        "clue": "CHCG CBS",
-        "answer": "CHICAGO CUBS"
+        "answer" : "SAHARA",
+        "clue" : "SHR",
+        "difficulty" : 2
       },
       {
-        "clue": "LS NGLS DDGRS",
-        "answer": "LOS ANGELES DODGERS"
+        "answer" : "KALAHARI",
+        "clue" : "KLHR",
+        "difficulty" : 3
       },
       {
-        "clue": "N WY RKY NKS",
-        "answer": "NEW YORK YANKEES"
+        "answer" : "MOJAVE",
+        "clue" : "MJV",
+        "difficulty" : 3
       },
       {
-        "clue": "S NFRN CSC G NTS",
-        "answer": "SAN FRANCISCO GIANTS"
+        "answer" : "ARABIAN",
+        "clue" : "RBN",
+        "difficulty" : 3
       },
       {
-        "clue": "TLNT BRVS",
-        "answer": "ATLANTA BRAVES"
+        "answer" : "ATACAMA",
+        "clue" : "TCM",
+        "difficulty" : 4
       },
       {
-        "clue": "STL SCR DNLS",
-        "answer": "ST LOUIS CARDINALS"
+        "answer" : "NAMIB",
+        "clue" : "NMB",
+        "difficulty" : 5
       },
       {
-        "clue": "DT RTTG RS",
-        "answer": "DETROIT TIGERS"
+        "answer" : "SONORAN",
+        "clue" : "SNRN",
+        "difficulty" : 5
       }
-    ]
-  }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-04-29",
+  "schemaVersion" : 1
 }

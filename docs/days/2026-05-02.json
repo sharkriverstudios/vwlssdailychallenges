@@ -1,19 +1,119 @@
 {
-  "schemaVersion": 1,
-  "date": "2026-05-02",
-  "challenge": {
-    "difficulty": 4,
-    "category": "Major Rivers",
-    "shareClueIndex": 7,
-    "clues": [
-      { "clue": "MSSSSPP", "answer": "MISSISSIPPI" },
-      { "clue": "NL"     , "answer": "NILE" },
-      { "clue": "MZN"    , "answer": "AMAZON" },
-      { "clue": "R HN"   , "answer": "RHINE" },
-      { "clue": "YNGTZ"  , "answer": "YANGTZE" },
-      { "clue": "GN GS"  , "answer": "GANGES" },
-      { "clue": "DN B"   , "answer": "DANUBE" },
-      { "clue": "CLR D"  , "answer": "COLORADO" }
-    ]
-  }
+  "challenge" : {
+    "candidates" : [
+      "James Bond",
+      "M",
+      "Q",
+      "Moneypenny",
+      "Felix Leiter",
+      "Blofeld",
+      "Goldfinger",
+      "Jaws",
+      "Oddjob",
+      "Dr. No",
+      "Alec Trevelyan",
+      "Silva",
+      "Scaramanga",
+      "Vesper Lynd",
+      "Tracy Bond",
+      "Pussy Galore",
+      "Jinx",
+      "Le Chiffre",
+      "Tiffany Case",
+      "Holly Goodhead",
+      "Natalya Simonova",
+      "Auric Goldfinger",
+      "Red Grant",
+      "Rosa Klebb",
+      "Baron Samedi",
+      "Zorin",
+      "May Day",
+      "Nick Nack",
+      "Kamal Khan",
+      "Elektra King",
+      "Gustav Graves",
+      "Stamper",
+      "Boris Grishenko",
+      "Renard",
+      "Max Zorin",
+      "Tee Hee",
+      "Hugo Drax",
+      "Karl Stromberg",
+      "Mr. Big",
+      "Vijay",
+      "General Gogol",
+      "Miranda Frost",
+      "Zao",
+      "Camille Montes",
+      "Dominic Greene",
+      "Irma Bunt",
+      "Mr. White",
+      "Raoul Silva",
+      "Severine",
+      "Solange Dimitrios",
+      "Emilio Largo",
+      "Kerim Bey",
+      "Valentin Zukovsky",
+      "Anya Amasova",
+      "Tatiana Romanova",
+      "Lucia Sciarra",
+      "Franz Sanchez",
+      "Draco",
+      "Pam Bouvier",
+      "Xenia Onatopp",
+      "Elliot Carver",
+      "Julius No",
+      "Rene Mathis",
+      "Mollaka",
+      "Andrea Anders",
+      "Fiona Volpe"
+    ],
+    "category" : "007",
+    "clues" : [
+      {
+        "answer" : "JAMES BOND",
+        "clue" : "JMS BND",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "M",
+        "clue" : "M",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "DR. NO",
+        "clue" : "D RN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BLOFELD",
+        "clue" : "BLFLD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GOLDFINGER",
+        "clue" : "GLDFNGR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MISS MONEYPENNY",
+        "clue" : "MSSMNPNN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FELIX LEITER",
+        "clue" : "FLX LTR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PUSSY GALORE",
+        "clue" : "PSS GLR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 4
+  },
+  "date" : "2026-05-02",
+  "schemaVersion" : 1
 }

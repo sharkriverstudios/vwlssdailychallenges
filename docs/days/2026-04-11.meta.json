@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "music",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "DAVID GILMOUR",
+      "difficulty" : 5,
+      "clue" : "DVD GLMR"
+    },
+    {
+      "answer" : "KEITH RICHARDS",
+      "difficulty" : 4,
+      "clue" : "KTH RCHRD"
+    },
+    {
+      "answer" : "BRIAN MAY",
+      "difficulty" : 3,
+      "clue" : "BRN MY"
+    },
+    {
+      "answer" : "PETE TOWNSHEND",
+      "difficulty" : 5,
+      "clue" : "PT TWNSHND"
+    },
+    {
+      "answer" : "ANGUS YOUNG",
+      "difficulty" : 3,
+      "clue" : "NGS YNG"
+    },
+    {
+      "answer" : "TONY IOMMI",
+      "difficulty" : 4,
+      "clue" : "TNY MM"
+    },
+    {
+      "answer" : "RITCHIE BLACKMORE",
+      "difficulty" : 6,
+      "clue" : "RTCH BLCKMR"
+    },
+    {
+      "answer" : "JOE PERRY",
+      "difficulty" : 5,
+      "clue" : "J PRRY"
+    },
+    {
+      "answer" : "KIRK HAMMETT",
+      "difficulty" : 5,
+      "clue" : "KRK HMMTT"
+    },
+    {
+      "answer" : "RANDY RHOADS",
+      "difficulty" : 5,
+      "clue" : "RNDY RHD"
+    },
+    {
+      "answer" : "JEFF BECK",
+      "difficulty" : 3,
+      "clue" : "JFF BCK"
+    },
+    {
+      "answer" : "TOM MORELLO",
+      "difficulty" : 5,
+      "clue" : "TM MRL"
+    }
+  ]
+}

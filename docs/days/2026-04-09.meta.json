@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "geography",
+    "nature",
+    "common knowledge"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "RCHS",
+      "answer" : "ARCHES",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BRYC CNYN",
+      "answer" : "BRYCE CANYON",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "SQ",
+      "answer" : "SEQUOIA",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CD",
+      "answer" : "ACADIA",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "RDWD",
+      "answer" : "REDWOOD",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "RCK MNTN",
+      "answer" : "ROCKY MOUNTAIN",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "DNL",
+      "answer" : "DENALI",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "GRND TTN",
+      "answer" : "GRAND TETON",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "MNT RNR",
+      "answer" : "MOUNT RAINIER",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "HW VLCNS",
+      "answer" : "HAWAII VOLCANOES",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CNYNLNDS",
+      "answer" : "CANYONLANDS",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "CYHG VLLY",
+      "answer" : "CUYAHOGA VALLEY",
+      "difficulty" : 9
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "BELGIAN TERVUREN",
+      "clue" : "BLGN TRVRN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "AUSTRALIAN CATTLE DOG",
+      "clue" : "STRLN CTTL DG",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "ICELANDIC SHEEPDOG",
+      "clue" : "CLNDC SHPDG",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BEARDED COLLIE",
+      "clue" : "BRDD CLL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FINNISH LAPPHUND",
+      "clue" : "FNNSH LPPHND",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "POLISH LOWLAND SHEEPDOG",
+      "clue" : "PLSH LWLD SHPDG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "CARDIGAN WELSH CORGI",
+      "clue" : "CRDGN WLSH CRG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BOUVIER DES FLANDRES",
+      "clue" : "BVR DS FLNDRS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "PYRENEAN SHEPHERD",
+      "clue" : "PRNN SHPHRD",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ENTLEBUCHER MOUNTAIN DOG",
+      "clue" : "NTLBCHR MNTN DG",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "APPENZELLER SENNENHUND",
+      "clue" : "PPNZLLR SNNNND",
+      "difficulty" : 10
+    },
+    {
+      "answer" : "SWEDISH VALLHUND",
+      "clue" : "SWDSH VLLHND",
+      "difficulty" : 8
+    }
+  ],
+  "tags" : [
+    "nature",
+    "culture"
+  ]
+}
