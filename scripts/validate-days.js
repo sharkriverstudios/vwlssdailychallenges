@@ -34,7 +34,8 @@ function isIsoDateString(value) {
   return date.toISOString().slice(0, 10) === value;
 }
 
-function validateExactKeys(value, allowedKeys, fileName, location, errors) {
+function validateObjectKeys(value, requiredKeys, optionalKeys, fileName, location, errors) {
+  const allowedKeys = [...requiredKeys, ...optionalKeys];
   const keys = Object.keys(value);
 
   for (const key of keys) {
@@ -43,7 +44,7 @@ function validateExactKeys(value, allowedKeys, fileName, location, errors) {
     }
   }
 
-  for (const key of allowedKeys) {
+  for (const key of requiredKeys) {
     if (!(key in value)) {
       errors.push(`${fileName}\t${location}\tmissing required property "${key}"`);
     }
@@ -90,7 +91,7 @@ function validateChallenge(challenge, fileName, errors) {
     return;
   }
 
-  validateExactKeys(challenge, ["difficulty", "category", "shareClueIndex", "clues"], fileName, location, errors);
+  validateObjectKeys(challenge, ["difficulty", "category", "shareClueIndex", "clues"], ["candidates"], fileName, location, errors);
 
   if (!isIntegerInRange(challenge.difficulty, 1, 10)) {
     errors.push(`${fileName}\tchallenge.difficulty\tmust be an integer from 1 to 10`);
@@ -116,6 +117,37 @@ function validateChallenge(challenge, fileName, errors) {
   challenge.clues.forEach((entry, index) => {
     validateClueEntry(entry, fileName, index, errors);
   });
+
+  if ("candidates" in challenge) {
+    validateCandidates(challenge.candidates, fileName, errors);
+  }
+}
+
+function validateCandidates(candidates, fileName, errors) {
+  const location = "challenge.candidates";
+
+  if (!Array.isArray(candidates)) {
+    errors.push(`${fileName}\t${location}\tmust be an array`);
+    return;
+  }
+
+  if (candidates.length < 1) {
+    errors.push(`${fileName}\t${location}\tmust contain at least 1 entry`);
+  }
+
+  const seen = new Set();
+  candidates.forEach((value, index) => {
+    if (typeof value !== "string" || value.length < 1) {
+      errors.push(`${fileName}\t${location}[${index}]\tmust be a non-empty string`);
+      return;
+    }
+
+    if (seen.has(value)) {
+      errors.push(`${fileName}\t${location}[${index}]\tduplicate value "${value}"`);
+    } else {
+      seen.add(value);
+    }
+  });
 }
 
 function validateDailyChallenge(data, fileName, errors) {
@@ -124,7 +156,7 @@ function validateDailyChallenge(data, fileName, errors) {
     return;
   }
 
-  validateExactKeys(data, ["schemaVersion", "date", "challenge"], fileName, "<root>", errors);
+  validateObjectKeys(data, ["schemaVersion", "date", "challenge"], [], fileName, "<root>", errors);
 
   if (!Number.isInteger(data.schemaVersion) || data.schemaVersion < 1) {
     errors.push(`${fileName}\tschemaVersion\tmust be an integer >= 1`);
