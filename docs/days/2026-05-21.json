@@ -1,0 +1,113 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Jerry Seinfeld",
+      "Eddie Murphy",
+      "Chris Rock",
+      "Roseanne Barr",
+      "Tim Allen",
+      "Robin Williams",
+      "Ellen DeGeneres",
+      "Adam Sandler",
+      "Dave Chappelle",
+      "Whoopi Goldberg",
+      "Jim Carrey",
+      "Dana Carvey",
+      "Martin Lawrence",
+      "George Carlin",
+      "Paula Poundstone",
+      "Drew Carey",
+      "Jeff Foxworthy",
+      "Margaret Cho",
+      "Bob Saget",
+      "Norm Macdonald",
+      "Richard Jeni",
+      "Kathleen Madigan",
+      "Sinbad",
+      "Dennis Miller",
+      "Jeff Dunham",
+      "David Spade",
+      "Louis C.K.",
+      "Rita Rudner",
+      "Jay Leno",
+      "Conan O'Brien",
+      "Bill Hicks",
+      "Caroline Rhea",
+      "Eddie Griffin",
+      "Ray Romano",
+      "Kathy Griffin",
+      "Janeane Garofalo",
+      "Arsenio Hall",
+      "Colin Quinn",
+      "Patton Oswalt",
+      "Sarah Silverman",
+      "Tommy Davidson",
+      "Kevin Nealon",
+      "Damon Wayans",
+      "Chris Farley",
+      "Phil Hartman",
+      "Jon Stewart",
+      "Bobcat Goldthwait",
+      "Ricky Gervais",
+      "Steve Harvey",
+      "Cedric The Entertainer",
+      "Mitch Hedberg",
+      "David Cross",
+      "Richard Lewis",
+      "Paul Reiser",
+      "Tracy Morgan",
+      "Billy Crystal",
+      "Jackie Mason",
+      "George Lopez",
+      "Gilbert Gottfried",
+      "Lewis Black"
+    ],
+    "category" : "Comedians of the Nineties",
+    "clues" : [
+      {
+        "answer" : "CHRIS ROCK",
+        "clue" : "CHRS RCK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JERRY SEINFELD",
+        "clue" : "JR RS NF LD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ADAM SANDLER",
+        "clue" : "DMS NDLR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ELLEN DEGENERES",
+        "clue" : "LLN DGNRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MARTIN LAWRENCE",
+        "clue" : "MRTN LWRNC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ROBIN WILLIAMS",
+        "clue" : "RB NW LLMS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TIM ALLEN",
+        "clue" : "T ML LN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WHOOPI GOLDBERG",
+        "clue" : "WHP GLD BRG",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-05-21",
+  "schemaVersion" : 1
+}

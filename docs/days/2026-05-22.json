@@ -1,0 +1,67 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison",
+      "James Monroe",
+      "Andrew Jackson",
+      "Ulysses S. Grant",
+      "Grover Cleveland",
+      "Woodrow Wilson",
+      "Franklin D. Roosevelt",
+      "Dwight D. Eisenhower",
+      "Ronald Reagan",
+      "Bill Clinton",
+      "George W. Bush",
+      "Barack Obama"
+    ],
+    "category" : "US Presidents who served two terms",
+    "clues" : [
+      {
+        "answer" : "BARACK OBAMA",
+        "clue" : "BRCK BM",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BILL CLINTON",
+        "clue" : "BL LCL NTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RONALD REAGAN",
+        "clue" : "RN LDR GN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ANDREW JACKSON",
+        "clue" : "NDRW JCKSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WOODROW WILSON",
+        "clue" : "WDR WWL SN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THOMAS JEFFERSON",
+        "clue" : "THM SJF FRSN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ULYSSES S. GRANT",
+        "clue" : "LS SS SGRN T",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "DWIGHT D. EISENHOWER",
+        "clue" : "DWGH TD SN HWR",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-22",
+  "schemaVersion" : 1
+}

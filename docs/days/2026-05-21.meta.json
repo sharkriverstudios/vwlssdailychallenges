@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "DD MRPHY",
+      "difficulty" : 2,
+      "answer" : "EDDIE MURPHY"
+    },
+    {
+      "clue" : "DV CHPLL",
+      "difficulty" : 3,
+      "answer" : "DAVE CHAPPELLE"
+    },
+    {
+      "clue" : "GRG CRLN",
+      "difficulty" : 6,
+      "answer" : "GEORGE CARLIN"
+    },
+    {
+      "clue" : "RSNN BRR",
+      "difficulty" : 5,
+      "answer" : "ROSEANNE BARR"
+    },
+    {
+      "clue" : "JM CRRY",
+      "difficulty" : 3,
+      "answer" : "JIM CARREY"
+    },
+    {
+      "clue" : "JFF FXWRTHY",
+      "difficulty" : 5,
+      "answer" : "JEFF FOXWORTHY"
+    },
+    {
+      "clue" : "NRM MCDNLD",
+      "difficulty" : 5,
+      "answer" : "NORM MACDONALD"
+    },
+    {
+      "clue" : "DRW CRY",
+      "difficulty" : 4,
+      "answer" : "DREW CAREY"
+    },
+    {
+      "clue" : "BB SGT",
+      "difficulty" : 4,
+      "answer" : "BOB SAGET"
+    },
+    {
+      "clue" : "DNNS MLLR",
+      "difficulty" : 5,
+      "answer" : "DENNIS MILLER"
+    },
+    {
+      "clue" : "DVD SPD",
+      "difficulty" : 5,
+      "answer" : "DAVID SPADE"
+    },
+    {
+      "clue" : "STV HRVY",
+      "difficulty" : 4,
+      "answer" : "STEVE HARVEY"
+    }
+  ],
+  "description" : "Comedians who had major success in the 1990s",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "popular culture",
+    "television",
+    "cinema"
+  ]
+}

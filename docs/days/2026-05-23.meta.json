@@ -1,0 +1,92 @@
+{
+  "description" : "The race, its history, its stars, the things you see during the race",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "PL PSTN",
+      "answer" : "POLE POSITION"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "FR-TM WNNRS CLB",
+      "answer" : "FOUR-TIME WINNERS CLUB"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CRB DY",
+      "answer" : "CARB DAY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SNK PT",
+      "answer" : "SNAKE PIT"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "RKK F TH YR",
+      "answer" : "ROOKIE OF THE YEAR"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "YLLW FLG",
+      "answer" : "YELLOW FLAG"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "BRG-WRNR TRPHY",
+      "answer" : "BORG-WARNER TROPHY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "TH MLK TRDTN",
+      "answer" : "THE MILK TRADITION"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "BCK HM GN N NDN",
+      "answer" : "BACK HOME AGAIN IN INDIANA"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "FRNT RW",
+      "answer" : "FRONT ROW"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FRSTN TRS",
+      "answer" : "FIRESTONE TIRES"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "NDYCR SRS",
+      "answer" : "INDYCAR SERIES"
+    }
+  ],
+  "tags" : [
+    "sports",
+    "history",
+    "popular culture"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "CUMBERLAND FARMS",
+      "difficulty" : 6,
+      "clue" : "CMBRLND FRMS"
+    },
+    {
+      "answer" : "QUICKCHEK",
+      "difficulty" : 5,
+      "clue" : "QCKCHK"
+    },
+    {
+      "answer" : "QUICKTRIP",
+      "difficulty" : 4,
+      "clue" : "QCKTRP"
+    },
+    {
+      "answer" : "KWIK TRIP",
+      "difficulty" : 4,
+      "clue" : "KWK TRP"
+    },
+    {
+      "answer" : "BUC-EE'S",
+      "difficulty" : 7,
+      "clue" : "BC-S"
+    },
+    {
+      "answer" : "7-ELEVEN",
+      "difficulty" : 3,
+      "clue" : "7-LVN"
+    },
+    {
+      "answer" : "RACETRAC",
+      "difficulty" : 5,
+      "clue" : "RCTR"
+    },
+    {
+      "answer" : "CASEY'S GENERAL STORE",
+      "difficulty" : 8,
+      "clue" : "CSY'S GNRL STR"
+    },
+    {
+      "answer" : "ROYAL FARMS",
+      "difficulty" : 6,
+      "clue" : "RYL FRMS"
+    },
+    {
+      "answer" : "TURKEY HILL",
+      "difficulty" : 6,
+      "clue" : "TRKY HLL"
+    },
+    {
+      "answer" : "HOLIDAY STATIONSTORES",
+      "difficulty" : 9,
+      "clue" : "HLDY STTNSTRS"
+    },
+    {
+      "answer" : "ALIMENTATION COUCHE-TARD",
+      "difficulty" : 10,
+      "clue" : "LMNTTN CCH-TRD"
+    }
+  ],
+  "description" : "convenience store chains that we all use",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "business",
+    "popular culture"
+  ]
+}

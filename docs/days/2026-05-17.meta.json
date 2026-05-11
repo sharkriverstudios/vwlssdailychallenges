@@ -23,67 +23,69 @@
   ],
   "extraClues" : [
     {
-      "clue" : "FRRR",
-      "answer" : "FERRARI",
-      "difficulty" : 6
+      "difficulty" : 3,
+      "answer" : "FESTIVAL DE CANNES",
+      "clue" : "FSTVL D CNNS"
     },
     {
-      "clue" : "HRSH",
-      "answer" : "HERSHEY",
-      "difficulty" : 7
+      "difficulty" : 7,
+      "answer" : "UN CERTAIN REGARD",
+      "clue" : "N CRTN RGRD"
     },
     {
-      "clue" : "HNKN",
-      "answer" : "HEINEKEN",
-      "difficulty" : 7
+      "difficulty" : 5,
+      "answer" : "OFFICIAL SELECTION",
+      "clue" : "FFCL SLCTN"
     },
     {
-      "clue" : "KLLGG",
-      "answer" : "KELLOGG",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "answer" : "CROISETTE",
+      "clue" : "CRSTT"
     },
     {
-      "clue" : "PRSCH",
-      "answer" : "PORSCHE",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "answer" : "OPENING CEREMONY",
+      "clue" : "PNNG CRMNY"
     },
     {
-      "clue" : "HRLYDVD",
-      "answer" : "HARLEY-DAVIDSON",
-      "difficulty" : 8
+      "difficulty" : 5,
+      "answer" : "CLOSING CEREMONY",
+      "clue" : "CLSG CRMNY"
     },
     {
-      "clue" : "BRBRRY",
-      "answer" : "BURBERRY",
-      "difficulty" : 7
+      "difficulty" : 4,
+      "answer" : "CAMERA D'OR",
+      "clue" : "CMR D'R"
     },
     {
-      "clue" : "BSCH",
-      "answer" : "BOSCH",
-      "difficulty" : 6
+      "difficulty" : 7,
+      "answer" : "PHOTOCALL",
+      "clue" : "PHTCLL"
     },
     {
-      "clue" : "BNJRRYS",
-      "answer" : "BEN & JERRY'S",
-      "difficulty" : 8
+      "difficulty" : 3,
+      "answer" : "CRITICS WEEK",
+      "clue" : "CRTCS WK"
     },
     {
-      "clue" : "WRNRBRS",
-      "answer" : "WARNER BROS",
-      "difficulty" : 8
+      "difficulty" : 6,
+      "answer" : "DIRECTORS FORTNIGHT",
+      "clue" : "DRCTRS FRTNGHT"
     },
     {
-      "clue" : "TSL",
-      "answer" : "TESLA",
-      "difficulty" : 3
+      "difficulty" : 4,
+      "answer" : "CANNES CLASSICS",
+      "clue" : "CNNS CLSSCS"
     },
     {
-      "clue" : "RMSTRNG",
-      "answer" : "ARMSTRONG",
-      "difficulty" : 7
+      "difficulty" : 5,
+      "answer" : "CANNES LIONS",
+      "clue" : "CNNS LNS"
     }
   ],
   "tags" : [
-    "business"
-  ]
+    "cinema",
+    "culture"
+  ],
+  "description" : "Things associated with the famous international festival"
 }

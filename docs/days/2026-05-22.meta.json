@@ -1,0 +1,78 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "JAMES MADISON",
+      "difficulty" : 5,
+      "clue" : "JMS MDSN"
+    },
+    {
+      "answer" : "FRANKLIN D. ROOSEVELT",
+      "difficulty" : 6,
+      "clue" : "FRNKLN D RSVL"
+    },
+    {
+      "answer" : "JAMES MONROE",
+      "difficulty" : 5,
+      "clue" : "JMS MNR"
+    },
+    {
+      "answer" : "GEORGE WASHINGTON",
+      "difficulty" : 3,
+      "clue" : "GRG WSHNGTN"
+    },
+    {
+      "answer" : "GEORGE W. BUSH",
+      "difficulty" : 3,
+      "clue" : "GRG W BSH"
+    },
+    {
+      "answer" : "GROVER CLEVELAND",
+      "difficulty" : 4,
+      "clue" : "GRVR CLVLND"
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
+  ],
+  "tags" : [
+    "history",
+    "common knowledge"
+  ]
+}

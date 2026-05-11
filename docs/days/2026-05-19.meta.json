@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "PRTGL",
+      "difficulty" : 3,
+      "answer" : "PORTUGAL"
+    },
+    {
+      "clue" : "NRWY",
+      "difficulty" : 3,
+      "answer" : "NORWAY"
+    },
+    {
+      "clue" : "SWTZRLND",
+      "difficulty" : 4,
+      "answer" : "SWITZERLAND"
+    },
+    {
+      "clue" : "HNGRY",
+      "difficulty" : 3,
+      "answer" : "HUNGARY"
+    },
+    {
+      "clue" : "FNLND",
+      "difficulty" : 3,
+      "answer" : "FINLAND"
+    },
+    {
+      "clue" : "BLGM",
+      "difficulty" : 3,
+      "answer" : "BELGIUM"
+    },
+    {
+      "clue" : "VTCN CTY",
+      "difficulty" : 4,
+      "answer" : "VATICAN CITY"
+    },
+    {
+      "clue" : "CRT",
+      "difficulty" : 4,
+      "answer" : "CROATIA"
+    },
+    {
+      "clue" : "LXMBRG",
+      "difficulty" : 6,
+      "answer" : "LUXEMBOURG"
+    },
+    {
+      "clue" : "CLND",
+      "difficulty" : 4,
+      "answer" : "ICELAND"
+    },
+    {
+      "clue" : "LTHN",
+      "difficulty" : 5,
+      "answer" : "LITHUANIA"
+    },
+    {
+      "clue" : "NDRR",
+      "difficulty" : 5,
+      "answer" : "ANDORRA"
+    }
+  ],
+  "description" : "currently existing countries of Europe",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "geography",
+    "common knowledge"
+  ]
+}

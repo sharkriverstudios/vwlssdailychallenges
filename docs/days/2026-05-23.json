@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Indianapolis Motor Speedway",
+      "The Brickyard",
+      "Borg-Warner Trophy",
+      "Pace Car",
+      "Pit Stop",
+      "Victory Lane",
+      "Gasoline Alley",
+      "Andretti Curse",
+      "The Milk Tradition",
+      "Four-Time Winners Club",
+      "Carb Day",
+      "Snake Pit",
+      "Rookie Of The Year",
+      "Flying Start",
+      "Pole Position",
+      "Last Row Party",
+      "500 Festival",
+      "Jim Nabors",
+      "Taps",
+      "Back Home Again In Indiana",
+      "IndyCar Series",
+      "Yellow Flag",
+      "Checkered Flag",
+      "Front Row",
+      "Mario Andretti",
+      "A.J. Foyt",
+      "Rick Mears",
+      "Al Unser",
+      "Helio Castroneves",
+      "Scott Dixon",
+      "Dario Franchitti",
+      "Dan Wheldon",
+      "Simon Pagenaud",
+      "Tony Kanaan",
+      "Takuma Sato",
+      "Arie Luyendyk",
+      "Emerson Fittipaldi",
+      "Juan Pablo Montoya",
+      "Graham Rahal",
+      "Team Penske",
+      "Chip Ganassi Racing",
+      "Ed Carpenter Racing",
+      "Michael Andretti",
+      "Penske Racing",
+      "Firestone Tires",
+      "Goodyear Tires",
+      "Carburetor Test",
+      "Indy Lights",
+      "Brickyard Crossing"
+    ],
+    "category" : "Indianapolis 500",
+    "clues" : [
+      {
+        "answer" : "PACE CAR",
+        "clue" : "PC CR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "INDIANAPOLIS MOTOR SPEEDWAY",
+        "clue" : "NDNPLS MTR SPDWY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PIT STOP",
+        "clue" : "PTS TP",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHECKERED FLAG",
+        "clue" : "CHCK RD F LG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VICTORY LANE",
+        "clue" : "VCTR LN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE BRICKYARD",
+        "clue" : "THBRC KYRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GASOLINE ALLEY",
+        "clue" : "GSLN LLY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ANDRETTI CURSE",
+        "clue" : "NDRTT CRS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-23",
+  "schemaVersion" : 1
+}

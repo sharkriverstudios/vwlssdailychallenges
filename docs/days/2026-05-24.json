@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Memorial Day Parades",
+      "Veterans",
+      "Soldiers",
+      "American Flag",
+      "Barbecues",
+      "Wreath Laying",
+      "National Anthem",
+      "Minute Of Silence",
+      "Military Cemeteries",
+      "Arlington National Cemetery",
+      "Taps",
+      "War Memorials",
+      "Gravesite Decorations",
+      "Patriotic Music",
+      "Red White And Blue",
+      "Veterans Affairs",
+      "Poppies",
+      "Freedom",
+      "Honor",
+      "Sacrifice",
+      "Remembrance",
+      "Patriotism",
+      "Duty",
+      "Service Members",
+      "Memorial Services",
+      "Gold Star Families",
+      "Fallen Heroes",
+      "Memorial Day Sales",
+      "Community Events",
+      "Picnics",
+      "Flags At Half Mast",
+      "Rolling Thunder",
+      "Military Tributes",
+      "Veterans Organizations",
+      "Commemoration",
+      "National Moment Of Remembrance",
+      "Patriotic Speeches",
+      "Armed Forces",
+      "Patriotic Decorations",
+      "Memorial Day Weekend"
+    ],
+    "category" : "Memorial Day",
+    "clues" : [
+      {
+        "answer" : "AMERICAN FLAG",
+        "clue" : "MRCN FLG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "VETERANS",
+        "clue" : "VTRNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SOLDIERS",
+        "clue" : "SLDRS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PARADES",
+        "clue" : "P RDS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BARBECUES",
+        "clue" : "BRBCS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TAPS",
+        "clue" : "TPS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WREATH LAYING",
+        "clue" : "WR THLY NG",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ARLINGTON NATIONAL CEMETERY",
+        "clue" : "RLNGTNNTNLCMTR",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-24",
+  "schemaVersion" : 1
+}

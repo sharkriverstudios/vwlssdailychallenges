@@ -1,0 +1,68 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Snow White",
+      "Cinderella",
+      "Aurora",
+      "Ariel",
+      "Belle",
+      "Jasmine",
+      "Pocahontas",
+      "Mulan",
+      "Tiana",
+      "Rapunzel",
+      "Merida",
+      "Moana",
+      "Elsa",
+      "Anna",
+      "Raya"
+    ],
+    "category" : "Disney Princesses",
+    "clues" : [
+      {
+        "answer" : "JASMINE",
+        "clue" : "JSMN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "RAPUNZEL",
+        "clue" : "RPNZL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SNOW WHITE",
+        "clue" : "SNW WHT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CINDERELLA",
+        "clue" : "CND RLL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BELLE",
+        "clue" : "BLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ELSA",
+        "clue" : "LS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ARIEL",
+        "clue" : "RL",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "TIANA",
+        "clue" : "TN",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-18",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Monopoly",
+      "Scrabble",
+      "Clue",
+      "Risk",
+      "Catan",
+      "Life",
+      "Battleship",
+      "Candy Land",
+      "Chutes And Ladders",
+      "Twister",
+      "Chess",
+      "Checkers",
+      "Operation",
+      "Connect Four",
+      "Sorry",
+      "Trouble",
+      "Pictionary",
+      "Trivial Pursuit",
+      "Ticket To Ride",
+      "Pandemic",
+      "The Game Of Life",
+      "Mouse Trap",
+      "Guess Who",
+      "Mousetrap",
+      "Stratego",
+      "Jenga",
+      "Sequence",
+      "Blokus",
+      "Taboo",
+      "Balderdash",
+      "Rummikub",
+      "Carcassonne",
+      "Settlers Of Catan",
+      "Apples To Apples",
+      "Azul",
+      "Othello",
+      "Yahtzee",
+      "Cranium",
+      "Zingo",
+      "Dixit",
+      "Boggle",
+      "Parcheesi",
+      "Mancala",
+      "Codenames",
+      "Go",
+      "Uno",
+      "Exploding Kittens",
+      "Chinatown",
+      "Forbidden Island",
+      "Tsuro",
+      "Blokus"
+    ],
+    "category" : "Board Games",
+    "clues" : [
+      {
+        "answer" : "CHECKERS",
+        "clue" : "CHCKRS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "CLUE",
+        "clue" : "CL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "RISK",
+        "clue" : "RSK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MONOPOLY",
+        "clue" : "MNPL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SCRABBLE",
+        "clue" : "SCRBBL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PICTIONARY",
+        "clue" : "PCTNR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "OPERATION",
+        "clue" : "PRTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CANDY LAND",
+        "clue" : "CN DL ND",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-20",
+  "schemaVersion" : 1
+}

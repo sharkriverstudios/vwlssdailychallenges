@@ -1,0 +1,81 @@
+{
+  "tags" : [
+    "popular culture",
+    "cinema"
+  ],
+  "description" : "Lead characters in Disney animated films that are female and the movie is named after",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "answer" : "AURORA",
+      "clue" : "RR"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "MERIDA",
+      "clue" : "MRD"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MOANA",
+      "clue" : "MN"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "MULAN",
+      "clue" : "MLN"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "POCAHONTAS",
+      "clue" : "PCHNTS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "ANNA",
+      "clue" : "NN"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "RAYA",
+      "clue" : "RY"
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
+  ]
+}

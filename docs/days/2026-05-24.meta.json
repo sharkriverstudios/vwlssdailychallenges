@@ -1,0 +1,92 @@
+{
+  "description" : "things associated with the holiday, its celebrations and its role in society",
+  "tags" : [
+    "culture",
+    "history",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "PATRIOTIC MUSIC",
+      "clue" : "PTRTC MSC",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MEMORIAL DAY WEEKEND",
+      "clue" : "MMRL DY WKND",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "WAR MEMORIALS",
+      "clue" : "WR MMRLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MINUTE OF SILENCE",
+      "clue" : "MNT F SLNC",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "GRAVESITE DECORATIONS",
+      "clue" : "GRVST DCRTNS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "RED WHITE AND BLUE",
+      "clue" : "RD WHT ND BL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "FALLEN HEROES",
+      "clue" : "FLLN HRS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "FLAGS AT HALF MAST",
+      "clue" : "FLGS T HLF MST",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "NATIONAL ANTHEM",
+      "clue" : "NTNL NTHM",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "COMMUNITY EVENTS",
+      "clue" : "CMNTY VNT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PATRIOTISM",
+      "clue" : "PTRTSM",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SERVICE MEMBERS",
+      "clue" : "SRVC MMRS",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

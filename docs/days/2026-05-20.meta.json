@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "TRVL PRST",
+      "difficulty" : 7,
+      "answer" : "TRIVIAL PURSUIT"
+    },
+    {
+      "clue" : "CNNCT FR",
+      "difficulty" : 3,
+      "answer" : "CONNECT FOUR"
+    },
+    {
+      "clue" : "STTLRS F CTN",
+      "difficulty" : 8,
+      "answer" : "SETTLERS OF CATAN"
+    },
+    {
+      "clue" : "JNG",
+      "difficulty" : 5,
+      "answer" : "JENGA"
+    },
+    {
+      "clue" : "CNDY LND",
+      "difficulty" : 4,
+      "answer" : "CANDY LAND"
+    },
+    {
+      "clue" : "TCKT T RD",
+      "difficulty" : 8,
+      "answer" : "TICKET TO RIDE"
+    },
+    {
+      "clue" : "TH GM F LF",
+      "difficulty" : 9,
+      "answer" : "THE GAME OF LIFE"
+    },
+    {
+      "clue" : "MS TRP",
+      "difficulty" : 6,
+      "answer" : "MOUSE TRAP"
+    },
+    {
+      "clue" : "GSS WH",
+      "difficulty" : 3,
+      "answer" : "GUESS WHO"
+    },
+    {
+      "clue" : "STRTG",
+      "difficulty" : 4,
+      "answer" : "STRATEGO"
+    },
+    {
+      "clue" : "RMMKB",
+      "difficulty" : 7,
+      "answer" : "RUMMIKUB"
+    },
+    {
+      "clue" : "MNCL",
+      "difficulty" : 6,
+      "answer" : "MANCALA"
+    }
+  ],
+  "description" : "Commonly known board games that the whole family can play together",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "popular culture",
+    "home",
+    "common knowledge"
+  ]
+}
