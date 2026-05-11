@@ -10,6 +10,9 @@ const challengeAnswerPattern = /^(?=.*\p{Lu})[\p{Lu}\p{P} ]+$/u;
 const challengeCluePattern = /^[BCDFGHJKLMNPQRSTVWXYZ ]*[BCDFGHJKLMNPQRSTVWXYZ][BCDFGHJKLMNPQRSTVWXYZ ]*$/u;
 const nonWhitespacePattern = /\S/u;
 
+const MIN_CONTENT_DATE = "2026-01-01";
+const MAX_CONTENT_DATE = "2126-01-01";
+
 function isPlainObject(value) {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }
@@ -129,6 +132,8 @@ function validateDailyChallenge(data, fileName, errors) {
 
   if (!isIsoDateString(data.date)) {
     errors.push(`${fileName}\tdate\tmust be a valid YYYY-MM-DD date`);
+  } else if (data.date < MIN_CONTENT_DATE || data.date > MAX_CONTENT_DATE) {
+    errors.push(`${fileName}\tdate\tmust be between ${MIN_CONTENT_DATE} and ${MAX_CONTENT_DATE} inclusive`);
   }
 
   if (typeof data.date === "string" && `${data.date}.json` !== fileName) {
