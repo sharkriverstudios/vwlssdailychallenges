@@ -32,6 +32,16 @@
         "$ref": "#/$defs/clueEntry"
       },
       "description": "Exactly eight clue-answer pairs."
+    },
+    "candidates": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Reasonable guesses for the category. Should include all correct answers plus other plausible candidates that a player might guess."
     }
   },
   "required": [
