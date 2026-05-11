@@ -1,66 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "LEMON SHERBET",
-      "clue" : "LM NSH RBT",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "RUM RAISIN",
-      "clue" : "RM RSN",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "NEAPOLITAN",
-      "clue" : "NPLTN",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "COOKIE DOUGH",
-      "clue" : "CK DGH",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "SALTED CARAMEL",
-      "clue" : "SLTD CRML",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "CHERRY GARCIA",
-      "clue" : "CHRY GRC",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "MOOSE TRACKS",
-      "clue" : "MS TRCKS",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "COTTON CANDY",
-      "clue" : "CTTN CNDY",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "MATCHA",
-      "clue" : "MTCH",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "TUTTI FRUTTI",
-      "clue" : "TTT FRTT",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "MAPLE WALNUT",
-      "clue" : "MPL WLNT",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "DULCE DE LECHE",
-      "clue" : "DLC D LCH",
-      "difficulty" : 9
-    }
-  ],
   "tags" : [
     "culinary"
   ],
@@ -85,5 +23,67 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "LM NSH RBT",
+      "difficulty" : 8,
+      "answer" : "LEMON SHERBET"
+    },
+    {
+      "clue" : "RM RSN",
+      "difficulty" : 5,
+      "answer" : "RUM RAISIN"
+    },
+    {
+      "clue" : "NPLTN",
+      "difficulty" : 4,
+      "answer" : "NEAPOLITAN"
+    },
+    {
+      "clue" : "CK DGH",
+      "difficulty" : 4,
+      "answer" : "COOKIE DOUGH"
+    },
+    {
+      "clue" : "SLTD CRML",
+      "difficulty" : 3,
+      "answer" : "SALTED CARAMEL"
+    },
+    {
+      "clue" : "CHRY GRC",
+      "difficulty" : 5,
+      "answer" : "CHERRY GARCIA"
+    },
+    {
+      "clue" : "MS TRCKS",
+      "difficulty" : 6,
+      "answer" : "MOOSE TRACKS"
+    },
+    {
+      "clue" : "CTTN CNDY",
+      "difficulty" : 3,
+      "answer" : "COTTON CANDY"
+    },
+    {
+      "clue" : "MTCH",
+      "difficulty" : 4,
+      "answer" : "MATCHA"
+    },
+    {
+      "clue" : "TTT FRTT",
+      "difficulty" : 8,
+      "answer" : "TUTTI FRUTTI"
+    },
+    {
+      "clue" : "MPL WLNT",
+      "difficulty" : 7,
+      "answer" : "MAPLE WALNUT"
+    },
+    {
+      "clue" : "DLC D LCH",
+      "difficulty" : 9,
+      "answer" : "DULCE DE LECHE"
+    }
   ]
 }
