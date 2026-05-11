@@ -135,17 +135,9 @@ function validateCandidates(candidates, fileName, errors) {
     errors.push(`${fileName}\t${location}\tmust contain at least 1 entry`);
   }
 
-  const seen = new Set();
   candidates.forEach((value, index) => {
     if (typeof value !== "string" || value.length < 1) {
       errors.push(`${fileName}\t${location}[${index}]\tmust be a non-empty string`);
-      return;
-    }
-
-    if (seen.has(value)) {
-      errors.push(`${fileName}\t${location}[${index}]\tduplicate value "${value}"`);
-    } else {
-      seen.add(value);
     }
   });
 }
