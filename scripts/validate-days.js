@@ -145,7 +145,7 @@ function validateDailyChallenge(data, fileName, errors) {
 
 function main() {
   const files = fs.readdirSync(daysDir)
-    .filter((name) => name.endsWith(".json"))
+    .filter((name) => name.endsWith(".json") && !name.endsWith(".meta.json"))
     .sort();
 
   const errors = [];
