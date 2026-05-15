@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.5.9",
-  "generatedAt": "2026-05-09T04:55:29Z",
+  "contentVersion": "2026.5.15",
+  "generatedAt": "2026-05-15T04:10:49Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-05-16",
+  "availableTo": "2026-05-28",
   "days": [
     {
       "date": "2026-04-01",
@@ -290,7 +290,7 @@
       "difficulty": 4,
       "category": "Ice Cream Flavors",
       "path": "days/2026-05-11.json",
-      "hash": "sha256:72e777b80932132abee988c18767717fd0f858d4a387348c6a474faf0e092581"
+      "hash": "sha256:b2c698b61619f0512e5359a9274d7452f850a48275186da0a62725a62f5d331e"
     },
     {
       "date": "2026-05-12",
@@ -323,9 +323,93 @@
     {
       "date": "2026-05-16",
       "difficulty": 6,
-      "category": "Companies Named After Founders",
+      "category": "Cannes Film Festival",
       "path": "days/2026-05-16.json",
-      "hash": "sha256:f6a14348f7011dd42d2eba6fcf1e77a26b51ec9f8e8de872636aa01246d9f83a"
+      "hash": "sha256:f108c40b128463a6a1a796192f9a41b33bb7e1b431e95120b407667e6daef7d5"
+    },
+    {
+      "date": "2026-05-17",
+      "difficulty": 6,
+      "category": "US Presidents who served two terms",
+      "path": "days/2026-05-17.json",
+      "hash": "sha256:1891da01f1c94cc5247fce030e832b242addaa3ba24deabb690fedae78e3a181"
+    },
+    {
+      "date": "2026-05-18",
+      "difficulty": 3,
+      "category": "Disney Princesses",
+      "path": "days/2026-05-18.json",
+      "hash": "sha256:86cd485f044d4637adc15cbb5ff8f7554a7f497399463431950a88fa3d7dfa49"
+    },
+    {
+      "date": "2026-05-19",
+      "difficulty": 3,
+      "category": "Countries of Europe",
+      "path": "days/2026-05-19.json",
+      "hash": "sha256:88e247c50f2100e8b3f40eeb856718ae7a8deb1e9698fbcb6df8fb672e047846"
+    },
+    {
+      "date": "2026-05-20",
+      "difficulty": 5,
+      "category": "Board Games",
+      "path": "days/2026-05-20.json",
+      "hash": "sha256:a62d4811ef2b46567633a59863a95a6f210e98ebcd69d94267984d0bd266fae6"
+    },
+    {
+      "date": "2026-05-21",
+      "difficulty": 5,
+      "category": "Comedians of the Nineties",
+      "path": "days/2026-05-21.json",
+      "hash": "sha256:bdc4245235c4a1d80934c5c8748e166c77467eaf174832f9f24f58627acf55fc"
+    },
+    {
+      "date": "2026-05-22",
+      "difficulty": 6,
+      "category": "Companies Named After Founders",
+      "path": "days/2026-05-22.json",
+      "hash": "sha256:691ba67f01630fdf80c3c566f13f3a35954ccabf448abcb4dad35c4585825744"
+    },
+    {
+      "date": "2026-05-23",
+      "difficulty": 5,
+      "category": "Indianapolis 500",
+      "path": "days/2026-05-23.json",
+      "hash": "sha256:6f5fb51b8ae7998ccb42c1c2ce324d4d4c07cf6e5e2736f0db8d399d8a983a2b"
+    },
+    {
+      "date": "2026-05-24",
+      "difficulty": 5,
+      "category": "Memorial Day",
+      "path": "days/2026-05-24.json",
+      "hash": "sha256:3e2c3464e4533f632fea907fb18160d29e715857ff4c20c1d9322f500a928424"
+    },
+    {
+      "date": "2026-05-25",
+      "difficulty": 4,
+      "category": "Convenience Stores",
+      "path": "days/2026-05-25.json",
+      "hash": "sha256:e02855e3bb073a87a6de482169b533cfac584e65804ef806aa014f4da6e7072a"
+    },
+    {
+      "date": "2026-05-26",
+      "difficulty": 4,
+      "category": "Monopoly Board Spaces",
+      "path": "days/2026-05-26.json",
+      "hash": "sha256:9e044d1f003f83f10c8dc6420302f56bba7d23d6c597e15769971069d4c5fc66"
+    },
+    {
+      "date": "2026-05-27",
+      "difficulty": 5,
+      "category": "Great TV Comic Actresses",
+      "path": "days/2026-05-27.json",
+      "hash": "sha256:2613180da51a2887941eb4e54fec56a73d80c0b2f53a4e2a45e24f01dfe2d045"
+    },
+    {
+      "date": "2026-05-28",
+      "difficulty": 4,
+      "category": "Big Cats",
+      "path": "days/2026-05-28.json",
+      "hash": "sha256:4b17392ad8c5fb71a047fd4ca0a98cc0f8441e46ea7eaff1658befcdc414abf0"
     }
   ]
 }
