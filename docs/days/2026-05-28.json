@@ -1,0 +1,87 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Lion",
+      "Tiger",
+      "Leopard",
+      "Jaguar",
+      "Cheetah",
+      "Snow Leopard",
+      "Cougar",
+      "Lynx",
+      "Caracal",
+      "Serval",
+      "Ocelot",
+      "Clouded Leopard",
+      "Puma",
+      "Bobcat",
+      "Eurasian Lynx",
+      "African Golden Cat",
+      "Asian Golden Cat",
+      "Marbled Cat",
+      "Rusty-Spotted Cat",
+      "Canadian Lynx",
+      "Iberian Lynx",
+      "Sunda Clouded Leopard",
+      "Borneo Bay Cat",
+      "Kodkod",
+      "Geoffroy's Cat",
+      "Andean Mountain Cat",
+      "Pallas's Cat",
+      "Flat-Headed Cat",
+      "Fishing Cat",
+      "Jungle Cat",
+      "Sand Cat",
+      "Black-Footed Cat",
+      "Wildcat",
+      "Jungle Lynx"
+    ],
+    "category" : "Big Cats",
+    "clues" : [
+      {
+        "answer" : "LION",
+        "clue" : "LN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "TIGER",
+        "clue" : "TGR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JAGUAR",
+        "clue" : "JGR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LEOPARD",
+        "clue" : "L PRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHEETAH",
+        "clue" : "CH TH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BOBCAT",
+        "clue" : "BBCT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "COUGAR",
+        "clue" : "CGR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SNOW LEOPARD",
+        "clue" : "SNWL PRD",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-05-28",
+  "schemaVersion" : 1
+}

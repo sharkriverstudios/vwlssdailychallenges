@@ -23,64 +23,69 @@
   ],
   "extraClues" : [
     {
-      "clue" : "L PNT",
-      "difficulty" : 4,
-      "answer" : "OIL PAINT"
-    },
-    {
-      "clue" : "SL",
       "difficulty" : 3,
-      "answer" : "EASEL"
+      "answer" : "FESTIVAL DE CANNES",
+      "clue" : "FSTVL D CNNS"
     },
     {
-      "clue" : "CHRCL",
+      "difficulty" : 7,
+      "answer" : "UN CERTAIN REGARD",
+      "clue" : "N CRTN RGRD"
+    },
+    {
       "difficulty" : 5,
-      "answer" : "CHARCOAL"
+      "answer" : "OFFICIAL SELECTION",
+      "clue" : "FFCL SLCTN"
     },
     {
-      "clue" : "PSTL",
-      "difficulty" : 4,
-      "answer" : "PASTEL"
-    },
-    {
-      "clue" : "GRPHT",
-      "difficulty" : 5,
-      "answer" : "GRAPHITE"
-    },
-    {
-      "clue" : "SKTCH",
-      "difficulty" : 4,
-      "answer" : "SKETCH"
-    },
-    {
-      "clue" : "SCLPTR",
       "difficulty" : 6,
-      "answer" : "SCULPTURE"
+      "answer" : "CROISETTE",
+      "clue" : "CRSTT"
     },
     {
-      "clue" : "CLLG",
-      "difficulty" : 6,
-      "answer" : "COLLAGE"
-    },
-    {
-      "clue" : "NK",
-      "difficulty" : 2,
-      "answer" : "INK"
-    },
-    {
-      "clue" : "GCH",
       "difficulty" : 5,
-      "answer" : "GOUACHE"
+      "answer" : "OPENING CEREMONY",
+      "clue" : "PNNG CRMNY"
     },
     {
-      "clue" : "TMPR",
-      "answer" : "TEMPERA",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "answer" : "CLOSING CEREMONY",
+      "clue" : "CLSG CRMNY"
     },
     {
-      "clue" : "PGMNT",
-      "answer" : "PIGMENT",
-      "difficulty" : 5
+      "difficulty" : 4,
+      "answer" : "CAMERA D'OR",
+      "clue" : "CMR D'R"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "PHOTOCALL",
+      "clue" : "PHTCLL"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "CRITICS WEEK",
+      "clue" : "CRTCS WK"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DIRECTORS FORTNIGHT",
+      "clue" : "DRCTRS FRTNGHT"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "CANNES CLASSICS",
+      "clue" : "CNNS CLSSCS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CANNES LIONS",
+      "clue" : "CNNS LNS"
     }
-  ]
+  ],
+  "tags" : [
+    "cinema",
+    "culture"
+  ],
+  "description" : "Things associated with the famous international festival"
 }

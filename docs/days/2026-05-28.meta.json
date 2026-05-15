@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "nature",
+    "science"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 1,
+      "clue" : "LYNX",
+      "answer" : "LYNX"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PM",
+      "answer" : "PUMA"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "SRVL",
+      "answer" : "SERVAL"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CLT",
+      "answer" : "OCELOT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CLDD LPRD",
+      "answer" : "CLOUDED LEOPARD"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "RSHN LYNX",
+      "answer" : "EURASIAN LYNX"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CRCL",
+      "answer" : "CARACAL"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "SND CT",
+      "answer" : "SANDA CAT"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "FSHNG CT",
+      "answer" : "FISHING CAT"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "MRBLD CT",
+      "answer" : "MARBLED CAT"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "FRCN GLDN CT",
+      "answer" : "AFRICAN GOLDEN CAT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "WLDC",
+      "answer" : "WILDCAT"
+    }
+  ]
+}

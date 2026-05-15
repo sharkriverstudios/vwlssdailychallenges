@@ -23,69 +23,56 @@
   ],
   "extraClues" : [
     {
-      "difficulty" : 3,
-      "answer" : "FESTIVAL DE CANNES",
-      "clue" : "FSTVL D CNNS"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "UN CERTAIN REGARD",
-      "clue" : "N CRTN RGRD"
-    },
-    {
+      "answer" : "JAMES MADISON",
       "difficulty" : 5,
-      "answer" : "OFFICIAL SELECTION",
-      "clue" : "FFCL SLCTN"
+      "clue" : "JMS MDSN"
     },
     {
+      "answer" : "FRANKLIN D. ROOSEVELT",
       "difficulty" : 6,
-      "answer" : "CROISETTE",
-      "clue" : "CRSTT"
+      "clue" : "FRNKLN D RSVL"
     },
     {
+      "answer" : "JAMES MONROE",
       "difficulty" : 5,
-      "answer" : "OPENING CEREMONY",
-      "clue" : "PNNG CRMNY"
+      "clue" : "JMS MNR"
     },
     {
-      "difficulty" : 5,
-      "answer" : "CLOSING CEREMONY",
-      "clue" : "CLSG CRMNY"
-    },
-    {
-      "difficulty" : 4,
-      "answer" : "CAMERA D'OR",
-      "clue" : "CMR D'R"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "PHOTOCALL",
-      "clue" : "PHTCLL"
-    },
-    {
+      "answer" : "GEORGE WASHINGTON",
       "difficulty" : 3,
-      "answer" : "CRITICS WEEK",
-      "clue" : "CRTCS WK"
+      "clue" : "GRG WSHNGTN"
     },
     {
-      "difficulty" : 6,
-      "answer" : "DIRECTORS FORTNIGHT",
-      "clue" : "DRCTRS FRTNGHT"
+      "answer" : "GEORGE W. BUSH",
+      "difficulty" : 3,
+      "clue" : "GRG W BSH"
     },
     {
+      "answer" : "GROVER CLEVELAND",
       "difficulty" : 4,
-      "answer" : "CANNES CLASSICS",
-      "clue" : "CNNS CLSSCS"
+      "clue" : "GRVR CLVLND"
     },
     {
-      "difficulty" : 5,
-      "answer" : "CANNES LIONS",
-      "clue" : "CNNS LNS"
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
     }
   ],
   "tags" : [
-    "cinema",
-    "culture"
-  ],
-  "description" : "Things associated with the famous international festival"
+    "history",
+    "common knowledge"
+  ]
 }

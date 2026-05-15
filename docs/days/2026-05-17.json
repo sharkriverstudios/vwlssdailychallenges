@@ -1,102 +1,66 @@
 {
   "challenge" : {
     "candidates" : [
-      "Palme D'Or",
-      "Grand Prix",
-      "Jury Prize",
-      "Best Director",
-      "Best Actress",
-      "Best Actor",
-      "Cinefondation",
-      "Un Certain Regard",
-      "Camera D'Or",
-      "Marché Du Film",
-      "Cannes Classics",
-      "Short Film Corner",
-      "Festival De Cannes",
-      "Red Carpet",
-      "Croisette",
-      "Opening Ceremony",
-      "Closing Ceremony",
-      "Press Conference",
-      "Photocall",
-      "Critics Week",
-      "Directors Fortnight",
-      "Palais Des Festivals",
-      "Cinephile",
-      "Film Market",
-      "Official Selection",
-      "Out Of Competition",
-      "Special Screening",
-      "Cannes Lions",
-      "Masterclass",
-      "Honorary Palme D'Or",
-      "Queer Palm",
-      "Cannes Cinephiles",
-      "Cannes Soundtrack Award",
-      "Prix Vulcain",
-      "Cannes Film Week",
-      "Cannes Court Metrage",
-      "Cannes Ecrans Juniors",
-      "Cannes Classics Award",
-      "Cannes Virtual Reality",
-      "Cannes Next",
-      "Cannes XR",
-      "Cannes Docs",
-      "Canneseries",
-      "Cinema De La Plage",
-      "Cannes Soundtrack",
-      "Cannes Film Guide",
-      "Cannes Photocall",
-      "Cannes Gala Dinner",
-      "Cannes Talent Awards",
-      "Cannes Special Jury"
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison",
+      "James Monroe",
+      "Andrew Jackson",
+      "Ulysses S. Grant",
+      "Grover Cleveland",
+      "Woodrow Wilson",
+      "Franklin D. Roosevelt",
+      "Dwight D. Eisenhower",
+      "Ronald Reagan",
+      "Bill Clinton",
+      "George W. Bush",
+      "Barack Obama"
     ],
-    "category" : "Cannes Film Festival",
+    "category" : "US Presidents who served two terms",
     "clues" : [
       {
-        "answer" : "RED CARPET",
-        "clue" : "RD CRPT",
+        "answer" : "BARACK OBAMA",
+        "clue" : "BRCK BM",
         "difficulty" : 2
       },
       {
-        "answer" : "PALME D'OR",
-        "clue" : "PLM DR",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "JURY PRIZE",
-        "clue" : "JR PRZ",
+        "answer" : "BILL CLINTON",
+        "clue" : "BL LCL NTN",
         "difficulty" : 3
       },
       {
-        "answer" : "GRAND PRIX",
-        "clue" : "GRND PRX",
+        "answer" : "RONALD REAGAN",
+        "clue" : "RN LDR GN",
         "difficulty" : 3
       },
       {
-        "answer" : "BEST DIRECTOR",
-        "clue" : "BS TD RCT R",
+        "answer" : "ANDREW JACKSON",
+        "clue" : "NDRW JCKSN",
         "difficulty" : 4
       },
       {
-        "answer" : "PRESS CONFERENCE",
-        "clue" : "PRS SCN FRNC",
+        "answer" : "WOODROW WILSON",
+        "clue" : "WDR WWL SN",
         "difficulty" : 5
       },
       {
-        "answer" : "SPECIAL SCREENING",
-        "clue" : "SP CLS CRNNG",
+        "answer" : "THOMAS JEFFERSON",
+        "clue" : "THM SJF FRSN",
         "difficulty" : 6
       },
       {
-        "answer" : "CINEFONDATION",
-        "clue" : "CN FND TN",
+        "answer" : "ULYSSES S. GRANT",
+        "clue" : "LS SS SGRN T",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "DWIGHT D. EISENHOWER",
+        "clue" : "DWGH TD SN HWR",
         "difficulty" : 8
       }
     ],
     "difficulty" : 6,
-    "shareClueIndex" : 2
+    "shareClueIndex" : 0
   },
   "date" : "2026-05-17",
   "schemaVersion" : 1

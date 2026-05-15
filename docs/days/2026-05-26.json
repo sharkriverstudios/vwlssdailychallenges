@@ -1,0 +1,89 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Mediterranean Avenue",
+      "Baltic Avenue",
+      "Oriental Avenue",
+      "Vermont Avenue",
+      "Connecticut Avenue",
+      "St. Charles Place",
+      "States Avenue",
+      "Virginia Avenue",
+      "St. James Place",
+      "Tennessee Avenue",
+      "New York Avenue",
+      "Kentucky Avenue",
+      "Indiana Avenue",
+      "Illinois Avenue",
+      "Atlantic Avenue",
+      "Ventnor Avenue",
+      "Marvin Gardens",
+      "Pacific Avenue",
+      "North Carolina Avenue",
+      "Pennsylvania Avenue",
+      "Park Place",
+      "Boardwalk",
+      "Reading Railroad",
+      "Pennsylvania Railroad",
+      "B. & O. Railroad",
+      "Short Line",
+      "Electric Company",
+      "Water Works",
+      "Go",
+      "Jail",
+      "Free Parking",
+      "Go To Jail",
+      "Income Tax",
+      "Luxury Tax",
+      "Community Chest",
+      "Chance"
+    ],
+    "category" : "Monopoly Board Spaces",
+    "clues" : [
+      {
+        "answer" : "BOARDWALK",
+        "clue" : "BRDWLK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PARK PLACE",
+        "clue" : "PRK PLC",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FREE PARKING",
+        "clue" : "FR PRKNG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHANCE",
+        "clue" : "CHNC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "READING RAILROAD",
+        "clue" : "RDNG RLRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BALTIC AVENUE",
+        "clue" : "BLTC VN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "IN JAIL",
+        "clue" : "NJL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "WATER WORKS",
+        "clue" : "WT RW RKS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-26",
+  "schemaVersion" : 1
+}

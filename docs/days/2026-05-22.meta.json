@@ -23,56 +23,64 @@
   ],
   "extraClues" : [
     {
-      "answer" : "JAMES MADISON",
-      "difficulty" : 5,
-      "clue" : "JMS MDSN"
-    },
-    {
-      "answer" : "FRANKLIN D. ROOSEVELT",
-      "difficulty" : 6,
-      "clue" : "FRNKLN D RSVL"
-    },
-    {
-      "answer" : "JAMES MONROE",
-      "difficulty" : 5,
-      "clue" : "JMS MNR"
-    },
-    {
-      "answer" : "GEORGE WASHINGTON",
-      "difficulty" : 3,
-      "clue" : "GRG WSHNGTN"
-    },
-    {
-      "answer" : "GEORGE W. BUSH",
-      "difficulty" : 3,
-      "clue" : "GRG W BSH"
-    },
-    {
-      "answer" : "GROVER CLEVELAND",
+      "clue" : "L PNT",
       "difficulty" : 4,
-      "clue" : "GRVR CLVLND"
+      "answer" : "OIL PAINT"
     },
     {
-      "difficulty" : 1
+      "clue" : "SL",
+      "difficulty" : 3,
+      "answer" : "EASEL"
     },
     {
-      "difficulty" : 1
+      "clue" : "CHRCL",
+      "difficulty" : 5,
+      "answer" : "CHARCOAL"
     },
     {
-      "difficulty" : 1
+      "clue" : "PSTL",
+      "difficulty" : 4,
+      "answer" : "PASTEL"
     },
     {
-      "difficulty" : 1
+      "clue" : "GRPHT",
+      "difficulty" : 5,
+      "answer" : "GRAPHITE"
     },
     {
-      "difficulty" : 1
+      "clue" : "SKTCH",
+      "difficulty" : 4,
+      "answer" : "SKETCH"
     },
     {
-      "difficulty" : 1
+      "clue" : "SCLPTR",
+      "difficulty" : 6,
+      "answer" : "SCULPTURE"
+    },
+    {
+      "clue" : "CLLG",
+      "difficulty" : 6,
+      "answer" : "COLLAGE"
+    },
+    {
+      "clue" : "NK",
+      "difficulty" : 2,
+      "answer" : "INK"
+    },
+    {
+      "clue" : "GCH",
+      "difficulty" : 5,
+      "answer" : "GOUACHE"
+    },
+    {
+      "clue" : "TMPR",
+      "answer" : "TEMPERA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PGMNT",
+      "answer" : "PIGMENT",
+      "difficulty" : 5
     }
-  ],
-  "tags" : [
-    "history",
-    "common knowledge"
   ]
 }
