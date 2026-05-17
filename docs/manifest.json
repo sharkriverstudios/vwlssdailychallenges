@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.5.15",
-  "generatedAt": "2026-05-15T04:10:49Z",
+  "contentVersion": "2026.5.17",
+  "generatedAt": "2026-05-17T04:09:13Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-05-28",
+  "availableTo": "2026-05-31",
   "days": [
     {
       "date": "2026-04-01",
@@ -343,10 +343,10 @@
     },
     {
       "date": "2026-05-19",
-      "difficulty": 3,
-      "category": "Countries of Europe",
+      "difficulty": 4,
+      "category": "Big Cats",
       "path": "days/2026-05-19.json",
-      "hash": "sha256:88e247c50f2100e8b3f40eeb856718ae7a8deb1e9698fbcb6df8fb672e047846"
+      "hash": "sha256:164257f6b882b5ea8104ec47cf4dae7da0c837512628ba5a361332a26aa0d36f"
     },
     {
       "date": "2026-05-20",
@@ -365,9 +365,9 @@
     {
       "date": "2026-05-22",
       "difficulty": 6,
-      "category": "Companies Named After Founders",
+      "category": "Mediterranean Islands",
       "path": "days/2026-05-22.json",
-      "hash": "sha256:691ba67f01630fdf80c3c566f13f3a35954ccabf448abcb4dad35c4585825744"
+      "hash": "sha256:62e10aa23506ceb6efb876e36b04b8fce1743dd14c14aedc5433e6ce0d5df058"
     },
     {
       "date": "2026-05-23",
@@ -385,31 +385,52 @@
     },
     {
       "date": "2026-05-25",
-      "difficulty": 4,
-      "category": "Convenience Stores",
+      "difficulty": 3,
+      "category": "Countries of Europe",
       "path": "days/2026-05-25.json",
-      "hash": "sha256:e02855e3bb073a87a6de482169b533cfac584e65804ef806aa014f4da6e7072a"
+      "hash": "sha256:7a887913e484fb08a5834b58d669c9a37cce7fafdf20b72523ca46c1424bd45f"
     },
     {
       "date": "2026-05-26",
       "difficulty": 4,
-      "category": "Monopoly Board Spaces",
+      "category": "Convenience Stores",
       "path": "days/2026-05-26.json",
-      "hash": "sha256:9e044d1f003f83f10c8dc6420302f56bba7d23d6c597e15769971069d4c5fc66"
+      "hash": "sha256:51bd25fcfb6184042d865829335afe9dbae5ec3c341309e66cb9b728e14734c5"
     },
     {
       "date": "2026-05-27",
-      "difficulty": 5,
-      "category": "Great TV Comic Actresses",
+      "difficulty": 4,
+      "category": "Monopoly Board Spaces",
       "path": "days/2026-05-27.json",
-      "hash": "sha256:2613180da51a2887941eb4e54fec56a73d80c0b2f53a4e2a45e24f01dfe2d045"
+      "hash": "sha256:76dba5ad464adfaed1bda8f1fdbaa3cdcd74bf33cb1ba479771300a593d6dec9"
     },
     {
       "date": "2026-05-28",
-      "difficulty": 4,
-      "category": "Big Cats",
+      "difficulty": 5,
+      "category": "Great TV Comic Actresses",
       "path": "days/2026-05-28.json",
-      "hash": "sha256:4b17392ad8c5fb71a047fd4ca0a98cc0f8441e46ea7eaff1658befcdc414abf0"
+      "hash": "sha256:469f4c2c8e014a962eb27a53467a007e7a0a1f14f545f8174e3e5f8dbed976f2"
+    },
+    {
+      "date": "2026-05-29",
+      "difficulty": 6,
+      "category": "Companies Named After Founders",
+      "path": "days/2026-05-29.json",
+      "hash": "sha256:9ee42afc7740a88d8f5ecf86e0d3c7ee702481cc4315fc030ac424266fb1e36a"
+    },
+    {
+      "date": "2026-05-30",
+      "difficulty": 5,
+      "category": "Spiderman's Rivals",
+      "path": "days/2026-05-30.json",
+      "hash": "sha256:1b245fb938c6301e772d83847ea2d330829fdee16f7c9ae388c877e389aeaee8"
+    },
+    {
+      "date": "2026-05-31",
+      "difficulty": 6,
+      "category": "alanic morisette songs",
+      "path": "days/2026-05-31.json",
+      "hash": "sha256:11c1296355518ae56996dd14f1b6c1bc7b919aebed335c9a06421444875a7821"
     }
   ]
 }
