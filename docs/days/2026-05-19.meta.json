@@ -1,67 +1,8 @@
 {
-  "extraClues" : [
-    {
-      "clue" : "PRTGL",
-      "difficulty" : 3,
-      "answer" : "PORTUGAL"
-    },
-    {
-      "clue" : "NRWY",
-      "difficulty" : 3,
-      "answer" : "NORWAY"
-    },
-    {
-      "clue" : "SWTZRLND",
-      "difficulty" : 4,
-      "answer" : "SWITZERLAND"
-    },
-    {
-      "clue" : "HNGRY",
-      "difficulty" : 3,
-      "answer" : "HUNGARY"
-    },
-    {
-      "clue" : "FNLND",
-      "difficulty" : 3,
-      "answer" : "FINLAND"
-    },
-    {
-      "clue" : "BLGM",
-      "difficulty" : 3,
-      "answer" : "BELGIUM"
-    },
-    {
-      "clue" : "VTCN CTY",
-      "difficulty" : 4,
-      "answer" : "VATICAN CITY"
-    },
-    {
-      "clue" : "CRT",
-      "difficulty" : 4,
-      "answer" : "CROATIA"
-    },
-    {
-      "clue" : "LXMBRG",
-      "difficulty" : 6,
-      "answer" : "LUXEMBOURG"
-    },
-    {
-      "clue" : "CLND",
-      "difficulty" : 4,
-      "answer" : "ICELAND"
-    },
-    {
-      "clue" : "LTHN",
-      "difficulty" : 5,
-      "answer" : "LITHUANIA"
-    },
-    {
-      "clue" : "NDRR",
-      "difficulty" : 5,
-      "answer" : "ANDORRA"
-    }
+  "tags" : [
+    "nature",
+    "science"
   ],
-  "description" : "currently existing countries of Europe",
   "clueNotes" : [
     "",
     "",
@@ -84,8 +25,66 @@
     "",
     ""
   ],
-  "tags" : [
-    "geography",
-    "common knowledge"
+  "extraClues" : [
+    {
+      "difficulty" : 1,
+      "clue" : "LYNX",
+      "answer" : "LYNX"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "PM",
+      "answer" : "PUMA"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "SRVL",
+      "answer" : "SERVAL"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CLT",
+      "answer" : "OCELOT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CLDD LPRD",
+      "answer" : "CLOUDED LEOPARD"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "RSHN LYNX",
+      "answer" : "EURASIAN LYNX"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CRCL",
+      "answer" : "CARACAL"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "SND CT",
+      "answer" : "SANDA CAT"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "FSHNG CT",
+      "answer" : "FISHING CAT"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "MRBLD CT",
+      "answer" : "MARBLED CAT"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "FRCN GLDN CT",
+      "answer" : "AFRICAN GOLDEN CAT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "WLDC",
+      "answer" : "WILDCAT"
+    }
   ]
 }

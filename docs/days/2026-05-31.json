@@ -1,0 +1,95 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "You Oughta Know",
+      "Ironic",
+      "Hand In My Pocket",
+      "You Learn",
+      "Head Over Feet",
+      "Uninvited",
+      "Thank U",
+      "All I Really Want",
+      "Right Through You",
+      "Forgiven",
+      "Not The Doctor",
+      "Perfect",
+      "Mary Jane",
+      "Wake Up",
+      "Your House",
+      "One Hand In My Pocket",
+      "Joining You",
+      "That I Would Be Good",
+      "So Pure",
+      "Unsent",
+      "Front Row",
+      "Heart Of The House",
+      "Sympathetic Character",
+      "Hands Clean",
+      "Precious Illusions",
+      "Everything",
+      "Out Is Through",
+      "Eight Easy Steps",
+      "Excuses",
+      "Underneath",
+      "Citizen Of The Planet",
+      "Versions Of Violence",
+      "In Praise Of The Vulnerable Man",
+      "Torch",
+      "Lens",
+      "Receive",
+      "Guardian",
+      "Empathy",
+      "Spiral",
+      "Woman Down",
+      "Havoc",
+      "Edge Of Evolution"
+    ],
+    "category" : "alanic morisette songs",
+    "clues" : [
+      {
+        "answer" : "IRONIC",
+        "clue" : "RNC",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "YOU LEARN",
+        "clue" : "Y LRN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "YOU OUGHTA KNOW",
+        "clue" : "Y GHT KNW",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HAND IN MY POCKET",
+        "clue" : "HND N M PCKT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "UNINVITED",
+        "clue" : "NNVTD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THANK U",
+        "clue" : "THNK",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ALL I REALLY WANT",
+        "clue" : "LL RLL WNT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "JAGGED LITTLE PILL",
+        "clue" : "JG GD LT TLP LL",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-31",
+  "schemaVersion" : 1
+}

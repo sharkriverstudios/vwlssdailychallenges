@@ -1,4 +1,66 @@
 {
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "answer" : "IBIZA",
+      "clue" : "BZ"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CORFU",
+      "clue" : "CRF"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "SANTORINI",
+      "clue" : "SNTRN"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "MYKONOS",
+      "clue" : "MYKNS"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "RHODES",
+      "clue" : "RHDS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ZAKYNTHOS",
+      "clue" : "ZKNTHS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "LEFKADA",
+      "clue" : "LFKD"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "LESBOS",
+      "clue" : "LSBS"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ELBA",
+      "clue" : "LB"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CAPRI",
+      "clue" : "CPR"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ISCHIA",
+      "clue" : "SCH"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "PANTELLERIA",
+      "clue" : "PNTLLR"
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -21,66 +83,7 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "clue" : "L PNT",
-      "difficulty" : 4,
-      "answer" : "OIL PAINT"
-    },
-    {
-      "clue" : "SL",
-      "difficulty" : 3,
-      "answer" : "EASEL"
-    },
-    {
-      "clue" : "CHRCL",
-      "difficulty" : 5,
-      "answer" : "CHARCOAL"
-    },
-    {
-      "clue" : "PSTL",
-      "difficulty" : 4,
-      "answer" : "PASTEL"
-    },
-    {
-      "clue" : "GRPHT",
-      "difficulty" : 5,
-      "answer" : "GRAPHITE"
-    },
-    {
-      "clue" : "SKTCH",
-      "difficulty" : 4,
-      "answer" : "SKETCH"
-    },
-    {
-      "clue" : "SCLPTR",
-      "difficulty" : 6,
-      "answer" : "SCULPTURE"
-    },
-    {
-      "clue" : "CLLG",
-      "difficulty" : 6,
-      "answer" : "COLLAGE"
-    },
-    {
-      "clue" : "NK",
-      "difficulty" : 2,
-      "answer" : "INK"
-    },
-    {
-      "clue" : "GCH",
-      "difficulty" : 5,
-      "answer" : "GOUACHE"
-    },
-    {
-      "clue" : "TMPR",
-      "answer" : "TEMPERA",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PGMNT",
-      "answer" : "PIGMENT",
-      "difficulty" : 5
-    }
+  "tags" : [
+    "geography"
   ]
 }

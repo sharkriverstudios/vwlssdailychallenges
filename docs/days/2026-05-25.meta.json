@@ -1,67 +1,67 @@
 {
   "extraClues" : [
     {
-      "answer" : "CUMBERLAND FARMS",
-      "difficulty" : 6,
-      "clue" : "CMBRLND FRMS"
-    },
-    {
-      "answer" : "QUICKCHEK",
-      "difficulty" : 5,
-      "clue" : "QCKCHK"
-    },
-    {
-      "answer" : "QUICKTRIP",
-      "difficulty" : 4,
-      "clue" : "QCKTRP"
-    },
-    {
-      "answer" : "KWIK TRIP",
-      "difficulty" : 4,
-      "clue" : "KWK TRP"
-    },
-    {
-      "answer" : "BUC-EE'S",
-      "difficulty" : 7,
-      "clue" : "BC-S"
-    },
-    {
-      "answer" : "7-ELEVEN",
+      "clue" : "PRTGL",
       "difficulty" : 3,
-      "clue" : "7-LVN"
+      "answer" : "PORTUGAL"
     },
     {
-      "answer" : "RACETRAC",
+      "clue" : "NRWY",
+      "difficulty" : 3,
+      "answer" : "NORWAY"
+    },
+    {
+      "clue" : "SWTZRLND",
+      "difficulty" : 4,
+      "answer" : "SWITZERLAND"
+    },
+    {
+      "clue" : "HNGRY",
+      "difficulty" : 3,
+      "answer" : "HUNGARY"
+    },
+    {
+      "clue" : "FNLND",
+      "difficulty" : 3,
+      "answer" : "FINLAND"
+    },
+    {
+      "clue" : "BLGM",
+      "difficulty" : 3,
+      "answer" : "BELGIUM"
+    },
+    {
+      "clue" : "VTCN CTY",
+      "difficulty" : 4,
+      "answer" : "VATICAN CITY"
+    },
+    {
+      "clue" : "CRT",
+      "difficulty" : 4,
+      "answer" : "CROATIA"
+    },
+    {
+      "clue" : "LXMBRG",
+      "difficulty" : 6,
+      "answer" : "LUXEMBOURG"
+    },
+    {
+      "clue" : "CLND",
+      "difficulty" : 4,
+      "answer" : "ICELAND"
+    },
+    {
+      "clue" : "LTHN",
       "difficulty" : 5,
-      "clue" : "RCTR"
+      "answer" : "LITHUANIA"
     },
     {
-      "answer" : "CASEY'S GENERAL STORE",
-      "difficulty" : 8,
-      "clue" : "CSY'S GNRL STR"
-    },
-    {
-      "answer" : "ROYAL FARMS",
-      "difficulty" : 6,
-      "clue" : "RYL FRMS"
-    },
-    {
-      "answer" : "TURKEY HILL",
-      "difficulty" : 6,
-      "clue" : "TRKY HLL"
-    },
-    {
-      "answer" : "HOLIDAY STATIONSTORES",
-      "difficulty" : 9,
-      "clue" : "HLDY STTNSTRS"
-    },
-    {
-      "answer" : "ALIMENTATION COUCHE-TARD",
-      "difficulty" : 10,
-      "clue" : "LMNTTN CCH-TRD"
+      "clue" : "NDRR",
+      "difficulty" : 5,
+      "answer" : "ANDORRA"
     }
   ],
-  "description" : "convenience store chains that we all use",
+  "description" : "currently existing countries of Europe",
   "clueNotes" : [
     "",
     "",
@@ -85,7 +85,7 @@
     ""
   ],
   "tags" : [
-    "business",
-    "popular culture"
+    "geography",
+    "common knowledge"
   ]
 }

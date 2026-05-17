@@ -1,100 +1,98 @@
 {
   "challenge" : {
     "candidates" : [
-      "7-Eleven",
-      "Circle K",
-      "Wawa",
-      "QuikTrip",
-      "Sheetz",
-      "Casey's General Store",
-      "Speedway",
-      "RaceTrac",
-      "Kum & Go",
-      "Pilot Flying J",
-      "Love's Travel Stops",
-      "GetGo",
-      "Rutter's",
-      "Cumberland Farms",
-      "Turkey Hill",
-      "On the Run",
-      "Royal Farms",
-      "Kwik Trip",
-      "Stewart's Shops",
-      "Maverik",
-      "Stripes",
-      "FamilyMart",
-      "AMPM",
-      "BP Connect",
-      "QuickChek",
-      "Buc-ee's",
-      "Thorntons",
-      "Holiday Stationstores",
-      "Co-op Food",
-      "Murphy USA",
-      "ExtraMile",
-      "Lukoil",
-      "Tesco Express",
-      "Alimentation Couche-Tard",
-      "Spar Express",
-      "Rewe To Go",
-      "Total Access",
-      "FreshStop",
-      "Oxxo",
-      "Petronas Mesra",
-      "Mini Stop",
-      "Circle M",
-      "Huck's",
-      "Yesway",
-      "Grubbs",
-      "Blueox",
-      "Stinker Stores",
-      "Hess Express"
+      "Albania",
+      "Andorra",
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Bosnia And Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Latvia",
+      "Liechtenstein",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Monaco",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "San Marino",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Ukraine",
+      "United Kingdom",
+      "Vatican City"
     ],
-    "category" : "Convenience Stores",
+    "category" : "Countries of Europe",
     "clues" : [
       {
-        "answer" : "CIRCLE K",
-        "clue" : "CRCL K",
+        "answer" : "FRANCE",
+        "clue" : "FRNC",
         "difficulty" : 2
       },
       {
-        "answer" : "SPEEDWAY",
-        "clue" : "SPDWY",
+        "answer" : "ITALY",
+        "clue" : "TL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SPAIN",
+        "clue" : "SPN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GERMANY",
+        "clue" : "G RMN",
         "difficulty" : 3
       },
       {
-        "answer" : "FAMILYMART",
-        "clue" : "FMLMRT",
-        "difficulty" : 4
+        "answer" : "RUSSIA",
+        "clue" : "RSS",
+        "difficulty" : 3
       },
       {
-        "answer" : "SHEETZ",
-        "clue" : "SH TZ",
+        "answer" : "POLAND",
+        "clue" : "P LND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "AUSTRIA",
+        "clue" : "STR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "UNITED KINGDOM",
+        "clue" : "NT DK NGDM",
         "difficulty" : 5
-      },
-      {
-        "answer" : "STRIPES",
-        "clue" : "STRPS",
-        "difficulty" : 5
-      },
-      {
-        "answer" : "FLYING J",
-        "clue" : "FLNG J",
-        "difficulty" : 5
-      },
-      {
-        "answer" : "WAWA",
-        "clue" : "WW",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "LOVE'S TRAVEL STOPS",
-        "clue" : "LVS TRVL STPS",
-        "difficulty" : 7
       }
     ],
-    "difficulty" : 4,
-    "shareClueIndex" : 0
+    "difficulty" : 3,
+    "shareClueIndex" : 1
   },
   "date" : "2026-05-25",
   "schemaVersion" : 1

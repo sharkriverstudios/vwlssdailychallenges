@@ -1,0 +1,86 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "L PNT",
+      "difficulty" : 4,
+      "answer" : "OIL PAINT"
+    },
+    {
+      "clue" : "SL",
+      "difficulty" : 3,
+      "answer" : "EASEL"
+    },
+    {
+      "clue" : "CHRCL",
+      "difficulty" : 5,
+      "answer" : "CHARCOAL"
+    },
+    {
+      "clue" : "PSTL",
+      "difficulty" : 4,
+      "answer" : "PASTEL"
+    },
+    {
+      "clue" : "GRPHT",
+      "difficulty" : 5,
+      "answer" : "GRAPHITE"
+    },
+    {
+      "clue" : "SKTCH",
+      "difficulty" : 4,
+      "answer" : "SKETCH"
+    },
+    {
+      "clue" : "SCLPTR",
+      "difficulty" : 6,
+      "answer" : "SCULPTURE"
+    },
+    {
+      "clue" : "CLLG",
+      "difficulty" : 6,
+      "answer" : "COLLAGE"
+    },
+    {
+      "clue" : "NK",
+      "difficulty" : 2,
+      "answer" : "INK"
+    },
+    {
+      "clue" : "GCH",
+      "difficulty" : 5,
+      "answer" : "GOUACHE"
+    },
+    {
+      "clue" : "TMPR",
+      "answer" : "TEMPERA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PGMNT",
+      "answer" : "PIGMENT",
+      "difficulty" : 5
+    }
+  ]
+}

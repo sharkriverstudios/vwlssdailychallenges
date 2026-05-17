@@ -1,70 +1,67 @@
 {
   "extraClues" : [
     {
-      "answer" : "MEDITERRANEAN AVENUE",
-      "clue" : "MDTRRNN VN",
-      "difficulty" : 6
+      "answer" : "CUMBERLAND FARMS",
+      "difficulty" : 6,
+      "clue" : "CMBRLND FRMS"
     },
     {
-      "answer" : "ST. CHARLES PLACE",
-      "clue" : "ST CHRLS PLC",
-      "difficulty" : 6
+      "answer" : "QUICKCHEK",
+      "difficulty" : 5,
+      "clue" : "QCKCHK"
     },
     {
-      "answer" : "NEW YORK AVENUE",
-      "clue" : "NW YRK VN",
-      "difficulty" : 5
+      "answer" : "QUICKTRIP",
+      "difficulty" : 4,
+      "clue" : "QCKTRP"
     },
     {
-      "answer" : "GO",
-      "clue" : "G",
-      "difficulty" : 1
+      "answer" : "KWIK TRIP",
+      "difficulty" : 4,
+      "clue" : "KWK TRP"
     },
     {
-      "answer" : "PENNSYLVANIA RAILROAD",
-      "clue" : "PNNSYLVN RLRD",
-      "difficulty" : 7
+      "answer" : "BUC-EE'S",
+      "difficulty" : 7,
+      "clue" : "BC-S"
     },
     {
-      "answer" : "ELECTRIC COMPANY",
-      "clue" : "LCTRC CMPNY",
-      "difficulty" : 6
+      "answer" : "7-ELEVEN",
+      "difficulty" : 3,
+      "clue" : "7-LVN"
     },
     {
-      "answer" : "VENTNOR AVENUE",
-      "clue" : "VNTNR VN",
-      "difficulty" : 7
+      "answer" : "RACETRAC",
+      "difficulty" : 5,
+      "clue" : "RCTR"
     },
     {
-      "answer" : "MARVIN GARDENS",
-      "clue" : "MRVN GRDNS",
-      "difficulty" : 7
+      "answer" : "CASEY'S GENERAL STORE",
+      "difficulty" : 8,
+      "clue" : "CSY'S GNRL STR"
     },
     {
-      "answer" : "PACIFIC AVENUE",
-      "clue" : "PCFC VN",
-      "difficulty" : 6
+      "answer" : "ROYAL FARMS",
+      "difficulty" : 6,
+      "clue" : "RYL FRMS"
     },
     {
-      "answer" : "SHORT LINE",
-      "clue" : "SHRT LN",
-      "difficulty" : 5
+      "answer" : "TURKEY HILL",
+      "difficulty" : 6,
+      "clue" : "TRKY HLL"
     },
     {
-      "answer" : "ILLINOIS AVENUE",
-      "clue" : "LLNS VN",
-      "difficulty" : 7
+      "answer" : "HOLIDAY STATIONSTORES",
+      "difficulty" : 9,
+      "clue" : "HLDY STTNSTRS"
     },
     {
-      "answer" : "LUXURY TAX",
-      "clue" : "LXRY TX",
-      "difficulty" : 4
+      "answer" : "ALIMENTATION COUCHE-TARD",
+      "difficulty" : 10,
+      "clue" : "LMNTTN CCH-TRD"
     }
   ],
-  "tags" : [
-    "popular culture",
-    "games"
-  ],
+  "description" : "convenience store chains that we all use",
   "clueNotes" : [
     "",
     "",
@@ -86,5 +83,9 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "business",
+    "popular culture"
   ]
 }

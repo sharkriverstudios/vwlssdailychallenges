@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Ford",
+      "Disney",
+      "Boeing",
+      "Kellogg",
+      "Hershey",
+      "Cadbury",
+      "Gucci",
+      "Chanel",
+      "Hewlett-Packard",
+      "Dell",
+      "Toyota",
+      "Honda",
+      "Procter & Gamble",
+      "Johnson & Johnson",
+      "McDonald's",
+      "Walt Disney",
+      "Honda",
+      "Ferrari",
+      "Porsche",
+      "Rolls-Royce",
+      "Harley-Davidson",
+      "Burberry",
+      "Samsung",
+      "Siemens",
+      "Bosch",
+      "Kawasaki",
+      "Michelin",
+      "Lego",
+      "Bayer",
+      "Nestle",
+      "Heineken",
+      "Adidas",
+      "Levi Strauss",
+      "Marriott",
+      "Zara",
+      "Ben & Jerry's",
+      "Dole",
+      "Abercrombie & Fitch",
+      "Warner Bros",
+      "Colgate-Palmolive",
+      "L'Oréal",
+      "Gillette",
+      "Estee Lauder",
+      "Reebok",
+      "Bacardi",
+      "Versace",
+      "Tesla",
+      "Armstrong",
+      "Hilton",
+      "Macy's",
+      "Burton",
+      "Carhartt",
+      "Berkshire Hathaway"
+    ],
+    "category" : "Companies Named After Founders",
+    "clues" : [
+      {
+        "answer" : "FORD",
+        "clue" : "FRD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DISNEY",
+        "clue" : "DSNY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GUCCI",
+        "clue" : "GCC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHANEL",
+        "clue" : "C HNL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LEVI STRAUSS",
+        "clue" : "LVS TRSS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "BOEING",
+        "clue" : "BNG",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MICHELIN",
+        "clue" : "M CH LN",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "ROLLS-ROYCE",
+        "clue" : "RLLSRYC",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-05-29",
+  "schemaVersion" : 1
+}

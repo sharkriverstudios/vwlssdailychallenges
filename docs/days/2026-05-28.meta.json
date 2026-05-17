@@ -1,8 +1,4 @@
 {
-  "tags" : [
-    "nature",
-    "science"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -25,66 +21,71 @@
     "",
     ""
   ],
+  "tags" : [
+    "television",
+    "popular culture",
+    "comedy"
+  ],
   "extraClues" : [
     {
-      "difficulty" : 1,
-      "clue" : "LYNX",
-      "answer" : "LYNX"
+      "answer" : "KRISTEN WIIG",
+      "difficulty" : 6,
+      "clue" : "KRSTN WG"
     },
     {
-      "difficulty" : 4,
-      "clue" : "PM",
-      "answer" : "PUMA"
+      "answer" : "CAROL BURNETT",
+      "difficulty" : 2,
+      "clue" : "CRL BRNTT"
     },
     {
+      "answer" : "LILY TOMLIN",
       "difficulty" : 5,
-      "clue" : "SRVL",
-      "answer" : "SERVAL"
+      "clue" : "LLY TMLN"
     },
     {
-      "difficulty" : 7,
-      "clue" : "CLT",
-      "answer" : "OCELOT"
-    },
-    {
+      "answer" : "JANE KRAKOWSKI",
       "difficulty" : 6,
-      "clue" : "CLDD LPRD",
-      "answer" : "CLOUDED LEOPARD"
+      "clue" : "JN KRKW SK"
     },
     {
-      "difficulty" : 7,
-      "clue" : "RSHN LYNX",
-      "answer" : "EURASIAN LYNX"
+      "answer" : "MINDY KALING",
+      "difficulty" : 5,
+      "clue" : "MNDY KLNG"
     },
     {
+      "answer" : "MELISSA MCCARTHY",
       "difficulty" : 6,
-      "clue" : "CRCL",
-      "answer" : "CARACAL"
+      "clue" : "MLSS MCCTHY"
     },
     {
-      "difficulty" : 8,
-      "clue" : "SND CT",
-      "answer" : "SANDA CAT"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "FSHNG CT",
-      "answer" : "FISHING CAT"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "MRBLD CT",
-      "answer" : "MARBLED CAT"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "FRCN GLDN CT",
-      "answer" : "AFRICAN GOLDEN CAT"
-    },
-    {
+      "answer" : "RACHEL DRATCH",
       "difficulty" : 6,
-      "clue" : "WLDC",
-      "answer" : "WILDCAT"
+      "clue" : "RCHL DRTCH"
+    },
+    {
+      "answer" : "JULIA SWEENEY",
+      "difficulty" : 7,
+      "clue" : "JL SWNY"
+    },
+    {
+      "answer" : "KATE MCKINNON",
+      "difficulty" : 6,
+      "clue" : "KT MCKNN"
+    },
+    {
+      "answer" : "MAYA RUDOLPH",
+      "difficulty" : 5,
+      "clue" : "MY RDLPH"
+    },
+    {
+      "answer" : "TIFFANY HADDISH",
+      "difficulty" : 5,
+      "clue" : "TFFNY HDDSH"
+    },
+    {
+      "answer" : "ZOOEY DESCHANEL",
+      "difficulty" : 6,
+      "clue" : "ZY DSCHNL"
     }
   ]
 }

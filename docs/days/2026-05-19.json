@@ -1,98 +1,86 @@
 {
   "challenge" : {
     "candidates" : [
-      "Albania",
-      "Andorra",
-      "Austria",
-      "Belarus",
-      "Belgium",
-      "Bosnia And Herzegovina",
-      "Bulgaria",
-      "Croatia",
-      "Cyprus",
-      "Czech Republic",
-      "Denmark",
-      "Estonia",
-      "Finland",
-      "France",
-      "Germany",
-      "Greece",
-      "Hungary",
-      "Iceland",
-      "Ireland",
-      "Italy",
-      "Kosovo",
-      "Latvia",
-      "Liechtenstein",
-      "Lithuania",
-      "Luxembourg",
-      "Malta",
-      "Moldova",
-      "Monaco",
-      "Montenegro",
-      "Netherlands",
-      "North Macedonia",
-      "Norway",
-      "Poland",
-      "Portugal",
-      "Romania",
-      "Russia",
-      "San Marino",
-      "Serbia",
-      "Slovakia",
-      "Slovenia",
-      "Spain",
-      "Sweden",
-      "Switzerland",
-      "Ukraine",
-      "United Kingdom",
-      "Vatican City"
+      "Lion",
+      "Tiger",
+      "Leopard",
+      "Jaguar",
+      "Cheetah",
+      "Snow Leopard",
+      "Cougar",
+      "Lynx",
+      "Caracal",
+      "Serval",
+      "Ocelot",
+      "Clouded Leopard",
+      "Puma",
+      "Bobcat",
+      "Eurasian Lynx",
+      "African Golden Cat",
+      "Asian Golden Cat",
+      "Marbled Cat",
+      "Rusty-Spotted Cat",
+      "Canadian Lynx",
+      "Iberian Lynx",
+      "Sunda Clouded Leopard",
+      "Borneo Bay Cat",
+      "Kodkod",
+      "Geoffroy's Cat",
+      "Andean Mountain Cat",
+      "Pallas's Cat",
+      "Flat-Headed Cat",
+      "Fishing Cat",
+      "Jungle Cat",
+      "Sand Cat",
+      "Black-Footed Cat",
+      "Wildcat",
+      "Jungle Lynx"
     ],
-    "category" : "Countries of Europe",
+    "category" : "Big Cats",
     "clues" : [
       {
-        "answer" : "FRANCE",
-        "clue" : "FRNC",
+        "answer" : "LION",
+        "clue" : "LN",
         "difficulty" : 2
       },
       {
-        "answer" : "ITALY",
-        "clue" : "TL",
+        "answer" : "TIGER",
+        "clue" : "TGR",
         "difficulty" : 2
       },
       {
-        "answer" : "SPAIN",
-        "clue" : "SPN",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "GERMANY",
-        "clue" : "G RMN",
+        "answer" : "JAGUAR",
+        "clue" : "JGR",
         "difficulty" : 3
       },
       {
-        "answer" : "RUSSIA",
-        "clue" : "RSS",
-        "difficulty" : 3
+        "answer" : "LEOPARD",
+        "clue" : "L PRD",
+        "difficulty" : 4
       },
       {
-        "answer" : "POLAND",
-        "clue" : "P LND",
-        "difficulty" : 3
+        "answer" : "CHEETAH",
+        "clue" : "CH TH",
+        "difficulty" : 4
       },
       {
-        "answer" : "AUSTRIA",
-        "clue" : "STR",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "UNITED KINGDOM",
-        "clue" : "NT DK NGDM",
+        "answer" : "BOBCAT",
+        "clue" : "BBCT",
         "difficulty" : 5
+      },
+      {
+        "answer" : "COUGAR",
+        "clue" : "CGR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SNOW LEOPARD",
+        "clue" : "SNWL PRD",
+        "difficulty" : 6
       }
     ],
-    "difficulty" : 3,
-    "shareClueIndex" : 1
+    "difficulty" : 4,
+    "shareClueIndex" : 2
   },
   "date" : "2026-05-19",
   "schemaVersion" : 1
