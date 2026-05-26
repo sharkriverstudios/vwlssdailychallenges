@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.5.17",
-  "generatedAt": "2026-05-17T04:09:13Z",
+  "contentVersion": "2026.5.26",
+  "generatedAt": "2026-05-26T17:24:07Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-05-31",
+  "availableTo": "2026-06-14",
   "days": [
     {
       "date": "2026-04-01",
@@ -399,38 +399,136 @@
     },
     {
       "date": "2026-05-27",
-      "difficulty": 4,
-      "category": "Monopoly Board Spaces",
+      "difficulty": 5,
+      "category": "Great TV Comic Actresses",
       "path": "days/2026-05-27.json",
-      "hash": "sha256:76dba5ad464adfaed1bda8f1fdbaa3cdcd74bf33cb1ba479771300a593d6dec9"
+      "hash": "sha256:9438633860d1a9d50a0578ed6f7186586d710eaf8848143904b06c565e53056f"
     },
     {
       "date": "2026-05-28",
-      "difficulty": 5,
-      "category": "Great TV Comic Actresses",
+      "difficulty": 6,
+      "category": "Companies Named After Founders",
       "path": "days/2026-05-28.json",
-      "hash": "sha256:469f4c2c8e014a962eb27a53467a007e7a0a1f14f545f8174e3e5f8dbed976f2"
+      "hash": "sha256:f2e39c16efdd772726589ffd74da40c5c66609b34ebc74b8e555b460a35ebb50"
     },
     {
       "date": "2026-05-29",
-      "difficulty": 6,
-      "category": "Companies Named After Founders",
+      "difficulty": 7,
+      "category": "Shiny Floor Game Shows",
       "path": "days/2026-05-29.json",
-      "hash": "sha256:9ee42afc7740a88d8f5ecf86e0d3c7ee702481cc4315fc030ac424266fb1e36a"
+      "hash": "sha256:5d5c8fb87d25672f55855147eef5f3766b3adb8c5102197a1861f0061541a4f4"
     },
     {
       "date": "2026-05-30",
-      "difficulty": 5,
-      "category": "Spiderman's Rivals",
+      "difficulty": 3,
+      "category": "Hot Dog Toppings",
       "path": "days/2026-05-30.json",
-      "hash": "sha256:1b245fb938c6301e772d83847ea2d330829fdee16f7c9ae388c877e389aeaee8"
+      "hash": "sha256:70102e387d2282f2c3e3320091f97ba4e021d3437d208d71936c3ed1f034443e"
     },
     {
       "date": "2026-05-31",
       "difficulty": 6,
-      "category": "alanic morisette songs",
+      "category": "Graduation",
       "path": "days/2026-05-31.json",
-      "hash": "sha256:11c1296355518ae56996dd14f1b6c1bc7b919aebed335c9a06421444875a7821"
+      "hash": "sha256:ffde2e0c72f0aa0d04e0a2d78668e6cc865abf2a31ff9167dac3522bce6c071a"
+    },
+    {
+      "date": "2026-06-01",
+      "difficulty": 3,
+      "category": "Salad Toppings",
+      "path": "days/2026-06-01.json",
+      "hash": "sha256:c6fee1f2d0011d386d8ce9f6ed06df582e76fd2febcd2ec017a787d8285007e5"
+    },
+    {
+      "date": "2026-06-02",
+      "difficulty": 4,
+      "category": "Most Common Chemical Elements",
+      "path": "days/2026-06-02.json",
+      "hash": "sha256:7cdf56ca965907be9886d86b2651d58df483ab755ce1859e55a839184deacde9"
+    },
+    {
+      "date": "2026-06-03",
+      "difficulty": 4,
+      "category": "Monopoly Board Spaces",
+      "path": "days/2026-06-03.json",
+      "hash": "sha256:f1abdc55238bfa0ea5a40f0afe7f7d025904e2a9d291bd39348c2f052fd6c402"
+    },
+    {
+      "date": "2026-06-04",
+      "difficulty": 5,
+      "category": "80s Family Comedies",
+      "path": "days/2026-06-04.json",
+      "hash": "sha256:052d460e721e06db1c0c6697589e8d6c8364a5bc217c56f091b115d14f72256d"
+    },
+    {
+      "date": "2026-06-05",
+      "difficulty": 6,
+      "category": "Alanis Morisette",
+      "path": "days/2026-06-05.json",
+      "hash": "sha256:f87390d7765953e9fa6c3e59491b0222a6caf9f237acf59e42b9c87458f94b0f"
+    },
+    {
+      "date": "2026-06-06",
+      "difficulty": 3,
+      "category": "In the Pool",
+      "path": "days/2026-06-06.json",
+      "hash": "sha256:d19b00cc66971fc605497134f92a148ac8316de10f218ac9a63e5315273e3c17"
+    },
+    {
+      "date": "2026-06-07",
+      "difficulty": 4,
+      "category": "Members of a Baseball Team",
+      "path": "days/2026-06-07.json",
+      "hash": "sha256:739d991e2eabc2e72103f0766fabe693278f3bd28fda5648275387b1b3f00cb9"
+    },
+    {
+      "date": "2026-06-08",
+      "difficulty": 4,
+      "category": "Star Wars Villains",
+      "path": "days/2026-06-08.json",
+      "hash": "sha256:d351ace6db7908e3653c73e12e5d981a85c6adc0116e56639e9ddfac0c5870c8"
+    },
+    {
+      "date": "2026-06-09",
+      "difficulty": 5,
+      "category": "US State Nicknames",
+      "path": "days/2026-06-09.json",
+      "hash": "sha256:b7b7f27244acb93180ebc1e693cedb2dcbea2537df8c815cd80ba990ce0cba13"
+    },
+    {
+      "date": "2026-06-10",
+      "difficulty": 4,
+      "category": "Nursery Rhymes",
+      "path": "days/2026-06-10.json",
+      "hash": "sha256:09d1b5453ab92c9971ddf2a55f727e6e62db6bd16bbb8cdcc82de73e1ce920c9"
+    },
+    {
+      "date": "2026-06-11",
+      "difficulty": 5,
+      "category": "Spiderman's Rivals",
+      "path": "days/2026-06-11.json",
+      "hash": "sha256:1531308d0fcaca11f635a7658acdbff8b2a5a3e095a66f1f1b08c8121fcb691b"
+    },
+    {
+      "date": "2026-06-12",
+      "difficulty": 7,
+      "category": "US Presidents who were Generals",
+      "path": "days/2026-06-12.json",
+      "hash": "sha256:4da253eb39180de60e317bc775d3a6cad96c1518b8eb140b7521b8f3ae49fd71"
+    },
+    {
+      "date": "2026-06-13",
+      "difficulty": 4,
+      "category": "Party Games",
+      "path": "days/2026-06-13.json",
+      "hash": "sha256:2cc6831fb3d4dcbf26e09794fcc817822c2ae59d23f91e674fff7c01a2116585"
+    },
+    {
+      "date": "2026-06-14",
+      "difficulty": 5,
+      "category": "Juneteenth",
+      "path": "days/2026-06-14.json",
+      "hash": "sha256:5cb6f366c37243abc59f0507d5034f6ec363258d7584b5abd557adf3bef1c738"
     }
   ]
 }
