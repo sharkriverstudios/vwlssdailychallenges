@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "COUNT DOOKU",
+      "clue" : "CNT DKK",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SNOKE",
+      "clue" : "SNK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ASAJJ VENTRESS",
+      "clue" : "SJJ VNTRSS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "JANGO FETT",
+      "clue" : "JNG FTT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "DARTH SIDIOUS",
+      "clue" : "DRTH SDS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "GRAND ADMIRAL THRAWN",
+      "clue" : "GRND DMRL THRWN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CAPTAIN PHASMA",
+      "clue" : "CPTN PHSM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DARTH PLAGUEIS",
+      "clue" : "DRTH PLGS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "NUTE GUNRAY",
+      "clue" : "NT GNR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "DARTH BANE",
+      "clue" : "DRTH BN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MOFF GIDEON",
+      "clue" : "MFF GDN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "AURRA SING",
+      "clue" : "RR SNG",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "cinema",
+    "popular culture"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "common knowledge"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "FETA CHEESE",
+      "clue" : "FT CHS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SLICED ALMONDS",
+      "clue" : "SLCD LMNDS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SUNFLOWER SEEDS",
+      "clue" : "SNFLWR SDS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WALNUT PIECES",
+      "clue" : "WLNT PCS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DRIED CRANBERRIES",
+      "clue" : "DRD CRNBRRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HARD BOILED EGGS",
+      "clue" : "HRD BLD GGS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "GRILLED CHICKEN",
+      "clue" : "GRLLD CHCKN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SESAME SEEDS",
+      "clue" : "SSM SDS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "POMEGRANATE SEEDS",
+      "clue" : "PMGRNT SDS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FRIED ONIONS",
+      "clue" : "FRD NNS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BALSAMIC GLAZE",
+      "clue" : "BLSMC GLZ",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "HUMMUS",
+      "clue" : "HMMS",
+      "difficulty" : 5
+    }
+  ]
+}

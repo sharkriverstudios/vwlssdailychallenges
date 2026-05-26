@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "SILVER SPOONS",
+      "clue" : "SLVR SPNS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "GROWING PAINS",
+      "clue" : "GRWNG PNS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "THE COSBY SHOW",
+      "clue" : "TH CSBY SHW",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "WEBSTER",
+      "clue" : "WBSTR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CHARLES IN CHARGE",
+      "clue" : "CHRLS N CHRG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "JUST THE TEN OF US",
+      "clue" : "JST TH TN F S",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "KATE & ALLIE",
+      "clue" : "KT LL",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "HEAD OF THE CLASS",
+      "clue" : "HD F TH CLSS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "227",
+      "clue" : "227",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "MY TWO DADS",
+      "clue" : "MY TW DDS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "THE FACTS OF LIFE",
+      "clue" : "TH FCTS F LF",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ALF",
+      "clue" : "LF",
+      "difficulty" : 4
+    }
+  ],
+  "description" : "titles of sitcoms that aired in the 1980s and featured families",
+  "tags" : [
+    "television",
+    "comedy",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

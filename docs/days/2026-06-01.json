@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Croutons",
+      "Bacon Bits",
+      "Cherry Tomatoes",
+      "Cucumber Slices",
+      "Shredded Cheese",
+      "Feta Cheese",
+      "Blue Cheese Crumbles",
+      "Diced Red Onions",
+      "Sliced Almonds",
+      "Sunflower Seeds",
+      "Pumpkin Seeds",
+      "Walnut Pieces",
+      "Dried Cranberries",
+      "Raisins",
+      "Sliced Avocado",
+      "Hard Boiled Eggs",
+      "Grilled Chicken",
+      "Sliced Turkey",
+      "Tofu Cubes",
+      "Edamame",
+      "Beet Slices",
+      "Artichoke Hearts",
+      "Sliced Mushrooms",
+      "Sliced Olives",
+      "Bell Pepper Strips",
+      "Radish Slices",
+      "Sliced Carrots",
+      "Chickpeas",
+      "Quinoa",
+      "Sesame Seeds",
+      "Pine Nuts",
+      "Parmesan Cheese",
+      "Capers",
+      "Anchovies",
+      "Sliced Strawberries",
+      "Pear Slices",
+      "Apple Slices",
+      "Mandarin Oranges",
+      "Corn Kernels",
+      "Black Beans",
+      "Jalapeno Slices",
+      "Basil Leaves",
+      "Mint Leaves",
+      "Cilantro Leaves",
+      "Sprouts",
+      "Pomegranate Seeds",
+      "Fried Onions",
+      "Sliced Green Onions",
+      "Balsamic Glaze",
+      "Hummus"
+    ],
+    "category" : "Salad Toppings",
+    "clues" : [
+      {
+        "answer" : "BACON BITS",
+        "clue" : "BCN BTS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CROUTONS",
+        "clue" : "CRTNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SHREDDED CHEESE",
+        "clue" : "SHRDDD CHS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHICKPEAS",
+        "clue" : "CHCKPS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHERRY TOMATOES",
+        "clue" : "CHRR TMTS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BELL PEPPER",
+        "clue" : "BLL PPPR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CUCUMBERS",
+        "clue" : "CC MBRS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "OLIVES",
+        "clue" : "LVS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-01",
+  "schemaVersion" : 1
+}

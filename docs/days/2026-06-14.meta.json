@@ -1,0 +1,92 @@
+{
+  "description" : "things associated with the holiday and how it's celebrated",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "GLVSTN",
+      "answer" : "GALVESTON"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "LBRTY",
+      "answer" : "LIBERTY"
+    },
+    {
+      "difficulty" : 2,
+      "clue" : "HSTRY",
+      "answer" : "HISTORY"
+    },
+    {
+      "clue" : "FRCN MRCN CLTR",
+      "answer" : "AFRICAN AMERICAN CULTURE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "NTY",
+      "answer" : "UNITY",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CMNTY VNTS",
+      "answer" : "COMMUNITY EVENTS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "STRYLLNG",
+      "answer" : "STORYTELLING",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FAMILY GATHERINGS",
+      "difficulty" : 4,
+      "clue" : "FMLY GTHRNGS"
+    },
+    {
+      "answer" : "JUNETEENTH FLAG",
+      "difficulty" : 6,
+      "clue" : "JNTNTH FLG"
+    },
+    {
+      "answer" : "EDUCATION",
+      "difficulty" : 4,
+      "clue" : "DCTN"
+    },
+    {
+      "clue" : "HRTG",
+      "difficulty" : 3,
+      "answer" : "HERITAGE"
+    },
+    {
+      "clue" : "RCGNTN",
+      "difficulty" : 4,
+      "answer" : "RECOGNITION"
+    }
+  ],
+  "tags" : [
+    "culture",
+    "history",
+    "traditions"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Swimsuit",
+      "Goggles",
+      "Lifeguard",
+      "Diving Board",
+      "Water Slide",
+      "Floaties",
+      "Pool Noodle",
+      "Swim Cap",
+      "Chlorine",
+      "Pool Toys",
+      "Swim Trunks",
+      "Pool Cover",
+      "Towel",
+      "Flippers",
+      "Inflatable Ring",
+      "Pool Ladder",
+      "Sun Lounger",
+      "Pool Filter",
+      "Water Wings",
+      "Kickboard",
+      "Pool Vacuum",
+      "Dive Rings",
+      "Pool Deck",
+      "Cabana",
+      "Skimmer",
+      "Pool Light",
+      "Umbrella",
+      "Snorkel",
+      "Pool Heater",
+      "Sunscreen",
+      "Poolside Bar",
+      "Jacuzzi",
+      "Lane Lines",
+      "Water Polo Ball",
+      "Life Preserver",
+      "Foot Bath",
+      "Shower",
+      "Beach Ball",
+      "Pool Party",
+      "Algae",
+      "Water Fountain",
+      "Lap Swimming",
+      "Pool Tiles",
+      "Safety Rope",
+      "Swim Meet",
+      "Pool House",
+      "Sun Hat",
+      "Pool Fence",
+      "Wet Deck",
+      "Pool Cue",
+      "Wave Pool",
+      "Lazy River",
+      "Water Aerobics",
+      "Pool Maintenance",
+      "Pool Pump"
+    ],
+    "category" : "In the Pool",
+    "clues" : [
+      {
+        "answer" : "TOWEL",
+        "clue" : "TWL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SWIMSUIT",
+        "clue" : "SWMST",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LIFEGUARD",
+        "clue" : "LFGRD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GOGGLES",
+        "clue" : "GG GLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WATER SLIDE",
+        "clue" : "WTR SLD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "POOL NOODLE",
+        "clue" : "PL NDL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DIVING BOARD",
+        "clue" : "DVNG BRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHLORINE",
+        "clue" : "CHLRN",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-06",
+  "schemaVersion" : 1
+}

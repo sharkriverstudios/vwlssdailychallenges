@@ -1,0 +1,123 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Charades",
+      "Pictionary",
+      "Twister",
+      "Taboo",
+      "Musical Chairs",
+      "Pin The Tail On The Donkey",
+      "Truth Or Dare",
+      "Spin The Bottle",
+      "Simon Says",
+      "Red Rover",
+      "Duck Duck Goose",
+      "Telephone",
+      "Bingo",
+      "Catchphrase",
+      "Apples To Apples",
+      "Cards Against Humanity",
+      "Beer Pong",
+      "Flip Cup",
+      "Kings",
+      "Mafia",
+      "Werewolf",
+      "Limbo",
+      "Hot Potato",
+      "Scavenger Hunt",
+      "Name That Tune",
+      "Heads Up",
+      "Bobbing For Apples",
+      "Balloon Pop",
+      "Karaoke",
+      "Musical Statues",
+      "Sardines",
+      "Celebrity",
+      "Wink Murder",
+      "Murder Mystery",
+      "Never Have I Ever",
+      "Truth Bombs",
+      "Pass The Parcel",
+      "Egg And Spoon Race",
+      "Cornhole",
+      "Capture The Flag",
+      "Relay Race",
+      "Water Balloon Toss",
+      "Spoons",
+      "Human Knot",
+      "Limbo Rock",
+      "Paper Dance",
+      "Freeze Dance",
+      "Balloon Stomp",
+      "Tug Of War",
+      "Horseshoes",
+      "Ring Toss",
+      "Jenga",
+      "Poker",
+      "Uno",
+      "Go Fish",
+      "Dominoes",
+      "Yahtzee",
+      "Trivial Pursuit",
+      "Monopoly",
+      "Scrabble",
+      "Operation",
+      "Clue",
+      "Guess Who",
+      "Candy Land",
+      "Chutes And Ladders",
+      "The Game Of Life",
+      "Battleship",
+      "Risk",
+      "Settlers Of Catan",
+      "Pictionary Air"
+    ],
+    "category" : "Party Games",
+    "clues" : [
+      {
+        "answer" : "TWISTER",
+        "clue" : "TWSTR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHARADES",
+        "clue" : "CHRDS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TELEPHONE",
+        "clue" : "TLPHN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PICTIONARY",
+        "clue" : "PCTNR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SIMON SAYS",
+        "clue" : "SMN SYS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MUSICAL CHAIRS",
+        "clue" : "MSCL CHRS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TRUTH OR DARE",
+        "clue" : "TRTH R DR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SPIN THE BOTTLE",
+        "clue" : "SPN TH BTTL",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-13",
+  "schemaVersion" : 1
+}

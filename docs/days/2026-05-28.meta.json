@@ -21,71 +21,66 @@
     "",
     ""
   ],
-  "tags" : [
-    "television",
-    "popular culture",
-    "comedy"
-  ],
   "extraClues" : [
     {
-      "answer" : "KRISTEN WIIG",
-      "difficulty" : 6,
-      "clue" : "KRSTN WG"
+      "clue" : "L PNT",
+      "difficulty" : 4,
+      "answer" : "OIL PAINT"
     },
     {
-      "answer" : "CAROL BURNETT",
+      "clue" : "SL",
+      "difficulty" : 3,
+      "answer" : "EASEL"
+    },
+    {
+      "clue" : "CHRCL",
+      "difficulty" : 5,
+      "answer" : "CHARCOAL"
+    },
+    {
+      "clue" : "PSTL",
+      "difficulty" : 4,
+      "answer" : "PASTEL"
+    },
+    {
+      "clue" : "GRPHT",
+      "difficulty" : 5,
+      "answer" : "GRAPHITE"
+    },
+    {
+      "clue" : "SKTCH",
+      "difficulty" : 4,
+      "answer" : "SKETCH"
+    },
+    {
+      "clue" : "SCLPTR",
+      "difficulty" : 6,
+      "answer" : "SCULPTURE"
+    },
+    {
+      "clue" : "CLLG",
+      "difficulty" : 6,
+      "answer" : "COLLAGE"
+    },
+    {
+      "clue" : "NK",
       "difficulty" : 2,
-      "clue" : "CRL BRNTT"
+      "answer" : "INK"
     },
     {
-      "answer" : "LILY TOMLIN",
+      "clue" : "GCH",
       "difficulty" : 5,
-      "clue" : "LLY TMLN"
+      "answer" : "GOUACHE"
     },
     {
-      "answer" : "JANE KRAKOWSKI",
-      "difficulty" : 6,
-      "clue" : "JN KRKW SK"
+      "clue" : "TMPR",
+      "answer" : "TEMPERA",
+      "difficulty" : 5
     },
     {
-      "answer" : "MINDY KALING",
-      "difficulty" : 5,
-      "clue" : "MNDY KLNG"
-    },
-    {
-      "answer" : "MELISSA MCCARTHY",
-      "difficulty" : 6,
-      "clue" : "MLSS MCCTHY"
-    },
-    {
-      "answer" : "RACHEL DRATCH",
-      "difficulty" : 6,
-      "clue" : "RCHL DRTCH"
-    },
-    {
-      "answer" : "JULIA SWEENEY",
-      "difficulty" : 7,
-      "clue" : "JL SWNY"
-    },
-    {
-      "answer" : "KATE MCKINNON",
-      "difficulty" : 6,
-      "clue" : "KT MCKNN"
-    },
-    {
-      "answer" : "MAYA RUDOLPH",
-      "difficulty" : 5,
-      "clue" : "MY RDLPH"
-    },
-    {
-      "answer" : "TIFFANY HADDISH",
-      "difficulty" : 5,
-      "clue" : "TFFNY HDDSH"
-    },
-    {
-      "answer" : "ZOOEY DESCHANEL",
-      "difficulty" : 6,
-      "clue" : "ZY DSCHNL"
+      "clue" : "PGMNT",
+      "answer" : "PIGMENT",
+      "difficulty" : 5
     }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Emancipation",
+      "Freedom",
+      "Juneteenth Flag",
+      "Red Food",
+      "Barbecue",
+      "Parades",
+      "African American Culture",
+      "Texas",
+      "Galveston",
+      "Celebration",
+      "Jubilee",
+      "Liberty",
+      "Unity",
+      "Reunion",
+      "Historical Reenactments",
+      "Prayer",
+      "Storytelling",
+      "Music",
+      "Dance",
+      "Picnics",
+      "Family Gatherings",
+      "Community Events",
+      "Speeches",
+      "Education",
+      "History",
+      "Reflection",
+      "Justice",
+      "Equality",
+      "Resilience",
+      "Tradition",
+      "Festivities",
+      "Awareness",
+      "Activism",
+      "Heritage",
+      "Pride",
+      "Commemoration",
+      "Legacy",
+      "Independence",
+      "Hope",
+      "Progress",
+      "Solidarity",
+      "Courage",
+      "Empowerment",
+      "Diversity",
+      "Recognition",
+      "Remembrance",
+      "Sacrifice",
+      "Struggle",
+      "Triumph",
+      "Liberation",
+      "Peace",
+      "Prosperity",
+      "Community Service",
+      "Cultural Festivals",
+      "Educational Workshops",
+      "Soul Food",
+      "Racial Harmony",
+      "Social Justice",
+      "Reparations",
+      "Voting Rights",
+      "Civil Rights"
+    ],
+    "category" : "Juneteenth",
+    "clues" : [
+      {
+        "answer" : "MUSIC",
+        "clue" : "MSC",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "FREEDOM",
+        "clue" : "FRDM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BARBECUE",
+        "clue" : "BRBC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PICNICS",
+        "clue" : "PCNCS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PARADES",
+        "clue" : "PRDS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EMANCIPATION",
+        "clue" : "MNCPTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CELEBRATION",
+        "clue" : "CLBRTN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HISTORICAL REENACTMENTS",
+        "clue" : "HSTRCL RNCTMNTS",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-14",
+  "schemaVersion" : 1
+}

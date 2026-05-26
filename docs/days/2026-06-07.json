@@ -1,0 +1,88 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Pitcher",
+      "Catcher",
+      "First Baseman",
+      "Second Baseman",
+      "Third Baseman",
+      "Shortstop",
+      "Left Fielder",
+      "Center Fielder",
+      "Right Fielder",
+      "Designated Hitter",
+      "Relief Pitcher",
+      "Closer",
+      "Starting Pitcher",
+      "Utility Player",
+      "Pinch Hitter",
+      "Pinch Runner",
+      "Bullpen Catcher",
+      "Bench Coach",
+      "Base Coach",
+      "Batting Coach",
+      "Pitching Coach",
+      "Fielding Coach",
+      "Manager",
+      "Team Captain",
+      "Bat Boy",
+      "Groundskeeper",
+      "Trainer",
+      "Scout",
+      "General Manager",
+      "Assistant Coach",
+      "Video Coordinator",
+      "Strength Coach",
+      "Physiotherapist",
+      "Clubhouse Manager",
+      "Equipment Manager"
+    ],
+    "category" : "Members of a Baseball Team",
+    "clues" : [
+      {
+        "answer" : "PITCHER",
+        "clue" : "PTCHR",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SHORTSTOP",
+        "clue" : "SHRTSTP",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CATCHER",
+        "clue" : "CT CHR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FIRST BASEMAN",
+        "clue" : "FR STBS MN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CENTER FIELDER",
+        "clue" : "CNTR FLDR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MANAGER",
+        "clue" : "MNGR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DESIGNATED HITTER",
+        "clue" : "DSGNTD HTTR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "RELIEF PITCHER",
+        "clue" : "RLFPTCHR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-07",
+  "schemaVersion" : 1
+}

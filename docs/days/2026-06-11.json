@@ -1,0 +1,99 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Green Goblin",
+      "Doctor Octopus",
+      "Venom",
+      "Sandman",
+      "Lizard",
+      "Electro",
+      "Rhino",
+      "Vulture",
+      "Mysterio",
+      "Kingpin",
+      "Scorpion",
+      "Hobgoblin",
+      "Kraven The Hunter",
+      "Shocker",
+      "Chameleon",
+      "Carnage",
+      "Black Cat",
+      "Morbius",
+      "Jackal",
+      "Tombstone",
+      "Hammerhead",
+      "Beetle",
+      "Big Wheel",
+      "Prowler",
+      "Hydro-Man",
+      "Demogoblin",
+      "Jack O'Lantern",
+      "Silvermane",
+      "Mister Negative",
+      "Alistair Smythe",
+      "Morlun",
+      "Doppelganger",
+      "Swarm",
+      "Carrion",
+      "Shathra",
+      "Calypso",
+      "Spot",
+      "Kangaroo",
+      "Stegron",
+      "Tarantula",
+      "Overdrive",
+      "Boomerang",
+      "Vermin",
+      "Scream",
+      "Moltenguy",
+      "Menace"
+    ],
+    "category" : "Spiderman's Rivals",
+    "clues" : [
+      {
+        "answer" : "VENOM",
+        "clue" : "VNM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "KINGPIN",
+        "clue" : "KNGPN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SANDMAN",
+        "clue" : "SNDMN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LIZARD",
+        "clue" : "L ZRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GREEN GOBLIN",
+        "clue" : "G RNG BLN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DOCTOR OCTOPUS",
+        "clue" : "DCT R CTPS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MYSTERIO",
+        "clue" : "MSTR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE RHINO",
+        "clue" : "THRHN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-11",
+  "schemaVersion" : 1
+}

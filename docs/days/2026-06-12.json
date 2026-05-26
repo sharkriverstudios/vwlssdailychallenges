@@ -1,0 +1,63 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "George Washington",
+      "Andrew Jackson",
+      "William Henry Harrison",
+      "Zachary Taylor",
+      "Franklin Pierce",
+      "Ulysses S. Grant",
+      "Rutherford B. Hayes",
+      "James A. Garfield",
+      "Benjamin Harrison",
+      "Dwight D. Eisenhower"
+    ],
+    "category" : "US Presidents who were Generals",
+    "clues" : [
+      {
+        "answer" : "GEORGE WASHINGTON",
+        "clue" : "GRG WSHNGTN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ANDREW JACKSON",
+        "clue" : "NDRW JCKSN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DWIGHT D. EISENHOWER",
+        "clue" : "DWGHT DSN HWR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FRANKLIN PIERCE",
+        "clue" : "FRNKLN PRC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ULYSSES S. GRANT",
+        "clue" : "LS SS SGR NT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ZACHARY TAYLOR",
+        "clue" : "ZCHR TYL R",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "WILLIAM HENRY HARRISON",
+        "clue" : "WLLM HNR HRRSN",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "RUTHERFORD B. HAYES",
+        "clue" : "RTHRF RD B HYS",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-12",
+  "schemaVersion" : 1
+}

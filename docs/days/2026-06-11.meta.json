@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "KRAVEN THE HUNTER",
+      "difficulty" : 7,
+      "clue" : "KRVN TH HNTR"
+    },
+    {
+      "answer" : "CARNAGE",
+      "difficulty" : 5,
+      "clue" : "CRNG"
+    },
+    {
+      "answer" : "ELECTRO",
+      "difficulty" : 5,
+      "clue" : "LCTR"
+    },
+    {
+      "answer" : "VULTURE",
+      "difficulty" : 5,
+      "clue" : "VLTR"
+    },
+    {
+      "answer" : "SCORPION",
+      "difficulty" : 5,
+      "clue" : "SCRPN"
+    },
+    {
+      "answer" : "HOBGOBLIN",
+      "difficulty" : 5,
+      "clue" : "HBGBLN"
+    },
+    {
+      "answer" : "SHOCKER",
+      "difficulty" : 5,
+      "clue" : "SHCKR"
+    },
+    {
+      "answer" : "CHAMELEON",
+      "difficulty" : 5,
+      "clue" : "CHMLN"
+    },
+    {
+      "answer" : "BLACK CAT",
+      "difficulty" : 6,
+      "clue" : "BLCK CT"
+    },
+    {
+      "answer" : "MORBIUS",
+      "difficulty" : 6,
+      "clue" : "MRBS"
+    },
+    {
+      "answer" : "TOMBSTONE",
+      "difficulty" : 7,
+      "clue" : "TMBSTN"
+    },
+    {
+      "answer" : "HYDRO-MAN",
+      "difficulty" : 7,
+      "clue" : "HYDR-MN"
+    }
+  ],
+  "description" : "characters who have been opposed to Spiderman in the comic books or movies",
+  "tags" : [
+    "comics",
+    "popular culture",
+    "cinema"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

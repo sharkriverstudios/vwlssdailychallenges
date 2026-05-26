@@ -1,70 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "MEDITERRANEAN AVENUE",
-      "clue" : "MDTRRNN VN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "ST. CHARLES PLACE",
-      "clue" : "ST CHRLS PLC",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "NEW YORK AVENUE",
-      "clue" : "NW YRK VN",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "GO",
-      "clue" : "G",
-      "difficulty" : 1
-    },
-    {
-      "answer" : "PENNSYLVANIA RAILROAD",
-      "clue" : "PNNSYLVN RLRD",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "ELECTRIC COMPANY",
-      "clue" : "LCTRC CMPNY",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "VENTNOR AVENUE",
-      "clue" : "VNTNR VN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "MARVIN GARDENS",
-      "clue" : "MRVN GRDNS",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "PACIFIC AVENUE",
-      "clue" : "PCFC VN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "SHORT LINE",
-      "clue" : "SHRT LN",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "ILLINOIS AVENUE",
-      "clue" : "LLNS VN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "LUXURY TAX",
-      "clue" : "LXRY TX",
-      "difficulty" : 4
-    }
-  ],
-  "tags" : [
-    "popular culture",
-    "games"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -86,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "television",
+    "popular culture",
+    "comedy"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KRISTEN WIIG",
+      "difficulty" : 6,
+      "clue" : "KRSTN WG"
+    },
+    {
+      "answer" : "CAROL BURNETT",
+      "difficulty" : 2,
+      "clue" : "CRL BRNTT"
+    },
+    {
+      "answer" : "LILY TOMLIN",
+      "difficulty" : 5,
+      "clue" : "LLY TMLN"
+    },
+    {
+      "answer" : "JANE KRAKOWSKI",
+      "difficulty" : 6,
+      "clue" : "JN KRKW SK"
+    },
+    {
+      "answer" : "MINDY KALING",
+      "difficulty" : 5,
+      "clue" : "MNDY KLNG"
+    },
+    {
+      "answer" : "MELISSA MCCARTHY",
+      "difficulty" : 6,
+      "clue" : "MLSS MCCTHY"
+    },
+    {
+      "answer" : "RACHEL DRATCH",
+      "difficulty" : 6,
+      "clue" : "RCHL DRTCH"
+    },
+    {
+      "answer" : "JULIA SWEENEY",
+      "difficulty" : 7,
+      "clue" : "JL SWNY"
+    },
+    {
+      "answer" : "KATE MCKINNON",
+      "difficulty" : 6,
+      "clue" : "KT MCKNN"
+    },
+    {
+      "answer" : "MAYA RUDOLPH",
+      "difficulty" : 5,
+      "clue" : "MY RDLPH"
+    },
+    {
+      "answer" : "TIFFANY HADDISH",
+      "difficulty" : 5,
+      "clue" : "TFFNY HDDSH"
+    },
+    {
+      "answer" : "ZOOEY DESCHANEL",
+      "difficulty" : 6,
+      "clue" : "ZY DSCHNL"
+    }
   ]
 }

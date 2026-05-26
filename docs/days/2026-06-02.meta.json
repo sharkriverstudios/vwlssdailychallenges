@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "science",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "CHLRN",
+      "difficulty" : 4,
+      "answer" : "CHLORINE"
+    },
+    {
+      "clue" : "PHSPHRS",
+      "difficulty" : 6,
+      "answer" : "PHOSPHORUS"
+    },
+    {
+      "clue" : "LTHM",
+      "difficulty" : 4,
+      "answer" : "LITHIUM"
+    },
+    {
+      "clue" : "MGNSM",
+      "difficulty" : 5,
+      "answer" : "MAGNESIUM"
+    },
+    {
+      "clue" : "LMNM",
+      "difficulty" : 5,
+      "answer" : "ALUMINUM"
+    },
+    {
+      "clue" : "PTSSM",
+      "difficulty" : 5,
+      "answer" : "POTASSIUM"
+    },
+    {
+      "clue" : "CLCM",
+      "difficulty" : 5,
+      "answer" : "CALCIUM"
+    },
+    {
+      "clue" : "ZNC",
+      "answer" : "ZINC",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CPPR",
+      "answer" : "COPPER",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "GLD",
+      "answer" : "GOLD",
+      "difficulty" : 2
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "RN",
+      "answer" : "IRON"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "RGN",
+      "answer" : "ARGON"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

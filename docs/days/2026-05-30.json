@@ -1,97 +1,91 @@
 {
   "challenge" : {
     "candidates" : [
-      "Green Goblin",
-      "Doctor Octopus",
-      "Venom",
-      "Sandman",
-      "Lizard",
-      "Electro",
-      "Rhino",
-      "Vulture",
-      "Mysterio",
-      "Kingpin",
-      "Scorpion",
-      "Hobgoblin",
-      "Kraven The Hunter",
-      "Shocker",
-      "Chameleon",
-      "Carnage",
-      "Black Cat",
-      "Morbius",
-      "Jackal",
-      "Tombstone",
-      "Hammerhead",
-      "Beetle",
-      "Big Wheel",
-      "Prowler",
-      "Hydro-Man",
-      "Demogoblin",
-      "Jack O'Lantern",
-      "Silvermane",
-      "Mister Negative",
-      "Alistair Smythe",
-      "Morlun",
-      "Doppelganger",
-      "Swarm",
-      "Carrion",
-      "Shathra",
-      "Calypso",
-      "Spot",
-      "Kangaroo",
-      "Stegron",
-      "Tarantula",
-      "Overdrive",
-      "Boomerang",
-      "Vermin",
-      "Scream",
-      "Moltenguy",
-      "Menace"
+      "Ketchup",
+      "Mustard",
+      "Relish",
+      "Onions",
+      "Sauerkraut",
+      "Cheese",
+      "Chili",
+      "Jalapenos",
+      "Bacon",
+      "Pickles",
+      "Tomatoes",
+      "Mayonnaise",
+      "Sriracha",
+      "Barbecue Sauce",
+      "Ranch Dressing",
+      "Coleslaw",
+      "Banana Peppers",
+      "Avocado",
+      "Pico De Gallo",
+      "Guacamole",
+      "Salsa",
+      "Horseradish",
+      "Hot Sauce",
+      "Buffalo Sauce",
+      "Aioli",
+      "Kimchi",
+      "Cilantro",
+      "Fried Onions",
+      "Chopped Peppers",
+      "Olives",
+      "Corn Relish",
+      "Sweet Chili Sauce",
+      "Honey Mustard",
+      "Blue Cheese",
+      "Thousand Island Dressing",
+      "Curry Sauce",
+      "Crispy Onions",
+      "Chimichurri",
+      "Pineapple",
+      "Tzatziki"
     ],
-    "category" : "Spiderman's Rivals",
+    "category" : "Hot Dog Toppings",
     "clues" : [
       {
-        "answer" : "VENOM",
-        "clue" : "VNM",
+        "answer" : "KETCHUP",
+        "clue" : "KTCHP",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "MUSTARD",
+        "clue" : "MSTRD",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "RELISH",
+        "clue" : "RLSH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHEESE",
+        "clue" : "CHS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ONIONS",
+        "clue" : "NNS",
         "difficulty" : 3
       },
       {
-        "answer" : "KINGPIN",
-        "clue" : "KNGPN",
+        "answer" : "SAUERKRAUT",
+        "clue" : "SRKRT",
         "difficulty" : 4
       },
       {
-        "answer" : "SANDMAN",
-        "clue" : "SNDMN",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "LIZARD",
-        "clue" : "L ZRD",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "GREEN GOBLIN",
-        "clue" : "G RNG BLN",
+        "answer" : "HOT SAUCE",
+        "clue" : "HT SC",
         "difficulty" : 5
       },
       {
-        "answer" : "DOCTOR OCTOPUS",
-        "clue" : "DCT R CTPS",
+        "answer" : "HORSERADISH",
+        "clue" : "HRSRDSH",
         "difficulty" : 5
-      },
-      {
-        "answer" : "MYSTERIO",
-        "clue" : "MSTR",
-        "difficulty" : 5
-      },
-      {
-        "answer" : "THE RHINO",
-        "clue" : "THRHN",
-        "difficulty" : 6
       }
     ],
-    "difficulty" : 5,
+    "difficulty" : 3,
     "shareClueIndex" : 0
   },
   "date" : "2026-05-30",

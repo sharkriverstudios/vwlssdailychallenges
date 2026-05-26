@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "literature",
+    "culture",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "RUB A DUB DUB",
+      "difficulty" : 4,
+      "clue" : "RB DB DB"
+    },
+    {
+      "answer" : "LITTLE BO PEEP",
+      "difficulty" : 5,
+      "clue" : "LTTL B PP"
+    },
+    {
+      "answer" : "ROW ROW ROW YOUR BOAT",
+      "difficulty" : 5,
+      "clue" : "RW RW RW YR BT"
+    },
+    {
+      "answer" : "JACK AND JILL",
+      "difficulty" : 2,
+      "clue" : "JCK ND JLL"
+    },
+    {
+      "answer" : "LONDON BRIDGE IS FALLING DOWN",
+      "difficulty" : 4,
+      "clue" : "LNDN BRDG S FLLNG DWN"
+    },
+    {
+      "answer" : "RING A RING O' ROSES",
+      "difficulty" : 5,
+      "clue" : "RNG RNG RSS"
+    },
+    {
+      "answer" : "HEY DIDDLE DIDDLE",
+      "difficulty" : 5,
+      "clue" : "HY DDDL DDDL"
+    },
+    {
+      "answer" : "THREE BLIND MICE",
+      "difficulty" : 3,
+      "clue" : "THR BLND MC"
+    },
+    {
+      "answer" : "THIS LITTLE PIGGY",
+      "difficulty" : 5,
+      "clue" : "THS LTTL PGY"
+    },
+    {
+      "answer" : "YANKEE DOODLE",
+      "difficulty" : 5,
+      "clue" : "YNK DDL"
+    },
+    {
+      "answer" : "PAT A CAKE",
+      "difficulty" : 4,
+      "clue" : "PT CK"
+    },
+    {
+      "answer" : "THE WHEELS ON THE BUS",
+      "difficulty" : 5,
+      "clue" : "TH WHLS N TH BS"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Humpty Dumpty",
+      "Twinkle Twinkle Little Star",
+      "Mary Had A Little Lamb",
+      "Baa Baa Black Sheep",
+      "Hickory Dickory Dock",
+      "Itsy Bitsy Spider",
+      "Jack And Jill",
+      "Little Bo Peep",
+      "Old MacDonald Had A Farm",
+      "Row Row Row Your Boat",
+      "London Bridge Is Falling Down",
+      "Ring A Ring O' Roses",
+      "Hey Diddle Diddle",
+      "Little Miss Muffet",
+      "Three Blind Mice",
+      "This Little Piggy",
+      "Yankee Doodle",
+      "Sing A Song Of Sixpence",
+      "Pat A Cake",
+      "The Wheels On The Bus",
+      "Five Little Ducks",
+      "Hot Cross Buns",
+      "Rock A Bye Baby",
+      "The Muffin Man",
+      "One Two Buckle My Shoe",
+      "There Was An Old Lady Who Swallowed A Fly",
+      "The Grand Old Duke Of York",
+      "Little Jack Horner",
+      "Wee Willie Winkie",
+      "Simple Simon",
+      "Georgie Porgie",
+      "The Queen Of Hearts",
+      "Peter Peter Pumpkin Eater",
+      "Rub A Dub Dub",
+      "To Market To Market",
+      "Pop Goes The Weasel",
+      "The Farmer In The Dell",
+      "Here We Go Round The Mulberry Bush",
+      "I'm A Little Teapot",
+      "Little Boy Blue",
+      "Ride A Cock Horse",
+      "Little Tommy Tucker",
+      "Hush Little Baby",
+      "See Saw Margery Daw",
+      "Oranges And Lemons",
+      "Mary Mary Quite Contrary",
+      "Tom Tom The Piper's Son",
+      "Ten In The Bed",
+      "Cobbler Cobbler Mend My Shoe",
+      "Froggy Went A-Courtin'"
+    ],
+    "category" : "Nursery Rhymes",
+    "clues" : [
+      {
+        "answer" : "HUMPTY DUMPTY",
+        "clue" : "HMPT DMPT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MARY HAD A LITTLE LAMB",
+        "clue" : "MR HD LTTL LMB",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BAA BAA BLACK SHEEP",
+        "clue" : "BBB LC KSHP",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LITTLE MISS MUFFET",
+        "clue" : "LTTL MSS MFFT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "OLD MACDONALD HAD A FARM",
+        "clue" : "LDMC DNL DHDF RM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TWINKLE TWINKLE LITTLE STAR",
+        "clue" : "T WNK LT WNK LLT TL STR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HICKORY DICKORY DOCK",
+        "clue" : "HC KRDCK RDC K",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE ITSY BITSY SPIDER",
+        "clue" : "THTS BTS SPDR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-10",
+  "schemaVersion" : 1
+}

@@ -1,4 +1,9 @@
 {
+  "tags" : [
+    "television",
+    "games",
+    "popular culture"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -23,64 +28,65 @@
   ],
   "extraClues" : [
     {
-      "clue" : "L PNT",
-      "difficulty" : 4,
-      "answer" : "OIL PAINT"
+      "answer" : "THE CUBE",
+      "clue" : "TH CB",
+      "difficulty" : 6
     },
     {
-      "clue" : "SL",
+      "answer" : "STRIKE IT LUCKY",
+      "difficulty" : 5,
+      "clue" : "STRK T LCKY"
+    },
+    {
+      "answer" : "THE PRICE IS RIGHT",
+      "difficulty" : 4,
+      "clue" : "TH PRC S RGHT"
+    },
+    {
+      "answer" : "WHEEL OF FORTUNE",
       "difficulty" : 3,
-      "answer" : "EASEL"
+      "clue" : "WHL F FRTN"
     },
     {
-      "clue" : "CHRCL",
-      "difficulty" : 5,
-      "answer" : "CHARCOAL"
+      "answer" : "BLOCKBUSTERS",
+      "difficulty" : 7,
+      "clue" : "BLCKBSTRS"
     },
     {
-      "clue" : "PSTL",
-      "difficulty" : 4,
-      "answer" : "PASTEL"
-    },
-    {
-      "clue" : "GRPHT",
-      "difficulty" : 5,
-      "answer" : "GRAPHITE"
-    },
-    {
-      "clue" : "SKTCH",
-      "difficulty" : 4,
-      "answer" : "SKETCH"
-    },
-    {
-      "clue" : "SCLPTR",
+      "answer" : "THE CRYSTAL MAZE",
       "difficulty" : 6,
-      "answer" : "SCULPTURE"
+      "clue" : "TH CRYSTL MZ"
     },
     {
-      "clue" : "CLLG",
-      "difficulty" : 6,
-      "answer" : "COLLAGE"
-    },
-    {
-      "clue" : "NK",
+      "answer" : "FAMILY FEUD",
       "difficulty" : 2,
-      "answer" : "INK"
+      "clue" : "FMLY FD"
     },
     {
-      "clue" : "GCH",
+      "answer" : "POINTLESS",
       "difficulty" : 5,
-      "answer" : "GOUACHE"
+      "clue" : "PNTLSS"
     },
     {
-      "clue" : "TMPR",
-      "answer" : "TEMPERA",
-      "difficulty" : 5
+      "answer" : "SUPERMARKET SWEEP",
+      "difficulty" : 6,
+      "clue" : "SPRMRKT SWP"
     },
     {
-      "clue" : "PGMNT",
-      "answer" : "PIGMENT",
-      "difficulty" : 5
+      "answer" : "HOLLYWOOD SQUARES",
+      "difficulty" : 7,
+      "clue" : "HLLYWDD SQR"
+    },
+    {
+      "answer" : "SALE OF THE CENTURY",
+      "difficulty" : 8,
+      "clue" : "SL F TH CNTRY"
+    },
+    {
+      "clue" : "MSTRMND",
+      "difficulty" : 5,
+      "answer" : "MASTERMINd"
     }
-  ]
+  ],
+  "description" : "game shows that follow the \"shiny floor\" format and aesthetic - night time, social, light entertainment, usually with a black shiny floor"
 }

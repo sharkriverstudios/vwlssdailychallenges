@@ -1,0 +1,91 @@
+{
+  "description" : "games people play at parties",
+  "tags" : [
+    "games",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "clue" : "CRDS GNST HMNTY",
+      "answer" : "CARDS AGAINST HUMANITY"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "PN TH TL N TH DNKY",
+      "answer" : "PIN THE TAIL ON THE DONKEY"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "DCK DCK GS",
+      "answer" : "DUCK DUCK GOOSE"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "RD RVR",
+      "answer" : "RED ROVER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CTCHPHRS",
+      "answer" : "CATCHPHRASE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NVR HV V R",
+      "answer" : "NEVER HAVE I EVER"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PSS TH PRCL",
+      "answer" : "PASS THE PARCEL"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "WRWLF",
+      "answer" : "WEREWOLF"
+    },
+    {
+      "answer" : "SCAVENGER HUNT",
+      "difficulty" : 5,
+      "clue" : "SCVNG R HNT"
+    },
+    {
+      "answer" : "HUMAN KNOT",
+      "difficulty" : 5,
+      "clue" : "HMN KNT"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "MRDR MSTRY",
+      "answer" : "MURDER MYSTERY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BLLN STMP",
+      "answer" : "BALLOON STOMP"
+    }
+  ]
+}

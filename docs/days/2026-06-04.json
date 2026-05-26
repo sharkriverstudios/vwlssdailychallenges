@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Family Ties",
+      "The Cosby Show",
+      "Growing Pains",
+      "Full House",
+      "Who's The Boss?",
+      "The Wonder Years",
+      "Diff'rent Strokes",
+      "Silver Spoons",
+      "Charles In Charge",
+      "Mr. Belvedere",
+      "Webster",
+      "The Facts Of Life",
+      "Punky Brewster",
+      "Just The Ten Of Us",
+      "Small Wonder",
+      "Kate & Allie",
+      "Perfect Strangers",
+      "My Two Dads",
+      "ALF",
+      "Head Of The Class",
+      "Mama's Family",
+      "227",
+      "Gimme A Break!",
+      "Family Matters",
+      "A Different World",
+      "Valerie",
+      "The Hogan Family",
+      "Major Dad",
+      "Night Court",
+      "The Golden Girls",
+      "Designing Women",
+      "Married... With Children",
+      "Cheers",
+      "The Love Boat",
+      "The Jeffersons",
+      "Bosom Buddies",
+      "Three's Company",
+      "Mork & Mindy",
+      "The New Leave It To Beaver",
+      "Amen",
+      "The Munsters Today",
+      "Benson",
+      "The New Gidget",
+      "Too Close For Comfort",
+      "One Day At A Time",
+      "It's Your Move",
+      "The Bradys",
+      "Step By Step",
+      "Goodnight, Beantown",
+      "The Charmings"
+    ],
+    "category" : "80s Family Comedies",
+    "clues" : [
+      {
+        "answer" : "FAMILY TIES",
+        "clue" : "FML TS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FULL HOUSE",
+        "clue" : "FLL HS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WHO'S THE BOSS?",
+        "clue" : "WHS TH BSS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MAMA'S FAMILY",
+        "clue" : "MMS FML",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MR. BELVEDERE",
+        "clue" : "MR BLVDR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "DIFF'RENT STROKES",
+        "clue" : "DFF RNTS TRKS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "THE WONDER YEARS",
+        "clue" : "T HW NDRY RS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "PUNKY BREWSTER",
+        "clue" : "PN KBR WSTR",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-04",
+  "schemaVersion" : 1
+}

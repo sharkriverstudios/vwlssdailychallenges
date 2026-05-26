@@ -1,72 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "KRAVEN THE HUNTER",
-      "difficulty" : 7,
-      "clue" : "KRVN TH HNTR"
-    },
-    {
-      "answer" : "CARNAGE",
-      "difficulty" : 5,
-      "clue" : "CRNG"
-    },
-    {
-      "answer" : "ELECTRO",
-      "difficulty" : 5,
-      "clue" : "LCTR"
-    },
-    {
-      "answer" : "VULTURE",
-      "difficulty" : 5,
-      "clue" : "VLTR"
-    },
-    {
-      "answer" : "SCORPION",
-      "difficulty" : 5,
-      "clue" : "SCRPN"
-    },
-    {
-      "answer" : "HOBGOBLIN",
-      "difficulty" : 5,
-      "clue" : "HBGBLN"
-    },
-    {
-      "answer" : "SHOCKER",
-      "difficulty" : 5,
-      "clue" : "SHCKR"
-    },
-    {
-      "answer" : "CHAMELEON",
-      "difficulty" : 5,
-      "clue" : "CHMLN"
-    },
-    {
-      "answer" : "BLACK CAT",
-      "difficulty" : 6,
-      "clue" : "BLCK CT"
-    },
-    {
-      "answer" : "MORBIUS",
-      "difficulty" : 6,
-      "clue" : "MRBS"
-    },
-    {
-      "answer" : "TOMBSTONE",
-      "difficulty" : 7,
-      "clue" : "TMBSTN"
-    },
-    {
-      "answer" : "HYDRO-MAN",
-      "difficulty" : 7,
-      "clue" : "HYDR-MN"
-    }
-  ],
-  "description" : "characters who have been opposed to Spiderman in the comic books or movies",
-  "tags" : [
-    "comics",
-    "popular culture",
-    "cinema"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "SRRCH",
+      "difficulty" : 7,
+      "answer" : "SRIRACHA"
+    },
+    {
+      "clue" : "JLPNS",
+      "difficulty" : 6,
+      "answer" : "JALAPENOS"
+    },
+    {
+      "clue" : "BCN",
+      "difficulty" : 3,
+      "answer" : "BACON"
+    },
+    {
+      "clue" : "PCKLS",
+      "difficulty" : 4,
+      "answer" : "PICKLES"
+    },
+    {
+      "clue" : "TMTS",
+      "difficulty" : 4,
+      "answer" : "TOMATOES"
+    },
+    {
+      "clue" : "MYNNNS",
+      "difficulty" : 8,
+      "answer" : "MAYONNAISE"
+    },
+    {
+      "clue" : "BRBC S",
+      "difficulty" : 9,
+      "answer" : "BARBECUE SAUCE"
+    },
+    {
+      "clue" : "RNCH DRSSNG",
+      "difficulty" : 10,
+      "answer" : "RANCH DRESSING"
+    },
+    {
+      "clue" : "CLSLW",
+      "difficulty" : 4,
+      "answer" : "COLESLAW"
+    },
+    {
+      "clue" : "BNN PPPRS",
+      "difficulty" : 8,
+      "answer" : "BANANA PEPPERS"
+    },
+    {
+      "clue" : "GCM",
+      "difficulty" : 7,
+      "answer" : "GUACAMOLE"
+    },
+    {
+      "clue" : "SLS",
+      "difficulty" : 3,
+      "answer" : "SALSA"
+    }
+  ],
+  "description" : "things you put on a hot dog",
+  "tags" : [
+    "culinary",
+    "summer"
   ]
 }
