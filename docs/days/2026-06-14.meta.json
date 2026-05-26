@@ -24,64 +24,64 @@
   ],
   "extraClues" : [
     {
-      "difficulty" : 5,
-      "clue" : "GLVSTN",
-      "answer" : "GALVESTON"
-    },
-    {
-      "difficulty" : 3,
+      "answer" : "LIBERTY",
       "clue" : "LBRTY",
-      "answer" : "LIBERTY"
+      "difficulty" : 3
     },
     {
-      "difficulty" : 2,
+      "answer" : "HISTORY",
       "clue" : "HSTRY",
-      "answer" : "HISTORY"
+      "difficulty" : 2
     },
     {
-      "clue" : "FRCN MRCN CLTR",
       "answer" : "AFRICAN AMERICAN CULTURE",
+      "clue" : "FRCN MRCN CLTR",
       "difficulty" : 6
     },
     {
-      "clue" : "NTY",
       "answer" : "UNITY",
+      "clue" : "NTY",
       "difficulty" : 4
     },
     {
-      "clue" : "CMNTY VNTS",
       "answer" : "COMMUNITY EVENTS",
+      "clue" : "CMNTY VNTS",
       "difficulty" : 5
     },
     {
-      "clue" : "STRYLLNG",
+      "answer" : "CELEBRATION",
+      "clue" : "CLBRTN",
+      "difficulty" : 4
+    },
+    {
       "answer" : "STORYTELLING",
+      "clue" : "STRYLLNG",
       "difficulty" : 5
     },
     {
+      "clue" : "FMLY GTHRNGS",
       "answer" : "FAMILY GATHERINGS",
-      "difficulty" : 4,
-      "clue" : "FMLY GTHRNGS"
+      "difficulty" : 4
     },
     {
+      "clue" : "JNTNTH FLG",
       "answer" : "JUNETEENTH FLAG",
-      "difficulty" : 6,
-      "clue" : "JNTNTH FLG"
+      "difficulty" : 6
     },
     {
+      "clue" : "DCTN",
       "answer" : "EDUCATION",
-      "difficulty" : 4,
-      "clue" : "DCTN"
+      "difficulty" : 4
     },
     {
       "clue" : "HRTG",
-      "difficulty" : 3,
-      "answer" : "HERITAGE"
+      "answer" : "HERITAGE",
+      "difficulty" : 3
     },
     {
       "clue" : "RCGNTN",
-      "difficulty" : 4,
-      "answer" : "RECOGNITION"
+      "answer" : "RECOGNITION",
+      "difficulty" : 4
     }
   ],
   "tags" : [

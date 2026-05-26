@@ -1,72 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "SUN LOUNGER",
-      "clue" : "SN LNG",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "POOL TOYS",
-      "clue" : "PL TYS",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "SWIM TRUNKS",
-      "clue" : "SWM TRNKS",
-      "difficulty" : 2
-    },
-    {
-      "answer" : "INFLATABLE RING",
-      "clue" : "NFLTBL RNG",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "POOL LADDER",
-      "clue" : "PL LDDR",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "FLPPRS",
-      "answer" : "FLIPPERS",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "PL FLTR",
-      "answer" : "POOL FILTER",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PL VCM",
-      "answer" : "POOL VACUUM",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "CBN",
-      "answer" : "CABANA",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "SNRKL",
-      "answer" : "SNORKEL",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PL HTR",
-      "answer" : "POOL HEATER",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PL DCK",
-      "answer" : "POOL DECK",
-      "difficulty" : 4
-    }
-  ],
-  "description" : "Things, People, ideas you associate with a swimming pool",
-  "tags" : [
-    "summer",
-    "sports",
-    "common knowledge"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,73 @@
     "",
     "",
     ""
-  ]
+  ],
+  "tags" : [
+    "summer",
+    "sports",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "SN LNG",
+      "difficulty" : 6,
+      "answer" : "SUN LOUNGER"
+    },
+    {
+      "clue" : "PL TYS",
+      "difficulty" : 4,
+      "answer" : "POOL TOYS"
+    },
+    {
+      "clue" : "SWM TRNKS",
+      "difficulty" : 2,
+      "answer" : "SWIM TRUNKS"
+    },
+    {
+      "clue" : "NFLTBL RNG",
+      "difficulty" : 6,
+      "answer" : "INFLATABLE RING"
+    },
+    {
+      "clue" : "PL LDDR",
+      "difficulty" : 4,
+      "answer" : "POOL LADDER"
+    },
+    {
+      "clue" : "FLPPRS",
+      "difficulty" : 4,
+      "answer" : "FLIPPERS"
+    },
+    {
+      "clue" : "PL FLTR",
+      "difficulty" : 5,
+      "answer" : "POOL FILTER"
+    },
+    {
+      "clue" : "PL VCM",
+      "difficulty" : 5,
+      "answer" : "POOL VACUUM"
+    },
+    {
+      "clue" : "CBN",
+      "difficulty" : 6,
+      "answer" : "CABANA"
+    },
+    {
+      "clue" : "SNRKL",
+      "difficulty" : 5,
+      "answer" : "SNORKEL"
+    },
+    {
+      "clue" : "PL HTR",
+      "difficulty" : 5,
+      "answer" : "POOL HEATER"
+    },
+    {
+      "clue" : "PL DCK",
+      "difficulty" : 4,
+      "answer" : "POOL DECK"
+    }
+  ],
+  "description" : "Things, People, ideas you associate with a swimming pool"
 }

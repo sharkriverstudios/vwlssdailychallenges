@@ -1,4 +1,70 @@
 {
+  "extraClues" : [
+    {
+      "clue" : "TH VLNTR STT",
+      "answer" : "THE VOLUNTEER STATE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TH VRGRN STT",
+      "answer" : "THE EVERGREEN STATE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TH GLDN STT",
+      "answer" : "THE GOLDEN STATE",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "TH BLGRSS STT",
+      "answer" : "THE BLUEGRASS STATE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TH KYSTN STT",
+      "answer" : "THE KEYSTONE STATE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TH FRST STT",
+      "answer" : "THE FIRST STATE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TH SLVR STT",
+      "answer" : "THE SILVER STATE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TH GRT LKS STT",
+      "answer" : "THE GREAT LAKES STATE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TH SHW M STT",
+      "answer" : "THE SHOW ME STATE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TH LD DMNN",
+      "answer" : "THE OLD DOMINION",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "TH MGNLL STT",
+      "answer" : "THE MAGNOLIA STATE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TH PN TR STT",
+      "answer" : "THE PINE TREE STATE",
+      "difficulty" : 5
+    }
+  ],
+  "tags" : [
+    "geography",
+    "culture"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,71 +86,5 @@
     "",
     "",
     ""
-  ],
-  "tags" : [
-    "geography",
-    "culture"
-  ],
-  "extraClues" : [
-    {
-      "answer" : "THE VOLUNTEER STATE",
-      "clue" : "TH VLNTR STT",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "THE EVERGREEN STATE",
-      "clue" : "TH VRGRN STT",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "THE GOLDEN STATE",
-      "clue" : "TH GLDN STT",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "THE BLUEGRASS STATE",
-      "clue" : "TH BLGRSS STT",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "THE KEYSTONE STATE",
-      "clue" : "TH KYSTN STT",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "THE FIRST STATE",
-      "clue" : "TH FRST STT",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "THE SILVER STATE",
-      "clue" : "TH SLVR STT",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "THE GREAT LAKES STATE",
-      "clue" : "TH GRT LKS STT",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "THE SHOW ME STATE",
-      "clue" : "TH SHW M STT",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "THE OLD DOMINION",
-      "clue" : "TH LD DMNN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "THE MAGNOLIA STATE",
-      "clue" : "TH MGNLL STT",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "THE PINE TREE STATE",
-      "clue" : "TH PN TR STT",
-      "difficulty" : 5
-    }
   ]
 }

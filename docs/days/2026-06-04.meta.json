@@ -2,71 +2,71 @@
   "extraClues" : [
     {
       "answer" : "SILVER SPOONS",
-      "clue" : "SLVR SPNS",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "clue" : "SLVR SPNS"
     },
     {
       "answer" : "GROWING PAINS",
-      "clue" : "GRWNG PNS",
-      "difficulty" : 4
+      "difficulty" : 4,
+      "clue" : "GRWNG PNS"
     },
     {
       "answer" : "THE COSBY SHOW",
-      "clue" : "TH CSBY SHW",
-      "difficulty" : 3
+      "difficulty" : 3,
+      "clue" : "TH CSBY SHW"
     },
     {
       "answer" : "WEBSTER",
-      "clue" : "WBSTR",
-      "difficulty" : 4
+      "difficulty" : 4,
+      "clue" : "WBSTR"
     },
     {
       "answer" : "CHARLES IN CHARGE",
-      "clue" : "CHRLS N CHRG",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "clue" : "CHRLS N CHRG"
     },
     {
       "answer" : "JUST THE TEN OF US",
-      "clue" : "JST TH TN F S",
-      "difficulty" : 8
+      "difficulty" : 8,
+      "clue" : "JST TH TN F S"
     },
     {
       "answer" : "KATE & ALLIE",
-      "clue" : "KT LL",
-      "difficulty" : 8
+      "difficulty" : 8,
+      "clue" : "KT LL"
     },
     {
       "answer" : "HEAD OF THE CLASS",
-      "clue" : "HD F TH CLSS",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "clue" : "HD F TH CLSS"
     },
     {
       "answer" : "227",
-      "clue" : "227",
-      "difficulty" : 2
+      "difficulty" : 2,
+      "clue" : "227"
     },
     {
       "answer" : "MY TWO DADS",
-      "clue" : "MY TW DDS",
-      "difficulty" : 4
+      "difficulty" : 4,
+      "clue" : "MY TW DDS"
     },
     {
       "answer" : "THE FACTS OF LIFE",
-      "clue" : "TH FCTS F LF",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "clue" : "TH FCTS F LF"
     },
     {
       "answer" : "ALF",
-      "clue" : "LF",
-      "difficulty" : 4
+      "difficulty" : 4,
+      "clue" : "LF"
     }
   ],
-  "description" : "titles of sitcoms that aired in the 1980s and featured families",
   "tags" : [
     "television",
     "comedy",
     "popular culture"
   ],
+  "description" : "titles of sitcoms that aired in the 1980s and featured families",
   "clueNotes" : [
     "",
     "",

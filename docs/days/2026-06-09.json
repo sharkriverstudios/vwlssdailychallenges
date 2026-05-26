@@ -68,11 +68,6 @@
         "difficulty" : 3
       },
       {
-        "answer" : "THE GARDEN STATE",
-        "clue" : "THG RD NSTT",
-        "difficulty" : 3
-      },
-      {
         "answer" : "THE ALOHA STATE",
         "clue" : "THL HST T",
         "difficulty" : 3
@@ -80,6 +75,16 @@
       {
         "answer" : "THE EMPIRE STATE",
         "clue" : "THM PRST T",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE PEACH STATE",
+        "clue" : "TH PC HS TT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE GARDEN STATE",
+        "clue" : "THG RD NSTT",
         "difficulty" : 4
       },
       {
@@ -88,22 +93,17 @@
         "difficulty" : 4
       },
       {
-        "answer" : "THE PEACH STATE",
-        "clue" : "TH PC HS TT",
-        "difficulty" : 5
-      },
-      {
         "answer" : "THE HOOSIER STATE",
         "clue" : "THHSRSTT",
-        "difficulty" : 6
+        "difficulty" : 7
       },
       {
         "answer" : "THE LAND OF ENCHANTMENT",
         "clue" : "TH LND FN CHNT MNT",
-        "difficulty" : 7
+        "difficulty" : 9
       }
     ],
-    "difficulty" : 4,
+    "difficulty" : 5,
     "shareClueIndex" : 0
   },
   "date" : "2026-06-09",

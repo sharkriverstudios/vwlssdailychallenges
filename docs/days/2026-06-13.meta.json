@@ -1,9 +1,4 @@
 {
-  "description" : "games people play at parties",
-  "tags" : [
-    "games",
-    "popular culture"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -28,64 +23,69 @@
   ],
   "extraClues" : [
     {
-      "difficulty" : 7,
       "clue" : "CRDS GNST HMNTY",
+      "difficulty" : 7,
       "answer" : "CARDS AGAINST HUMANITY"
     },
     {
-      "difficulty" : 8,
       "clue" : "PN TH TL N TH DNKY",
+      "difficulty" : 8,
       "answer" : "PIN THE TAIL ON THE DONKEY"
     },
     {
-      "difficulty" : 5,
       "clue" : "DCK DCK GS",
+      "difficulty" : 5,
       "answer" : "DUCK DUCK GOOSE"
     },
     {
-      "difficulty" : 3,
       "clue" : "RD RVR",
+      "difficulty" : 3,
       "answer" : "RED ROVER"
     },
     {
-      "difficulty" : 5,
       "clue" : "CTCHPHRS",
+      "difficulty" : 5,
       "answer" : "CATCHPHRASE"
     },
     {
-      "difficulty" : 6,
       "clue" : "NVR HV V R",
+      "difficulty" : 6,
       "answer" : "NEVER HAVE I EVER"
     },
     {
-      "difficulty" : 5,
       "clue" : "PSS TH PRCL",
+      "difficulty" : 5,
       "answer" : "PASS THE PARCEL"
     },
     {
       "difficulty" : 4,
-      "clue" : "WRWLF",
-      "answer" : "WEREWOLF"
+      "answer" : "WEREWOLF",
+      "clue" : "WRWLF"
     },
     {
-      "answer" : "SCAVENGER HUNT",
       "difficulty" : 5,
+      "answer" : "SCAVENGER HUNT",
       "clue" : "SCVNG R HNT"
     },
     {
-      "answer" : "HUMAN KNOT",
       "difficulty" : 5,
+      "answer" : "HUMAN KNOT",
       "clue" : "HMN KNT"
     },
     {
       "difficulty" : 5,
-      "clue" : "MRDR MSTRY",
-      "answer" : "MURDER MYSTERY"
+      "answer" : "MURDER MYSTERY",
+      "clue" : "MRDR MSTRY"
     },
     {
       "difficulty" : 6,
-      "clue" : "BLLN STMP",
-      "answer" : "BALLOON STOMP"
+      "answer" : "BALLOON STOMP",
+      "clue" : "BLLN STMP"
     }
-  ]
+  ],
+  "tags" : [
+    "games",
+    "popular culture"
+  ],
+  "description" : "games people play at parties"
 }

@@ -1,9 +1,5 @@
 {
-  "tags" : [
-    "television",
-    "games",
-    "popular culture"
-  ],
+  "description" : "game shows that follow the \"shiny floor\" format and aesthetic - night time, social, light entertainment, usually with a black shiny floor",
   "clueNotes" : [
     "",
     "",
@@ -26,67 +22,71 @@
     "",
     ""
   ],
+  "tags" : [
+    "television",
+    "games",
+    "popular culture"
+  ],
   "extraClues" : [
     {
-      "answer" : "THE CUBE",
+      "difficulty" : 6,
       "clue" : "TH CB",
-      "difficulty" : 6
+      "answer" : "THE CUBE"
     },
     {
-      "answer" : "STRIKE IT LUCKY",
       "difficulty" : 5,
-      "clue" : "STRK T LCKY"
+      "clue" : "STRK T LCKY",
+      "answer" : "STRIKE IT LUCKY"
     },
     {
-      "answer" : "THE PRICE IS RIGHT",
       "difficulty" : 4,
-      "clue" : "TH PRC S RGHT"
+      "clue" : "TH PRC S RGHT",
+      "answer" : "THE PRICE IS RIGHT"
     },
     {
-      "answer" : "WHEEL OF FORTUNE",
       "difficulty" : 3,
-      "clue" : "WHL F FRTN"
+      "clue" : "WHL F FRTN",
+      "answer" : "WHEEL OF FORTUNE"
     },
     {
-      "answer" : "BLOCKBUSTERS",
       "difficulty" : 7,
-      "clue" : "BLCKBSTRS"
+      "clue" : "BLCKBSTRS",
+      "answer" : "BLOCKBUSTERS"
     },
     {
-      "answer" : "THE CRYSTAL MAZE",
       "difficulty" : 6,
-      "clue" : "TH CRYSTL MZ"
+      "clue" : "TH CRYSTL MZ",
+      "answer" : "THE CRYSTAL MAZE"
     },
     {
-      "answer" : "FAMILY FEUD",
       "difficulty" : 2,
-      "clue" : "FMLY FD"
+      "clue" : "FMLY FD",
+      "answer" : "FAMILY FEUD"
     },
     {
-      "answer" : "POINTLESS",
       "difficulty" : 5,
-      "clue" : "PNTLSS"
+      "clue" : "PNTLSS",
+      "answer" : "POINTLESS"
     },
     {
-      "answer" : "SUPERMARKET SWEEP",
       "difficulty" : 6,
-      "clue" : "SPRMRKT SWP"
+      "clue" : "SPRMRKT SWP",
+      "answer" : "SUPERMARKET SWEEP"
     },
     {
-      "answer" : "HOLLYWOOD SQUARES",
+      "clue" : "HLLYWDD SQR",
       "difficulty" : 7,
-      "clue" : "HLLYWDD SQR"
+      "answer" : "HOLLYWOOD SQUARES"
     },
     {
-      "answer" : "SALE OF THE CENTURY",
+      "clue" : "SL F TH CNTRY",
       "difficulty" : 8,
-      "clue" : "SL F TH CNTRY"
+      "answer" : "SALE OF THE CENTURY"
     },
     {
-      "clue" : "MSTRMND",
       "difficulty" : 5,
+      "clue" : "MSTRMND",
       "answer" : "MASTERMINd"
     }
-  ],
-  "description" : "game shows that follow the \"shiny floor\" format and aesthetic - night time, social, light entertainment, usually with a black shiny floor"
+  ]
 }

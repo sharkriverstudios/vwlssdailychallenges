@@ -96,9 +96,9 @@
         "difficulty" : 3
       },
       {
-        "answer" : "CELEBRATION",
-        "clue" : "CLBRTN",
-        "difficulty" : 4
+        "answer" : "GALVESTON TEXAS",
+        "clue" : "GLVSTNTXS",
+        "difficulty" : 5
       },
       {
         "answer" : "HISTORICAL REENACTMENTS",
@@ -107,7 +107,7 @@
       }
     ],
     "difficulty" : 5,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 3
   },
   "date" : "2026-06-14",
   "schemaVersion" : 1

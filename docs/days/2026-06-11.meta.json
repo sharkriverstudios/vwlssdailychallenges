@@ -1,71 +1,71 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "KRAVEN THE HUNTER",
-      "difficulty" : 7,
-      "clue" : "KRVN TH HNTR"
-    },
-    {
-      "answer" : "CARNAGE",
-      "difficulty" : 5,
-      "clue" : "CRNG"
-    },
-    {
-      "answer" : "ELECTRO",
-      "difficulty" : 5,
-      "clue" : "LCTR"
-    },
-    {
-      "answer" : "VULTURE",
-      "difficulty" : 5,
-      "clue" : "VLTR"
-    },
-    {
-      "answer" : "SCORPION",
-      "difficulty" : 5,
-      "clue" : "SCRPN"
-    },
-    {
-      "answer" : "HOBGOBLIN",
-      "difficulty" : 5,
-      "clue" : "HBGBLN"
-    },
-    {
-      "answer" : "SHOCKER",
-      "difficulty" : 5,
-      "clue" : "SHCKR"
-    },
-    {
-      "answer" : "CHAMELEON",
-      "difficulty" : 5,
-      "clue" : "CHMLN"
-    },
-    {
-      "answer" : "BLACK CAT",
-      "difficulty" : 6,
-      "clue" : "BLCK CT"
-    },
-    {
-      "answer" : "MORBIUS",
-      "difficulty" : 6,
-      "clue" : "MRBS"
-    },
-    {
-      "answer" : "TOMBSTONE",
-      "difficulty" : 7,
-      "clue" : "TMBSTN"
-    },
-    {
-      "answer" : "HYDRO-MAN",
-      "difficulty" : 7,
-      "clue" : "HYDR-MN"
-    }
-  ],
-  "description" : "characters who have been opposed to Spiderman in the comic books or movies",
   "tags" : [
     "comics",
     "popular culture",
     "cinema"
+  ],
+  "description" : "characters who have been opposed to Spiderman in the comic books or movies",
+  "extraClues" : [
+    {
+      "clue" : "KRVN TH HNTR",
+      "difficulty" : 7,
+      "answer" : "KRAVEN THE HUNTER"
+    },
+    {
+      "clue" : "CRNG",
+      "difficulty" : 5,
+      "answer" : "CARNAGE"
+    },
+    {
+      "clue" : "LCTR",
+      "difficulty" : 5,
+      "answer" : "ELECTRO"
+    },
+    {
+      "clue" : "VLTR",
+      "difficulty" : 5,
+      "answer" : "VULTURE"
+    },
+    {
+      "clue" : "SCRPN",
+      "difficulty" : 5,
+      "answer" : "SCORPION"
+    },
+    {
+      "clue" : "HBGBLN",
+      "difficulty" : 5,
+      "answer" : "HOBGOBLIN"
+    },
+    {
+      "clue" : "SHCKR",
+      "difficulty" : 5,
+      "answer" : "SHOCKER"
+    },
+    {
+      "clue" : "CHMLN",
+      "difficulty" : 5,
+      "answer" : "CHAMELEON"
+    },
+    {
+      "clue" : "BLCK CT",
+      "difficulty" : 6,
+      "answer" : "BLACK CAT"
+    },
+    {
+      "clue" : "MRBS",
+      "difficulty" : 6,
+      "answer" : "MORBIUS"
+    },
+    {
+      "clue" : "TMBSTN",
+      "difficulty" : 7,
+      "answer" : "TOMBSTONE"
+    },
+    {
+      "clue" : "HYDR-MN",
+      "difficulty" : 7,
+      "answer" : "HYDRO-MAN"
+    }
   ],
   "clueNotes" : [
     "",

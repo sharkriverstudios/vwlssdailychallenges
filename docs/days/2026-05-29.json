@@ -52,7 +52,7 @@
       },
       {
         "answer" : "WHO WANTS TO BE A MILLIONAIRE",
-        "clue" : "WH WNTS T B MLLNNR",
+        "clue" : "WH WNTS T B MLLNR",
         "difficulty" : 3
       },
       {
@@ -87,7 +87,7 @@
       }
     ],
     "difficulty" : 7,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 1
   },
   "date" : "2026-05-29",
   "schemaVersion" : 1

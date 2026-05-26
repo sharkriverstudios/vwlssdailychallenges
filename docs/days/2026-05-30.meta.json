@@ -1,4 +1,66 @@
 {
+  "extraClues" : [
+    {
+      "answer" : "SRIRACHA",
+      "clue" : "SRRCH",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "JALAPENOS",
+      "clue" : "JLPNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "BACON",
+      "clue" : "BCN",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "PICKLES",
+      "clue" : "PCKLS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "TOMATOES",
+      "clue" : "TMTS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "MAYONNAISE",
+      "clue" : "MYNNNS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BARBECUE SAUCE",
+      "clue" : "BRBC S",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "RANCH DRESSING",
+      "clue" : "RNCH DRSSNG",
+      "difficulty" : 10
+    },
+    {
+      "answer" : "COLESLAW",
+      "clue" : "CLSLW",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "BANANA PEPPERS",
+      "clue" : "BNN PPPRS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "GUACAMOLE",
+      "clue" : "GCM",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "SALSA",
+      "difficulty" : 3,
+      "clue" : "SLS"
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -21,71 +83,9 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "clue" : "SRRCH",
-      "difficulty" : 7,
-      "answer" : "SRIRACHA"
-    },
-    {
-      "clue" : "JLPNS",
-      "difficulty" : 6,
-      "answer" : "JALAPENOS"
-    },
-    {
-      "clue" : "BCN",
-      "difficulty" : 3,
-      "answer" : "BACON"
-    },
-    {
-      "clue" : "PCKLS",
-      "difficulty" : 4,
-      "answer" : "PICKLES"
-    },
-    {
-      "clue" : "TMTS",
-      "difficulty" : 4,
-      "answer" : "TOMATOES"
-    },
-    {
-      "clue" : "MYNNNS",
-      "difficulty" : 8,
-      "answer" : "MAYONNAISE"
-    },
-    {
-      "clue" : "BRBC S",
-      "difficulty" : 9,
-      "answer" : "BARBECUE SAUCE"
-    },
-    {
-      "clue" : "RNCH DRSSNG",
-      "difficulty" : 10,
-      "answer" : "RANCH DRESSING"
-    },
-    {
-      "clue" : "CLSLW",
-      "difficulty" : 4,
-      "answer" : "COLESLAW"
-    },
-    {
-      "clue" : "BNN PPPRS",
-      "difficulty" : 8,
-      "answer" : "BANANA PEPPERS"
-    },
-    {
-      "clue" : "GCM",
-      "difficulty" : 7,
-      "answer" : "GUACAMOLE"
-    },
-    {
-      "clue" : "SLS",
-      "difficulty" : 3,
-      "answer" : "SALSA"
-    }
-  ],
-  "description" : "things you put on a hot dog",
   "tags" : [
     "culinary",
     "summer"
-  ]
+  ],
+  "description" : "things you put on a hot dog"
 }

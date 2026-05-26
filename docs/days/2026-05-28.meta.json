@@ -1,4 +1,66 @@
 {
+  "extraClues" : [
+    {
+      "clue" : "L PNT",
+      "answer" : "OIL PAINT",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "SL",
+      "answer" : "EASEL",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "CHRCL",
+      "answer" : "CHARCOAL",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PSTL",
+      "answer" : "PASTEL",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "GRPHT",
+      "answer" : "GRAPHITE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SKTCH",
+      "answer" : "SKETCH",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "SCLPTR",
+      "answer" : "SCULPTURE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CLLG",
+      "answer" : "COLLAGE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "NK",
+      "answer" : "INK",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "GCH",
+      "answer" : "GOUACHE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TMPR",
+      "answer" : "TEMPERA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PGMNT",
+      "answer" : "PIGMENT",
+      "difficulty" : 5
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,67 +82,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "clue" : "L PNT",
-      "difficulty" : 4,
-      "answer" : "OIL PAINT"
-    },
-    {
-      "clue" : "SL",
-      "difficulty" : 3,
-      "answer" : "EASEL"
-    },
-    {
-      "clue" : "CHRCL",
-      "difficulty" : 5,
-      "answer" : "CHARCOAL"
-    },
-    {
-      "clue" : "PSTL",
-      "difficulty" : 4,
-      "answer" : "PASTEL"
-    },
-    {
-      "clue" : "GRPHT",
-      "difficulty" : 5,
-      "answer" : "GRAPHITE"
-    },
-    {
-      "clue" : "SKTCH",
-      "difficulty" : 4,
-      "answer" : "SKETCH"
-    },
-    {
-      "clue" : "SCLPTR",
-      "difficulty" : 6,
-      "answer" : "SCULPTURE"
-    },
-    {
-      "clue" : "CLLG",
-      "difficulty" : 6,
-      "answer" : "COLLAGE"
-    },
-    {
-      "clue" : "NK",
-      "difficulty" : 2,
-      "answer" : "INK"
-    },
-    {
-      "clue" : "GCH",
-      "difficulty" : 5,
-      "answer" : "GOUACHE"
-    },
-    {
-      "clue" : "TMPR",
-      "answer" : "TEMPERA",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PGMNT",
-      "answer" : "PIGMENT",
-      "difficulty" : 5
-    }
   ]
 }

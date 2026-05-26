@@ -1,4 +1,26 @@
 {
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "tags" : [
     "science",
     "common knowledge"
@@ -41,50 +63,28 @@
     },
     {
       "clue" : "ZNC",
-      "answer" : "ZINC",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "CPPR",
-      "answer" : "COPPER",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "GLD",
-      "answer" : "GOLD",
-      "difficulty" : 2
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "RN",
-      "answer" : "IRON"
-    },
-    {
       "difficulty" : 4,
-      "clue" : "RGN",
-      "answer" : "ARGON"
+      "answer" : "ZINC"
+    },
+    {
+      "answer" : "COPPER",
+      "difficulty" : 4,
+      "clue" : "CPPR"
+    },
+    {
+      "answer" : "GOLD",
+      "difficulty" : 2,
+      "clue" : "GLD"
+    },
+    {
+      "answer" : "IRON",
+      "difficulty" : 5,
+      "clue" : "RN"
+    },
+    {
+      "answer" : "ARGON",
+      "difficulty" : 4,
+      "clue" : "RGN"
     }
-  ],
-  "clueNotes" : [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
   ]
 }
