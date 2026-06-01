@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.5.26",
-  "generatedAt": "2026-05-26T17:24:07Z",
+  "contentVersion": "2026.6.1",
+  "generatedAt": "2026-06-01T16:25:31Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-06-14",
+  "availableTo": "2026-06-28",
   "days": [
     {
       "date": "2026-04-01",
@@ -463,9 +463,9 @@
     {
       "date": "2026-06-05",
       "difficulty": 6,
-      "category": "Alanis Morisette",
+      "category": "1970s Sitcoms",
       "path": "days/2026-06-05.json",
-      "hash": "sha256:f87390d7765953e9fa6c3e59491b0222a6caf9f237acf59e42b9c87458f94b0f"
+      "hash": "sha256:4d8c72af179652435f8b8266e40df2d24bb8582028ff29b201857425482c8332"
     },
     {
       "date": "2026-06-06",
@@ -476,24 +476,24 @@
     },
     {
       "date": "2026-06-07",
-      "difficulty": 4,
-      "category": "Members of a Baseball Team",
+      "difficulty": 7,
+      "category": "Pixar Shorts",
       "path": "days/2026-06-07.json",
-      "hash": "sha256:739d991e2eabc2e72103f0766fabe693278f3bd28fda5648275387b1b3f00cb9"
+      "hash": "sha256:717b6e5ecf80d41f066218201d9f06a4562805bc05050e34a1e578d23b871932"
     },
     {
       "date": "2026-06-08",
-      "difficulty": 4,
-      "category": "Star Wars Villains",
+      "difficulty": 3,
+      "category": "Not a State Capital",
       "path": "days/2026-06-08.json",
-      "hash": "sha256:d351ace6db7908e3653c73e12e5d981a85c6adc0116e56639e9ddfac0c5870c8"
+      "hash": "sha256:922baca8da011b1d7318f8a6114a3c1e53d18a94353a436bc35435bbe2a6af7a"
     },
     {
       "date": "2026-06-09",
-      "difficulty": 5,
-      "category": "US State Nicknames",
+      "difficulty": 4,
+      "category": "Star Wars Villains",
       "path": "days/2026-06-09.json",
-      "hash": "sha256:b7b7f27244acb93180ebc1e693cedb2dcbea2537df8c815cd80ba990ce0cba13"
+      "hash": "sha256:4b1257d425e5d1e436ee2155d591ee0f36dcf606c9392fa549ef8da8706088db"
     },
     {
       "date": "2026-06-10",
@@ -511,24 +511,122 @@
     },
     {
       "date": "2026-06-12",
-      "difficulty": 7,
-      "category": "US Presidents who were Generals",
+      "difficulty": 6,
+      "category": "Rappers of the 80s",
       "path": "days/2026-06-12.json",
-      "hash": "sha256:4da253eb39180de60e317bc775d3a6cad96c1518b8eb140b7521b8f3ae49fd71"
+      "hash": "sha256:c0e16215d52800a92d8eed4050e230e928d05f5b35ebc8ee1b38cfa85b78ad25"
     },
     {
       "date": "2026-06-13",
-      "difficulty": 4,
-      "category": "Party Games",
+      "difficulty": 5,
+      "category": "Juneteenth",
       "path": "days/2026-06-13.json",
-      "hash": "sha256:2cc6831fb3d4dcbf26e09794fcc817822c2ae59d23f91e674fff7c01a2116585"
+      "hash": "sha256:394564de059ab93734237e571b137f9908ffad937175419df0e179b18968a7ec"
     },
     {
       "date": "2026-06-14",
-      "difficulty": 5,
-      "category": "Juneteenth",
+      "difficulty": 7,
+      "category": "US Presidents who were Generals",
       "path": "days/2026-06-14.json",
-      "hash": "sha256:5cb6f366c37243abc59f0507d5034f6ec363258d7584b5abd557adf3bef1c738"
+      "hash": "sha256:99a0ed1748815fef44dca26d276b0760dab80180674c05daa735f4b8e3bb851e"
+    },
+    {
+      "date": "2026-06-15",
+      "difficulty": 3,
+      "category": "Religions of the World",
+      "path": "days/2026-06-15.json",
+      "hash": "sha256:0a35e8d4a8e7662000c996c29293cbe38fb5e8005544e89a72677bf2b92563bf"
+    },
+    {
+      "date": "2026-06-16",
+      "difficulty": 4,
+      "category": "Tom Hanks",
+      "path": "days/2026-06-16.json",
+      "hash": "sha256:0d84eef29ff816e0c00507ef0cce76b22de2c190194ec6a2c1f362c0d59f3908"
+    },
+    {
+      "date": "2026-06-17",
+      "difficulty": 4,
+      "category": "Members of a Baseball Team",
+      "path": "days/2026-06-17.json",
+      "hash": "sha256:f386ef557d5c5c3e1cb75a29d9e6b55f3451614effd3fe6e0aec9593d1a27314"
+    },
+    {
+      "date": "2026-06-18",
+      "difficulty": 5,
+      "category": "US State Nicknames",
+      "path": "days/2026-06-18.json",
+      "hash": "sha256:b077b87280841c5a40f710888427a3169b0ef62d6defb7d654ffaec310fe0263"
+    },
+    {
+      "date": "2026-06-19",
+      "difficulty": 6,
+      "category": "Alanis Morisette",
+      "path": "days/2026-06-19.json",
+      "hash": "sha256:ac3a3201dcedfa904d0dd44e763c5e434bb19e16a64ca635b27b437849a5416f"
+    },
+    {
+      "date": "2026-06-20",
+      "difficulty": 5,
+      "category": "Wimbledon Champions",
+      "path": "days/2026-06-20.json",
+      "hash": "sha256:a2eee55206bd9740bfa961c5eae9b41fa6df1ddd53faa249ec6da4d1efc8c577"
+    },
+    {
+      "date": "2026-06-21",
+      "difficulty": 7,
+      "category": "The Brontës",
+      "path": "days/2026-06-21.json",
+      "hash": "sha256:293f5d9cf0f9ada39cd5cc70653810e3bd993d1ea354ac96ef4dbb0cabf3e68b"
+    },
+    {
+      "date": "2026-06-22",
+      "difficulty": 3,
+      "category": "Toiletries",
+      "path": "days/2026-06-22.json",
+      "hash": "sha256:3b9d223879cab742332ded6b6df46bdf1df7dbd04a60e5b43b68e82c46449f15"
+    },
+    {
+      "date": "2026-06-23",
+      "difficulty": 4,
+      "category": "Party Games",
+      "path": "days/2026-06-23.json",
+      "hash": "sha256:c835fe42cab7eaf273e2bb12b96b0df7baaefd529172195a56c32e47d962782b"
+    },
+    {
+      "date": "2026-06-24",
+      "difficulty": 4,
+      "category": "parts of a guitar",
+      "path": "days/2026-06-24.json",
+      "hash": "sha256:a66a02463c208e306ff03bf06849c23e7637ee363cf5d125ac3bc782ac7dadea"
+    },
+    {
+      "date": "2026-06-25",
+      "difficulty": 5,
+      "category": "Mustelids",
+      "path": "days/2026-06-25.json",
+      "hash": "sha256:3ad186c6b5541abe046c1c0349017a03e0bc476213ddcc5b7764b3d8f372727f"
+    },
+    {
+      "date": "2026-06-26",
+      "difficulty": 7,
+      "category": "parts of a cell",
+      "path": "days/2026-06-26.json",
+      "hash": "sha256:a40e580c9d3d1097c5641c004045257e1af6948c4d3e9f258715fc9f4ada5aec"
+    },
+    {
+      "date": "2026-06-27",
+      "difficulty": 7,
+      "category": "Famous Pitchers",
+      "path": "days/2026-06-27.json",
+      "hash": "sha256:c0fce37adfb961d9862d53f9874d096bb07459539a9075f11e58732b125f9fe6"
+    },
+    {
+      "date": "2026-06-28",
+      "difficulty": 3,
+      "category": "English Monarchs",
+      "path": "days/2026-06-28.json",
+      "hash": "sha256:201f977ad053c6cc3e4959d78db6406c23edad8c844d1734b2d1efbb1990c439"
     }
   ]
 }
