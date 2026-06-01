@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "notes" : "First name only",
+  "extraClues" : [
+    {
+      "clue" : "JMS",
+      "answer" : "JAMES",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "MRY",
+      "answer" : "MARY",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "NN",
+      "answer" : "ANNE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "JHN",
+      "answer" : "JOHN",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "DMND",
+      "answer" : "EDMUND",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "LFRD",
+      "answer" : "ALFRED",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "MTLD",
+      "answer" : "MATILDA",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "HRLD",
+      "answer" : "HAROLD",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "STPHN",
+      "answer" : "STEPHEN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "DGR",
+      "answer" : "EDGAR",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "THLRD",
+      "answer" : "ETHELRED",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "CNT",
+      "answer" : "CANUTE",
+      "difficulty" : 8
+    }
+  ],
+  "tags" : [
+    "history",
+    "culture",
+    "politics"
+  ]
+}

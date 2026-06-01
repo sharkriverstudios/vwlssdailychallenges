@@ -1,4 +1,71 @@
 {
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "DETROIT",
+      "clue" : "D TRT"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PHILADELPHIA",
+      "clue" : "PHLDLPH"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "SAN DIEGO",
+      "clue" : "SN DG"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DALLAS",
+      "clue" : "DLLS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SAN JOSE",
+      "clue" : "SN JS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SAN ANTONIO",
+      "clue" : "SN NTN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "JACKSONVILLE",
+      "clue" : "JCKSNVLL"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FORT WORTH",
+      "clue" : "FRT WRTH"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "MILWAUKEE",
+      "clue" : "MLWKK"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "LAS VEGAS",
+      "clue" : "LS VGS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "ATLANTA",
+      "clue" : "TLNT"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "CLEVELAND",
+      "clue" : "CLVLND"
+    }
+  ],
+  "tags" : [
+    "geography",
+    "common knowledge"
+  ],
+  "description" : "Cities that you may think are the satet captial, but in fact are not",
   "clueNotes" : [
     "",
     "",
@@ -20,71 +87,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "answer" : "COUNT DOOKU",
-      "clue" : "CNT DKK",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "SNOKE",
-      "clue" : "SNK",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "ASAJJ VENTRESS",
-      "clue" : "SJJ VNTRSS",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "JANGO FETT",
-      "clue" : "JNG FTT",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "DARTH SIDIOUS",
-      "clue" : "DRTH SDS",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "GRAND ADMIRAL THRAWN",
-      "clue" : "GRND DMRL THRWN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "CAPTAIN PHASMA",
-      "clue" : "CPTN PHSM",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "DARTH PLAGUEIS",
-      "clue" : "DRTH PLGS",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "NUTE GUNRAY",
-      "clue" : "NT GNR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "DARTH BANE",
-      "clue" : "DRTH BN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "MOFF GIDEON",
-      "clue" : "MFF GDN",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "AURRA SING",
-      "clue" : "RR SNG",
-      "difficulty" : 9
-    }
-  ],
-  "tags" : [
-    "cinema",
-    "popular culture"
   ]
 }

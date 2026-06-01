@@ -1,62 +1,105 @@
 {
   "challenge" : {
     "candidates" : [
-      "George Washington",
-      "Andrew Jackson",
-      "William Henry Harrison",
-      "Zachary Taylor",
-      "Franklin Pierce",
-      "Ulysses S. Grant",
-      "Rutherford B. Hayes",
-      "James A. Garfield",
-      "Benjamin Harrison",
-      "Dwight D. Eisenhower"
+      "Run DMC",
+      "LL Cool J",
+      "Beastie Boys",
+      "Public Enemy",
+      "N.W.A",
+      "Salt-N-Pepa",
+      "Eric B. & Rakim",
+      "Big Daddy Kane",
+      "Kool Moe Dee",
+      "Grandmaster Flash",
+      "Slick Rick",
+      "Biz Markie",
+      "MC Lyte",
+      "EPMD",
+      "Ice-T",
+      "Whodini",
+      "Boogie Down Productions",
+      "Doug E. Fresh",
+      "Fat Boys",
+      "Jazzy Jeff & The Fresh Prince",
+      "Too Short",
+      "Heavy D & The Boyz",
+      "Digital Underground",
+      "Spoonie Gee",
+      "Treacherous Three",
+      "Stetsasonic",
+      "J.J. Fad",
+      "De La Soul",
+      "Jungle Brothers",
+      "Queen Latifah",
+      "3rd Bass",
+      "Tone Loc",
+      "Young MC",
+      "MC Shan",
+      "Roxanne Shante",
+      "The Sugarhill Gang",
+      "Afrika Bambaataa",
+      "The Fatback Band",
+      "Schoolly D",
+      "Dana Dane",
+      "DJ Jazzy Jeff",
+      "Kurtis Blow",
+      "The D.O.C.",
+      "Ice Cube",
+      "MC Hammer",
+      "Lord Finesse",
+      "DJ Quik",
+      "Mellow Man Ace",
+      "The Pharcyde",
+      "Special Ed",
+      "Ultramagnetic MCs",
+      "Kid 'n Play",
+      "Grandmaster Caz"
     ],
-    "category" : "US Presidents who were Generals",
+    "category" : "Rappers of the 80s",
     "clues" : [
       {
-        "answer" : "GEORGE WASHINGTON",
-        "clue" : "GRG WSHNGTN",
+        "answer" : "RUN DMC",
+        "clue" : "RN DMC",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "LL COOL J",
+        "clue" : "LL CL J",
         "difficulty" : 2
       },
       {
-        "answer" : "ANDREW JACKSON",
-        "clue" : "NDRW JCKSN",
+        "answer" : "BEASTIE BOYS",
+        "clue" : "BST BYS",
         "difficulty" : 3
       },
       {
-        "answer" : "DWIGHT D. EISENHOWER",
-        "clue" : "DWGHT DSN HWR",
+        "answer" : "PUBLIC ENEMY",
+        "clue" : "PBL C NM",
         "difficulty" : 4
       },
       {
-        "answer" : "FRANKLIN PIERCE",
-        "clue" : "FRNKLN PRC",
+        "answer" : "SALT-N-PEPA",
+        "clue" : "SLT N PP",
         "difficulty" : 5
       },
       {
-        "answer" : "ULYSSES S. GRANT",
-        "clue" : "LS SS SGR NT",
+        "answer" : "GRANDMASTER FLASH",
+        "clue" : "GRNDMSTR FLSH",
         "difficulty" : 6
       },
       {
-        "answer" : "ZACHARY TAYLOR",
-        "clue" : "ZCHR TYL R",
+        "answer" : "HEAVY D AND THE BOYZ",
+        "clue" : "HV D ND TH BYZ",
         "difficulty" : 6
       },
       {
-        "answer" : "WILLIAM HENRY HARRISON",
-        "clue" : "WLLM HNR HRRSN",
-        "difficulty" : 7
-      },
-      {
-        "answer" : "RUTHERFORD B. HAYES",
-        "clue" : "RTHRF RD B HYS",
+        "answer" : "KOOL MOE DEE",
+        "clue" : "KL M D",
         "difficulty" : 8
       }
     ],
-    "difficulty" : 7,
-    "shareClueIndex" : 0
+    "difficulty" : 6,
+    "shareClueIndex" : 1
   },
   "date" : "2026-06-12",
   "schemaVersion" : 1

@@ -1,46 +1,67 @@
 {
   "extraClues" : [
     {
+      "difficulty" : 7,
+      "clue" : "BZ MRK",
+      "answer" : "BIZ MARKIE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "RC B  RK M",
+      "answer" : "ERIC B. & RAKIM"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "C T",
+      "answer" : "ICE-T"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "WHDN",
+      "answer" : "WHODINI"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "N W A",
+      "answer" : "N.W.A"
+    },
+    {
+      "difficulty" : 2,
+      "clue" : "MC LYT",
+      "answer" : "MC LYTE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "BG DWN PRDCTNS",
+      "answer" : "BOOGIE DOWN PRODUCTIONS"
+    },
+    {
       "difficulty" : 5,
-      "clue" : "JMS A GRFLD",
-      "answer" : "JAMES A. GARFIELD"
+      "clue" : "FT BYS",
+      "answer" : "FAT BOYS"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "JZZ JFF  TH FRSH PRNC",
+      "answer" : "JAZZY JEFF & THE FRESH PRINCE"
     },
     {
       "difficulty" : 6,
-      "clue" : "BNJMN HRRSN",
-      "answer" : "BENJAMIN HARRISON"
+      "clue" : "T SHRT",
+      "answer" : "TOO SHORT"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 7,
+      "clue" : "DGT L NDRGRND",
+      "answer" : "DIGITAL UNDERGROUND"
     },
     {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
+      "difficulty" : 9,
+      "clue" : "SPN G",
+      "answer" : "SPOONIE GEE"
     }
   ],
+  "description" : "rappers who had hits in the years between 1981 and 1990",
   "clueNotes" : [
     "",
     "",
@@ -64,8 +85,8 @@
     ""
   ],
   "tags" : [
-    "history",
-    "politics",
-    "military"
+    "music",
+    "popular culture",
+    "history"
   ]
 }

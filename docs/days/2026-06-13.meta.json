@@ -1,4 +1,5 @@
 {
+  "description" : "things associated with the holiday and how it's celebrated",
   "clueNotes" : [
     "",
     "",
@@ -23,69 +24,69 @@
   ],
   "extraClues" : [
     {
-      "clue" : "CRDS GNST HMNTY",
-      "difficulty" : 7,
-      "answer" : "CARDS AGAINST HUMANITY"
+      "answer" : "LIBERTY",
+      "clue" : "LBRTY",
+      "difficulty" : 3
     },
     {
-      "clue" : "PN TH TL N TH DNKY",
-      "difficulty" : 8,
-      "answer" : "PIN THE TAIL ON THE DONKEY"
+      "answer" : "HISTORY",
+      "clue" : "HSTRY",
+      "difficulty" : 2
     },
     {
-      "clue" : "DCK DCK GS",
-      "difficulty" : 5,
-      "answer" : "DUCK DUCK GOOSE"
+      "answer" : "AFRICAN AMERICAN CULTURE",
+      "clue" : "FRCN MRCN CLTR",
+      "difficulty" : 6
     },
     {
-      "clue" : "RD RVR",
-      "difficulty" : 3,
-      "answer" : "RED ROVER"
+      "answer" : "UNITY",
+      "clue" : "NTY",
+      "difficulty" : 4
     },
     {
-      "clue" : "CTCHPHRS",
-      "difficulty" : 5,
-      "answer" : "CATCHPHRASE"
+      "answer" : "COMMUNITY EVENTS",
+      "clue" : "CMNTY VNTS",
+      "difficulty" : 5
     },
     {
-      "clue" : "NVR HV V R",
-      "difficulty" : 6,
-      "answer" : "NEVER HAVE I EVER"
+      "answer" : "CELEBRATION",
+      "clue" : "CLBRTN",
+      "difficulty" : 4
     },
     {
-      "clue" : "PSS TH PRCL",
-      "difficulty" : 5,
-      "answer" : "PASS THE PARCEL"
+      "answer" : "STORYTELLING",
+      "clue" : "STRYLLNG",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 4,
-      "answer" : "WEREWOLF",
-      "clue" : "WRWLF"
+      "clue" : "FMLY GTHRNGS",
+      "answer" : "FAMILY GATHERINGS",
+      "difficulty" : 4
     },
     {
-      "difficulty" : 5,
-      "answer" : "SCAVENGER HUNT",
-      "clue" : "SCVNG R HNT"
+      "clue" : "JNTNTH FLG",
+      "answer" : "JUNETEENTH FLAG",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 5,
-      "answer" : "HUMAN KNOT",
-      "clue" : "HMN KNT"
+      "clue" : "DCTN",
+      "answer" : "EDUCATION",
+      "difficulty" : 4
     },
     {
-      "difficulty" : 5,
-      "answer" : "MURDER MYSTERY",
-      "clue" : "MRDR MSTRY"
+      "clue" : "HRTG",
+      "answer" : "HERITAGE",
+      "difficulty" : 3
     },
     {
-      "difficulty" : 6,
-      "answer" : "BALLOON STOMP",
-      "clue" : "BLLN STMP"
+      "clue" : "RCGNTN",
+      "answer" : "RECOGNITION",
+      "difficulty" : 4
     }
   ],
   "tags" : [
-    "games",
-    "popular culture"
-  ],
-  "description" : "games people play at parties"
+    "culture",
+    "history",
+    "traditions"
+  ]
 }

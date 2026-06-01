@@ -21,70 +21,72 @@
     "",
     ""
   ],
+  "description" : "great sitcoms that were popular between 1971 and 1980",
+  "tags" : [
+    "television",
+    "popular culture",
+    "comedy"
+  ],
   "extraClues" : [
     {
-      "difficulty" : 7,
-      "clue" : "RGT THRGH Y",
-      "answer" : "RIGHT THROUGH YOU"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "FRGVN",
-      "answer" : "FORGIVEN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "NT TH DCTR",
-      "answer" : "NOT THE DOCTOR"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "PRFCT",
-      "answer" : "PERFECT"
-    },
-    {
       "difficulty" : 4,
-      "clue" : "MRY JN",
-      "answer" : "MARY JANE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "WK P",
-      "answer" : "WAKE UP"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "YR HS",
-      "answer" : "YOUR HOUSE"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "HNDS CLN",
-      "answer" : "HANDS CLEAN"
+      "clue" : "TH JFFRSNS",
+      "answer" : "THE JEFFERSONS"
     },
     {
       "difficulty" : 7,
-      "clue" : "PRCS LLSNS",
-      "answer" : "PRECIOUS ILLUSIONS"
+      "clue" : "WLCMC BCK KTTR",
+      "answer" : "WELCOME BACK, KOTTER"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "TH MR TLR MR SHW",
+      "answer" : "THE MARY TYLER MOORE SHOW"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BRNY MLLR",
+      "answer" : "BARNEY MILLER"
     },
     {
       "difficulty" : 5,
-      "clue" : "VRTHNG",
-      "answer" : "EVERYTHING"
+      "clue" : "LVRN & SHRLY",
+      "answer" : "LAVERNE & SHIRLEY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CHK ND TH MN",
+      "answer" : "CHICO AND THE MAN"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "TH BB NWHRT SHW",
+      "answer" : "THE BOB NEWHART SHOW"
     },
     {
       "difficulty" : 6,
-      "clue" : "NDRNTH",
-      "answer" : "UNDERNEATH"
+      "clue" : "WKRP N CNNNT",
+      "answer" : "WKRP IN CINCINNATI"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "DFFRNT STRKS",
+      "answer" : "DIFF'RENT STROKES"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "MD",
+      "answer" : "MAUDE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "SP",
+      "answer" : "SOAP"
     },
     {
       "difficulty" : 6,
-      "clue" : "GRDN",
-      "answer" : "GUARDIAN"
+      "clue" : "RHD",
+      "answer" : "RHODA"
     }
-  ],
-  "tags" : [
-    "music",
-    "popular culture"
   ]
 }

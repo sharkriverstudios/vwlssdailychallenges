@@ -1,113 +1,62 @@
 {
   "challenge" : {
     "candidates" : [
-      "Emancipation",
-      "Freedom",
-      "Juneteenth Flag",
-      "Red Food",
-      "Barbecue",
-      "Parades",
-      "African American Culture",
-      "Texas",
-      "Galveston",
-      "Celebration",
-      "Jubilee",
-      "Liberty",
-      "Unity",
-      "Reunion",
-      "Historical Reenactments",
-      "Prayer",
-      "Storytelling",
-      "Music",
-      "Dance",
-      "Picnics",
-      "Family Gatherings",
-      "Community Events",
-      "Speeches",
-      "Education",
-      "History",
-      "Reflection",
-      "Justice",
-      "Equality",
-      "Resilience",
-      "Tradition",
-      "Festivities",
-      "Awareness",
-      "Activism",
-      "Heritage",
-      "Pride",
-      "Commemoration",
-      "Legacy",
-      "Independence",
-      "Hope",
-      "Progress",
-      "Solidarity",
-      "Courage",
-      "Empowerment",
-      "Diversity",
-      "Recognition",
-      "Remembrance",
-      "Sacrifice",
-      "Struggle",
-      "Triumph",
-      "Liberation",
-      "Peace",
-      "Prosperity",
-      "Community Service",
-      "Cultural Festivals",
-      "Educational Workshops",
-      "Soul Food",
-      "Racial Harmony",
-      "Social Justice",
-      "Reparations",
-      "Voting Rights",
-      "Civil Rights"
+      "George Washington",
+      "Andrew Jackson",
+      "William Henry Harrison",
+      "Zachary Taylor",
+      "Franklin Pierce",
+      "Ulysses S. Grant",
+      "Rutherford B. Hayes",
+      "James A. Garfield",
+      "Benjamin Harrison",
+      "Dwight D. Eisenhower"
     ],
-    "category" : "Juneteenth",
+    "category" : "US Presidents who were Generals",
     "clues" : [
       {
-        "answer" : "MUSIC",
-        "clue" : "MSC",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "FREEDOM",
-        "clue" : "FRDM",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "BARBECUE",
-        "clue" : "BRBC",
+        "answer" : "GEORGE WASHINGTON",
+        "clue" : "GRG WSHNGTN",
         "difficulty" : 2
       },
       {
-        "answer" : "PICNICS",
-        "clue" : "PCNCS",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "PARADES",
-        "clue" : "PRDS",
+        "answer" : "ANDREW JACKSON",
+        "clue" : "NDRW JCKSN",
         "difficulty" : 3
       },
       {
-        "answer" : "EMANCIPATION",
-        "clue" : "MNCPTN",
-        "difficulty" : 3
+        "answer" : "DWIGHT D. EISENHOWER",
+        "clue" : "DWGHT DSN HWR",
+        "difficulty" : 4
       },
       {
-        "answer" : "GALVESTON TEXAS",
-        "clue" : "GLVSTNTXS",
+        "answer" : "FRANKLIN PIERCE",
+        "clue" : "FRNKLN PRC",
         "difficulty" : 5
       },
       {
-        "answer" : "HISTORICAL REENACTMENTS",
-        "clue" : "HSTRCL RNCTMNTS",
+        "answer" : "ULYSSES S. GRANT",
+        "clue" : "LS SS SGR NT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ZACHARY TAYLOR",
+        "clue" : "ZCHR TYL R",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "WILLIAM HENRY HARRISON",
+        "clue" : "WLLM HNR HRRSN",
         "difficulty" : 7
+      },
+      {
+        "answer" : "RUTHERFORD B. HAYES",
+        "clue" : "RTHRF RD B HYS",
+        "difficulty" : 8
       }
     ],
-    "difficulty" : 5,
-    "shareClueIndex" : 3
+    "difficulty" : 7,
+    "shareClueIndex" : 0
   },
   "date" : "2026-06-14",
   "schemaVersion" : 1

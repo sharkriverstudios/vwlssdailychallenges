@@ -1,5 +1,46 @@
 {
-  "description" : "things associated with the holiday and how it's celebrated",
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "JMS A GRFLD",
+      "answer" : "JAMES A. GARFIELD"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BNJMN HRRSN",
+      "answer" : "BENJAMIN HARRISON"
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -22,71 +63,9 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "answer" : "LIBERTY",
-      "clue" : "LBRTY",
-      "difficulty" : 3
-    },
-    {
-      "answer" : "HISTORY",
-      "clue" : "HSTRY",
-      "difficulty" : 2
-    },
-    {
-      "answer" : "AFRICAN AMERICAN CULTURE",
-      "clue" : "FRCN MRCN CLTR",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "UNITY",
-      "clue" : "NTY",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "COMMUNITY EVENTS",
-      "clue" : "CMNTY VNTS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "CELEBRATION",
-      "clue" : "CLBRTN",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "STORYTELLING",
-      "clue" : "STRYLLNG",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "FMLY GTHRNGS",
-      "answer" : "FAMILY GATHERINGS",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "JNTNTH FLG",
-      "answer" : "JUNETEENTH FLAG",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "DCTN",
-      "answer" : "EDUCATION",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "HRTG",
-      "answer" : "HERITAGE",
-      "difficulty" : 3
-    },
-    {
-      "clue" : "RCGNTN",
-      "answer" : "RECOGNITION",
-      "difficulty" : 4
-    }
-  ],
   "tags" : [
-    "culture",
     "history",
-    "traditions"
+    "politics",
+    "military"
   ]
 }

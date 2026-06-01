@@ -1,94 +1,92 @@
 {
   "challenge" : {
     "candidates" : [
-      "You Oughta Know",
-      "Ironic",
-      "Hand In My Pocket",
-      "You Learn",
-      "Head Over Feet",
-      "Uninvited",
-      "Thank U",
-      "All I Really Want",
-      "Right Through You",
-      "Forgiven",
-      "Not The Doctor",
-      "Perfect",
-      "Mary Jane",
-      "Wake Up",
-      "Your House",
-      "One Hand In My Pocket",
-      "Joining You",
-      "That I Would Be Good",
-      "So Pure",
-      "Unsent",
-      "Front Row",
-      "Heart Of The House",
-      "Sympathetic Character",
-      "Hands Clean",
-      "Precious Illusions",
-      "Everything",
-      "Out Is Through",
-      "Eight Easy Steps",
-      "Excuses",
-      "Underneath",
-      "Citizen Of The Planet",
-      "Versions Of Violence",
-      "In Praise Of The Vulnerable Man",
-      "Torch",
-      "Lens",
-      "Receive",
-      "Guardian",
-      "Empathy",
-      "Spiral",
-      "Woman Down",
-      "Havoc",
-      "Edge Of Evolution"
+      "All In The Family",
+      "M*A*S*H",
+      "The Mary Tyler Moore Show",
+      "Happy Days",
+      "Good Times",
+      "The Brady Bunch",
+      "Sanford And Son",
+      "The Jeffersons",
+      "Laverne & Shirley",
+      "Three's Company",
+      "Welcome Back, Kotter",
+      "Barney Miller",
+      "Taxi",
+      "Chico And The Man",
+      "The Bob Newhart Show",
+      "WKRP In Cincinnati",
+      "The Odd Couple",
+      "What's Happening!!",
+      "One Day At A Time",
+      "Maude",
+      "Soap",
+      "Alice",
+      "Rhoda",
+      "Mary Hartman, Mary Hartman",
+      "The Partridge Family",
+      "The Love Boat",
+      "The Ropers",
+      "Carter Country",
+      "Fawlty Towers",
+      "Diff'rent Strokes",
+      "The Facts Of Life",
+      "The Courtship Of Eddie's Father",
+      "Get Smart",
+      "The Flip Wilson Show",
+      "The Sonny & Cher Comedy Hour",
+      "The Carol Burnett Show",
+      "Fawlty Towers",
+      "The Redd Foxx Show",
+      "The Tony Randall Show",
+      "The New Dick Van Dyke Show"
     ],
-    "category" : "Alanis Morisette",
+    "category" : "1970s Sitcoms",
     "clues" : [
       {
-        "answer" : "IRONIC",
-        "clue" : "RNC",
+        "answer" : "M*A*S*H",
+        "clue" : "MSH",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "TAXI",
+        "clue" : "TX",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HAPPY DAYS",
+        "clue" : "HP PD YS",
         "difficulty" : 3
       },
       {
-        "answer" : "YOU LEARN",
-        "clue" : "Y LRN",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "YOU OUGHTA KNOW",
-        "clue" : "Y GHT KNW",
+        "answer" : "THREE'S COMPANY",
+        "clue" : "THR SCMP N",
         "difficulty" : 4
       },
       {
-        "answer" : "HAND IN MY POCKET",
-        "clue" : "HND N M PCKT",
+        "answer" : "THE BRADY BUNCH",
+        "clue" : "THB RD BNCH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ALL IN THE FAMILY",
+        "clue" : "L LN THF ML",
         "difficulty" : 5
       },
       {
-        "answer" : "UNINVITED",
-        "clue" : "NNVTD",
+        "answer" : "SANFORD AND SON",
+        "clue" : "SNFR DNDS N",
         "difficulty" : 5
       },
       {
-        "answer" : "THANK U",
-        "clue" : "THNK",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "ALL I REALLY WANT",
-        "clue" : "LL RLL WNT",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "JAGGED LITTLE PILL",
-        "clue" : "JG GD LT TLP LL",
+        "answer" : "FAWLTY TOWERS",
+        "clue" : "FWLT TWRS",
         "difficulty" : 7
       }
     ],
     "difficulty" : 6,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 2
   },
   "date" : "2026-06-05",
   "schemaVersion" : 1

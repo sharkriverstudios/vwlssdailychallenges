@@ -1,0 +1,96 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Headstock",
+      "Tuning Pegs",
+      "Nut",
+      "Neck",
+      "Fretboard",
+      "Frets",
+      "Inlays",
+      "Body",
+      "Pickguard",
+      "Bridge",
+      "Saddle",
+      "Pickups",
+      "Control Knobs",
+      "Strings",
+      "Sound Hole",
+      "Truss Rod",
+      "Heel",
+      "Cutaway",
+      "Fret Markers",
+      "Strap Button",
+      "Pick",
+      "Output Jack",
+      "Volume Knob",
+      "Tone Knob",
+      "Pickup Selector",
+      "Fret Wires",
+      "Neck Joint",
+      "Tremolo Arm",
+      "Back",
+      "Side",
+      "Endpin",
+      "Binding",
+      "Rosette",
+      "Tailpiece",
+      "Bridge Pins",
+      "Fingerboard",
+      "Capo",
+      "String Tree",
+      "Neck Plate",
+      "Scratchplate",
+      "Machine Heads",
+      "Whammy Bar",
+      "Truss Rod Cover"
+    ],
+    "category" : "parts of a guitar",
+    "clues" : [
+      {
+        "answer" : "STRINGS",
+        "clue" : "STRNGS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BRIDGE",
+        "clue" : "BRDG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FRETBOARD",
+        "clue" : "FRTBRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PICKGUARD",
+        "clue" : "PCKGRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICKUPS",
+        "clue" : "PCKPS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SOUND HOLE",
+        "clue" : "SND HL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TUNING PEGS",
+        "clue" : "TNNG PGS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "VOLUME KNOB",
+        "clue" : "VLM KNB",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-06-24",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "answer" : "CONDITIONER",
+      "clue" : "CNDNTNR"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "LOTION",
+      "clue" : "LTN"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "BODY WASH",
+      "clue" : "BDY WSH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DENTAL FLOSS",
+      "clue" : "DNTL FLSS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "HAND SANITIZER",
+      "clue" : "HND SNTZR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FACIAL CLEANSER",
+      "clue" : "FCL CLNSR"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "PERFUME",
+      "clue" : "PRFM"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "COLOGNE",
+      "clue" : "CLGN"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "LIP BALM",
+      "clue" : "LP BLM"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "SUNSCREEN",
+      "clue" : "SNSCRN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "NAIL CLIPPERS",
+      "clue" : "NL CLPPRS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "TWEEZERS",
+      "clue" : "TWZRS"
+    }
+  ],
+  "tags" : [
+    "home",
+    "common knowledge",
+    "culture"
+  ]
+}

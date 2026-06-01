@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "music",
+    "technology"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "BODY",
+      "clue" : "BDY",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "NUT",
+      "clue" : "NT",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CONTROL KNOBS",
+      "clue" : "CNTRL KNBS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HEADSTOCK",
+      "clue" : "HDSTCK",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "FRETS",
+      "clue" : "FRTS",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "TRUSS ROD",
+      "clue" : "TRSS RD",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CAPO",
+      "clue" : "CP",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WHAMMY BAR",
+      "clue" : "WHMMY BR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "TAILPIECE",
+      "clue" : "TLPCS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FINGERBOARD",
+      "clue" : "FNGRBRD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "NECK",
+      "clue" : "NCK",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "PICKUP SELECTOR",
+      "clue" : "PCKP SLCTR",
+      "difficulty" : 8
+    }
+  ]
+}

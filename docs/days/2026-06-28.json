@@ -1,0 +1,110 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "William",
+      "Henry",
+      "Edward",
+      "George",
+      "Elizabeth",
+      "Mary",
+      "James",
+      "Charles",
+      "Richard",
+      "Anne",
+      "Victoria",
+      "John",
+      "Stephen",
+      "Matilda",
+      "Harold",
+      "Edgar",
+      "Edmund",
+      "Alfred",
+      "Canute",
+      "Ethelred",
+      "Offa",
+      "Aethelstan",
+      "Harold",
+      "Eadwig",
+      "Edwy",
+      "Cnut",
+      "Edgar",
+      "Harthacnut",
+      "Godwin",
+      "Harold",
+      "Athelstan",
+      "Eadred",
+      "Edred",
+      "Eadwig",
+      "Edwy",
+      "Ethelbert",
+      "Ethelred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu",
+      "Eadred",
+      "Eadwig",
+      "Eadgifu"
+    ],
+    "category" : "English Monarchs",
+    "clues" : [
+      {
+        "answer" : "HENRY",
+        "clue" : "HNR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ELIZABETH",
+        "clue" : "LZBTH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GEORGE",
+        "clue" : "GRG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "VICTORIA",
+        "clue" : "VCTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RICHARD",
+        "clue" : "RCHRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EDWARD",
+        "clue" : "D WRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WILLIAM",
+        "clue" : "W LLM",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CHARLES",
+        "clue" : "CH RLS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-28",
+  "schemaVersion" : 1
+}

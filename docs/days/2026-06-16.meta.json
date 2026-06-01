@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "cinema",
+    "popular culture"
+  ],
+  "description" : "characters, movies, achievements of the famous actor",
+  "extraClues" : [
+    {
+      "answer" : "APOLLO 13",
+      "clue" : "PLL 13",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "SLEEPLESS IN SEATTLE",
+      "clue" : "SLPLSS N STTL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "THE TERMINAL",
+      "clue" : "TH TRMNL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "YOU'VE GOT MAIL",
+      "clue" : "YV GT ML",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CATCH ME IF YOU CAN",
+      "clue" : "CTCH M F Y CN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "THE POLAR EXPRESS",
+      "clue" : "TH PLR XPRSS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SULLY",
+      "clue" : "SLLY",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "LARRY CROWNE",
+      "clue" : "LRRY CRWN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ANGELS & DEMONS",
+      "clue" : "NGLS & DMNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ROAD TO PERDITION",
+      "clue" : "RD T PRDTN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BRIDGE OF SPIES",
+      "clue" : "BRDG F SPS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CLOUD ATLAS",
+      "clue" : "CLD TLS",
+      "difficulty" : 7
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

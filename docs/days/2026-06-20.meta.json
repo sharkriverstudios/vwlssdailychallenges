@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "RAFAEL NADAL",
+      "clue" : "RFL NDL",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "STEFFI GRAF",
+      "clue" : "STFF GRF",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "HELEN WILLS MOODY",
+      "clue" : "HLN WLLS MDY",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "VENUS WILLIAMS",
+      "clue" : "VNS WLLMS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CHRIS EVERT",
+      "clue" : "CHRS VRT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ROD LAVER",
+      "clue" : "RD LVR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "ARTHUR ASHE",
+      "clue" : "RTHR SH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "BORIS BECKER",
+      "clue" : "BRS BCKR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "ANDRE AGASSI",
+      "clue" : "NDR GSS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "JOHN MCENROE",
+      "clue" : "JHN MCNR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "EVONNE GOOLAGONG",
+      "clue" : "VNN GLGNG",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "RICHARD KRAJICEK",
+      "clue" : "RCHRD KRJCK",
+      "difficulty" : 8
+    }
+  ],
+  "tags" : [
+    "sports",
+    "tennis"
+  ],
+  "description" : "mens or womens",
+  "notes" : "using this as a seasonal themed challenge since Winbledon tends to start in late June"
+}

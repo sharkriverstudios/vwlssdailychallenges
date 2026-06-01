@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Toothbrush",
+      "Toothpaste",
+      "Shampoo",
+      "Conditioner",
+      "Soap",
+      "Body Wash",
+      "Deodorant",
+      "Razor",
+      "Shaving Cream",
+      "Mouthwash",
+      "Dental Floss",
+      "Lotion",
+      "Hand Sanitizer",
+      "Facial Cleanser",
+      "Moisturizer",
+      "Perfume",
+      "Cologne",
+      "Hair Gel",
+      "Hair Spray",
+      "Lip Balm",
+      "Sunscreen",
+      "Cotton Swabs",
+      "Cotton Balls",
+      "Nail Clippers",
+      "Tweezers",
+      "Hair Brush",
+      "Comb",
+      "Bath Oil",
+      "Bubble Bath",
+      "Body Scrub",
+      "Face Mask",
+      "Aftershave",
+      "Antiperspirant",
+      "Foot Powder",
+      "Toilet Paper",
+      "Wet Wipes",
+      "Makeup Remover",
+      "Talcum Powder",
+      "Hair Conditioner",
+      "Ear Cleaner",
+      "Nail File",
+      "Bath Salt",
+      "Loofah",
+      "Face Wipes",
+      "Hand Cream",
+      "Lip Gloss",
+      "Bath Sponge",
+      "Facial Toner",
+      "Cuticle Oil",
+      "Body Powder",
+      "Mouth Guard"
+    ],
+    "category" : "Toiletries",
+    "clues" : [
+      {
+        "answer" : "SOAP",
+        "clue" : "SP",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SHAMPOO",
+        "clue" : "SHMP",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "RAZOR",
+        "clue" : "RZR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "TOOTHBRUSH",
+        "clue" : "TTHBRSH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SHAVING CREAM",
+        "clue" : "SHVNG CRM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DEODORANT",
+        "clue" : "DD RNT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TOOTHPASTE",
+        "clue" : "T THP ST",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MOUTHWASH",
+        "clue" : "MT HW SH",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-06-22",
+  "schemaVersion" : 1
+}

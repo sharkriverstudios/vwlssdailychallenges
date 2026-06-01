@@ -1,0 +1,89 @@
+{
+  "tags" : [
+    "sports"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "CLSR",
+      "difficulty" : 6,
+      "answer" : "CLOSER"
+    },
+    {
+      "clue" : "TLTY PLYR",
+      "difficulty" : 8,
+      "answer" : "UTILITY PLAYER"
+    },
+    {
+      "clue" : "RGHT FLDR",
+      "difficulty" : 4,
+      "answer" : "RIGHT FIELDER"
+    },
+    {
+      "clue" : "LFT FLDR",
+      "difficulty" : 4,
+      "answer" : "LEFT FIELDER"
+    },
+    {
+      "clue" : "SCND BSMN",
+      "difficulty" : 4,
+      "answer" : "SECOND BASEMAN"
+    },
+    {
+      "clue" : "THRD BSMN",
+      "difficulty" : 4,
+      "answer" : "THIRD BASEMAN"
+    },
+    {
+      "clue" : "PNCH HTTR",
+      "difficulty" : 6,
+      "answer" : "PINCH HITTER"
+    },
+    {
+      "clue" : "PNCH RNNR",
+      "difficulty" : 6,
+      "answer" : "PINCH RUNNER"
+    },
+    {
+      "clue" : "BNCH CCH",
+      "difficulty" : 7,
+      "answer" : "BENCH COACH"
+    },
+    {
+      "clue" : "TM CPTN",
+      "difficulty" : 6,
+      "answer" : "TEAM CAPTAIN"
+    },
+    {
+      "clue" : "GNRL MNGR",
+      "difficulty" : 7,
+      "answer" : "GENERAL MANAGER"
+    },
+    {
+      "clue" : "PHYSTHRPST",
+      "difficulty" : 9,
+      "answer" : "PHYSIOTHERAPIST"
+    }
+  ]
+}

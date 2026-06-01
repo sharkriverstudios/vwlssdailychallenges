@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Charlotte",
+      "Emily",
+      "Anne",
+      "Branwell",
+      "Patrick",
+      "Elizabeth",
+      "Maria",
+      "Haworth",
+      "Jane Eyre",
+      "Wuthering Heights",
+      "The Tenant Of Wildfell Hall",
+      "Agnes Grey",
+      "Shirley",
+      "Villette",
+      "The Professor",
+      "Rochester",
+      "Heathcliff",
+      "Catherine Earnshaw",
+      "Helen Huntingdon",
+      "Lowood School",
+      "Thornfield Hall",
+      "Gondal",
+      "Angria",
+      "The Brontë Parsonage",
+      "Brussels",
+      "Currer Bell",
+      "Ellis Bell",
+      "Acton Bell",
+      "Brontë Society",
+      "Pseudonyms",
+      "Roe Head School",
+      "The Moors",
+      "Keighley",
+      "Rydings",
+      "Mr. Brocklehurst",
+      "Haworth Moor",
+      "Rochester's Proposal",
+      "The Red Room",
+      "Thrushcross Grange",
+      "The Brontë Waterfall",
+      "Brussels Pensionnat"
+    ],
+    "category" : "The Brontës",
+    "clues" : [
+      {
+        "answer" : "ANNE",
+        "clue" : "NN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHARLOTTE",
+        "clue" : "CHRLTT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EMILY",
+        "clue" : "ML",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JANE EYRE",
+        "clue" : "JN YR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HEATHCLIFF",
+        "clue" : "HTHCLFF",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WUTHERING HEIGHTS",
+        "clue" : "WTH RNG HG HTS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "THE MOORS",
+        "clue" : "TH MRS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "THE TENANT OF WILDFELL HALL",
+        "clue" : "TH TNNT F WLDFLL HLL",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-06-21",
+  "schemaVersion" : 1
+}

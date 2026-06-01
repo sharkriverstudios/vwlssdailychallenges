@@ -1,70 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "clue" : "TH VLNTR STT",
-      "answer" : "THE VOLUNTEER STATE",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "TH VRGRN STT",
-      "answer" : "THE EVERGREEN STATE",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "TH GLDN STT",
-      "answer" : "THE GOLDEN STATE",
-      "difficulty" : 3
-    },
-    {
-      "clue" : "TH BLGRSS STT",
-      "answer" : "THE BLUEGRASS STATE",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "TH KYSTN STT",
-      "answer" : "THE KEYSTONE STATE",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "TH FRST STT",
-      "answer" : "THE FIRST STATE",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TH SLVR STT",
-      "answer" : "THE SILVER STATE",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TH GRT LKS STT",
-      "answer" : "THE GREAT LAKES STATE",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TH SHW M STT",
-      "answer" : "THE SHOW ME STATE",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "TH LD DMNN",
-      "answer" : "THE OLD DOMINION",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "TH MGNLL STT",
-      "answer" : "THE MAGNOLIA STATE",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TH PN TR STT",
-      "answer" : "THE PINE TREE STATE",
-      "difficulty" : 5
-    }
-  ],
-  "tags" : [
-    "geography",
-    "culture"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -86,5 +20,71 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "COUNT DOOKU",
+      "clue" : "CNT DKK",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SNOKE",
+      "clue" : "SNK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ASAJJ VENTRESS",
+      "clue" : "SJJ VNTRSS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "JANGO FETT",
+      "clue" : "JNG FTT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "DARTH SIDIOUS",
+      "clue" : "DRTH SDS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "GRAND ADMIRAL THRAWN",
+      "clue" : "GRND DMRL THRWN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CAPTAIN PHASMA",
+      "clue" : "CPTN PHSM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DARTH PLAGUEIS",
+      "clue" : "DRTH PLGS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "NUTE GUNRAY",
+      "clue" : "NT GNR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "DARTH BANE",
+      "clue" : "DRTH BN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MOFF GIDEON",
+      "clue" : "MFF GDN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "AURRA SING",
+      "clue" : "RR SNG",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "cinema",
+    "popular culture"
   ]
 }

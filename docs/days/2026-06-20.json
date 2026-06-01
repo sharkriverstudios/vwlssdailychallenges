@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Roger Federer",
+      "Serena Williams",
+      "Novak Djokovic",
+      "Martina Navratilova",
+      "Pete Sampras",
+      "Rafael Nadal",
+      "Steffi Graf",
+      "Bjorn Borg",
+      "Venus Williams",
+      "Andy Murray",
+      "Chris Evert",
+      "Billie Jean King",
+      "Rod Laver",
+      "Margaret Court",
+      "John McEnroe",
+      "Fred Perry",
+      "Helen Wills Moody",
+      "Arthur Ashe",
+      "Evonne Goolagong",
+      "Boris Becker",
+      "Andre Agassi",
+      "Jimmy Connors",
+      "Lleyton Hewitt",
+      "Stan Smith",
+      "Stefan Edberg",
+      "Lindsay Davenport",
+      "Amelie Mauresmo",
+      "Goran Ivanisevic",
+      "Maria Sharapova",
+      "Conchita Martinez",
+      "Virginia Wade",
+      "Jan Kodes",
+      "Pat Cash",
+      "Manuel Santana",
+      "Michael Stich",
+      "Yannick Noah",
+      "Richard Krajicek",
+      "Angelique Kerber",
+      "Marion Bartoli",
+      "Simona Halep",
+      "Ashleigh Barty",
+      "Garbine Muguruza",
+      "Petra Kvitova",
+      "Kim Clijsters",
+      "Jana Novotna",
+      "Serena Williams",
+      "Venus Williams",
+      "Goran Ivanisevic",
+      "Stan Smith",
+      "Stefan Edberg",
+      "Rod Laver",
+      "Margaret Court"
+    ],
+    "category" : "Wimbledon Champions",
+    "clues" : [
+      {
+        "answer" : "ROGER FEDERER",
+        "clue" : "RGR FDRR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SERENA WILLIAMS",
+        "clue" : "SR NWL LMS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NOVAK DJOKOVIC",
+        "clue" : "NVK DJKVC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MARTINA NAVRATILOVA",
+        "clue" : "MRTN NVRTLV",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BJORN BORG",
+        "clue" : "BJRN BRG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PETE SAMPRAS",
+        "clue" : "PTS MP RS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BILLIE JEAN KING",
+        "clue" : "BLLJ NK NG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ANDY MURRAY",
+        "clue" : "N DMR RY",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-20",
+  "schemaVersion" : 1
+}

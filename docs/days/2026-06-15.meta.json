@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "religion",
+    "culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "ZRSTRNSM",
+      "difficulty" : 5,
+      "answer" : "ZOROASTRIANISM"
+    },
+    {
+      "clue" : "JNSM",
+      "difficulty" : 5,
+      "answer" : "JAINISM"
+    },
+    {
+      "clue" : "BHFTH",
+      "difficulty" : 6,
+      "answer" : "BAHA'I FAITH"
+    },
+    {
+      "clue" : "CNFCNSM",
+      "difficulty" : 4,
+      "answer" : "CONFUCIANISM"
+    },
+    {
+      "clue" : "RSTFRNSM",
+      "difficulty" : 7,
+      "answer" : "RASTAFARIANISM"
+    },
+    {
+      "clue" : "PGNSM",
+      "difficulty" : 4,
+      "answer" : "PAGANISM"
+    },
+    {
+      "clue" : "SCNTLGY",
+      "difficulty" : 4,
+      "answer" : "SCIENTOLOGY"
+    },
+    {
+      "clue" : "NMSM",
+      "difficulty" : 8,
+      "answer" : "ANIMISM"
+    },
+    {
+      "clue" : "CD",
+      "difficulty" : 9,
+      "answer" : "CAO DAI"
+    },
+    {
+      "clue" : "TNRKY",
+      "difficulty" : 10,
+      "answer" : "TENRIKYO"
+    },
+    {
+      "clue" : "MRMNSSM",
+      "difficulty" : 5,
+      "answer" : "MORMONISM"
+    },
+    {
+      "clue" : "FLNGNG",
+      "difficulty" : 6,
+      "answer" : "FALUN GONG"
+    }
+  ]
+}

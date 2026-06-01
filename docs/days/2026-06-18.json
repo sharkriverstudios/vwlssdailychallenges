@@ -1,0 +1,111 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Golden State",
+      "The Lone Star State",
+      "The Empire State",
+      "The Sunshine State",
+      "The Garden State",
+      "The Peach State",
+      "The Keystone State",
+      "The Nutmeg State",
+      "The Granite State",
+      "The Hoosier State",
+      "The Buckeye State",
+      "The Prairie State",
+      "The Show Me State",
+      "The Land Of Enchantment",
+      "The Volunteer State",
+      "The Evergreen State",
+      "The Aloha State",
+      "The Pelican State",
+      "The Bluegrass State",
+      "The Silver State",
+      "The Equality State",
+      "The Last Frontier",
+      "The Great Lakes State",
+      "The Old Dominion",
+      "The Sunshine State",
+      "The Constitution State",
+      "The Tar Heel State",
+      "The First State",
+      "The Green Mountain State",
+      "The Pine Tree State",
+      "The Mountain State",
+      "The Natural State",
+      "The Treasure State",
+      "The Show Me State",
+      "The Hawkeye State",
+      "The Badger State",
+      "The Land Of Lincoln",
+      "The Bay State",
+      "The Volunteer State",
+      "The Beehive State",
+      "The Ocean State",
+      "The Magnolia State",
+      "The Cornhusker State",
+      "The North Star State",
+      "The Peace Garden State",
+      "The Gem State",
+      "The Mount Rushmore State",
+      "The Great Plains State",
+      "The Cowboy State",
+      "The Sooner State",
+      "The Land Of Opportunity",
+      "The Palmetto State",
+      "The Hoosier State",
+      "The Wheat State",
+      "The Flickertail State",
+      "The Silver State",
+      "The Heart Of Dixie",
+      "The Land Of 10,000 Lakes"
+    ],
+    "category" : "US State Nicknames",
+    "clues" : [
+      {
+        "answer" : "THE LONE STAR STATE",
+        "clue" : "TH LN STR STT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE ALOHA STATE",
+        "clue" : "THL HST T",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE EMPIRE STATE",
+        "clue" : "THM PRST T",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE PEACH STATE",
+        "clue" : "TH PC HS TT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE GARDEN STATE",
+        "clue" : "THG RD NSTT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE SUNSHINE STATE",
+        "clue" : "THS NSH NSTT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE HOOSIER STATE",
+        "clue" : "THHSRSTT",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "THE LAND OF ENCHANTMENT",
+        "clue" : "TH LND FN CHNT MNT",
+        "difficulty" : 9
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-18",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,91 @@
+{
+  "description" : "first names, novels, accomplishments of the Brontë sisters",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "THE BRONTË PARSONAGE",
+      "clue" : "TH BRNT PRSN",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "AGNES GREY",
+      "clue" : "GNS GRY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "VILLETTE",
+      "clue" : "VLLTT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "GONDAL",
+      "clue" : "GNDL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HAWORTH",
+      "clue" : "HWRTH",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "THRUSHCROSS GRANGE",
+      "clue" : "THRSCHRSS GRNG",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ROCHESTER",
+      "clue" : "RCHSTR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CATHERINE EARNSHAW",
+      "clue" : "CTHRN RNSHW",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BRUSSELS",
+      "clue" : "BRSSLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ACTON BELL",
+      "clue" : "CTN BLL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "LOWOOD SCHOOL",
+      "clue" : "LWD SCHL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PSEUDONYMS",
+      "clue" : "PSDNYMS",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "literature",
+    "classics"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Forrest Gump",
+      "Captain John H. Miller",
+      "Woody",
+      "Robert Langdon",
+      "Cast Away",
+      "Big",
+      "Sleepless In Seattle",
+      "Philadelphia",
+      "Saving Private Ryan",
+      "The Green Mile",
+      "Apollo 13",
+      "The Terminal",
+      "Catch Me If You Can",
+      "The Da Vinci Code",
+      "A League Of Their Own",
+      "Toy Story",
+      "You've Got Mail",
+      "Bridge Of Spies",
+      "The Polar Express",
+      "Charlie Wilson's War",
+      "The Post",
+      "Sully",
+      "Inferno",
+      "Larry Crowne",
+      "The Circle",
+      "Turner & Hooch",
+      "Bachelor Party",
+      "Splash",
+      "The Money Pit",
+      "Joe Versus The Volcano",
+      "That Thing You Do!",
+      "Cloud Atlas",
+      "The Bonfire Of The Vanities",
+      "The 'Burbs",
+      "Dragnet",
+      "Extremely Loud & Incredibly Close",
+      "Road To Perdition",
+      "Angels & Demons",
+      "The Ladykillers",
+      "Cast Away",
+      "Philadelphia",
+      "Greyhound",
+      "News Of The World",
+      "The Man With One Red Shoe",
+      "Nothing In Common",
+      "Volunteers",
+      "He Knows You're Alone",
+      "Mazes And Monsters",
+      "Toy Story 2",
+      "Toy Story 3",
+      "Toy Story 4",
+      "A Hologram For The King",
+      "The Great Buck Howard",
+      "Punchline",
+      "The Polar Express",
+      "Larry Crowne",
+      "Saving Mr. Banks",
+      "The Simpsons Movie",
+      "The Road To Perdition",
+      "Band Of Brothers",
+      "Electric City",
+      "From The Earth To The Moon",
+      "Saturday Night Live"
+    ],
+    "category" : "Tom Hanks",
+    "clues" : [
+      {
+        "answer" : "BIG",
+        "clue" : "BG",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "FORREST GUMP",
+        "clue" : "FRRST GMP",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "TOY STORY",
+        "clue" : "T YS TR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE GREEN MILE",
+        "clue" : "TH GRN ML",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SAVING PRIVATE RYAN",
+        "clue" : "SVNG PRVT RN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE DA VINCI CODE",
+        "clue" : "TH DV N CCD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CAST AWAY",
+        "clue" : "CS TW Y",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PHILADELPHIA",
+        "clue" : "PH LD LPH",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-06-16",
+  "schemaVersion" : 1
+}

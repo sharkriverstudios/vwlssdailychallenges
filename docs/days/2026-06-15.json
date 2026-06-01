@@ -1,0 +1,99 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Christianity",
+      "Islam",
+      "Judaism",
+      "Hinduism",
+      "Buddhism",
+      "Sikhism",
+      "Shinto",
+      "Taoism",
+      "Zoroastrianism",
+      "Jainism",
+      "Bahai",
+      "Confucianism",
+      "Rastafarianism",
+      "Paganism",
+      "Wicca",
+      "Scientology",
+      "Animism",
+      "Druze",
+      "Cao Dai",
+      "Tenrikyo",
+      "Ayyavazhi",
+      "Yazidism",
+      "Mormonism",
+      "Unitarianism",
+      "Baha'i Faith",
+      "Zoroastrianism",
+      "Jehovah's Witnesses",
+      "Seventh-day Adventism",
+      "Eastern Orthodoxy",
+      "Roman Catholicism",
+      "Protestantism",
+      "Sunni Islam",
+      "Shia Islam",
+      "Ahmadiyya",
+      "Sufism",
+      "Theravada Buddhism",
+      "Mahayana Buddhism",
+      "Vajrayana Buddhism",
+      "Orthodox Judaism",
+      "Reform Judaism",
+      "Conservative Judaism",
+      "Hasidic Judaism",
+      "Brahma Kumaris",
+      "Falun Gong",
+      "Candomble",
+      "Hare Krishna"
+    ],
+    "category" : "Religions of the World",
+    "clues" : [
+      {
+        "answer" : "CHRISTIANITY",
+        "clue" : "CHRSTNT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "ISLAM",
+        "clue" : "SLM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "JUDAISM",
+        "clue" : "JDSM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "HINDUISM",
+        "clue" : "HNDSM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BUDDHISM",
+        "clue" : "BDDHSM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SHINTO",
+        "clue" : "SHNT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SIKHISM",
+        "clue" : "SKHSM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TAOISM",
+        "clue" : "TSM",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-06-15",
+  "schemaVersion" : 1
+}
