@@ -21,71 +21,71 @@
     "",
     ""
   ],
-  "tags" : [
-    "history",
-    "geography",
-    "travel"
-  ],
   "extraClues" : [
     {
-      "answer" : "KHANBALIQ",
-      "difficulty" : 8,
-      "clue" : "KHNBLQ"
+      "clue" : "BMBS",
+      "difficulty" : 5,
+      "answer" : "BOMBS"
     },
     {
-      "answer" : "BORNEO",
+      "clue" : "BRD",
+      "difficulty" : 4,
+      "answer" : "BROAD"
+    },
+    {
+      "clue" : "STR-SPNGLD",
       "difficulty" : 6,
-      "clue" : "BRN"
+      "answer" : "STAR-SPANGLED"
     },
     {
-      "answer" : "SUMATRA",
+      "clue" : "GLLNTLY",
+      "difficulty" : 5,
+      "answer" : "GALLANTLY"
+    },
+    {
+      "clue" : "S",
+      "difficulty" : 1,
+      "answer" : "SEE"
+    },
+    {
+      "clue" : "PRLS",
+      "difficulty" : 5,
+      "answer" : "PERILOUS"
+    },
+    {
+      "clue" : "TWLGHTS",
       "difficulty" : 6,
-      "clue" : "SMTR"
+      "answer" : "TWILIGHT'S"
     },
     {
-      "answer" : "SHANGDU",
-      "difficulty" : 8,
-      "clue" : "SHNGD"
+      "clue" : "STRMNG",
+      "difficulty" : 5,
+      "answer" : "STREAMING"
     },
     {
-      "answer" : "KHOTAN",
-      "difficulty" : 7,
-      "clue" : "KHTN"
+      "clue" : "TWLGHTS",
+      "difficulty" : 6,
+      "answer" : "TWILIGHT'S"
     },
     {
-      "answer" : "YARKAND",
-      "difficulty" : 7,
-      "clue" : "YRKND"
+      "clue" : "RMPRTS",
+      "difficulty" : 5,
+      "answer" : "RAMPARTS"
     },
     {
-      "answer" : "QUANZHOU",
-      "difficulty" : 8,
-      "clue" : "QNZH"
+      "clue" : "GLLNTLY",
+      "difficulty" : 5,
+      "answer" : "GALLANTLY"
     },
     {
-      "answer" : "PAMIR MOUNTAINS",
-      "difficulty" : 9,
-      "clue" : "PMR MNTNS"
-    },
-    {
-      "answer" : "TURFAN",
-      "difficulty" : 8,
-      "clue" : "TRFN"
-    },
-    {
-      "answer" : "SUKHOTHAI",
-      "difficulty" : 9,
-      "clue" : "SKHTH"
-    },
-    {
-      "answer" : "ZHANGYE",
-      "difficulty" : 9,
-      "clue" : "ZHNGY"
-    },
-    {
-      "answer" : "SISTAN",
-      "difficulty" : 9,
-      "clue" : "SSTN"
+      "clue" : "STRMNG",
+      "difficulty" : 5,
+      "answer" : "STREAMING"
     }
+  ],
+  "tags" : [
+    "music",
+    "history",
+    "culture"
   ]
 }
