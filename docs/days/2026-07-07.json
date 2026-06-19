@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Snow Leopard",
+      "Red Panda",
+      "Himalayan Tahr",
+      "Himalayan Monal",
+      "Blue Sheep",
+      "Tibetan Antelope",
+      "Yak",
+      "Himalayan Black Bear",
+      "Musk Deer",
+      "Golden Langur",
+      "Himalayan Marmot",
+      "Tibetan Fox",
+      "Pallas's Cat",
+      "Bharal",
+      "Goral",
+      "Red Fox",
+      "Himalayan Griffon",
+      "Himalayan Brown Bear",
+      "Tibetan Gazelle",
+      "Himalayan Vulture",
+      "Bengal Tiger",
+      "Asiatic Black Bear",
+      "Himalayan Serow",
+      "Snow Partridge",
+      "Impeyan Pheasant",
+      "Golden Eagle",
+      "Himalayan Wolf",
+      "Tibetan Snowcock",
+      "Bengal Florican",
+      "Black-Necked Crane",
+      "Himalayan Goral",
+      "Tibetan Mastiff",
+      "Clouded Leopard",
+      "Himalayan Ibex",
+      "Himalayan Quail",
+      "Himalayan Pit Viper",
+      "Himalayan Newt",
+      "Himalayan Blue Tail",
+      "Himalayan Bulbul",
+      "Himalayan Whistling Thrush"
+    ],
+    "category" : "Himalayan Wildlife",
+    "clues" : [
+      {
+        "answer" : "YAK",
+        "clue" : "YK",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "RED PANDA",
+        "clue" : "RD PND",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SNOW LEOPARD",
+        "clue" : "SNW LPRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MUSK DEER",
+        "clue" : "MSK DR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARMOT",
+        "clue" : "MRMT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GOLDEN EAGLE",
+        "clue" : "GLD NGL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GOLDEN LANGUR",
+        "clue" : "GLDN LNGR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "IBEX",
+        "clue" : "BX",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-07-07",
+  "schemaVersion" : 1
+}

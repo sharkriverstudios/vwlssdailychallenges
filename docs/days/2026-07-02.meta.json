@@ -1,4 +1,71 @@
 {
+  "tags" : [
+    "business",
+    "common knowledge",
+    "home"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "YRDL LNDN",
+      "answer" : "YARDLEY LONDON",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SFTSP",
+      "answer" : "SOFTSOAP",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CRSS",
+      "answer" : "CARESS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "X",
+      "answer" : "AXE",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "NV",
+      "answer" : "NIVEA",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "LVR 2000",
+      "answer" : "LEVER 2000",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "LY",
+      "answer" : "OLAY",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "JRNS",
+      "answer" : "JERGENS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "L'CCTN",
+      "answer" : "L'OCCITANE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "DR BRNNRS",
+      "answer" : "DR. BRONNER'S",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CMY",
+      "answer" : "CAMAY",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PRS",
+      "answer" : "PEARS",
+      "difficulty" : 4
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,71 +87,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "clue" : "MRL LGSS",
-      "answer" : "EMERIL LAGASSE",
-      "difficulty" : 5
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "LTN BRWN",
-      "answer" : "ALTON BROWN"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "BBY FLY",
-      "answer" : "BOBBY FLAY"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "N GRTN",
-      "answer" : "INA GARTEN"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "PL DN",
-      "answer" : "PAULA DEEN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "MRCPRR WHT",
-      "answer" : "MARCO PIERRE WHITE"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "MSHR MRTMT",
-      "answer" : "MASAHARU MORIMOTO"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "JCQS PPN",
-      "answer" : "JACQUES PEPIN"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "THMS KLLR",
-      "answer" : "THOMAS KELLER"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "MR BTL",
-      "answer" : "MARIO BATALI"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "HSTN BLMNTHL",
-      "answer" : "HESTON BLUMENTHAL"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "YTM TTLNGH",
-      "answer" : "YOTAM OTTOLENGHI"
-    }
-  ],
-  "tags" : [
-    "culinary",
-    "popular culture"
   ]
 }

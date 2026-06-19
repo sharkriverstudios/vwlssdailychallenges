@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Police Officer",
+      "Firefighter",
+      "Nurse",
+      "Doctor",
+      "Pilot",
+      "Chef",
+      "Paramedic",
+      "Military Soldier",
+      "Navy Sailor",
+      "Flight Attendant",
+      "Postal Worker",
+      "Security Guard",
+      "Bus Driver",
+      "Train Conductor",
+      "Astronaut",
+      "Surgeon",
+      "Dentist",
+      "Lifeguard",
+      "EMT",
+      "Air Traffic Controller",
+      "Judge",
+      "Referee",
+      "Mechanic",
+      "Construction Worker",
+      "Janitor",
+      "Police Detective",
+      "Bellhop",
+      "Park Ranger",
+      "Zookeeper",
+      "Veterinarian",
+      "Hotel Concierge",
+      "Lab Technician",
+      "Pharmacist",
+      "Garbage Collector",
+      "Barista",
+      "Prison Guard",
+      "Coast Guard",
+      "Butcher",
+      "Baker",
+      "Electrician",
+      "Plumber",
+      "Taxi Driver",
+      "Chauffeur",
+      "Fisherman",
+      "Train Engineer",
+      "Wildlife Officer",
+      "Customs Officer",
+      "Fire Marshal",
+      "Judge Advocate"
+    ],
+    "category" : "Professions that Wear Uniforms",
+    "clues" : [
+      {
+        "answer" : "NURSE",
+        "clue" : "NRS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "FIREFIGHTER",
+        "clue" : "FRFGHTR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHEF",
+        "clue" : "CHF",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PILOT",
+        "clue" : "PLT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DOCTOR",
+        "clue" : "DCTR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "POLICE OFFICER",
+        "clue" : "PLC FFC R",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LIFEGUARD",
+        "clue" : "LFGRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ASTRONAUT",
+        "clue" : "STRNT",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-07-12",
+  "schemaVersion" : 1
+}

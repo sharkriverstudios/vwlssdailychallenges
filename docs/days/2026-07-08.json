@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bigfoot",
+      "Sasquatch",
+      "Chupacabra",
+      "Jersey Devil",
+      "Mothman",
+      "Wendigo",
+      "Thunderbird",
+      "Skunk Ape",
+      "Lizard Man",
+      "Ogopogo",
+      "Lake Champlain Monster",
+      "Jackalope",
+      "Dover Demon",
+      "Flatwoods Monster",
+      "Hodag",
+      "Fouke Monster",
+      "Bunyip",
+      "Loveland Frogman",
+      "Beast Of Bray Road",
+      "Altamaha-ha",
+      "Batsquatch",
+      "Ozark Howler",
+      "Bear Lake Monster",
+      "Honey Island Swamp Monster",
+      "Pope Lick Monster",
+      "White River Monster",
+      "Mogollon Monster",
+      "Van Meter Visitor",
+      "Loup Garou",
+      "Champ",
+      "Thetis Lake Monster",
+      "Gumberoo",
+      "Minnesota Iceman",
+      "Tessie",
+      "Snallygaster",
+      "Orange Eyes",
+      "Goatman",
+      "Yeti",
+      "Shunka Warak'in",
+      "Cactus Cat",
+      "Ridgeway Ghost"
+    ],
+    "category" : "North American Cryptids",
+    "clues" : [
+      {
+        "answer" : "BIGFOOT",
+        "clue" : "BGFT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MOTHMAN",
+        "clue" : "MTHMN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JERSEY DEVIL",
+        "clue" : "JRSY DVL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WENDIGO",
+        "clue" : "WNDG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHUPACABRA",
+        "clue" : "CHPCBR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THUNDERBIRD",
+        "clue" : "THNDRBRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JACKALOPE",
+        "clue" : "JCKLP",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "OGOPOGO",
+        "clue" : "GPG",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-08",
+  "schemaVersion" : 1
+}

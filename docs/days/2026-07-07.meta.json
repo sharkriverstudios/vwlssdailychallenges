@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "animals",
+    "geography",
+    "nature"
+  ],
+  "description" : "aniamls that can be found in the Himalayas and nearby regions",
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "TBNT FX",
+      "answer" : "TIBETAN FOX"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "TBTN NTLP",
+      "answer" : "TIBETAN ANTELOPE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "HMLYN BLCK BR",
+      "answer" : "HIMALAYAN BLACK BEAR"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "BL SHP",
+      "answer" : "BLUE SHEEP"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "PLLS'S CT",
+      "answer" : "PALLAS'S CAT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "HMLYN THR",
+      "answer" : "HIMALAYAN TAHR"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "HMLYN MNL",
+      "answer" : "HIMALAYAN MONAL"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "BHRL",
+      "answer" : "BHARAL"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "GRL",
+      "answer" : "GORAL"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "HMLYN SRW",
+      "answer" : "HIMALAYAN SEROW"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "HMLYN WLF",
+      "answer" : "HIMALAYAN WOLF"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "TBNT MSTFF",
+      "answer" : "TIBETAN MASTIFF"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

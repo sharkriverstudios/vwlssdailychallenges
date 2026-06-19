@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Scratching Furniture",
+      "Knocking Over Items",
+      "Climbing Curtains",
+      "Eating Houseplants",
+      "Running At Night",
+      "Hiding Hair Ties",
+      "Stealing Food",
+      "Waking Up Owners",
+      "Ignoring Commands",
+      "Shedding Fur",
+      "Scratching Doors",
+      "Meowing Loudly",
+      "Chewing Cords",
+      "Sitting On Laptops",
+      "Pouncing On Feet",
+      "Spilling Water Bowls",
+      "Pushing Things Off Tables",
+      "Hiding In Boxes",
+      "Licking Plastic Bags",
+      "Jumping On Counters",
+      "Unrolling Toilet Paper",
+      "Hogging The Bed",
+      "Climbing On Shelves",
+      "Tearing Up Paper",
+      "Chasing Shadows",
+      "Hiding Under Beds",
+      "Playing With Drapes",
+      "Getting Into Cabinets",
+      "Chewing On Plants",
+      "Batting At Blinds",
+      "Sitting In Laundry",
+      "Racing Through The House",
+      "Biting Ankles",
+      "Stealing Socks",
+      "Attacking Mirrors",
+      "Kneading On Laps",
+      "Dashing Out The Door",
+      "Disturbing Dog",
+      "Clawing At Screens",
+      "Sprawling On Papers",
+      "Swatting At Shoes",
+      "Pawing At Windows",
+      "Ambushing From Corners",
+      "Digging In Litter Box",
+      "Hiding Toys In Shoes",
+      "Meowing For No Reason",
+      "Sitting In Front Of TV",
+      "Peeing Outside Litter Box",
+      "Scratching Carpet"
+    ],
+    "category" : "Feline Mischief",
+    "clues" : [
+      {
+        "answer" : "MEOWING ",
+        "clue" : "MWNG",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SCRATCHING FURNITURE",
+        "clue" : "SCRTCHNG FRNTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CLIMBING CURTAINS",
+        "clue" : "CLMBNG CRTNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "KNOCKING OVER THINGS",
+        "clue" : "KNCKNG VR THNGS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WAKING YOU UP",
+        "clue" : "WKNGYP",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JUMPING ON COUNTERS",
+        "clue" : "JMP NGNCN TRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SITTING ON LAPTOPS",
+        "clue" : "STTNG N LPTPS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "UNROLLING TOILET PAPER",
+        "clue" : "NRLLNG TLT PPR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-07-14",
+  "schemaVersion" : 1
+}

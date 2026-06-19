@@ -1,71 +1,4 @@
 {
-  "tags" : [
-    "music",
-    "history",
-    "culture"
-  ],
-  "extraClues" : [
-    {
-      "answer" : "BOMBS",
-      "clue" : "BMBS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "BROAD",
-      "clue" : "BRD",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "STAR-SPANGLED",
-      "clue" : "STR-SPNGLD",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "GALLANTLY",
-      "clue" : "GLLNTLY",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "PERILOUS",
-      "clue" : "PRLS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "TWILIGHT'S",
-      "clue" : "TWLGHTS",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "PERILOUS",
-      "clue" : "PRLS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "STREAMING",
-      "clue" : "STRMNG",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "RAMPARTS",
-      "clue" : "RMPRTS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "TWILIGHT'S",
-      "clue" : "TWLGHTS",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "GALLANTLY",
-      "clue" : "GLLNTLY",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "STREAMING",
-      "clue" : "STRMNG",
-      "difficulty" : 5
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -87,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "history",
+    "geography",
+    "travel"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KHANBALIQ",
+      "difficulty" : 8,
+      "clue" : "KHNBLQ"
+    },
+    {
+      "answer" : "BORNEO",
+      "difficulty" : 6,
+      "clue" : "BRN"
+    },
+    {
+      "answer" : "SUMATRA",
+      "difficulty" : 6,
+      "clue" : "SMTR"
+    },
+    {
+      "answer" : "SHANGDU",
+      "difficulty" : 8,
+      "clue" : "SHNGD"
+    },
+    {
+      "answer" : "KHOTAN",
+      "difficulty" : 7,
+      "clue" : "KHTN"
+    },
+    {
+      "answer" : "YARKAND",
+      "difficulty" : 7,
+      "clue" : "YRKND"
+    },
+    {
+      "answer" : "QUANZHOU",
+      "difficulty" : 8,
+      "clue" : "QNZH"
+    },
+    {
+      "answer" : "PAMIR MOUNTAINS",
+      "difficulty" : 9,
+      "clue" : "PMR MNTNS"
+    },
+    {
+      "answer" : "TURFAN",
+      "difficulty" : 8,
+      "clue" : "TRFN"
+    },
+    {
+      "answer" : "SUKHOTHAI",
+      "difficulty" : 9,
+      "clue" : "SKHTH"
+    },
+    {
+      "answer" : "ZHANGYE",
+      "difficulty" : 9,
+      "clue" : "ZHNGY"
+    },
+    {
+      "answer" : "SISTAN",
+      "difficulty" : 9,
+      "clue" : "SSTN"
+    }
   ]
 }

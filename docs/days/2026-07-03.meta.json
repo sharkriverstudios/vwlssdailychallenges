@@ -1,4 +1,70 @@
 {
+  "extraClues" : [
+    {
+      "answer" : "LYSOSOME",
+      "clue" : "LSSM",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "VACUOLE",
+      "clue" : "VC L",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CYTOSKELETON",
+      "clue" : "CYTSKLTN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "NUCLEOLUS",
+      "clue" : "NCLLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PEROXISOME",
+      "clue" : "PRXSM",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CENTRIOLE",
+      "clue" : "CNTRL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PLASMA MEMBRANE",
+      "clue" : "PLSM MMBRN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CHROMATIN",
+      "clue" : "CHRM TN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MICROTUBULE",
+      "clue" : "MCRTBL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FLAGELLUM",
+      "clue" : "FLGLLM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CILIA",
+      "clue" : "CL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "RIBOSOME",
+      "clue" : "RB SM",
+      "difficulty" : 4
+    }
+  ],
+  "tags" : [
+    "science",
+    "biology"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,72 +86,5 @@
     "",
     "",
     ""
-  ],
-  "tags" : [
-    "cinema",
-    "geography",
-    "culture"
-  ],
-  "extraClues" : [
-    {
-      "clue" : "BFR SNST",
-      "answer" : "BEFORE SUNSET",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TH NTRPD CRMN",
-      "answer" : "THE INTREPID CARMEN",
-      "difficulty" : 10
-    },
-    {
-      "clue" : "PRS J TM",
-      "answer" : "PARIS, JE T'AIME",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "TH BRN DNTTY",
-      "answer" : "THE BOURNE IDENTITY",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "CHRD",
-      "answer" : "CHARADE",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "TH NTCBL",
-      "answer" : "THE INTOUCHABLES",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "JL & JL",
-      "answer" : "JULIE & JULIA",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "SBRN",
-      "answer" : "SABRINA",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "FNNY FC",
-      "answer" : "FUNNY FACE",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "GG",
-      "answer" : "GIGI",
-      "difficulty" : 6
-    },
-    {
-      "clue" : "TKN",
-      "answer" : "TAKEN",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "NCPTN",
-      "answer" : "INCEPTION",
-      "difficulty" : 6
-    }
   ]
 }

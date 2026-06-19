@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "animals",
+    "home",
+    "common knowledge"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "Things that hosue cats do that annoy their owners",
+  "extraClues" : [
+    {
+      "clue" : "TNG HSPLNTS",
+      "answer" : "EATING HOUSEPLANTS",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SCRTCHNG DRS",
+      "answer" : "SCRATCHING DOORS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CHWNG CRDS",
+      "answer" : "CHEWING CORDS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "HDNG HR TS",
+      "answer" : "HIDING HAIR TIES",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "PSHNG THNGS FF TBLS",
+      "answer" : "PUSHING THINGS OFF TABLES",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "HDNG NDR BDS",
+      "answer" : "HIDING UNDER BEDS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "RNNNG T NGHT",
+      "answer" : "RUNNING AT NIGHT",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "STLNG FD",
+      "answer" : "STEALING FOOD",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CHSNG SHDWS",
+      "answer" : "CHASING SHADOWS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "STTNG N LNDRY",
+      "answer" : "SITTING IN LAUNDRY",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CLWNG T SCRNS",
+      "answer" : "CLAWING AT SCREENS",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BTNG NKLS",
+      "answer" : "BITING ANKLES",
+      "difficulty" : 5
+    }
+  ]
+}

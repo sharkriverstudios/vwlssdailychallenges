@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026.6.19",
-  "generatedAt": "2026-06-19T05:32:48Z",
+  "generatedAt": "2026-06-19T06:38:54Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-07-03",
+  "availableTo": "2026-07-14",
   "days": [
     {
       "date": "2026-04-01",
@@ -616,52 +616,129 @@
     },
     {
       "date": "2026-06-27",
-      "difficulty": 7,
-      "category": "parts of a cell",
+      "difficulty": 4,
+      "category": "Fair Foods",
       "path": "days/2026-06-27.json",
-      "hash": "sha256:f52933b653de5566bd32e7dc1eb8b48aa9d3e02b68355f340539a986339bc632"
+      "hash": "sha256:47d15e9043c22614629c330f07dc6ceaed56a57ac0581c49f4ea53b655986337"
     },
     {
       "date": "2026-06-28",
-      "difficulty": 3,
-      "category": "English Monarchs",
+      "difficulty": 8,
+      "category": "Don't Know Much 'Bout",
       "path": "days/2026-06-28.json",
-      "hash": "sha256:201f977ad053c6cc3e4959d78db6406c23edad8c844d1734b2d1efbb1990c439"
+      "hash": "sha256:6595cf9746c6b67f2af17beed7c89010a39e7fb0de4eab84bf1512112d527319"
     },
     {
       "date": "2026-06-29",
-      "difficulty": 6,
-      "category": "Places Marco Polo Visited",
+      "difficulty": 3,
+      "category": "English Monarchs",
       "path": "days/2026-06-29.json",
-      "hash": "sha256:6f5260333ccb83755a87152954e5c79783c03bb14b280d9dae6bd009106845ce"
+      "hash": "sha256:5eb753494d0256f110ced0fc43ec767132be4a93684402dc7276a302c45d27b3"
     },
     {
       "date": "2026-06-30",
-      "difficulty": 4,
-      "category": "words in the star spangled banner",
+      "difficulty": 6,
+      "category": "Places Marco Polo Visited",
       "path": "days/2026-06-30.json",
-      "hash": "sha256:b3b31d118f20c0c87fb9be9b45fa49f876ee3735a9efe8b7b5f96f27bfe154e8"
+      "hash": "sha256:daaf583caddd2de6a5cce92735cc838102d8536cb3954a19c09f9da856c547dc"
     },
     {
       "date": "2026-07-01",
-      "difficulty": 5,
-      "category": "Brands of Soap",
+      "difficulty": 4,
+      "category": "Words in the Star Spangled Banner",
       "path": "days/2026-07-01.json",
-      "hash": "sha256:0ffd1691ded0012d728f85d183faf813d9568fe5b3f7780aa46f617a73d71066"
+      "hash": "sha256:66141e631616039db06eedb8fe8d337d84792e8455d448b386da3268ef6b3f17"
     },
     {
       "date": "2026-07-02",
       "difficulty": 5,
-      "category": "Celebrity Chefs",
+      "category": "Brands of Soap",
       "path": "days/2026-07-02.json",
-      "hash": "sha256:4ccb85da30ae8a571a4a8123c2bca10fd7c142487ddbdf58a8733f0299708bc7"
+      "hash": "sha256:da8e0c17d914e8b63f2c5e56eabcf450c82bb8ab1b1d9d9b0413ff6123e257ee"
     },
     {
       "date": "2026-07-03",
+      "difficulty": 7,
+      "category": "parts of a cell",
+      "path": "days/2026-07-03.json",
+      "hash": "sha256:764e14a0ffbc6c2f8a7b3d221b403f91b4822eb1bb170d7c6f2e54cf3b924ece"
+    },
+    {
+      "date": "2026-07-04",
+      "difficulty": 5,
+      "category": "Celebrity Chefs",
+      "path": "days/2026-07-04.json",
+      "hash": "sha256:7cce37bbf4e3cfd01819bcebe68d8da265a2520a317fdecff48a263f6ab48a4c"
+    },
+    {
+      "date": "2026-07-05",
+      "difficulty": 5,
+      "category": "Signers of the Declaration of Independence",
+      "path": "days/2026-07-05.json",
+      "hash": "sha256:1ca85e630c74091f7cc4898df3fd95fd793a68659462e62f52000c2ac2fab6da"
+    },
+    {
+      "date": "2026-07-06",
       "difficulty": 6,
       "category": "Movies set in Paris",
-      "path": "days/2026-07-03.json",
-      "hash": "sha256:ab957c75ed0d1da9cb7919fa2cae494b9d238e2cc86b957c7cb3aad8993e9ac6"
+      "path": "days/2026-07-06.json",
+      "hash": "sha256:7e48358d5b08d4d8f89b6953c4ce0d0ef6b9e0e26b7ee1ca0dafbf9c58cd8945"
+    },
+    {
+      "date": "2026-07-07",
+      "difficulty": 5,
+      "category": "Himalayan Wildlife",
+      "path": "days/2026-07-07.json",
+      "hash": "sha256:7cef1aba9f812f62101275471a601bbe47e1914fa4b7cc9e05a0467a0c848ab8"
+    },
+    {
+      "date": "2026-07-08",
+      "difficulty": 5,
+      "category": "North American Cryptids",
+      "path": "days/2026-07-08.json",
+      "hash": "sha256:77f4f1c454fd84f80fe9eadbb9dc440848662d2f642198812e69910bddf7e167"
+    },
+    {
+      "date": "2026-07-09",
+      "difficulty": 5,
+      "category": "Whoopie Goldberg",
+      "path": "days/2026-07-09.json",
+      "hash": "sha256:1b2fc46cf7a383149ec1d4924ba1c5ae1b44d4acd731e8ec011681ffb4efb86a"
+    },
+    {
+      "date": "2026-07-10",
+      "difficulty": 6,
+      "category": "Willie Nelson Number Ones",
+      "path": "days/2026-07-10.json",
+      "hash": "sha256:c47ed2e2f6eda4c5dc5c9b7b53fb0090519084510723c16403dd3998415c0068"
+    },
+    {
+      "date": "2026-07-11",
+      "difficulty": 5,
+      "category": "Hans Christian Anderson",
+      "path": "days/2026-07-11.json",
+      "hash": "sha256:0d52c539c5a10563182cd41f97c3cd1ea1479cbbbca2ee8a6889556968fcbb6d"
+    },
+    {
+      "date": "2026-07-12",
+      "difficulty": 3,
+      "category": "Professions that Wear Uniforms",
+      "path": "days/2026-07-12.json",
+      "hash": "sha256:565403fe0a67c7c229de4dee7efac0cf181ce9c97e3db2ce3ba3d56db5b41967"
+    },
+    {
+      "date": "2026-07-13",
+      "difficulty": 4,
+      "category": "Trees of North America",
+      "path": "days/2026-07-13.json",
+      "hash": "sha256:ae24ce5819a38c062e20e8a28e69055d51162ba708f492e52c4475834ddf2325"
+    },
+    {
+      "date": "2026-07-14",
+      "difficulty": 4,
+      "category": "Feline Mischief",
+      "path": "days/2026-07-14.json",
+      "hash": "sha256:9486898459374b5494dae6e7da5dae83d4b2b4dbc02d5598e4d56961ae9f6968"
     }
   ]
 }

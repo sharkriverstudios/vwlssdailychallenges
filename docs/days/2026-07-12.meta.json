@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "common knowledge",
+    "professions"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "WLDLF FFC R",
+      "difficulty" : 5,
+      "answer" : "WILDLIFE OFFICER"
+    },
+    {
+      "clue" : "PRMDC",
+      "difficulty" : 4,
+      "answer" : "PARAMEDIC"
+    },
+    {
+      "clue" : "MLTRY SLDR",
+      "difficulty" : 5,
+      "answer" : "MILITARY SOLDIER"
+    },
+    {
+      "clue" : "NVY SLR",
+      "difficulty" : 5,
+      "answer" : "NAVY SAILOR"
+    },
+    {
+      "clue" : "R TRFFC CNTRLLR",
+      "difficulty" : 7,
+      "answer" : "AIR TRAFFIC CONTROLLER"
+    },
+    {
+      "clue" : "FLGHT TTNDNT",
+      "difficulty" : 4,
+      "answer" : "FLIGHT ATTENDANT"
+    },
+    {
+      "clue" : "PSTL WRKR",
+      "difficulty" : 3,
+      "answer" : "POSTAL WORKER"
+    },
+    {
+      "clue" : "SCRTY GRD",
+      "difficulty" : 3,
+      "answer" : "SECURITY GUARD"
+    },
+    {
+      "clue" : "BS DRVR",
+      "difficulty" : 2,
+      "answer" : "BUS DRIVER"
+    },
+    {
+      "clue" : "TRN CNDRCTR",
+      "difficulty" : 4,
+      "answer" : "TRAIN CONDUCTOR"
+    },
+    {
+      "clue" : "CSTMS FFC R",
+      "difficulty" : 5,
+      "answer" : "CUSTOMS OFFICER"
+    },
+    {
+      "clue" : "CST GRD",
+      "difficulty" : 4,
+      "answer" : "COAST GUARD"
+    }
+  ]
+}

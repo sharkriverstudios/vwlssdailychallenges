@@ -1,4 +1,72 @@
 {
+  "tags" : [
+    "history",
+    "culture",
+    "politics"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 2,
+      "answer" : "JAMES",
+      "clue" : "JMS"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "MARY",
+      "clue" : "MRY"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "ANNE",
+      "clue" : "NN"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "JOHN",
+      "clue" : "JHN"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "EDMUND",
+      "clue" : "DMND"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "ALFRED",
+      "clue" : "LFRD"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "MATILDA",
+      "clue" : "MTLD"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "HAROLD",
+      "clue" : "HRLD"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "STEPHEN",
+      "clue" : "STPHN"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "EDGAR",
+      "clue" : "DGR"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ETHELRED",
+      "clue" : "THLRD"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "CANUTE",
+      "clue" : "CNT"
+    }
+  ],
+  "notes" : "First name only",
   "clueNotes" : [
     "",
     "",
@@ -20,72 +88,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "answer" : "KHANBALIQ",
-      "clue" : "KHNBLQ",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "BORNEO",
-      "clue" : "BRN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "SUMATRA",
-      "clue" : "SMTR",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "SHANGDU",
-      "clue" : "SHNGD",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "KHOTAN",
-      "clue" : "KHTN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "YARKAND",
-      "clue" : "YRKND",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "QUANZHOU",
-      "clue" : "QNZH",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "PAMIR MOUNTAINS",
-      "clue" : "PMR MNTNS",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "TURFAN",
-      "clue" : "TRFN",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "SUKHOTHAI",
-      "clue" : "SKHTH",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "ZHANGYE",
-      "clue" : "ZHNGY",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "SISTAN",
-      "clue" : "SSTN",
-      "difficulty" : 9
-    }
-  ],
-  "tags" : [
-    "history",
-    "geography",
-    "travel"
   ]
 }

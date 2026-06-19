@@ -1,0 +1,88 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Blue Eyes Crying In The Rain",
+      "If You've Got The Money I've Got The Time",
+      "Georgia On My Mind",
+      "On The Road Again",
+      "Always On My Mind",
+      "Angel Flying Too Close To The Ground",
+      "Forgiving You Was Easy",
+      "To All The Girls I've Loved Before",
+      "Pancho And Lefty",
+      "Highwayman",
+      "Living In The Promiseland",
+      "My Heroes Have Always Been Cowboys",
+      "Nothing I Can Do About It Now",
+      "City Of New Orleans",
+      "Good Hearted Woman",
+      "Mamas Don't Let Your Babies Grow Up To Be Cowboys",
+      "Seven Spanish Angels",
+      "Just To Satisfy You",
+      "Last Thing I Needed First Thing This Morning",
+      "Heartbreak Hotel",
+      "Mind Your Own Business",
+      "Beer For My Horses",
+      "Midnight Rider",
+      "Graceland",
+      "Funny How Time Slips Away",
+      "The Harder They Come",
+      "I'm Movin' On",
+      "The End Of Understanding",
+      "Help Me Make It Through The Night",
+      "Seven Year Ache",
+      "Why Baby Why",
+      "Whiskey River",
+      "Bloody Mary Morning",
+      "Me And Bobby McGee",
+      "Uncloudy Day"
+    ],
+    "category" : "Willie Nelson Number Ones",
+    "clues" : [
+      {
+        "answer" : "ON THE ROAD AGAIN",
+        "clue" : "N TH RD GN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ALWAYS ON MY MIND",
+        "clue" : "LWYS N M MND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GOOD HEARTED WOMAN",
+        "clue" : "GD HRTD WMN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WHISKEY RIVER",
+        "clue" : "WHSKY RVR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BLUE EYES CRYING IN THE RAIN",
+        "clue" : "BL YS CRNG N TH RN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GEORGIA ON MY MIND",
+        "clue" : "GRG N M MND",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MY HEROES HAVE ALWAYS BEEN COWBOYS",
+        "clue" : "MY HRS HV LWYS BN CWBYS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "TO ALL THE GIRLS I'VE LOVED BEFORE",
+        "clue" : "T LL TH GRLS V LVD BFR",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-10",
+  "schemaVersion" : 1
+}

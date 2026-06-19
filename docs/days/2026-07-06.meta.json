@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "BEFORE SUNSET",
+      "clue" : "BFR SNST"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "THE INTREPID CARMEN",
+      "clue" : "TH NTRPD CRMN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PARIS, JE T'AIME",
+      "clue" : "PRS J TM"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE BOURNE IDENTITY",
+      "clue" : "TH BRN DNTTY"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CHARADE",
+      "clue" : "CHRD"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE INTOUCHABLES",
+      "clue" : "TH NTCBL"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "JULIE & JULIA",
+      "clue" : "JL & JL"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "SABRINA",
+      "clue" : "SBRN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FUNNY FACE",
+      "clue" : "FNNY FC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "GIGI",
+      "clue" : "GG"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "TAKEN",
+      "clue" : "TKN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "INCEPTION",
+      "clue" : "NCPTN"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "cinema",
+    "geography",
+    "culture"
+  ]
+}

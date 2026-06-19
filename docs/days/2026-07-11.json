@@ -1,0 +1,97 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Little Mermaid",
+      "The Ugly Duckling",
+      "The Emperor's New Clothes",
+      "The Snow Queen",
+      "The Princess And The Pea",
+      "The Steadfast Tin Soldier",
+      "Thumbelina",
+      "The Little Match Girl",
+      "The Nightingale",
+      "The Red Shoes",
+      "The Wild Swans",
+      "The Tinderbox",
+      "The Shepherdess And The Chimney Sweep",
+      "The Fir Tree",
+      "The Swineherd",
+      "The Teapot",
+      "The Shadow",
+      "The Flying Trunk",
+      "The Bell",
+      "The Little Elder Tree Mother",
+      "The Old House",
+      "The Story Of A Mother",
+      "The Bronze Pig",
+      "The Ice Maiden",
+      "The Snowman",
+      "The Goblin And The Huckster",
+      "The Flax",
+      "The Happy Family",
+      "The Darning Needle",
+      "The Leap-Frog",
+      "The Jewish Girl",
+      "The Marsh King's Daughter",
+      "The Metal Pig",
+      "The Shepherd's Story Of The Bond Of Friendship",
+      "The Windmill",
+      "The Butterfly",
+      "The Collar",
+      "The Garden Of Paradise",
+      "The Money Box",
+      "The Pea Blossom",
+      "The Philosopher's Stone",
+      "The Puppet Showman",
+      "The Shirt Collar",
+      "The Sweethearts"
+    ],
+    "category" : "Hans Christian Anderson",
+    "clues" : [
+      {
+        "answer" : "THE LITTLE MERMAID",
+        "clue" : "TH LTTL MRMD",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "THE UGLY DUCKLING",
+        "clue" : "TH GL DCKLNG",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "THE EMPEROR'S NEW CLOTHES",
+        "clue" : "TH MPRRS NW CLTHS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "THE SNOW QUEEN",
+        "clue" : "TH SNW QN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE PRINCESS AND THE PEA",
+        "clue" : "TH PRNCSS ND TH P",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THUMBELINA",
+        "clue" : "THMBLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE NIGHTINGALE",
+        "clue" : "TH NGHTNGL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE LITTLE MATCH GIRL",
+        "clue" : "TH LTTL MTCH GRL",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-07-11",
+  "schemaVersion" : 1
+}

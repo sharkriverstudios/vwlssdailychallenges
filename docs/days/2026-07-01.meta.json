@@ -1,71 +1,4 @@
 {
-  "tags" : [
-    "business",
-    "common knowledge",
-    "home"
-  ],
-  "extraClues" : [
-    {
-      "clue" : "YRDL LNDN",
-      "answer" : "YARDLEY LONDON",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "SFTSP",
-      "answer" : "SOFTSOAP",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "CRSS",
-      "answer" : "CARESS",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "X",
-      "answer" : "AXE",
-      "difficulty" : 1
-    },
-    {
-      "clue" : "NV",
-      "answer" : "NIVEA",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "LVR 2000",
-      "answer" : "LEVER 2000",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "LY",
-      "answer" : "OLAY",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "JRNS",
-      "answer" : "JERGENS",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "L'CCTN",
-      "answer" : "L'OCCITANE",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "DR BRNNRS",
-      "answer" : "DR. BRONNER'S",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "CMY",
-      "answer" : "CAMAY",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "PRS",
-      "answer" : "PEARS",
-      "difficulty" : 4
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -87,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "BMBS",
+      "difficulty" : 5,
+      "answer" : "BOMBS"
+    },
+    {
+      "clue" : "BRD",
+      "difficulty" : 4,
+      "answer" : "BROAD"
+    },
+    {
+      "clue" : "STR-SPNGLD",
+      "difficulty" : 6,
+      "answer" : "STAR-SPANGLED"
+    },
+    {
+      "clue" : "GLLNTLY",
+      "difficulty" : 5,
+      "answer" : "GALLANTLY"
+    },
+    {
+      "clue" : "S",
+      "difficulty" : 1,
+      "answer" : "SEE"
+    },
+    {
+      "clue" : "PRLS",
+      "difficulty" : 5,
+      "answer" : "PERILOUS"
+    },
+    {
+      "clue" : "TWLGHTS",
+      "difficulty" : 6,
+      "answer" : "TWILIGHT'S"
+    },
+    {
+      "clue" : "STRMNG",
+      "difficulty" : 5,
+      "answer" : "STREAMING"
+    },
+    {
+      "clue" : "TWLGHTS",
+      "difficulty" : 6,
+      "answer" : "TWILIGHT'S"
+    },
+    {
+      "clue" : "RMPRTS",
+      "difficulty" : 5,
+      "answer" : "RAMPARTS"
+    },
+    {
+      "clue" : "GLLNTLY",
+      "difficulty" : 5,
+      "answer" : "GALLANTLY"
+    },
+    {
+      "clue" : "STRMNG",
+      "difficulty" : 5,
+      "answer" : "STREAMING"
+    }
+  ],
+  "tags" : [
+    "music",
+    "history",
+    "culture"
   ]
 }

@@ -1,0 +1,93 @@
+{
+  "description" : "projects, roles, accomplishments of the famous comedian and actress",
+  "tags" : [
+    "cinema",
+    "television",
+    "comedy",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "HOW STELLA GOT HER GROOVE BACK",
+      "difficulty" : 9,
+      "clue" : "HW STLL GT HR GRV BCK"
+    },
+    {
+      "answer" : "THE LONG WALK HOME",
+      "difficulty" : 7,
+      "clue" : "TH LNG WLK HM"
+    },
+    {
+      "answer" : "FOR COLORED GIRLS",
+      "difficulty" : 7,
+      "clue" : "FR CLRD GRLS"
+    },
+    {
+      "answer" : "CORRINA, CORRINA",
+      "difficulty" : 7,
+      "clue" : "CRRN, CRRN"
+    },
+    {
+      "answer" : "GHOSTS OF MISSISSIPPI",
+      "difficulty" : 8,
+      "clue" : "GHSTS F MSSSSPP"
+    },
+    {
+      "answer" : "JUMPIN' JACK FLASH",
+      "difficulty" : 6,
+      "clue" : "JMPN' JCK FLSH"
+    },
+    {
+      "answer" : "THE PLAYER",
+      "difficulty" : 6,
+      "clue" : "TH PLYR"
+    },
+    {
+      "answer" : "CLARA'S HEART",
+      "difficulty" : 6,
+      "clue" : "CLR'S HRT"
+    },
+    {
+      "answer" : "THE ASSOCIATE",
+      "difficulty" : 6,
+      "clue" : "TH SSCT"
+    },
+    {
+      "answer" : "MADE IN AMERICA",
+      "difficulty" : 5,
+      "clue" : "MD N MRC"
+    },
+    {
+      "answer" : "COMIC RELIEF",
+      "difficulty" : 5,
+      "clue" : "CMC RLF"
+    },
+    {
+      "answer" : "THE MUPPETS",
+      "difficulty" : 5,
+      "clue" : "TH MPPTS"
+    }
+  ]
+}

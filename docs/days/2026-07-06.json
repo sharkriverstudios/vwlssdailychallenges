@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Amelie",
+      "Midnight In Paris",
+      "Ratatouille",
+      "Moulin Rouge!",
+      "The Da Vinci Code",
+      "The Hunchback Of Notre Dame",
+      "Before Sunset",
+      "An American In Paris",
+      "La Vie En Rose",
+      "Paris, Je T'Aime",
+      "The Bourne Identity",
+      "Charade",
+      "The Intouchables",
+      "Julie & Julia",
+      "Sabrina",
+      "Midnight In Paris",
+      "Funny Face",
+      "Gigi",
+      "The Pink Panther",
+      "Taken",
+      "Les Miserables",
+      "Inception",
+      "The Devil Wears Prada",
+      "The Man In The Iron Mask",
+      "La La Land",
+      "Mr. Bean's Holiday",
+      "Marie Antoinette",
+      "The Red Balloon",
+      "Rogue Nation",
+      "Ronin",
+      "Something's Gotta Give",
+      "The Aristocats",
+      "A Bout De Souffle",
+      "Chocolat",
+      "Hugo",
+      "Everyone Says I Love You",
+      "Ocean's Twelve",
+      "Love In The Afternoon",
+      "Mission: Impossible",
+      "The Tourist"
+    ],
+    "category" : "Movies set in Paris",
+    "clues" : [
+      {
+        "answer" : "THE PINK PANTHER",
+        "clue" : "TH PNK PNTHR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "AMELIE",
+        "clue" : "ML",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MIDNIGHT IN PARIS",
+        "clue" : "MDNGHT N PRS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RATATOUILLE",
+        "clue" : "RTTLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LES MISERABLES",
+        "clue" : "LSM SRBLS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MOULIN ROUGE",
+        "clue" : "ML NRG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE DA VINCI CODE",
+        "clue" : "TH D VNC CD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE HUNCHBACK OF NOTRE DAME",
+        "clue" : "TH HNCHBCK F NTR DM",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 5
+  },
+  "date" : "2026-07-06",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Color Purple",
+      "Ghost",
+      "Sister Act",
+      "Sister Act 2: Back In The Habit",
+      "The Lion King",
+      "Star Trek: The Next Generation",
+      "The View",
+      "Jumpin' Jack Flash",
+      "Clara's Heart",
+      "Boys On The Side",
+      "Corrina, Corrina",
+      "How Stella Got Her Groove Back",
+      "Rat Race",
+      "The Little Rascals",
+      "Made In America",
+      "The Associate",
+      "Girl, Interrupted",
+      "For Colored Girls",
+      "Soapdish",
+      "Call Me Claus",
+      "Kingdom Come",
+      "The Long Walk Home",
+      "Bordello Of Blood",
+      "Fatal Beauty",
+      "Homer & Eddie",
+      "The Player",
+      "Ghosts Of Mississippi",
+      "A Funny Thing Happened On The Way To The Forum",
+      "Comic Relief",
+      "Whoopi Goldberg Presents Moms Mabley",
+      "The Pagemaster",
+      "Eddie",
+      "Sarafina!",
+      "Burglar",
+      "Jumpin' Jack Flash",
+      "The Deep End Of The Ocean",
+      "The Celluloid Closet",
+      "Theodore Rex",
+      "The Telephone",
+      "The Muppets"
+    ],
+    "category" : "Whoopie Goldberg",
+    "clues" : [
+      {
+        "answer" : "THE COLOR PURPLE",
+        "clue" : "TH CL R PRPL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SISTER ACT",
+        "clue" : "SSTR CT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GHOST",
+        "clue" : "GHST",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE LION KING",
+        "clue" : "TH LNK NG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE VIEW",
+        "clue" : "T HV W",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SOAPDISH",
+        "clue" : "SPDSH",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STAR TREK: THE NEXT GENERATION",
+        "clue" : "STR TRK TH NXT GNRTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GIRL, INTERRUPTED",
+        "clue" : "GRL NTRRPTD",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-07-09",
+  "schemaVersion" : 1
+}

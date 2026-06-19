@@ -1,4 +1,5 @@
 {
+  "description" : "Lyrics from the famous song, starting with school subjects that the singer doesn't know about, but then we can expand to other parts of the song",
   "clueNotes" : [
     "",
     "",
@@ -21,72 +22,71 @@
     "",
     ""
   ],
-  "notes" : "First name only",
+  "tags" : [
+    "music",
+    "education",
+    "popular culture"
+  ],
   "extraClues" : [
     {
-      "clue" : "JMS",
-      "answer" : "JAMES",
-      "difficulty" : 2
+      "clue" : "GMTRY",
+      "answer" : "GEOMETRY",
+      "difficulty" : 4
     },
     {
-      "clue" : "MRY",
-      "answer" : "MARY",
+      "clue" : "LTN",
+      "answer" : "LATIN",
       "difficulty" : 3
     },
     {
-      "clue" : "NN",
-      "answer" : "ANNE",
+      "clue" : "PHYSCS",
+      "answer" : "PHYSICS",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "NGLSH",
+      "answer" : "ENGLISH",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "GGRPHY",
+      "answer" : "GEOGRAPHY",
       "difficulty" : 5
     },
     {
-      "clue" : "JHN",
-      "answer" : "JOHN",
-      "difficulty" : 3
+      "clue" : "CNMCS",
+      "answer" : "ECONOMICS",
+      "difficulty" : 4
     },
     {
-      "clue" : "DMND",
-      "answer" : "EDMUND",
-      "difficulty" : 7
+      "clue" : "PSYCHLGY",
+      "answer" : "PSYCHOLOGY",
+      "difficulty" : 4
     },
     {
-      "clue" : "LFRD",
-      "answer" : "ALFRED",
-      "difficulty" : 7
+      "clue" : "STRNMY",
+      "answer" : "ASTRONOMY",
+      "difficulty" : 5
     },
     {
-      "clue" : "MTLD",
-      "answer" : "MATILDA",
-      "difficulty" : 8
+      "clue" : "LTRTR",
+      "answer" : "LITERATURE",
+      "difficulty" : 5
     },
     {
-      "clue" : "HRLD",
-      "answer" : "HAROLD",
-      "difficulty" : 7
+      "clue" : "MSC",
+      "answer" : "MUSIC",
+      "difficulty" : 2
     },
     {
-      "clue" : "STPHN",
-      "answer" : "STEPHEN",
-      "difficulty" : 7
+      "clue" : "THLGY",
+      "answer" : "THEOLOGY",
+      "difficulty" : 4
     },
     {
-      "clue" : "DGR",
-      "answer" : "EDGAR",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "THLRD",
-      "answer" : "ETHELRED",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "CNT",
-      "answer" : "CANUTE",
-      "difficulty" : 8
+      "clue" : "CLCLS",
+      "answer" : "CALCULUS",
+      "difficulty" : 4
     }
-  ],
-  "tags" : [
-    "history",
-    "culture",
-    "politics"
   ]
 }

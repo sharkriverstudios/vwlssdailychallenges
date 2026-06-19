@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "MRL LGSS",
+      "answer" : "EMERIL LAGASSE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "LTN BRWN",
+      "answer" : "ALTON BROWN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BBY FLY",
+      "answer" : "BOBBY FLAY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "N GRTN",
+      "answer" : "INA GARTEN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PL DN",
+      "answer" : "PAULA DEEN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MRCPRR WHT",
+      "answer" : "MARCO PIERRE WHITE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MSHR MRTMT",
+      "answer" : "MASAHARU MORIMOTO"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "JCQS PPN",
+      "answer" : "JACQUES PEPIN"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "THMS KLLR",
+      "answer" : "THOMAS KELLER"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MR BTL",
+      "answer" : "MARIO BATALI"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "HSTN BLMNTHL",
+      "answer" : "HESTON BLUMENTHAL"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "YTM TTLNGH",
+      "answer" : "YOTAM OTTOLENGHI"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

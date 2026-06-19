@@ -1,0 +1,100 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "John Hancock",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Adams",
+      "Samuel Adams",
+      "Robert Morris",
+      "Roger Sherman",
+      "Charles Carroll",
+      "Richard Henry Lee",
+      "Francis Lightfoot Lee",
+      "Carter Braxton",
+      "William Whipple",
+      "William Ellery",
+      "John Hart",
+      "Thomas Lynch Jr.",
+      "Arthur Middleton",
+      "Button Gwinnett",
+      "Lyman Hall",
+      "George Walton",
+      "James Smith",
+      "Samuel Chase",
+      "William Paca",
+      "Thomas Stone",
+      "George Read",
+      "Caesar Rodney",
+      "George Clymer",
+      "George Taylor",
+      "James Wilson",
+      "George Ross",
+      "Oliver Wolcott",
+      "William Williams",
+      "Stephen Hopkins",
+      "William Floyd",
+      "Philip Livingston",
+      "Francis Lewis",
+      "Lewis Morris",
+      "John Witherspoon",
+      "Joseph Hewes",
+      "John Penn",
+      "Edward Rutledge",
+      "Thomas Heyward Jr.",
+      "Thomas McKean",
+      "Matthew Thornton",
+      "Francis Hopkinson",
+      "John Morton",
+      "Thomas Nelson Jr.",
+      "Joseph Hewes"
+    ],
+    "category" : "Signers of the Declaration of Independence",
+    "clues" : [
+      {
+        "answer" : "THOMAS JEFFERSON",
+        "clue" : "THMS JFFRSN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BENJAMIN FRANKLIN",
+        "clue" : "BNJMN FRNKLN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "JOHN HANCOCK",
+        "clue" : "JH NHNC CK",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "JOHN ADAMS",
+        "clue" : "JHN DMS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SAMUEL ADAMS",
+        "clue" : "SML DMS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ROGER SHERMAN",
+        "clue" : "RGR SHR MN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CAESAR RODNEY",
+        "clue" : "CSR RDNY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "RICHARD HENRY LEE",
+        "clue" : "RCHRD HNRL",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-07-05",
+  "schemaVersion" : 1
+}
