@@ -1,92 +1,88 @@
 {
   "challenge" : {
     "candidates" : [
-      "The Little Mermaid",
-      "The Ugly Duckling",
-      "The Emperor's New Clothes",
-      "The Snow Queen",
-      "The Princess And The Pea",
-      "The Steadfast Tin Soldier",
-      "Thumbelina",
-      "The Little Match Girl",
-      "The Nightingale",
-      "The Red Shoes",
-      "The Wild Swans",
-      "The Tinderbox",
-      "The Shepherdess And The Chimney Sweep",
-      "The Fir Tree",
-      "The Swineherd",
-      "The Teapot",
-      "The Shadow",
-      "The Flying Trunk",
-      "The Bell",
-      "The Little Elder Tree Mother",
-      "The Old House",
-      "The Story Of A Mother",
-      "The Bronze Pig",
-      "The Ice Maiden",
-      "The Snowman",
-      "The Goblin And The Huckster",
-      "The Flax",
-      "The Happy Family",
-      "The Darning Needle",
-      "The Leap-Frog",
-      "The Jewish Girl",
-      "The Marsh King's Daughter",
-      "The Metal Pig",
-      "The Shepherd's Story Of The Bond Of Friendship",
-      "The Windmill",
-      "The Butterfly",
-      "The Collar",
-      "The Garden Of Paradise",
-      "The Money Box",
-      "The Pea Blossom",
-      "The Philosopher's Stone",
-      "The Puppet Showman",
-      "The Shirt Collar",
-      "The Sweethearts"
+      "The Color Purple",
+      "Ghost",
+      "Sister Act",
+      "Sister Act 2: Back In The Habit",
+      "The Lion King",
+      "Star Trek: The Next Generation",
+      "The View",
+      "Jumpin' Jack Flash",
+      "Clara's Heart",
+      "Boys On The Side",
+      "Corrina, Corrina",
+      "How Stella Got Her Groove Back",
+      "Rat Race",
+      "The Little Rascals",
+      "Made In America",
+      "The Associate",
+      "Girl, Interrupted",
+      "For Colored Girls",
+      "Soapdish",
+      "Call Me Claus",
+      "Kingdom Come",
+      "The Long Walk Home",
+      "Bordello Of Blood",
+      "Fatal Beauty",
+      "Homer & Eddie",
+      "The Player",
+      "Ghosts Of Mississippi",
+      "A Funny Thing Happened On The Way To The Forum",
+      "Comic Relief",
+      "Whoopi Goldberg Presents Moms Mabley",
+      "The Pagemaster",
+      "Eddie",
+      "Sarafina!",
+      "Burglar",
+      "Jumpin' Jack Flash",
+      "The Deep End Of The Ocean",
+      "The Celluloid Closet",
+      "Theodore Rex",
+      "The Telephone",
+      "The Muppets"
     ],
-    "category" : "Hans Christian Anderson",
+    "category" : "Whoopie Goldberg",
     "clues" : [
       {
-        "answer" : "THE LITTLE MERMAID",
-        "clue" : "TH LTTL MRMD",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "THE UGLY DUCKLING",
-        "clue" : "TH GL DCKLNG",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "THE EMPEROR'S NEW CLOTHES",
-        "clue" : "TH MPRRS NW CLTHS",
+        "answer" : "THE COLOR PURPLE",
+        "clue" : "TH CL R PRPL",
         "difficulty" : 2
       },
       {
-        "answer" : "THE SNOW QUEEN",
-        "clue" : "TH SNW QN",
+        "answer" : "SISTER ACT",
+        "clue" : "SSTR CT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GHOST",
+        "clue" : "GHST",
         "difficulty" : 3
       },
       {
-        "answer" : "THE PRINCESS AND THE PEA",
-        "clue" : "TH PRNCSS ND TH P",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "THUMBELINA",
-        "clue" : "THMBLN",
+        "answer" : "THE LION KING",
+        "clue" : "TH LNK NG",
         "difficulty" : 4
       },
       {
-        "answer" : "THE NIGHTINGALE",
-        "clue" : "TH NGHTNGL",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "THE LITTLE MATCH GIRL",
-        "clue" : "TH LTTL MTCH GRL",
+        "answer" : "THE VIEW",
+        "clue" : "T HV W",
         "difficulty" : 5
+      },
+      {
+        "answer" : "SOAPDISH",
+        "clue" : "SPDSH",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STAR TREK: THE NEXT GENERATION",
+        "clue" : "STR TRK TH NXT GNRTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GIRL, INTERRUPTED",
+        "clue" : "GRL NTRRPTD",
+        "difficulty" : 6
       }
     ],
     "difficulty" : 5,

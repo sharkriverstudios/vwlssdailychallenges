@@ -1,69 +1,65 @@
 {
   "extraClues" : [
     {
-      "answer" : "LYSOSOME",
-      "clue" : "LSSM",
-      "difficulty" : 4
+      "difficulty" : 5,
+      "answer" : "BEFORE SUNSET",
+      "clue" : "BFR SNST"
     },
     {
-      "answer" : "VACUOLE",
-      "clue" : "VC L",
-      "difficulty" : 4
+      "difficulty" : 10,
+      "answer" : "THE INTREPID CARMEN",
+      "clue" : "TH NTRPD CRMN"
     },
     {
-      "answer" : "CYTOSKELETON",
-      "clue" : "CYTSKLTN",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "answer" : "PARIS, JE T'AIME",
+      "clue" : "PRS J TM"
     },
     {
-      "answer" : "NUCLEOLUS",
-      "clue" : "NCLLS",
-      "difficulty" : 5
+      "difficulty" : 6,
+      "answer" : "THE BOURNE IDENTITY",
+      "clue" : "TH BRN DNTTY"
     },
     {
-      "answer" : "PEROXISOME",
-      "clue" : "PRXSM",
-      "difficulty" : 6
+      "difficulty" : 7,
+      "answer" : "CHARADE",
+      "clue" : "CHRD"
     },
     {
-      "answer" : "CENTRIOLE",
-      "clue" : "CNTRL",
-      "difficulty" : 5
+      "difficulty" : 8,
+      "answer" : "THE INTOUCHABLES",
+      "clue" : "TH NTCBL"
     },
     {
-      "answer" : "PLASMA MEMBRANE",
-      "clue" : "PLSM MMBRN",
-      "difficulty" : 4
+      "difficulty" : 7,
+      "answer" : "JULIE & JULIA",
+      "clue" : "JL & JL"
     },
     {
-      "answer" : "CHROMATIN",
-      "clue" : "CHRM TN",
-      "difficulty" : 6
+      "difficulty" : 8,
+      "answer" : "SABRINA",
+      "clue" : "SBRN"
     },
     {
-      "answer" : "MICROTUBULE",
-      "clue" : "MCRTBL",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "answer" : "FUNNY FACE",
+      "clue" : "FNNY FC"
     },
     {
-      "answer" : "FLAGELLUM",
-      "clue" : "FLGLLM",
-      "difficulty" : 5
+      "difficulty" : 6,
+      "answer" : "GIGI",
+      "clue" : "GG"
     },
     {
-      "answer" : "CILIA",
-      "clue" : "CL",
-      "difficulty" : 7
+      "difficulty" : 5,
+      "answer" : "TAKEN",
+      "clue" : "TKN"
     },
     {
-      "answer" : "RIBOSOME",
-      "clue" : "RB SM",
-      "difficulty" : 4
+      "difficulty" : 6,
+      "answer" : "INCEPTION",
+      "clue" : "NCPTN"
     }
-  ],
-  "tags" : [
-    "science",
-    "biology"
   ],
   "clueNotes" : [
     "",
@@ -86,5 +82,10 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "cinema",
+    "geography",
+    "culture"
   ]
 }

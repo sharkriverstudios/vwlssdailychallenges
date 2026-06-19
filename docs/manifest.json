@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "contentVersion": "2026.6.19",
-  "generatedAt": "2026-06-19T06:38:54Z",
+  "generatedAt": "2026-06-19T06:51:41Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-07-14",
+  "availableTo": "2026-07-16",
   "days": [
     {
       "date": "2026-04-01",
@@ -637,10 +637,10 @@
     },
     {
       "date": "2026-06-30",
-      "difficulty": 6,
-      "category": "Places Marco Polo Visited",
+      "difficulty": 4,
+      "category": "Feline Mischief",
       "path": "days/2026-06-30.json",
-      "hash": "sha256:daaf583caddd2de6a5cce92735cc838102d8536cb3954a19c09f9da856c547dc"
+      "hash": "sha256:8a18de951ead02ff3862915febf9a15682f28c9e3ab041684aa7a982fd819edd"
     },
     {
       "date": "2026-07-01",
@@ -658,87 +658,101 @@
     },
     {
       "date": "2026-07-03",
-      "difficulty": 7,
-      "category": "parts of a cell",
+      "difficulty": 6,
+      "category": "Movies set in Paris",
       "path": "days/2026-07-03.json",
-      "hash": "sha256:764e14a0ffbc6c2f8a7b3d221b403f91b4822eb1bb170d7c6f2e54cf3b924ece"
+      "hash": "sha256:11ccef5023d4602fcbac227d184258b0ca93cd419ed6e80fda093c74884b954e"
     },
     {
       "date": "2026-07-04",
       "difficulty": 5,
-      "category": "Celebrity Chefs",
+      "category": "Signers of the Declaration of Independence",
       "path": "days/2026-07-04.json",
-      "hash": "sha256:7cce37bbf4e3cfd01819bcebe68d8da265a2520a317fdecff48a263f6ab48a4c"
+      "hash": "sha256:bbd5dbc523e2f3bec49852ba62efe20d0f99062f5ed4411f03507a694c121109"
     },
     {
       "date": "2026-07-05",
-      "difficulty": 5,
-      "category": "Signers of the Declaration of Independence",
+      "difficulty": 7,
+      "category": "Keyboards",
       "path": "days/2026-07-05.json",
-      "hash": "sha256:1ca85e630c74091f7cc4898df3fd95fd793a68659462e62f52000c2ac2fab6da"
+      "hash": "sha256:3b47a23808c90678f27e2b2432bbc30d881070f98ed7b9346bcb616cc7148b60"
     },
     {
       "date": "2026-07-06",
-      "difficulty": 6,
-      "category": "Movies set in Paris",
+      "difficulty": 5,
+      "category": "Himalayan Wildlife",
       "path": "days/2026-07-06.json",
-      "hash": "sha256:7e48358d5b08d4d8f89b6953c4ce0d0ef6b9e0e26b7ee1ca0dafbf9c58cd8945"
+      "hash": "sha256:311f94183e1e6342b60436cb4d348923f1ff9c0fb10d696961a9b224e081f575"
     },
     {
       "date": "2026-07-07",
       "difficulty": 5,
-      "category": "Himalayan Wildlife",
+      "category": "Celebrity Chefs",
       "path": "days/2026-07-07.json",
-      "hash": "sha256:7cef1aba9f812f62101275471a601bbe47e1914fa4b7cc9e05a0467a0c848ab8"
+      "hash": "sha256:d70e49b87503097758e6e2de126c8a460aac5829cc03515f9bf13d69200cc442"
     },
     {
       "date": "2026-07-08",
-      "difficulty": 5,
-      "category": "North American Cryptids",
+      "difficulty": 6,
+      "category": "Places Marco Polo Visited",
       "path": "days/2026-07-08.json",
-      "hash": "sha256:77f4f1c454fd84f80fe9eadbb9dc440848662d2f642198812e69910bddf7e167"
+      "hash": "sha256:6db82bc8fe1716c62fbcaf19103ed8268e2e44e2ac10be3ed7a5621dad4d2f61"
     },
     {
       "date": "2026-07-09",
       "difficulty": 5,
-      "category": "Whoopie Goldberg",
+      "category": "North American Cryptids",
       "path": "days/2026-07-09.json",
-      "hash": "sha256:1b2fc46cf7a383149ec1d4924ba1c5ae1b44d4acd731e8ec011681ffb4efb86a"
+      "hash": "sha256:8b82542d9a0e9c18add803cd3dbf66f3d317af6e8b2aba79fd7b52ab3a41611a"
     },
     {
       "date": "2026-07-10",
-      "difficulty": 6,
-      "category": "Willie Nelson Number Ones",
+      "difficulty": 7,
+      "category": "parts of a cell",
       "path": "days/2026-07-10.json",
-      "hash": "sha256:c47ed2e2f6eda4c5dc5c9b7b53fb0090519084510723c16403dd3998415c0068"
+      "hash": "sha256:a411e65ac63f18fbee0492a59d3aefcb97a41cc1a4aeb38a7cea375e034b6c04"
     },
     {
       "date": "2026-07-11",
       "difficulty": 5,
-      "category": "Hans Christian Anderson",
+      "category": "Whoopie Goldberg",
       "path": "days/2026-07-11.json",
-      "hash": "sha256:0d52c539c5a10563182cd41f97c3cd1ea1479cbbbca2ee8a6889556968fcbb6d"
+      "hash": "sha256:9c4fcf0cb4379778787ab0cbc1e09f50a712d4decce20e88fb0261616aaad6ee"
     },
     {
       "date": "2026-07-12",
-      "difficulty": 3,
-      "category": "Professions that Wear Uniforms",
+      "difficulty": 6,
+      "category": "Willie Nelson Number Ones",
       "path": "days/2026-07-12.json",
-      "hash": "sha256:565403fe0a67c7c229de4dee7efac0cf181ce9c97e3db2ce3ba3d56db5b41967"
+      "hash": "sha256:e6c02b3b7a9560d12a697faef5a7d853c521cb7837090d6df748086c09bbb530"
     },
     {
       "date": "2026-07-13",
-      "difficulty": 4,
-      "category": "Trees of North America",
+      "difficulty": 5,
+      "category": "Hans Christian Anderson",
       "path": "days/2026-07-13.json",
-      "hash": "sha256:ae24ce5819a38c062e20e8a28e69055d51162ba708f492e52c4475834ddf2325"
+      "hash": "sha256:e680def633f6c9a98e5191bc5c44f3df2788ff46a33933be08ba604292b6a433"
     },
     {
       "date": "2026-07-14",
-      "difficulty": 4,
-      "category": "Feline Mischief",
+      "difficulty": 3,
+      "category": "Professions that Wear Uniforms",
       "path": "days/2026-07-14.json",
-      "hash": "sha256:9486898459374b5494dae6e7da5dae83d4b2b4dbc02d5598e4d56961ae9f6968"
+      "hash": "sha256:178e0419b064fda6d072f8d7e7dac2dfb4c3e1942945fad22919c3ae9fe238c9"
+    },
+    {
+      "date": "2026-07-15",
+      "difficulty": 4,
+      "category": "Trees of North America",
+      "path": "days/2026-07-15.json",
+      "hash": "sha256:e2a280fe81ec31cef5e43c1ee4548635489c8f8cfeff3e554df8007ffbe1fa7c"
+    },
+    {
+      "date": "2026-07-16",
+      "difficulty": 5,
+      "category": "Broadway Composers",
+      "path": "days/2026-07-16.json",
+      "hash": "sha256:1408b7cf7b0724a42ce3e5052da6e560cfd4294a3fc1fc98151bd9962e55d50f"
     }
   ]
 }

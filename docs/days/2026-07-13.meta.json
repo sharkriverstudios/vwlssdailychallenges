@@ -1,70 +1,8 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 3,
-      "clue" : "MRCN BCH",
-      "answer" : "AMERICAN BEECH"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "LV K",
-      "answer" : "LIVE OAK"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "PNDRS PN",
-      "answer" : "PONDEROSA PINE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "QKNG SPN",
-      "answer" : "QUAKING ASPEN"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "RVR BRCH",
-      "answer" : "RIVER BIRCH"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "HNY LCST",
-      "answer" : "HONEY LOCUST"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "BLD CYPRSS",
-      "answer" : "BALD CYPRESS"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "MRCN SYCMR",
-      "answer" : "AMERICAN SYCAMORE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "SHGBRK HCKRY",
-      "answer" : "SHAGBARK HICKORY"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "SG RNG",
-      "answer" : "OSAGE ORANGE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BLCK LCST",
-      "answer" : "BLACK LOCUST"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BTTRNT HCKRY",
-      "answer" : "BITTERNUT HICKORY"
-    }
-  ],
   "tags" : [
-    "nature",
-    "geography",
-    "gardening"
+    "literature",
+    "classics",
+    "folklore"
   ],
   "clueNotes" : [
     "",
@@ -87,5 +25,67 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "THE WILD SWANS",
+      "clue" : "TH WLD SWNS"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "THE RED SHOES",
+      "clue" : "TH RD SHS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE TINDERBOX",
+      "clue" : "TH TNDRBX"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE SWINEHERD",
+      "clue" : "TH SWNHRD"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE SHEPHERDESS AND THE CHIMNEY SWEEP",
+      "clue" : "TH SHPHRDSS ND TH CHMNY SWP"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE FIR TREE",
+      "clue" : "TH FR TR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE SHADOW",
+      "clue" : "TH SHDW"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE FLAX",
+      "clue" : "TH FLX"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE FLYING TRUNK",
+      "clue" : "TH FLYNG TRNK"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE ICE MAIDEN",
+      "clue" : "TH C MDN"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE GARDEN OF PARADISE",
+      "clue" : "TH GRDN F PRDS"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "THE STORY OF A MOTHER",
+      "clue" : "TH STRY F  MTHR"
+    }
   ]
 }

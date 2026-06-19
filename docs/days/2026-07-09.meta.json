@@ -1,11 +1,72 @@
 {
-  "description" : "projects, roles, accomplishments of the famous comedian and actress",
-  "tags" : [
-    "cinema",
-    "television",
-    "comedy",
-    "popular culture"
+  "extraClues" : [
+    {
+      "answer" : "SKUNK APE",
+      "clue" : "SKNK P",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LOVELAND FROGMAN",
+      "clue" : "LVLND FRGMN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "LIZARD MAN",
+      "clue" : "LZRD MN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "LAKE CHAMPLAIN MONSTER",
+      "clue" : "LK CHMPLN MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "DOVER DEMON",
+      "clue" : "DVR DMN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FLATWOODS MONSTER",
+      "clue" : "FLTWDS MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "HODAG",
+      "clue" : "HDG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "FOUKE MONSTER",
+      "clue" : "FK MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BEAST OF BRAY ROAD",
+      "clue" : "BST F BRY RD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ALTAMAHA-HA",
+      "clue" : "LTMH-H",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "BUNYIP",
+      "clue" : "BNYP",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "WHITE RIVER MONSTER",
+      "clue" : "WHT RVR MNSTR",
+      "difficulty" : 7
+    }
   ],
+  "tags" : [
+    "mythology",
+    "culture",
+    "folklore"
+  ],
+  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
   "clueNotes" : [
     "",
     "",
@@ -27,67 +88,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "answer" : "HOW STELLA GOT HER GROOVE BACK",
-      "difficulty" : 9,
-      "clue" : "HW STLL GT HR GRV BCK"
-    },
-    {
-      "answer" : "THE LONG WALK HOME",
-      "difficulty" : 7,
-      "clue" : "TH LNG WLK HM"
-    },
-    {
-      "answer" : "FOR COLORED GIRLS",
-      "difficulty" : 7,
-      "clue" : "FR CLRD GRLS"
-    },
-    {
-      "answer" : "CORRINA, CORRINA",
-      "difficulty" : 7,
-      "clue" : "CRRN, CRRN"
-    },
-    {
-      "answer" : "GHOSTS OF MISSISSIPPI",
-      "difficulty" : 8,
-      "clue" : "GHSTS F MSSSSPP"
-    },
-    {
-      "answer" : "JUMPIN' JACK FLASH",
-      "difficulty" : 6,
-      "clue" : "JMPN' JCK FLSH"
-    },
-    {
-      "answer" : "THE PLAYER",
-      "difficulty" : 6,
-      "clue" : "TH PLYR"
-    },
-    {
-      "answer" : "CLARA'S HEART",
-      "difficulty" : 6,
-      "clue" : "CLR'S HRT"
-    },
-    {
-      "answer" : "THE ASSOCIATE",
-      "difficulty" : 6,
-      "clue" : "TH SSCT"
-    },
-    {
-      "answer" : "MADE IN AMERICA",
-      "difficulty" : 5,
-      "clue" : "MD N MRC"
-    },
-    {
-      "answer" : "COMIC RELIEF",
-      "difficulty" : 5,
-      "clue" : "CMC RLF"
-    },
-    {
-      "answer" : "THE MUPPETS",
-      "difficulty" : 5,
-      "clue" : "TH MPPTS"
-    }
   ]
 }

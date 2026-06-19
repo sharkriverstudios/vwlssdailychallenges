@@ -1,4 +1,9 @@
 {
+  "tags" : [
+    "animals",
+    "home",
+    "common knowledge"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -21,71 +26,67 @@
     "",
     ""
   ],
+  "description" : "Things that hosue cats do that annoy their owners",
   "extraClues" : [
     {
-      "clue" : "BMBS",
-      "difficulty" : 5,
-      "answer" : "BOMBS"
+      "clue" : "TNG HSPLNTS",
+      "answer" : "EATING HOUSEPLANTS",
+      "difficulty" : 6
     },
     {
-      "clue" : "BRD",
-      "difficulty" : 4,
-      "answer" : "BROAD"
+      "clue" : "SCRTCHNG DRS",
+      "answer" : "SCRATCHING DOORS",
+      "difficulty" : 4
     },
     {
-      "clue" : "STR-SPNGLD",
-      "difficulty" : 6,
-      "answer" : "STAR-SPANGLED"
+      "clue" : "CHWNG CRDS",
+      "answer" : "CHEWING CORDS",
+      "difficulty" : 4
     },
     {
-      "clue" : "GLLNTLY",
-      "difficulty" : 5,
-      "answer" : "GALLANTLY"
+      "clue" : "HDNG HR TS",
+      "answer" : "HIDING HAIR TIES",
+      "difficulty" : 5
     },
     {
-      "clue" : "S",
-      "difficulty" : 1,
-      "answer" : "SEE"
+      "clue" : "PSHNG THNGS FF TBLS",
+      "answer" : "PUSHING THINGS OFF TABLES",
+      "difficulty" : 5
     },
     {
-      "clue" : "PRLS",
-      "difficulty" : 5,
-      "answer" : "PERILOUS"
+      "clue" : "HDNG NDR BDS",
+      "answer" : "HIDING UNDER BEDS",
+      "difficulty" : 5
     },
     {
-      "clue" : "TWLGHTS",
-      "difficulty" : 6,
-      "answer" : "TWILIGHT'S"
+      "clue" : "RNNNG T NGHT",
+      "answer" : "RUNNING AT NIGHT",
+      "difficulty" : 4
     },
     {
-      "clue" : "STRMNG",
-      "difficulty" : 5,
-      "answer" : "STREAMING"
+      "clue" : "STLNG FD",
+      "answer" : "STEALING FOOD",
+      "difficulty" : 4
     },
     {
-      "clue" : "TWLGHTS",
-      "difficulty" : 6,
-      "answer" : "TWILIGHT'S"
+      "clue" : "CHSNG SHDWS",
+      "answer" : "CHASING SHADOWS",
+      "difficulty" : 5
     },
     {
-      "clue" : "RMPRTS",
-      "difficulty" : 5,
-      "answer" : "RAMPARTS"
+      "clue" : "STTNG N LNDRY",
+      "answer" : "SITTING IN LAUNDRY",
+      "difficulty" : 5
     },
     {
-      "clue" : "GLLNTLY",
-      "difficulty" : 5,
-      "answer" : "GALLANTLY"
+      "clue" : "CLWNG T SCRNS",
+      "answer" : "CLAWING AT SCREENS",
+      "difficulty" : 5
     },
     {
-      "clue" : "STRMNG",
-      "difficulty" : 5,
-      "answer" : "STREAMING"
+      "clue" : "BTNG NKLS",
+      "answer" : "BITING ANKLES",
+      "difficulty" : 5
     }
-  ],
-  "tags" : [
-    "music",
-    "history",
-    "culture"
   ]
 }

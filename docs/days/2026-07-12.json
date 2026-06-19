@@ -1,101 +1,87 @@
 {
   "challenge" : {
     "candidates" : [
-      "Police Officer",
-      "Firefighter",
-      "Nurse",
-      "Doctor",
-      "Pilot",
-      "Chef",
-      "Paramedic",
-      "Military Soldier",
-      "Navy Sailor",
-      "Flight Attendant",
-      "Postal Worker",
-      "Security Guard",
-      "Bus Driver",
-      "Train Conductor",
-      "Astronaut",
-      "Surgeon",
-      "Dentist",
-      "Lifeguard",
-      "EMT",
-      "Air Traffic Controller",
-      "Judge",
-      "Referee",
-      "Mechanic",
-      "Construction Worker",
-      "Janitor",
-      "Police Detective",
-      "Bellhop",
-      "Park Ranger",
-      "Zookeeper",
-      "Veterinarian",
-      "Hotel Concierge",
-      "Lab Technician",
-      "Pharmacist",
-      "Garbage Collector",
-      "Barista",
-      "Prison Guard",
-      "Coast Guard",
-      "Butcher",
-      "Baker",
-      "Electrician",
-      "Plumber",
-      "Taxi Driver",
-      "Chauffeur",
-      "Fisherman",
-      "Train Engineer",
-      "Wildlife Officer",
-      "Customs Officer",
-      "Fire Marshal",
-      "Judge Advocate"
+      "Blue Eyes Crying In The Rain",
+      "If You've Got The Money I've Got The Time",
+      "Georgia On My Mind",
+      "On The Road Again",
+      "Always On My Mind",
+      "Angel Flying Too Close To The Ground",
+      "Forgiving You Was Easy",
+      "To All The Girls I've Loved Before",
+      "Pancho And Lefty",
+      "Highwayman",
+      "Living In The Promiseland",
+      "My Heroes Have Always Been Cowboys",
+      "Nothing I Can Do About It Now",
+      "City Of New Orleans",
+      "Good Hearted Woman",
+      "Mamas Don't Let Your Babies Grow Up To Be Cowboys",
+      "Seven Spanish Angels",
+      "Just To Satisfy You",
+      "Last Thing I Needed First Thing This Morning",
+      "Heartbreak Hotel",
+      "Mind Your Own Business",
+      "Beer For My Horses",
+      "Midnight Rider",
+      "Graceland",
+      "Funny How Time Slips Away",
+      "The Harder They Come",
+      "I'm Movin' On",
+      "The End Of Understanding",
+      "Help Me Make It Through The Night",
+      "Seven Year Ache",
+      "Why Baby Why",
+      "Whiskey River",
+      "Bloody Mary Morning",
+      "Me And Bobby McGee",
+      "Uncloudy Day"
     ],
-    "category" : "Professions that Wear Uniforms",
+    "category" : "Willie Nelson Number Ones",
     "clues" : [
       {
-        "answer" : "NURSE",
-        "clue" : "NRS",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "FIREFIGHTER",
-        "clue" : "FRFGHTR",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "CHEF",
-        "clue" : "CHF",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "PILOT",
-        "clue" : "PLT",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "DOCTOR",
-        "clue" : "DCTR",
-        "difficulty" : 2
-      },
-      {
-        "answer" : "POLICE OFFICER",
-        "clue" : "PLC FFC R",
+        "answer" : "ON THE ROAD AGAIN",
+        "clue" : "N TH RD GN",
         "difficulty" : 3
       },
       {
-        "answer" : "LIFEGUARD",
-        "clue" : "LFGRD",
+        "answer" : "ALWAYS ON MY MIND",
+        "clue" : "LWYS N M MND",
         "difficulty" : 3
       },
       {
-        "answer" : "ASTRONAUT",
-        "clue" : "STRNT",
+        "answer" : "GOOD HEARTED WOMAN",
+        "clue" : "GD HRTD WMN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WHISKEY RIVER",
+        "clue" : "WHSKY RVR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BLUE EYES CRYING IN THE RAIN",
+        "clue" : "BL YS CRNG N TH RN",
         "difficulty" : 5
+      },
+      {
+        "answer" : "GEORGIA ON MY MIND",
+        "clue" : "GRG N M MND",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MY HEROES HAVE ALWAYS BEEN COWBOYS",
+        "clue" : "MY HRS HV LWYS BN CWBYS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "TO ALL THE GIRLS I'VE LOVED BEFORE",
+        "clue" : "T LL TH GRLS V LVD BFR",
+        "difficulty" : 7
       }
     ],
-    "difficulty" : 3,
-    "shareClueIndex" : 2
+    "difficulty" : 6,
+    "shareClueIndex" : 0
   },
   "date" : "2026-07-12",
   "schemaVersion" : 1

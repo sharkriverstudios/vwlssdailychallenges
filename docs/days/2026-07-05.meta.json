@@ -21,70 +21,71 @@
     "",
     ""
   ],
-  "tags" : [
-    "history",
-    "politics"
-  ],
   "extraClues" : [
     {
-      "answer" : "CHARLES CARROLL",
-      "difficulty" : 5,
-      "clue" : "CHRLS CRRLL"
+      "clue" : "MLDC",
+      "answer" : "MELODICA",
+      "difficulty" : 9
     },
     {
-      "answer" : "WILLIAM WHIPPLE",
-      "difficulty" : 7,
-      "clue" : "WLLM WHPPL"
+      "clue" : "KYTR",
+      "answer" : "KEYTAR",
+      "difficulty" : 8
     },
     {
-      "answer" : "FRANCIS HOPKINSON",
-      "difficulty" : 7,
-      "clue" : "FRNCS HPKNSN"
+      "clue" : "DGT L KYBRD",
+      "answer" : "DIGITAL KEYBOARD",
+      "difficulty" : 9
     },
     {
-      "answer" : "ROBERT MORRIS",
-      "difficulty" : 6,
-      "clue" : "RBRT MRRS"
+      "clue" : "PP RGN",
+      "answer" : "PIPE ORGAN",
+      "difficulty" : 4
     },
     {
-      "answer" : "THOMAS LYNCH JR.",
-      "difficulty" : 8,
-      "clue" : "THMS LYNCH JR"
+      "clue" : "GRND PN",
+      "answer" : "GRAND PIANO",
+      "difficulty" : 5
     },
     {
-      "answer" : "GEORGE WALTON",
-      "difficulty" : 6,
-      "clue" : "GRG WL TN"
+      "clue" : "PRGHT PN",
+      "answer" : "UPRIGHT PIANO",
+      "difficulty" : 6
     },
     {
-      "answer" : "JAMES WILSON",
-      "difficulty" : 6,
-      "clue" : "JMS WL SN"
+      "clue" : "PLYR PN",
+      "answer" : "PLAYER PIANO",
+      "difficulty" : 6
     },
     {
-      "answer" : "OLIVER WOLCOTT",
-      "difficulty" : 8,
-      "clue" : "LVR WL CTT"
+      "clue" : "LCTR C PN",
+      "answer" : "ELECTRIC PIANO",
+      "difficulty" : 6
     },
     {
-      "answer" : "STEPHEN HOPKINS",
-      "difficulty" : 7,
-      "clue" : "STPHN HPKNS"
+      "clue" : "VRGNL",
+      "answer" : "VIRGINAL",
+      "difficulty" : 9
     },
     {
-      "answer" : "PHILIP LIVINGSTON",
-      "difficulty" : 8,
-      "clue" : "PHLP LVNGSTN"
+      "clue" : "SPNT",
+      "answer" : "SPINET",
+      "difficulty" : 8
     },
     {
-      "answer" : "JOHN WITHERSPOON",
-      "difficulty" : 8,
-      "clue" : "JHN WTHRS PN"
+      "clue" : "WRKSTTN KYBRD",
+      "answer" : "WORKSTATION KEYBOARD",
+      "difficulty" : 10
     },
     {
-      "answer" : "EDWARD RUTLEDGE",
-      "difficulty" : 9,
-      "clue" : "DWRD RTL DG"
+      "clue" : "MDLR SNTHSZR",
+      "answer" : "MODULAR SYNTHESIZER",
+      "difficulty" : 10
     }
-  ]
+  ],
+  "tags" : [
+    "music",
+    "technology"
+  ],
+  "description" : "musical instruments and other things that have keyboards"
 }

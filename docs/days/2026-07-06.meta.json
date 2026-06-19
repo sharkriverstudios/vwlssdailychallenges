@@ -1,64 +1,70 @@
 {
+  "tags" : [
+    "animals",
+    "geography",
+    "nature"
+  ],
+  "description" : "aniamls that can be found in the Himalayas and nearby regions",
   "extraClues" : [
     {
       "difficulty" : 5,
-      "answer" : "BEFORE SUNSET",
-      "clue" : "BFR SNST"
-    },
-    {
-      "difficulty" : 10,
-      "answer" : "THE INTREPID CARMEN",
-      "clue" : "TH NTRPD CRMN"
+      "clue" : "TBNT FX",
+      "answer" : "TIBETAN FOX"
     },
     {
       "difficulty" : 6,
-      "answer" : "PARIS, JE T'AIME",
-      "clue" : "PRS J TM"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE BOURNE IDENTITY",
-      "clue" : "TH BRN DNTTY"
+      "clue" : "TBTN NTLP",
+      "answer" : "TIBETAN ANTELOPE"
     },
     {
       "difficulty" : 7,
-      "answer" : "CHARADE",
-      "clue" : "CHRD"
+      "clue" : "HMLYN BLCK BR",
+      "answer" : "HIMALAYAN BLACK BEAR"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "BL SHP",
+      "answer" : "BLUE SHEEP"
     },
     {
       "difficulty" : 8,
-      "answer" : "THE INTOUCHABLES",
-      "clue" : "TH NTCBL"
+      "clue" : "PLLS'S CT",
+      "answer" : "PALLAS'S CAT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "HMLYN THR",
+      "answer" : "HIMALAYAN TAHR"
     },
     {
       "difficulty" : 7,
-      "answer" : "JULIE & JULIA",
-      "clue" : "JL & JL"
+      "clue" : "HMLYN MNL",
+      "answer" : "HIMALAYAN MONAL"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "BHRL",
+      "answer" : "BHARAL"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "GRL",
+      "answer" : "GORAL"
     },
     {
       "difficulty" : 8,
-      "answer" : "SABRINA",
-      "clue" : "SBRN"
+      "clue" : "HMLYN SRW",
+      "answer" : "HIMALAYAN SEROW"
     },
     {
-      "difficulty" : 6,
-      "answer" : "FUNNY FACE",
-      "clue" : "FNNY FC"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "GIGI",
-      "clue" : "GG"
+      "difficulty" : 7,
+      "clue" : "HMLYN WLF",
+      "answer" : "HIMALAYAN WOLF"
     },
     {
       "difficulty" : 5,
-      "answer" : "TAKEN",
-      "clue" : "TKN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "INCEPTION",
-      "clue" : "NCPTN"
+      "clue" : "TBNT MSTFF",
+      "answer" : "TIBETAN MASTIFF"
     }
   ],
   "clueNotes" : [
@@ -82,10 +88,5 @@
     "",
     "",
     ""
-  ],
-  "tags" : [
-    "cinema",
-    "geography",
-    "culture"
   ]
 }

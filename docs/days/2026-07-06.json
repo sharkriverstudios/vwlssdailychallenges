@@ -1,92 +1,92 @@
 {
   "challenge" : {
     "candidates" : [
-      "Amelie",
-      "Midnight In Paris",
-      "Ratatouille",
-      "Moulin Rouge!",
-      "The Da Vinci Code",
-      "The Hunchback Of Notre Dame",
-      "Before Sunset",
-      "An American In Paris",
-      "La Vie En Rose",
-      "Paris, Je T'Aime",
-      "The Bourne Identity",
-      "Charade",
-      "The Intouchables",
-      "Julie & Julia",
-      "Sabrina",
-      "Midnight In Paris",
-      "Funny Face",
-      "Gigi",
-      "The Pink Panther",
-      "Taken",
-      "Les Miserables",
-      "Inception",
-      "The Devil Wears Prada",
-      "The Man In The Iron Mask",
-      "La La Land",
-      "Mr. Bean's Holiday",
-      "Marie Antoinette",
-      "The Red Balloon",
-      "Rogue Nation",
-      "Ronin",
-      "Something's Gotta Give",
-      "The Aristocats",
-      "A Bout De Souffle",
-      "Chocolat",
-      "Hugo",
-      "Everyone Says I Love You",
-      "Ocean's Twelve",
-      "Love In The Afternoon",
-      "Mission: Impossible",
-      "The Tourist"
+      "Snow Leopard",
+      "Red Panda",
+      "Himalayan Tahr",
+      "Himalayan Monal",
+      "Blue Sheep",
+      "Tibetan Antelope",
+      "Yak",
+      "Himalayan Black Bear",
+      "Musk Deer",
+      "Golden Langur",
+      "Himalayan Marmot",
+      "Tibetan Fox",
+      "Pallas's Cat",
+      "Bharal",
+      "Goral",
+      "Red Fox",
+      "Himalayan Griffon",
+      "Himalayan Brown Bear",
+      "Tibetan Gazelle",
+      "Himalayan Vulture",
+      "Bengal Tiger",
+      "Asiatic Black Bear",
+      "Himalayan Serow",
+      "Snow Partridge",
+      "Impeyan Pheasant",
+      "Golden Eagle",
+      "Himalayan Wolf",
+      "Tibetan Snowcock",
+      "Bengal Florican",
+      "Black-Necked Crane",
+      "Himalayan Goral",
+      "Tibetan Mastiff",
+      "Clouded Leopard",
+      "Himalayan Ibex",
+      "Himalayan Quail",
+      "Himalayan Pit Viper",
+      "Himalayan Newt",
+      "Himalayan Blue Tail",
+      "Himalayan Bulbul",
+      "Himalayan Whistling Thrush"
     ],
-    "category" : "Movies set in Paris",
+    "category" : "Himalayan Wildlife",
     "clues" : [
       {
-        "answer" : "THE PINK PANTHER",
-        "clue" : "TH PNK PNTHR",
+        "answer" : "YAK",
+        "clue" : "YK",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "RED PANDA",
+        "clue" : "RD PND",
         "difficulty" : 2
       },
       {
-        "answer" : "AMELIE",
-        "clue" : "ML",
+        "answer" : "SNOW LEOPARD",
+        "clue" : "SNW LPRD",
         "difficulty" : 3
       },
       {
-        "answer" : "MIDNIGHT IN PARIS",
-        "clue" : "MDNGHT N PRS",
+        "answer" : "MUSK DEER",
+        "clue" : "MSK DR",
         "difficulty" : 3
       },
       {
-        "answer" : "RATATOUILLE",
-        "clue" : "RTTLL",
+        "answer" : "MARMOT",
+        "clue" : "MRMT",
         "difficulty" : 4
       },
       {
-        "answer" : "LES MISERABLES",
-        "clue" : "LSM SRBLS",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "MOULIN ROUGE",
-        "clue" : "ML NRG",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "THE DA VINCI CODE",
-        "clue" : "TH D VNC CD",
+        "answer" : "GOLDEN EAGLE",
+        "clue" : "GLD NGL",
         "difficulty" : 5
       },
       {
-        "answer" : "THE HUNCHBACK OF NOTRE DAME",
-        "clue" : "TH HNCHBCK F NTR DM",
+        "answer" : "GOLDEN LANGUR",
+        "clue" : "GLDN LNGR",
         "difficulty" : 6
+      },
+      {
+        "answer" : "IBEX",
+        "clue" : "BX",
+        "difficulty" : 7
       }
     ],
-    "difficulty" : 6,
-    "shareClueIndex" : 5
+    "difficulty" : 5,
+    "shareClueIndex" : 2
   },
   "date" : "2026-07-06",
   "schemaVersion" : 1

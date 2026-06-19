@@ -1,72 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "SKUNK APE",
-      "clue" : "SKNK P",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "LOVELAND FROGMAN",
-      "clue" : "LVLND FRGMN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "LIZARD MAN",
-      "clue" : "LZRD MN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "LAKE CHAMPLAIN MONSTER",
-      "clue" : "LK CHMPLN MNSTR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "DOVER DEMON",
-      "clue" : "DVR DMN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "FLATWOODS MONSTER",
-      "clue" : "FLTWDS MNSTR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "HODAG",
-      "clue" : "HDG",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "FOUKE MONSTER",
-      "clue" : "FK MNSTR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "BEAST OF BRAY ROAD",
-      "clue" : "BST F BRY RD",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "ALTAMAHA-HA",
-      "clue" : "LTMH-H",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "BUNYIP",
-      "clue" : "BNYP",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "WHITE RIVER MONSTER",
-      "clue" : "WHT RVR MNSTR",
-      "difficulty" : 7
-    }
-  ],
-  "tags" : [
-    "mythology",
-    "culture",
-    "folklore"
-  ],
-  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "history",
+    "geography",
+    "travel"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KHANBALIQ",
+      "difficulty" : 8,
+      "clue" : "KHNBLQ"
+    },
+    {
+      "answer" : "BORNEO",
+      "difficulty" : 6,
+      "clue" : "BRN"
+    },
+    {
+      "answer" : "SUMATRA",
+      "difficulty" : 6,
+      "clue" : "SMTR"
+    },
+    {
+      "answer" : "SHANGDU",
+      "difficulty" : 8,
+      "clue" : "SHNGD"
+    },
+    {
+      "answer" : "KHOTAN",
+      "difficulty" : 7,
+      "clue" : "KHTN"
+    },
+    {
+      "answer" : "YARKAND",
+      "difficulty" : 7,
+      "clue" : "YRKND"
+    },
+    {
+      "answer" : "QUANZHOU",
+      "difficulty" : 8,
+      "clue" : "QNZH"
+    },
+    {
+      "answer" : "PAMIR MOUNTAINS",
+      "difficulty" : 9,
+      "clue" : "PMR MNTNS"
+    },
+    {
+      "answer" : "TURFAN",
+      "difficulty" : 8,
+      "clue" : "TRFN"
+    },
+    {
+      "answer" : "SUKHOTHAI",
+      "difficulty" : 9,
+      "clue" : "SKHTH"
+    },
+    {
+      "answer" : "ZHANGYE",
+      "difficulty" : 9,
+      "clue" : "ZHNGY"
+    },
+    {
+      "answer" : "SISTAN",
+      "difficulty" : 9,
+      "clue" : "SSTN"
+    }
   ]
 }

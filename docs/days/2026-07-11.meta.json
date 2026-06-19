@@ -1,8 +1,10 @@
 {
+  "description" : "projects, roles, accomplishments of the famous comedian and actress",
   "tags" : [
-    "literature",
-    "classics",
-    "folklore"
+    "cinema",
+    "television",
+    "comedy",
+    "popular culture"
   ],
   "clueNotes" : [
     "",
@@ -28,64 +30,64 @@
   ],
   "extraClues" : [
     {
+      "answer" : "HOW STELLA GOT HER GROOVE BACK",
+      "difficulty" : 9,
+      "clue" : "HW STLL GT HR GRV BCK"
+    },
+    {
+      "answer" : "THE LONG WALK HOME",
+      "difficulty" : 7,
+      "clue" : "TH LNG WLK HM"
+    },
+    {
+      "answer" : "FOR COLORED GIRLS",
+      "difficulty" : 7,
+      "clue" : "FR CLRD GRLS"
+    },
+    {
+      "answer" : "CORRINA, CORRINA",
+      "difficulty" : 7,
+      "clue" : "CRRN, CRRN"
+    },
+    {
+      "answer" : "GHOSTS OF MISSISSIPPI",
+      "difficulty" : 8,
+      "clue" : "GHSTS F MSSSSPP"
+    },
+    {
+      "answer" : "JUMPIN' JACK FLASH",
+      "difficulty" : 6,
+      "clue" : "JMPN' JCK FLSH"
+    },
+    {
+      "answer" : "THE PLAYER",
+      "difficulty" : 6,
+      "clue" : "TH PLYR"
+    },
+    {
+      "answer" : "CLARA'S HEART",
+      "difficulty" : 6,
+      "clue" : "CLR'S HRT"
+    },
+    {
+      "answer" : "THE ASSOCIATE",
+      "difficulty" : 6,
+      "clue" : "TH SSCT"
+    },
+    {
+      "answer" : "MADE IN AMERICA",
       "difficulty" : 5,
-      "answer" : "THE WILD SWANS",
-      "clue" : "TH WLD SWNS"
+      "clue" : "MD N MRC"
     },
     {
-      "difficulty" : 4,
-      "answer" : "THE RED SHOES",
-      "clue" : "TH RD SHS"
+      "answer" : "COMIC RELIEF",
+      "difficulty" : 5,
+      "clue" : "CMC RLF"
     },
     {
-      "difficulty" : 6,
-      "answer" : "THE TINDERBOX",
-      "clue" : "TH TNDRBX"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE SWINEHERD",
-      "clue" : "TH SWNHRD"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE SHEPHERDESS AND THE CHIMNEY SWEEP",
-      "clue" : "TH SHPHRDSS ND TH CHMNY SWP"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE FIR TREE",
-      "clue" : "TH FR TR"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE SHADOW",
-      "clue" : "TH SHDW"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE FLAX",
-      "clue" : "TH FLX"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE FLYING TRUNK",
-      "clue" : "TH FLYNG TRNK"
-    },
-    {
-      "difficulty" : 9,
-      "answer" : "THE ICE MAIDEN",
-      "clue" : "TH C MDN"
-    },
-    {
-      "difficulty" : 9,
-      "answer" : "THE GARDEN OF PARADISE",
-      "clue" : "TH GRDN F PRDS"
-    },
-    {
-      "difficulty" : 10,
-      "answer" : "THE STORY OF A MOTHER",
-      "clue" : "TH STRY F  MTHR"
+      "answer" : "THE MUPPETS",
+      "difficulty" : 5,
+      "clue" : "TH MPPTS"
     }
   ]
 }

@@ -1,66 +1,69 @@
 {
-  "description" : "songs that Willie Nelson performed that became number one hits",
   "extraClues" : [
     {
-      "answer" : "MAMAS DON'T LET YOUR BABIES GROW UP TO BE COWBOYS",
-      "difficulty" : 8,
-      "clue" : "MMS DNT LT YR BBS GRW P T B CWBYS"
+      "answer" : "LYSOSOME",
+      "clue" : "LSSM",
+      "difficulty" : 4
     },
     {
-      "answer" : "ANGEL FLYING TOO CLOSE TO THE GROUND",
-      "difficulty" : 6,
-      "clue" : "NGL FLYNG T CLS T TH GRND"
+      "answer" : "VACUOLE",
+      "clue" : "VC L",
+      "difficulty" : 4
     },
     {
-      "answer" : "HIGHWAYMAN",
-      "difficulty" : 5,
-      "clue" : "HGHWYMN"
+      "answer" : "CYTOSKELETON",
+      "clue" : "CYTSKLTN",
+      "difficulty" : 6
     },
     {
-      "answer" : "FORGIVING YOU WAS EASY",
-      "difficulty" : 4,
-      "clue" : "FRGVNG Y WS SY"
+      "answer" : "NUCLEOLUS",
+      "clue" : "NCLLS",
+      "difficulty" : 5
     },
     {
-      "answer" : "PANCHO AND LEFTY",
-      "difficulty" : 5,
-      "clue" : "PNCH ND LFTY"
+      "answer" : "PEROXISOME",
+      "clue" : "PRXSM",
+      "difficulty" : 6
     },
     {
-      "answer" : "LIVING IN THE PROMISELAND",
-      "difficulty" : 6,
-      "clue" : "LVNG N TH PRMSLND"
+      "answer" : "CENTRIOLE",
+      "clue" : "CNTRL",
+      "difficulty" : 5
     },
     {
-      "answer" : "NOTHING I CAN DO ABOUT IT NOW",
-      "difficulty" : 7,
-      "clue" : "NTHNG CND BT T NW"
+      "answer" : "PLASMA MEMBRANE",
+      "clue" : "PLSM MMBRN",
+      "difficulty" : 4
     },
     {
-      "answer" : "CITY OF NEW ORLEANS",
-      "difficulty" : 5,
-      "clue" : "CTY F NW RLNS"
+      "answer" : "CHROMATIN",
+      "clue" : "CHRM TN",
+      "difficulty" : 6
     },
     {
-      "answer" : "SEVEN SPANISH ANGELS",
-      "difficulty" : 6,
-      "clue" : "SVN SPNSH NGLS"
+      "answer" : "MICROTUBULE",
+      "clue" : "MCRTBL",
+      "difficulty" : 6
     },
     {
-      "answer" : "JUST TO SATISFY YOU",
-      "difficulty" : 5,
-      "clue" : "JST T STSFY Y"
+      "answer" : "FLAGELLUM",
+      "clue" : "FLGLLM",
+      "difficulty" : 5
     },
     {
-      "answer" : "ME AND BOBBY MCGEE",
-      "difficulty" : 6,
-      "clue" : "M ND BBY MCG"
+      "answer" : "CILIA",
+      "clue" : "CL",
+      "difficulty" : 7
     },
     {
-      "answer" : "UNCLOUDY DAY",
-      "difficulty" : 6,
-      "clue" : "NCLDY DY"
+      "answer" : "RIBOSOME",
+      "clue" : "RB SM",
+      "difficulty" : 4
     }
+  ],
+  "tags" : [
+    "science",
+    "biology"
   ],
   "clueNotes" : [
     "",
@@ -83,9 +86,5 @@
     "",
     "",
     ""
-  ],
-  "tags" : [
-    "music",
-    "popular culture"
   ]
 }

@@ -1,9 +1,4 @@
 {
-  "tags" : [
-    "animals",
-    "home",
-    "common knowledge"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -26,67 +21,70 @@
     "",
     ""
   ],
-  "description" : "Things that hosue cats do that annoy their owners",
+  "tags" : [
+    "common knowledge",
+    "professions"
+  ],
   "extraClues" : [
     {
-      "clue" : "TNG HSPLNTS",
-      "answer" : "EATING HOUSEPLANTS",
-      "difficulty" : 6
+      "clue" : "WLDLF FFC R",
+      "difficulty" : 5,
+      "answer" : "WILDLIFE OFFICER"
     },
     {
-      "clue" : "SCRTCHNG DRS",
-      "answer" : "SCRATCHING DOORS",
-      "difficulty" : 4
+      "clue" : "PRMDC",
+      "difficulty" : 4,
+      "answer" : "PARAMEDIC"
     },
     {
-      "clue" : "CHWNG CRDS",
-      "answer" : "CHEWING CORDS",
-      "difficulty" : 4
+      "clue" : "MLTRY SLDR",
+      "difficulty" : 5,
+      "answer" : "MILITARY SOLDIER"
     },
     {
-      "clue" : "HDNG HR TS",
-      "answer" : "HIDING HAIR TIES",
-      "difficulty" : 5
+      "clue" : "NVY SLR",
+      "difficulty" : 5,
+      "answer" : "NAVY SAILOR"
     },
     {
-      "clue" : "PSHNG THNGS FF TBLS",
-      "answer" : "PUSHING THINGS OFF TABLES",
-      "difficulty" : 5
+      "clue" : "R TRFFC CNTRLLR",
+      "difficulty" : 7,
+      "answer" : "AIR TRAFFIC CONTROLLER"
     },
     {
-      "clue" : "HDNG NDR BDS",
-      "answer" : "HIDING UNDER BEDS",
-      "difficulty" : 5
+      "clue" : "FLGHT TTNDNT",
+      "difficulty" : 4,
+      "answer" : "FLIGHT ATTENDANT"
     },
     {
-      "clue" : "RNNNG T NGHT",
-      "answer" : "RUNNING AT NIGHT",
-      "difficulty" : 4
+      "clue" : "PSTL WRKR",
+      "difficulty" : 3,
+      "answer" : "POSTAL WORKER"
     },
     {
-      "clue" : "STLNG FD",
-      "answer" : "STEALING FOOD",
-      "difficulty" : 4
+      "clue" : "SCRTY GRD",
+      "difficulty" : 3,
+      "answer" : "SECURITY GUARD"
     },
     {
-      "clue" : "CHSNG SHDWS",
-      "answer" : "CHASING SHADOWS",
-      "difficulty" : 5
+      "clue" : "BS DRVR",
+      "difficulty" : 2,
+      "answer" : "BUS DRIVER"
     },
     {
-      "clue" : "STTNG N LNDRY",
-      "answer" : "SITTING IN LAUNDRY",
-      "difficulty" : 5
+      "clue" : "TRN CNDRCTR",
+      "difficulty" : 4,
+      "answer" : "TRAIN CONDUCTOR"
     },
     {
-      "clue" : "CLWNG T SCRNS",
-      "answer" : "CLAWING AT SCREENS",
-      "difficulty" : 5
+      "clue" : "CSTMS FFC R",
+      "difficulty" : 5,
+      "answer" : "CUSTOMS OFFICER"
     },
     {
-      "clue" : "BTNG NKLS",
-      "answer" : "BITING ANKLES",
-      "difficulty" : 5
+      "clue" : "CST GRD",
+      "difficulty" : 4,
+      "answer" : "COAST GUARD"
     }
   ]
 }

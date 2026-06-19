@@ -1,70 +1,68 @@
 {
   "tags" : [
-    "animals",
-    "geography",
-    "nature"
+    "culinary",
+    "popular culture"
   ],
-  "description" : "aniamls that can be found in the Himalayas and nearby regions",
   "extraClues" : [
     {
       "difficulty" : 5,
-      "clue" : "TBNT FX",
-      "answer" : "TIBETAN FOX"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "TBTN NTLP",
-      "answer" : "TIBETAN ANTELOPE"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN BLCK BR",
-      "answer" : "HIMALAYAN BLACK BEAR"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BL SHP",
-      "answer" : "BLUE SHEEP"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "PLLS'S CT",
-      "answer" : "PALLAS'S CAT"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "HMLYN THR",
-      "answer" : "HIMALAYAN TAHR"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN MNL",
-      "answer" : "HIMALAYAN MONAL"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "BHRL",
-      "answer" : "BHARAL"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "GRL",
-      "answer" : "GORAL"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "HMLYN SRW",
-      "answer" : "HIMALAYAN SEROW"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN WLF",
-      "answer" : "HIMALAYAN WOLF"
+      "clue" : "MRL LGSS",
+      "answer" : "EMERIL LAGASSE"
     },
     {
       "difficulty" : 5,
-      "clue" : "TBNT MSTFF",
-      "answer" : "TIBETAN MASTIFF"
+      "clue" : "LTN BRWN",
+      "answer" : "ALTON BROWN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BBY FLY",
+      "answer" : "BOBBY FLAY"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "N GRTN",
+      "answer" : "INA GARTEN"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PL DN",
+      "answer" : "PAULA DEEN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MRCPRR WHT",
+      "answer" : "MARCO PIERRE WHITE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MSHR MRTMT",
+      "answer" : "MASAHARU MORIMOTO"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "JCQS PPN",
+      "answer" : "JACQUES PEPIN"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "THMS KLLR",
+      "answer" : "THOMAS KELLER"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MR BTL",
+      "answer" : "MARIO BATALI"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "HSTN BLMNTHL",
+      "answer" : "HESTON BLUMENTHAL"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "YTM TTLNGH",
+      "answer" : "YOTAM OTTOLENGHI"
     }
   ],
   "clueNotes" : [
