@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Dove",
+      "Dial",
+      "Ivory",
+      "Irish Spring",
+      "Lever 2000",
+      "Zest",
+      "Palmolive",
+      "Softsoap",
+      "Caress",
+      "Yardley London",
+      "Neutrogena",
+      "Olay",
+      "Nivea",
+      "Cetaphil",
+      "Dr. Bronner's",
+      "Axe",
+      "Old Spice",
+      "Method",
+      "Tom's of Maine",
+      "Mrs. Meyer's",
+      "Burt's Bees",
+      "Sebamed",
+      "L'Occitane",
+      "Jergens",
+      "Safeguard",
+      "Pears",
+      "Camay",
+      "Lifebuoy",
+      "The Body Shop",
+      "Kiss My Face",
+      "Crabtree & Evelyn",
+      "Aveda",
+      "Molton Brown",
+      "Eucerin",
+      "Kirk's",
+      "Nubian Heritage",
+      "Pre de Provence",
+      "Alaffia",
+      "Sappo Hill",
+      "Weleda",
+      "Zum Bar",
+      "Bali Soap",
+      "A La Maison",
+      "EO Products",
+      "Erno Laszlo",
+      "Greenwich Bay Trading Co.",
+      "Heritage Store",
+      "Little Seed Farm",
+      "Pacific Shaving Company",
+      "Primal Elements",
+      "Sappo Hill Soapworks",
+      "Sonoma Lavender",
+      "The Grandpa Soap Co.",
+      "Wavertree & London"
+    ],
+    "category" : "Brands of Soap",
+    "clues" : [
+      {
+        "answer" : "DOVE",
+        "clue" : "DV",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "DIAL",
+        "clue" : "DL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ZEST",
+        "clue" : "ZST",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "IVORY",
+        "clue" : "VR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PALMOLIVE",
+        "clue" : "PLMLV",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "NEUTROGENA",
+        "clue" : "NTRGN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BURT'S BEES",
+        "clue" : "BRTS BS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "IRISH SPRING",
+        "clue" : "RS HSP RNG",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-01",
+  "schemaVersion" : 1
+}

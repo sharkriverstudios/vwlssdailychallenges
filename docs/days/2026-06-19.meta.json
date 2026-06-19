@@ -21,70 +21,72 @@
     "",
     ""
   ],
+  "description" : "animals that fit in the clade",
+  "tags" : [
+    "animals",
+    "nature"
+  ],
+  "notes" : "users probably won't recognie the name, but should almost immedioately recognize some clues",
   "extraClues" : [
     {
+      "answer" : "SEA OTTER",
+      "difficulty" : 6,
+      "clue" : "S TTR"
+    },
+    {
+      "answer" : "FISHER",
+      "difficulty" : 5,
+      "clue" : "FSHR"
+    },
+    {
+      "answer" : "AMERICAN MINK",
       "difficulty" : 7,
-      "clue" : "RGT THRGH Y",
-      "answer" : "RIGHT THROUGH YOU"
+      "clue" : "MRCN MNK"
     },
     {
-      "difficulty" : 5,
-      "clue" : "FRGVN",
-      "answer" : "FORGIVEN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "NT TH DCTR",
-      "answer" : "NOT THE DOCTOR"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "PRFCT",
-      "answer" : "PERFECT"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "MRY JN",
-      "answer" : "MARY JANE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "WK P",
-      "answer" : "WAKE UP"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "YR HS",
-      "answer" : "YOUR HOUSE"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "HNDS CLN",
-      "answer" : "HANDS CLEAN"
-    },
-    {
+      "answer" : "EUROPEAN OTTER",
       "difficulty" : 7,
-      "clue" : "PRCS LLSNS",
-      "answer" : "PRECIOUS ILLUSIONS"
+      "clue" : "RPN TTR"
     },
     {
-      "difficulty" : 5,
-      "clue" : "VRTHNG",
-      "answer" : "EVERYTHING"
+      "answer" : "GIANT OTTER",
+      "difficulty" : 7,
+      "clue" : "GNT TTR"
     },
     {
-      "difficulty" : 6,
-      "clue" : "NDRNTH",
-      "answer" : "UNDERNEATH"
+      "answer" : "NORTH AMERICAN RIVER OTTER",
+      "difficulty" : 8,
+      "clue" : "NRTH MRCN RVR TTR"
     },
     {
-      "difficulty" : 6,
-      "clue" : "GRDN",
-      "answer" : "GUARDIAN"
+      "answer" : "EUROPEAN PINE MARTEN",
+      "difficulty" : 8,
+      "clue" : "RPN PN MRTN"
+    },
+    {
+      "answer" : "BLACK-FOOTED FERRET",
+      "difficulty" : 8,
+      "clue" : "BLCK-FTD FRRT"
+    },
+    {
+      "answer" : "MARBLED POLECAT",
+      "difficulty" : 7,
+      "clue" : "MRBLD PLCT"
+    },
+    {
+      "answer" : "SABLE",
+      "difficulty" : 4,
+      "clue" : "SBL"
+    },
+    {
+      "answer" : "YELLOW-THROATED MARTEN",
+      "difficulty" : 7,
+      "clue" : "YLLW-THRTD MRTN"
+    },
+    {
+      "answer" : "SMOOTH-COATED OTTER",
+      "difficulty" : 8,
+      "clue" : "SMTH-CTD TTR"
     }
-  ],
-  "tags" : [
-    "music",
-    "popular culture"
   ]
 }

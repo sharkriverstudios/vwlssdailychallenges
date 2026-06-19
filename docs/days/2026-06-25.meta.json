@@ -21,72 +21,70 @@
     "",
     ""
   ],
-  "description" : "animals that fit in the clade",
-  "tags" : [
-    "animals",
-    "nature"
-  ],
-  "notes" : "users probably won't recognie the name, but should almost immedioately recognize some clues",
   "extraClues" : [
     {
-      "answer" : "SEA OTTER",
-      "difficulty" : 6,
-      "clue" : "S TTR"
+      "difficulty" : 7,
+      "clue" : "RGT THRGH Y",
+      "answer" : "RIGHT THROUGH YOU"
     },
     {
-      "answer" : "FISHER",
       "difficulty" : 5,
-      "clue" : "FSHR"
+      "clue" : "FRGVN",
+      "answer" : "FORGIVEN"
     },
     {
-      "answer" : "AMERICAN MINK",
-      "difficulty" : 7,
-      "clue" : "MRCN MNK"
+      "difficulty" : 6,
+      "clue" : "NT TH DCTR",
+      "answer" : "NOT THE DOCTOR"
     },
     {
-      "answer" : "EUROPEAN OTTER",
-      "difficulty" : 7,
-      "clue" : "RPN TTR"
+      "difficulty" : 5,
+      "clue" : "PRFCT",
+      "answer" : "PERFECT"
     },
     {
-      "answer" : "GIANT OTTER",
-      "difficulty" : 7,
-      "clue" : "GNT TTR"
-    },
-    {
-      "answer" : "NORTH AMERICAN RIVER OTTER",
-      "difficulty" : 8,
-      "clue" : "NRTH MRCN RVR TTR"
-    },
-    {
-      "answer" : "EUROPEAN PINE MARTEN",
-      "difficulty" : 8,
-      "clue" : "RPN PN MRTN"
-    },
-    {
-      "answer" : "BLACK-FOOTED FERRET",
-      "difficulty" : 8,
-      "clue" : "BLCK-FTD FRRT"
-    },
-    {
-      "answer" : "MARBLED POLECAT",
-      "difficulty" : 7,
-      "clue" : "MRBLD PLCT"
-    },
-    {
-      "answer" : "SABLE",
       "difficulty" : 4,
-      "clue" : "SBL"
+      "clue" : "MRY JN",
+      "answer" : "MARY JANE"
     },
     {
-      "answer" : "YELLOW-THROATED MARTEN",
+      "difficulty" : 4,
+      "clue" : "WK P",
+      "answer" : "WAKE UP"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "YR HS",
+      "answer" : "YOUR HOUSE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "HNDS CLN",
+      "answer" : "HANDS CLEAN"
+    },
+    {
       "difficulty" : 7,
-      "clue" : "YLLW-THRTD MRTN"
+      "clue" : "PRCS LLSNS",
+      "answer" : "PRECIOUS ILLUSIONS"
     },
     {
-      "answer" : "SMOOTH-COATED OTTER",
-      "difficulty" : 8,
-      "clue" : "SMTH-CTD TTR"
+      "difficulty" : 5,
+      "clue" : "VRTHNG",
+      "answer" : "EVERYTHING"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NDRNTH",
+      "answer" : "UNDERNEATH"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GRDN",
+      "answer" : "GUARDIAN"
     }
+  ],
+  "tags" : [
+    "music",
+    "popular culture"
   ]
 }

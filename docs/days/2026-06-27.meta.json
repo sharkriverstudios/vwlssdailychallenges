@@ -1,4 +1,70 @@
 {
+  "extraClues" : [
+    {
+      "answer" : "LYSOSOME",
+      "clue" : "LSSM",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "VACUOLE",
+      "clue" : "VC L",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CYTOSKELETON",
+      "clue" : "CYTSKLTN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "NUCLEOLUS",
+      "clue" : "NCLLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PEROXISOME",
+      "clue" : "PRXSM",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CENTRIOLE",
+      "clue" : "CNTRL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PLASMA MEMBRANE",
+      "clue" : "PLSM MMBRN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CHROMATIN",
+      "clue" : "CHRM TN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MICROTUBULE",
+      "clue" : "MCRTBL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FLAGELLUM",
+      "clue" : "FLGLLM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CILIA",
+      "clue" : "CL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "RIBOSOME",
+      "clue" : "RB SM",
+      "difficulty" : 4
+    }
+  ],
+  "tags" : [
+    "science",
+    "biology"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,72 +86,5 @@
     "",
     "",
     ""
-  ],
-  "description" : "baseball pitchers",
-  "extraClues" : [
-    {
-      "answer" : "GREG MADDUX",
-      "difficulty" : 6,
-      "clue" : "GRG MDDX"
-    },
-    {
-      "answer" : "BOB GIBSON",
-      "difficulty" : 5,
-      "clue" : "BB GBSN"
-    },
-    {
-      "answer" : "CLAYTON KERSHAW",
-      "difficulty" : 6,
-      "clue" : "CLYTN KRSHW"
-    },
-    {
-      "answer" : "WALTER JOHNSON",
-      "difficulty" : 5,
-      "clue" : "WLTR JHNSN"
-    },
-    {
-      "answer" : "STEVE CARLTON",
-      "difficulty" : 6,
-      "clue" : "STV CRLTN"
-    },
-    {
-      "answer" : "CHRISTY MATHEWSON",
-      "difficulty" : 5,
-      "clue" : "CHRSTY MTHWSN"
-    },
-    {
-      "answer" : "WARREN SPAHN",
-      "difficulty" : 5,
-      "clue" : "WRRN SPHN"
-    },
-    {
-      "answer" : "MARIANO RIVERA",
-      "difficulty" : 6,
-      "clue" : "MRN RVRA"
-    },
-    {
-      "answer" : "GAYLORD PERRY",
-      "difficulty" : 7,
-      "clue" : "GYLRD PRRY"
-    },
-    {
-      "answer" : "FERNANDO VALENZUELA",
-      "difficulty" : 7,
-      "clue" : "FRNND VLNZL"
-    },
-    {
-      "answer" : "JUSTIN VERLANDER",
-      "difficulty" : 6,
-      "clue" : "JSTN VRLND"
-    },
-    {
-      "answer" : "LEFTY GROVE",
-      "difficulty" : 6,
-      "clue" : "LFTY GRV"
-    }
-  ],
-  "tags" : [
-    "sports",
-    "common knowledge"
   ]
 }

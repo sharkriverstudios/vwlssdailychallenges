@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Venice",
+      "Constantinople",
+      "Jerusalem",
+      "Trebizond",
+      "Baghdad",
+      "Hormuz",
+      "Kashgar",
+      "Samarkand",
+      "Bukhara",
+      "Khotan",
+      "Yarkand",
+      "Srinagar",
+      "Lahore",
+      "Multan",
+      "Delhi",
+      "Quanzhou",
+      "Hangzhou",
+      "Beijing",
+      "Shangdu",
+      "Zhangye",
+      "Yuan Capital",
+      "Zayton",
+      "Khanbaliq",
+      "Ceylon",
+      "Sumatra",
+      "Java",
+      "Borneo",
+      "Persia",
+      "Armenia",
+      "Georgia",
+      "Tiflis",
+      "Acre",
+      "Hormuz Island",
+      "Balkh",
+      "Badakhshan",
+      "Kerman",
+      "Yazd",
+      "Sistan",
+      "Mongolia",
+      "Pamir Mountains",
+      "Gobi Desert",
+      "Turfan",
+      "Changan",
+      "Sukhothai",
+      "Malacca",
+      "Cochin",
+      "Madurai",
+      "Calicut",
+      "Quilon",
+      "Cambay",
+      "Tana",
+      "Socotra"
+    ],
+    "category" : "Places Marco Polo Visited",
+    "clues" : [
+      {
+        "answer" : "VENICE",
+        "clue" : "VNC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BEIJING",
+        "clue" : "BJNG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CONSTANTINOPLE",
+        "clue" : "CNSTNTNPL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JERUSALEM",
+        "clue" : "JRSLM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BAGHDAD",
+        "clue" : "BGHDD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PERSIA",
+        "clue" : "PRS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SAMARKAND",
+        "clue" : "SMRKND",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "HORMUZ",
+        "clue" : "HRMZ",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-29",
+  "schemaVersion" : 1
+}

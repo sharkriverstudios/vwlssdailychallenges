@@ -1,0 +1,133 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Oh",
+      "Say",
+      "Can",
+      "You",
+      "See",
+      "By",
+      "The",
+      "Dawn's",
+      "Early",
+      "Light",
+      "What",
+      "So",
+      "Proudly",
+      "We",
+      "Hailed",
+      "At",
+      "The",
+      "Twilight's",
+      "Last",
+      "Gleaming",
+      "Whose",
+      "Broad",
+      "Stripes",
+      "And",
+      "Bright",
+      "Stars",
+      "Through",
+      "The",
+      "Perilous",
+      "Fight",
+      "O'er",
+      "The",
+      "Ramparts",
+      "We",
+      "Watched",
+      "Were",
+      "So",
+      "Gallantly",
+      "Streaming",
+      "And",
+      "The",
+      "Rocket's",
+      "Red",
+      "Glare",
+      "The",
+      "Bombs",
+      "Bursting",
+      "In",
+      "Air",
+      "Gave",
+      "Proof",
+      "Through",
+      "The",
+      "Night",
+      "That",
+      "Our",
+      "Flag",
+      "Was",
+      "Still",
+      "There",
+      "Oh",
+      "Say",
+      "Does",
+      "That",
+      "Star-Spangled",
+      "Banner",
+      "Yet",
+      "Wave",
+      "O'er",
+      "The",
+      "Land",
+      "Of",
+      "The",
+      "Free",
+      "And",
+      "The",
+      "Home",
+      "Of",
+      "The",
+      "Brave"
+    ],
+    "category" : "words in the star spangled banner",
+    "clues" : [
+      {
+        "answer" : "SEE",
+        "clue" : "S",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BRAVE",
+        "clue" : "BRV",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ROCKET'S",
+        "clue" : "RCKTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PROUDLY",
+        "clue" : "PRDL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "STRIPES",
+        "clue" : "STRPS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "STREAMING",
+        "clue" : "STRMNG",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "RAMPARTS",
+        "clue" : "RMPRTS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TWILIGHT'S",
+        "clue" : "TWLGHTS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-06-30",
+  "schemaVersion" : 1
+}

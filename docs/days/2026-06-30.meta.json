@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "music",
+    "history",
+    "culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "BOMBS",
+      "clue" : "BMBS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BROAD",
+      "clue" : "BRD",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "STAR-SPANGLED",
+      "clue" : "STR-SPNGLD",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GALLANTLY",
+      "clue" : "GLLNTLY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PERILOUS",
+      "clue" : "PRLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TWILIGHT'S",
+      "clue" : "TWLGHTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PERILOUS",
+      "clue" : "PRLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "STREAMING",
+      "clue" : "STRMNG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "RAMPARTS",
+      "clue" : "RMPRTS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TWILIGHT'S",
+      "clue" : "TWLGHTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GALLANTLY",
+      "clue" : "GLLNTLY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "STREAMING",
+      "clue" : "STRMNG",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.6.1",
-  "generatedAt": "2026-06-01T16:25:31Z",
+  "contentVersion": "2026.6.19",
+  "generatedAt": "2026-06-19T05:32:48Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-06-28",
+  "availableTo": "2026-07-03",
   "days": [
     {
       "date": "2026-04-01",
@@ -458,7 +458,7 @@
       "difficulty": 5,
       "category": "80s Family Comedies",
       "path": "days/2026-06-04.json",
-      "hash": "sha256:052d460e721e06db1c0c6697589e8d6c8364a5bc217c56f091b115d14f72256d"
+      "hash": "sha256:1f79410d47e84b159dbaffc01969fc3bb25024267d79faab23bf3ad115f9934c"
     },
     {
       "date": "2026-06-05",
@@ -560,10 +560,10 @@
     },
     {
       "date": "2026-06-19",
-      "difficulty": 6,
-      "category": "Alanis Morisette",
+      "difficulty": 5,
+      "category": "Mustelids",
       "path": "days/2026-06-19.json",
-      "hash": "sha256:ac3a3201dcedfa904d0dd44e763c5e434bb19e16a64ca635b27b437849a5416f"
+      "hash": "sha256:16ce35248b96908aa8678733703629ba45b10f83ed9b7a3cc103f5161d083f2a"
     },
     {
       "date": "2026-06-20",
@@ -602,24 +602,24 @@
     },
     {
       "date": "2026-06-25",
-      "difficulty": 5,
-      "category": "Mustelids",
+      "difficulty": 6,
+      "category": "Alanis Morisette",
       "path": "days/2026-06-25.json",
-      "hash": "sha256:3ad186c6b5541abe046c1c0349017a03e0bc476213ddcc5b7764b3d8f372727f"
+      "hash": "sha256:b079bc4516d8a7f373b7a05e277035a801649d6d5eed9bf946911cf1ffb8de3e"
     },
     {
       "date": "2026-06-26",
       "difficulty": 7,
-      "category": "parts of a cell",
+      "category": "Famous Pitchers",
       "path": "days/2026-06-26.json",
-      "hash": "sha256:a40e580c9d3d1097c5641c004045257e1af6948c4d3e9f258715fc9f4ada5aec"
+      "hash": "sha256:cdf70e6b09c808d776fa6b7c0102d45d18b732e727dc00f37f99cce7c4760249"
     },
     {
       "date": "2026-06-27",
       "difficulty": 7,
-      "category": "Famous Pitchers",
+      "category": "parts of a cell",
       "path": "days/2026-06-27.json",
-      "hash": "sha256:c0fce37adfb961d9862d53f9874d096bb07459539a9075f11e58732b125f9fe6"
+      "hash": "sha256:f52933b653de5566bd32e7dc1eb8b48aa9d3e02b68355f340539a986339bc632"
     },
     {
       "date": "2026-06-28",
@@ -627,6 +627,41 @@
       "category": "English Monarchs",
       "path": "days/2026-06-28.json",
       "hash": "sha256:201f977ad053c6cc3e4959d78db6406c23edad8c844d1734b2d1efbb1990c439"
+    },
+    {
+      "date": "2026-06-29",
+      "difficulty": 6,
+      "category": "Places Marco Polo Visited",
+      "path": "days/2026-06-29.json",
+      "hash": "sha256:6f5260333ccb83755a87152954e5c79783c03bb14b280d9dae6bd009106845ce"
+    },
+    {
+      "date": "2026-06-30",
+      "difficulty": 4,
+      "category": "words in the star spangled banner",
+      "path": "days/2026-06-30.json",
+      "hash": "sha256:b3b31d118f20c0c87fb9be9b45fa49f876ee3735a9efe8b7b5f96f27bfe154e8"
+    },
+    {
+      "date": "2026-07-01",
+      "difficulty": 5,
+      "category": "Brands of Soap",
+      "path": "days/2026-07-01.json",
+      "hash": "sha256:0ffd1691ded0012d728f85d183faf813d9568fe5b3f7780aa46f617a73d71066"
+    },
+    {
+      "date": "2026-07-02",
+      "difficulty": 5,
+      "category": "Celebrity Chefs",
+      "path": "days/2026-07-02.json",
+      "hash": "sha256:4ccb85da30ae8a571a4a8123c2bca10fd7c142487ddbdf58a8733f0299708bc7"
+    },
+    {
+      "date": "2026-07-03",
+      "difficulty": 6,
+      "category": "Movies set in Paris",
+      "path": "days/2026-07-03.json",
+      "hash": "sha256:ab957c75ed0d1da9cb7919fa2cae494b9d238e2cc86b957c7cb3aad8993e9ac6"
     }
   ]
 }

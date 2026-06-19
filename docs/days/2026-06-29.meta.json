@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KHANBALIQ",
+      "clue" : "KHNBLQ",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BORNEO",
+      "clue" : "BRN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SUMATRA",
+      "clue" : "SMTR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SHANGDU",
+      "clue" : "SHNGD",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "KHOTAN",
+      "clue" : "KHTN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "YARKAND",
+      "clue" : "YRKND",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "QUANZHOU",
+      "clue" : "QNZH",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "PAMIR MOUNTAINS",
+      "clue" : "PMR MNTNS",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "TURFAN",
+      "clue" : "TRFN",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "SUKHOTHAI",
+      "clue" : "SKHTH",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "ZHANGYE",
+      "clue" : "ZHNGY",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "SISTAN",
+      "clue" : "SSTN",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "history",
+    "geography",
+    "travel"
+  ]
+}

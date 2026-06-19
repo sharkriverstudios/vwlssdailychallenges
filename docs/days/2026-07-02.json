@@ -1,0 +1,115 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Gordon Ramsay",
+      "Jamie Oliver",
+      "Nigella Lawson",
+      "Anthony Bourdain",
+      "Rachael Ray",
+      "Emeril Lagasse",
+      "Wolfgang Puck",
+      "Bobby Flay",
+      "Guy Fieri",
+      "Ina Garten",
+      "Paula Deen",
+      "Alton Brown",
+      "Julia Child",
+      "Thomas Keller",
+      "Mario Batali",
+      "Heston Blumenthal",
+      "Alice Waters",
+      "Marco Pierre White",
+      "David Chang",
+      "Masaharu Morimoto",
+      "Curtis Stone",
+      "Giada De Laurentiis",
+      "Rick Bayless",
+      "Jacques Pepin",
+      "Martha Stewart",
+      "Aarón Sánchez",
+      "José Andrés",
+      "Michael Symon",
+      "Tom Colicchio",
+      "Lidia Bastianich",
+      "Marcus Samuelsson",
+      "Yotam Ottolenghi",
+      "Daniel Boulud",
+      "Thomas Keller",
+      "Anne Burrell",
+      "Jimmy Oliver",
+      "Nobu Matsuhisa",
+      "Alex Guarnaschelli",
+      "Charlie Trotter",
+      "Patricia Wells",
+      "Ming Tsai",
+      "Martin Yan",
+      "Pierre Gagnaire",
+      "Raymond Blanc",
+      "Jean-Georges Vongerichten",
+      "Alain Ducasse",
+      "José Pizarro",
+      "Clare Smyth",
+      "Dominique Crenn",
+      "Mary Berry",
+      "Paul Bocuse",
+      "Ferran Adria",
+      "Massimo Bottura",
+      "Sanjeev Kapoor",
+      "Giorgio Locatelli",
+      "Nadiya Hussain",
+      "Manu Feildel",
+      "Monica Galetti",
+      "Ken Hom",
+      "Vikas Khanna",
+      "Rene Redzepi",
+      "Nancy Silverton"
+    ],
+    "category" : "Celebrity Chefs",
+    "clues" : [
+      {
+        "answer" : "RACHAEL RAY",
+        "clue" : "RCHL RY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GORDON RAMSAY",
+        "clue" : "GRDN RMSY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARTHA STEWART",
+        "clue" : "MRTH STWRT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JAMIE OLIVER",
+        "clue" : "JM LVR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "NIGELLA LAWSON",
+        "clue" : "NGLL LWSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GUY FIERI",
+        "clue" : "GYF R",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WOLFGANG PUCK",
+        "clue" : "WLFGNG PCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ANTHONY BOURDAIN",
+        "clue" : "NTHN BRDN",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-02",
+  "schemaVersion" : 1
+}
