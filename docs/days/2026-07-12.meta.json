@@ -1,65 +1,46 @@
 {
-  "description" : "songs that Willie Nelson performed that became number one hits",
   "extraClues" : [
     {
-      "answer" : "MAMAS DON'T LET YOUR BABIES GROW UP TO BE COWBOYS",
-      "difficulty" : 8,
-      "clue" : "MMS DNT LT YR BBS GRW P T B CWBYS"
-    },
-    {
-      "answer" : "ANGEL FLYING TOO CLOSE TO THE GROUND",
-      "difficulty" : 6,
-      "clue" : "NGL FLYNG T CLS T TH GRND"
-    },
-    {
-      "answer" : "HIGHWAYMAN",
+      "clue" : "RZN",
       "difficulty" : 5,
-      "clue" : "HGHWYMN"
+      "answer" : "ARIZONA"
     },
     {
-      "answer" : "FORGIVING YOU WAS EASY",
-      "difficulty" : 4,
-      "clue" : "FRGVNG Y WS SY"
-    },
-    {
-      "answer" : "PANCHO AND LEFTY",
+      "clue" : "LLNS",
       "difficulty" : 5,
-      "clue" : "PNCH ND LFTY"
+      "answer" : "ILLINOIS"
     },
     {
-      "answer" : "LIVING IN THE PROMISELAND",
-      "difficulty" : 6,
-      "clue" : "LVNG N TH PRMSLND"
-    },
-    {
-      "answer" : "NOTHING I CAN DO ABOUT IT NOW",
-      "difficulty" : 7,
-      "clue" : "NTHNG CND BT T NW"
-    },
-    {
-      "answer" : "CITY OF NEW ORLEANS",
+      "clue" : "KLHM",
       "difficulty" : 5,
-      "clue" : "CTY F NW RLNS"
+      "answer" : "OKLAHOMA"
     },
     {
-      "answer" : "SEVEN SPANISH ANGELS",
-      "difficulty" : 6,
-      "clue" : "SVN SPNSH NGLS"
+      "difficulty" : 1
     },
     {
-      "answer" : "JUST TO SATISFY YOU",
-      "difficulty" : 5,
-      "clue" : "JST T STSFY Y"
+      "difficulty" : 1
     },
     {
-      "answer" : "ME AND BOBBY MCGEE",
-      "difficulty" : 6,
-      "clue" : "M ND BBY MCG"
+      "difficulty" : 1
     },
     {
-      "answer" : "UNCLOUDY DAY",
-      "difficulty" : 6,
-      "clue" : "NCLDY DY"
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
     }
   ],
   "clueNotes" : [
@@ -85,7 +66,7 @@
     ""
   ],
   "tags" : [
-    "music",
-    "popular culture"
+    "geography",
+    "common knowledge"
   ]
 }

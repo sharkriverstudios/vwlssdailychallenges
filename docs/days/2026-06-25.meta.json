@@ -1,4 +1,66 @@
 {
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "BEFORE SUNSET",
+      "clue" : "BFR SNST"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "THE INTREPID CARMEN",
+      "clue" : "TH NTRPD CRMN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PARIS, JE T'AIME",
+      "clue" : "PRS J TM"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE BOURNE IDENTITY",
+      "clue" : "TH BRN DNTTY"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CHARADE",
+      "clue" : "CHRD"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE INTOUCHABLES",
+      "clue" : "TH NTCBL"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "JULIE & JULIA",
+      "clue" : "JL & JL"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "SABRINA",
+      "clue" : "SBRN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FUNNY FACE",
+      "clue" : "FNNY FC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "GIGI",
+      "clue" : "GG"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "TAKEN",
+      "clue" : "TKN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "INCEPTION",
+      "clue" : "NCPTN"
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -21,70 +83,9 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "difficulty" : 7,
-      "clue" : "RGT THRGH Y",
-      "answer" : "RIGHT THROUGH YOU"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "FRGVN",
-      "answer" : "FORGIVEN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "NT TH DCTR",
-      "answer" : "NOT THE DOCTOR"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "PRFCT",
-      "answer" : "PERFECT"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "MRY JN",
-      "answer" : "MARY JANE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "WK P",
-      "answer" : "WAKE UP"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "YR HS",
-      "answer" : "YOUR HOUSE"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "HNDS CLN",
-      "answer" : "HANDS CLEAN"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "PRCS LLSNS",
-      "answer" : "PRECIOUS ILLUSIONS"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "VRTHNG",
-      "answer" : "EVERYTHING"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "NDRNTH",
-      "answer" : "UNDERNEATH"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "GRDN",
-      "answer" : "GUARDIAN"
-    }
-  ],
   "tags" : [
-    "music",
-    "popular culture"
+    "cinema",
+    "geography",
+    "culture"
   ]
 }

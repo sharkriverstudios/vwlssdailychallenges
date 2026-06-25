@@ -1,72 +1,70 @@
 {
+  "tags" : [
+    "culinary",
+    "popular culture"
+  ],
   "extraClues" : [
     {
-      "answer" : "SKUNK APE",
-      "clue" : "SKNK P",
-      "difficulty" : 5
+      "difficulty" : 5,
+      "clue" : "MRL LGSS",
+      "answer" : "EMERIL LAGASSE"
     },
     {
-      "answer" : "LOVELAND FROGMAN",
-      "clue" : "LVLND FRGMN",
-      "difficulty" : 7
+      "difficulty" : 5,
+      "clue" : "LTN BRWN",
+      "answer" : "ALTON BROWN"
     },
     {
-      "answer" : "LIZARD MAN",
-      "clue" : "LZRD MN",
-      "difficulty" : 6
+      "difficulty" : 5,
+      "clue" : "BBY FLY",
+      "answer" : "BOBBY FLAY"
     },
     {
-      "answer" : "LAKE CHAMPLAIN MONSTER",
-      "clue" : "LK CHMPLN MNSTR",
-      "difficulty" : 7
+      "difficulty" : 6,
+      "clue" : "N GRTN",
+      "answer" : "INA GARTEN"
     },
     {
-      "answer" : "DOVER DEMON",
-      "clue" : "DVR DMN",
-      "difficulty" : 6
+      "difficulty" : 5,
+      "clue" : "PL DN",
+      "answer" : "PAULA DEEN"
     },
     {
-      "answer" : "FLATWOODS MONSTER",
-      "clue" : "FLTWDS MNSTR",
-      "difficulty" : 7
+      "difficulty" : 6,
+      "clue" : "MRCPRR WHT",
+      "answer" : "MARCO PIERRE WHITE"
     },
     {
-      "answer" : "HODAG",
-      "clue" : "HDG",
-      "difficulty" : 8
+      "difficulty" : 7,
+      "clue" : "MSHR MRTMT",
+      "answer" : "MASAHARU MORIMOTO"
     },
     {
-      "answer" : "FOUKE MONSTER",
-      "clue" : "FK MNSTR",
-      "difficulty" : 7
+      "difficulty" : 6,
+      "clue" : "JCQS PPN",
+      "answer" : "JACQUES PEPIN"
     },
     {
-      "answer" : "BEAST OF BRAY ROAD",
-      "clue" : "BST F BRY RD",
-      "difficulty" : 7
+      "difficulty" : 7,
+      "clue" : "THMS KLLR",
+      "answer" : "THOMAS KELLER"
     },
     {
-      "answer" : "ALTAMAHA-HA",
-      "clue" : "LTMH-H",
-      "difficulty" : 9
+      "difficulty" : 7,
+      "clue" : "MR BTL",
+      "answer" : "MARIO BATALI"
     },
     {
-      "answer" : "BUNYIP",
-      "clue" : "BNYP",
-      "difficulty" : 9
+      "difficulty" : 8,
+      "clue" : "HSTN BLMNTHL",
+      "answer" : "HESTON BLUMENTHAL"
     },
     {
-      "answer" : "WHITE RIVER MONSTER",
-      "clue" : "WHT RVR MNSTR",
-      "difficulty" : 7
+      "difficulty" : 8,
+      "clue" : "YTM TTLNGH",
+      "answer" : "YOTAM OTTOLENGHI"
     }
   ],
-  "tags" : [
-    "mythology",
-    "culture",
-    "folklore"
-  ],
-  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
   "clueNotes" : [
     "",
     "",

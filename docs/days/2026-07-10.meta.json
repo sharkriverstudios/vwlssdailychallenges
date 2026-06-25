@@ -1,70 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "LYSOSOME",
-      "clue" : "LSSM",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "VACUOLE",
-      "clue" : "VC L",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "CYTOSKELETON",
-      "clue" : "CYTSKLTN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "NUCLEOLUS",
-      "clue" : "NCLLS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "PEROXISOME",
-      "clue" : "PRXSM",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "CENTRIOLE",
-      "clue" : "CNTRL",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "PLASMA MEMBRANE",
-      "clue" : "PLSM MMBRN",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "CHROMATIN",
-      "clue" : "CHRM TN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "MICROTUBULE",
-      "clue" : "MCRTBL",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "FLAGELLUM",
-      "clue" : "FLGLLM",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "CILIA",
-      "clue" : "CL",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "RIBOSOME",
-      "clue" : "RB SM",
-      "difficulty" : 4
-    }
-  ],
-  "tags" : [
-    "science",
-    "biology"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -86,5 +20,71 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "clue" : "RGT THRGH Y",
+      "answer" : "RIGHT THROUGH YOU"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "FRGVN",
+      "answer" : "FORGIVEN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NT TH DCTR",
+      "answer" : "NOT THE DOCTOR"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PRFCT",
+      "answer" : "PERFECT"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "MRY JN",
+      "answer" : "MARY JANE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "WK P",
+      "answer" : "WAKE UP"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "YR HS",
+      "answer" : "YOUR HOUSE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "HNDS CLN",
+      "answer" : "HANDS CLEAN"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "PRCS LLSNS",
+      "answer" : "PRECIOUS ILLUSIONS"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "VRTHNG",
+      "answer" : "EVERYTHING"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "NDRNTH",
+      "answer" : "UNDERNEATH"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GRDN",
+      "answer" : "GUARDIAN"
+    }
+  ],
+  "tags" : [
+    "music",
+    "popular culture"
   ]
 }

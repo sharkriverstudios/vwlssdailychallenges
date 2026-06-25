@@ -1,0 +1,111 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus",
+      "Lysosome",
+      "Cytoplasm",
+      "Cell Membrane",
+      "Chloroplast",
+      "Vacuole",
+      "Cytoskeleton",
+      "Nucleolus",
+      "Peroxisome",
+      "Centriole",
+      "Cell Wall",
+      "Plasma Membrane",
+      "Nuclear Envelope",
+      "Chromatin",
+      "Microtubule",
+      "Flagellum",
+      "Cilia",
+      "Rough Endoplasmic Reticulum",
+      "Smooth Endoplasmic Reticulum",
+      "Transport Vesicle",
+      "Nuclear Pore",
+      "Microfilaments",
+      "Intermediate Filaments",
+      "Basal Body",
+      "Tonoplast",
+      "Plasmodesmata",
+      "Stroma",
+      "Thylakoid",
+      "Granum",
+      "Matrix",
+      "Cristae",
+      "Inner Membrane",
+      "Outer Membrane",
+      "Nuclear Matrix",
+      "Nuclear Lamina",
+      "Secretory Vesicle",
+      "Amyloplast",
+      "Chromoplast",
+      "Elaioplast",
+      "Leucoplast",
+      "Perinuclear Space",
+      "Endosome",
+      "Autophagosome",
+      "Glyoxysome",
+      "Primary Cilium",
+      "Axoneme",
+      "Blebbing",
+      "Cell Cortex",
+      "Desmosome",
+      "Hemidesmosome",
+      "Adherens Junction",
+      "Tight Junction",
+      "Gap Junction",
+      "Microvilli"
+    ],
+    "category" : "parts of a cell",
+    "clues" : [
+      {
+        "answer" : "NUCLEUS",
+        "clue" : "NCLS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CYTOPLASM",
+        "clue" : "CTPLSM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CELL MEMBRANE",
+        "clue" : "CLL MMBRN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RIBOSOME",
+        "clue" : "RBSM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MITOCHONDRIA",
+        "clue" : "MTCHNDR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CHLOROPLAST",
+        "clue" : "CHLRPLST",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GOLGI APPARATUS",
+        "clue" : "GLG PPRTS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ENDOPLASMIC RETICULUM",
+        "clue" : "NDPLSMC RTC LM",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-17",
+  "schemaVersion" : 1
+}

@@ -1,11 +1,10 @@
 {
-  "description" : "projects, roles, accomplishments of the famous comedian and actress",
   "tags" : [
-    "cinema",
-    "television",
-    "comedy",
-    "popular culture"
+    "sports",
+    "traditions",
+    "travel"
   ],
+  "description" : "Everything about the race: gear, techniques, places, traditions, etc",
   "clueNotes" : [
     "",
     "",
@@ -30,64 +29,64 @@
   ],
   "extraClues" : [
     {
-      "answer" : "HOW STELLA GOT HER GROOVE BACK",
-      "difficulty" : 9,
-      "clue" : "HW STLL GT HR GRV BCK"
+      "clue" : "DMSTQ",
+      "answer" : "DOMESTIQUE",
+      "difficulty" : 8
     },
     {
-      "answer" : "THE LONG WALK HOME",
-      "difficulty" : 7,
-      "clue" : "TH LNG WLK HM"
+      "clue" : "GRN JRSY",
+      "answer" : "GREEN JERSEY",
+      "difficulty" : 3
     },
     {
-      "answer" : "FOR COLORED GIRLS",
-      "difficulty" : 7,
-      "clue" : "FR CLRD GRLS"
+      "clue" : "WHT JRSY",
+      "answer" : "WHITE JERSEY",
+      "difficulty" : 3
     },
     {
-      "answer" : "CORRINA, CORRINA",
-      "difficulty" : 7,
-      "clue" : "CRRN, CRRN"
+      "clue" : "TM CR",
+      "answer" : "TEAM CAR",
+      "difficulty" : 4
     },
     {
-      "answer" : "GHOSTS OF MISSISSIPPI",
-      "difficulty" : 8,
-      "clue" : "GHSTS F MSSSSPP"
+      "clue" : "SPRT VHCL",
+      "answer" : "SUPPORT VEHICLE",
+      "difficulty" : 7
     },
     {
-      "answer" : "JUMPIN' JACK FLASH",
-      "difficulty" : 6,
-      "clue" : "JMPN' JCK FLSH"
+      "clue" : "BDN",
+      "answer" : "BIDON",
+      "difficulty" : 9
     },
     {
-      "answer" : "THE PLAYER",
-      "difficulty" : 6,
-      "clue" : "TH PLYR"
+      "clue" : "CHMPS-LYS",
+      "answer" : "CHAMPS-ELYSEES",
+      "difficulty" : 6
     },
     {
-      "answer" : "CLARA'S HEART",
-      "difficulty" : 6,
-      "clue" : "CLR'S HRT"
+      "clue" : "CL D TRMLT",
+      "answer" : "COL DU TOURMALET",
+      "difficulty" : 8
     },
     {
-      "answer" : "THE ASSOCIATE",
-      "difficulty" : 6,
-      "clue" : "TH SSCT"
+      "clue" : "LP D'HZ",
+      "answer" : "ALPE D'HUEZ",
+      "difficulty" : 8
     },
     {
-      "answer" : "MADE IN AMERICA",
-      "difficulty" : 5,
-      "clue" : "MD N MRC"
+      "clue" : "CHLN",
+      "answer" : "ECHELON",
+      "difficulty" : 8
     },
     {
-      "answer" : "COMIC RELIEF",
-      "difficulty" : 5,
-      "clue" : "CMC RLF"
+      "clue" : "LNTRN RG",
+      "answer" : "LANTERNE ROUGE",
+      "difficulty" : 7
     },
     {
-      "answer" : "THE MUPPETS",
-      "difficulty" : 5,
-      "clue" : "TH MPPTS"
+      "clue" : "GRND DPRT",
+      "answer" : "GRAND DÉPART",
+      "difficulty" : 5
     }
   ]
 }

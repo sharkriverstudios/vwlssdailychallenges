@@ -1,66 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "answer" : "BEFORE SUNSET",
-      "clue" : "BFR SNST"
-    },
-    {
-      "difficulty" : 10,
-      "answer" : "THE INTREPID CARMEN",
-      "clue" : "TH NTRPD CRMN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "PARIS, JE T'AIME",
-      "clue" : "PRS J TM"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE BOURNE IDENTITY",
-      "clue" : "TH BRN DNTTY"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "CHARADE",
-      "clue" : "CHRD"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE INTOUCHABLES",
-      "clue" : "TH NTCBL"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "JULIE & JULIA",
-      "clue" : "JL & JL"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "SABRINA",
-      "clue" : "SBRN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "FUNNY FACE",
-      "clue" : "FNNY FC"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "GIGI",
-      "clue" : "GG"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "TAKEN",
-      "clue" : "TKN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "INCEPTION",
-      "clue" : "NCPTN"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -84,8 +22,70 @@
     ""
   ],
   "tags" : [
-    "cinema",
+    "history",
     "geography",
-    "culture"
+    "travel"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KHANBALIQ",
+      "difficulty" : 8,
+      "clue" : "KHNBLQ"
+    },
+    {
+      "answer" : "BORNEO",
+      "difficulty" : 6,
+      "clue" : "BRN"
+    },
+    {
+      "answer" : "SUMATRA",
+      "difficulty" : 6,
+      "clue" : "SMTR"
+    },
+    {
+      "answer" : "SHANGDU",
+      "difficulty" : 8,
+      "clue" : "SHNGD"
+    },
+    {
+      "answer" : "KHOTAN",
+      "difficulty" : 7,
+      "clue" : "KHTN"
+    },
+    {
+      "answer" : "YARKAND",
+      "difficulty" : 7,
+      "clue" : "YRKND"
+    },
+    {
+      "answer" : "QUANZHOU",
+      "difficulty" : 8,
+      "clue" : "QNZH"
+    },
+    {
+      "answer" : "PAMIR MOUNTAINS",
+      "difficulty" : 9,
+      "clue" : "PMR MNTNS"
+    },
+    {
+      "answer" : "TURFAN",
+      "difficulty" : 8,
+      "clue" : "TRFN"
+    },
+    {
+      "answer" : "SUKHOTHAI",
+      "difficulty" : 9,
+      "clue" : "SKHTH"
+    },
+    {
+      "answer" : "ZHANGYE",
+      "difficulty" : 9,
+      "clue" : "ZHNGY"
+    },
+    {
+      "answer" : "SISTAN",
+      "difficulty" : 9,
+      "clue" : "SSTN"
+    }
   ]
 }

@@ -1,8 +1,9 @@
 {
   "tags" : [
-    "literature",
-    "classics",
-    "folklore"
+    "technology",
+    "engineering",
+    "home",
+    "transportation"
   ],
   "clueNotes" : [
     "",
@@ -28,64 +29,64 @@
   ],
   "extraClues" : [
     {
-      "difficulty" : 5,
-      "answer" : "THE WILD SWANS",
-      "clue" : "TH WLD SWNS"
+      "answer" : "VACUUM CLEANER",
+      "clue" : "VCM CLNR",
+      "difficulty" : 4
     },
     {
-      "difficulty" : 4,
-      "answer" : "THE RED SHOES",
-      "clue" : "TH RD SHS"
+      "answer" : "ELECTRIC FAN",
+      "clue" : "LCTR FCN",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 6,
-      "answer" : "THE TINDERBOX",
-      "clue" : "TH TNDRBX"
+      "answer" : "AUTOMOBILE",
+      "clue" : "TMBL",
+      "difficulty" : 7
     },
     {
-      "difficulty" : 6,
-      "answer" : "THE SWINEHERD",
-      "clue" : "TH SWNHRD"
+      "answer" : "SPEEDBOAT",
+      "clue" : "SPDBT",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 7,
-      "answer" : "THE SHEPHERDESS AND THE CHIMNEY SWEEP",
-      "clue" : "TH SHPHRDSS ND TH CHMNY SWP"
+      "answer" : "REFRIGERATOR",
+      "clue" : "RFRGRTR",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 7,
-      "answer" : "THE FIR TREE",
-      "clue" : "TH FR TR"
+      "answer" : "POWER SAW",
+      "clue" : "PWR SW",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 7,
-      "answer" : "THE SHADOW",
-      "clue" : "TH SHDW"
+      "answer" : "ELECTRIC CAR",
+      "clue" : "LCTR CR",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 8,
-      "answer" : "THE FLAX",
-      "clue" : "TH FLX"
+      "answer" : "SCOOTER",
+      "clue" : "SCTR",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 8,
-      "answer" : "THE FLYING TRUNK",
-      "clue" : "TH FLYNG TRNK"
+      "answer" : "JET SKI",
+      "clue" : "JT SK",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 9,
-      "answer" : "THE ICE MAIDEN",
-      "clue" : "TH C MDN"
+      "answer" : "ELECTRIC GUITAR",
+      "clue" : "LCTR GTR",
+      "difficulty" : 8
     },
     {
-      "difficulty" : 9,
-      "answer" : "THE GARDEN OF PARADISE",
-      "clue" : "TH GRDN F PRDS"
+      "answer" : "TRACTOR",
+      "clue" : "TRCTR",
+      "difficulty" : 3
     },
     {
-      "difficulty" : 10,
-      "answer" : "THE STORY OF A MOTHER",
-      "clue" : "TH STRY F  MTHR"
+      "answer" : "ESCALATOR",
+      "clue" : "SCLTR",
+      "difficulty" : 4
     }
   ]
 }

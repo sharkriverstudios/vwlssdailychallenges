@@ -1,70 +1,10 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 3,
-      "clue" : "MRCN BCH",
-      "answer" : "AMERICAN BEECH"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "LV K",
-      "answer" : "LIVE OAK"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "PNDRS PN",
-      "answer" : "PONDEROSA PINE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "QKNG SPN",
-      "answer" : "QUAKING ASPEN"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "RVR BRCH",
-      "answer" : "RIVER BIRCH"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "HNY LCST",
-      "answer" : "HONEY LOCUST"
-    },
-    {
-      "difficulty" : 3,
-      "clue" : "BLD CYPRSS",
-      "answer" : "BALD CYPRESS"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "MRCN SYCMR",
-      "answer" : "AMERICAN SYCAMORE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "SHGBRK HCKRY",
-      "answer" : "SHAGBARK HICKORY"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "SG RNG",
-      "answer" : "OSAGE ORANGE"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BLCK LCST",
-      "answer" : "BLACK LOCUST"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BTTRNT HCKRY",
-      "answer" : "BITTERNUT HICKORY"
-    }
-  ],
+  "description" : "projects, roles, accomplishments of the famous comedian and actress",
   "tags" : [
-    "nature",
-    "geography",
-    "gardening"
+    "cinema",
+    "television",
+    "comedy",
+    "popular culture"
   ],
   "clueNotes" : [
     "",
@@ -87,5 +27,67 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "HOW STELLA GOT HER GROOVE BACK",
+      "difficulty" : 9,
+      "clue" : "HW STLL GT HR GRV BCK"
+    },
+    {
+      "answer" : "THE LONG WALK HOME",
+      "difficulty" : 7,
+      "clue" : "TH LNG WLK HM"
+    },
+    {
+      "answer" : "FOR COLORED GIRLS",
+      "difficulty" : 7,
+      "clue" : "FR CLRD GRLS"
+    },
+    {
+      "answer" : "CORRINA, CORRINA",
+      "difficulty" : 7,
+      "clue" : "CRRN, CRRN"
+    },
+    {
+      "answer" : "GHOSTS OF MISSISSIPPI",
+      "difficulty" : 8,
+      "clue" : "GHSTS F MSSSSPP"
+    },
+    {
+      "answer" : "JUMPIN' JACK FLASH",
+      "difficulty" : 6,
+      "clue" : "JMPN' JCK FLSH"
+    },
+    {
+      "answer" : "THE PLAYER",
+      "difficulty" : 6,
+      "clue" : "TH PLYR"
+    },
+    {
+      "answer" : "CLARA'S HEART",
+      "difficulty" : 6,
+      "clue" : "CLR'S HRT"
+    },
+    {
+      "answer" : "THE ASSOCIATE",
+      "difficulty" : 6,
+      "clue" : "TH SSCT"
+    },
+    {
+      "answer" : "MADE IN AMERICA",
+      "difficulty" : 5,
+      "clue" : "MD N MRC"
+    },
+    {
+      "answer" : "COMIC RELIEF",
+      "difficulty" : 5,
+      "clue" : "CMC RLF"
+    },
+    {
+      "answer" : "THE MUPPETS",
+      "difficulty" : 5,
+      "clue" : "TH MPPTS"
+    }
   ]
 }

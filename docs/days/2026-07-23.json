@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Alex Trebek",
+      "Pat Sajak",
+      "Vanna White",
+      "Regis Philbin",
+      "Bob Barker",
+      "Drew Carey",
+      "Steve Harvey",
+      "Howie Mandel",
+      "Wayne Brady",
+      "Meredith Vieira",
+      "Anne Robinson",
+      "Richard Dawson",
+      "Chuck Woolery",
+      "Gene Rayburn",
+      "Monty Hall",
+      "Jeff Probst",
+      "Chris Harrison",
+      "Ben Bailey",
+      "Jane Lynch",
+      "Tom Bergeron",
+      "Nick Cannon",
+      "Ryan Seacrest",
+      "Alfonso Ribeiro",
+      "Michael Strahan",
+      "Alec Baldwin",
+      "Jimmy Kimmel",
+      "Craig Ferguson",
+      "Terry Crews",
+      "Elizabeth Banks",
+      "Jane Krakowski",
+      "Billy Eichner",
+      "Drew Lachey",
+      "John O'Hurley",
+      "Louie Anderson",
+      "Richard Karn",
+      "Tom Kennedy",
+      "Jim Lange",
+      "Peter Marshall",
+      "Wink Martindale",
+      "Chuck Barris",
+      "RuPaul",
+      "Simon Cowell",
+      "Guy Fieri",
+      "Nigel Lythgoe",
+      "Graham Norton",
+      "James Corden",
+      "Rupert Everett",
+      "Tyra Banks",
+      "Tommy Maitland",
+      "Jamie Foxx"
+    ],
+    "category" : "Game Show Hosts",
+    "clues" : [
+      {
+        "answer" : "ALEX TREBEK",
+        "clue" : "LX TRBK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BOB BARKER",
+        "clue" : "BB BRKR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PAT SAJAK",
+        "clue" : "PT SJK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "REGIS PHILBIN",
+        "clue" : "RGS PHLBN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HOWIE MANDEL",
+        "clue" : "H WM NDL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VANNA WHITE",
+        "clue" : "VN NW HT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STEVE HARVEY",
+        "clue" : "STV HRVY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WAYNE BRADY",
+        "clue" : "WYN BRD",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-23",
+  "schemaVersion" : 1
+}

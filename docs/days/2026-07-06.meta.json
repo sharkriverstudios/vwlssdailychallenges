@@ -1,72 +1,4 @@
 {
-  "tags" : [
-    "animals",
-    "geography",
-    "nature"
-  ],
-  "description" : "aniamls that can be found in the Himalayas and nearby regions",
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "clue" : "TBNT FX",
-      "answer" : "TIBETAN FOX"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "TBTN NTLP",
-      "answer" : "TIBETAN ANTELOPE"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN BLCK BR",
-      "answer" : "HIMALAYAN BLACK BEAR"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "BL SHP",
-      "answer" : "BLUE SHEEP"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "PLLS'S CT",
-      "answer" : "PALLAS'S CAT"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "HMLYN THR",
-      "answer" : "HIMALAYAN TAHR"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN MNL",
-      "answer" : "HIMALAYAN MONAL"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "BHRL",
-      "answer" : "BHARAL"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "GRL",
-      "answer" : "GORAL"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "HMLYN SRW",
-      "answer" : "HIMALAYAN SEROW"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "HMLYN WLF",
-      "answer" : "HIMALAYAN WOLF"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "TBNT MSTFF",
-      "answer" : "TIBETAN MASTIFF"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,71 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "common knowledge",
+    "professions"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "WLDLF FFC R",
+      "difficulty" : 5,
+      "answer" : "WILDLIFE OFFICER"
+    },
+    {
+      "clue" : "PRMDC",
+      "difficulty" : 4,
+      "answer" : "PARAMEDIC"
+    },
+    {
+      "clue" : "MLTRY SLDR",
+      "difficulty" : 5,
+      "answer" : "MILITARY SOLDIER"
+    },
+    {
+      "clue" : "NVY SLR",
+      "difficulty" : 5,
+      "answer" : "NAVY SAILOR"
+    },
+    {
+      "clue" : "R TRFFC CNTRLLR",
+      "difficulty" : 7,
+      "answer" : "AIR TRAFFIC CONTROLLER"
+    },
+    {
+      "clue" : "FLGHT TTNDNT",
+      "difficulty" : 4,
+      "answer" : "FLIGHT ATTENDANT"
+    },
+    {
+      "clue" : "PSTL WRKR",
+      "difficulty" : 3,
+      "answer" : "POSTAL WORKER"
+    },
+    {
+      "clue" : "SCRTY GRD",
+      "difficulty" : 3,
+      "answer" : "SECURITY GUARD"
+    },
+    {
+      "clue" : "BS DRVR",
+      "difficulty" : 2,
+      "answer" : "BUS DRIVER"
+    },
+    {
+      "clue" : "TRN CNDRCTR",
+      "difficulty" : 4,
+      "answer" : "TRAIN CONDUCTOR"
+    },
+    {
+      "clue" : "CSTMS FFC R",
+      "difficulty" : 5,
+      "answer" : "CUSTOMS OFFICER"
+    },
+    {
+      "clue" : "CST GRD",
+      "difficulty" : 4,
+      "answer" : "COAST GUARD"
+    }
   ]
 }

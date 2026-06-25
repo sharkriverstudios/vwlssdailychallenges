@@ -1,70 +1,4 @@
 {
-  "tags" : [
-    "culinary",
-    "popular culture"
-  ],
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "clue" : "MRL LGSS",
-      "answer" : "EMERIL LAGASSE"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "LTN BRWN",
-      "answer" : "ALTON BROWN"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "BBY FLY",
-      "answer" : "BOBBY FLAY"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "N GRTN",
-      "answer" : "INA GARTEN"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "PL DN",
-      "answer" : "PAULA DEEN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "MRCPRR WHT",
-      "answer" : "MARCO PIERRE WHITE"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "MSHR MRTMT",
-      "answer" : "MASAHARU MORIMOTO"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "JCQS PPN",
-      "answer" : "JACQUES PEPIN"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "THMS KLLR",
-      "answer" : "THOMAS KELLER"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "MR BTL",
-      "answer" : "MARIO BATALI"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "HSTN BLMNTHL",
-      "answer" : "HESTON BLUMENTHAL"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "YTM TTLNGH",
-      "answer" : "YOTAM OTTOLENGHI"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -86,5 +20,70 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "PUTTANESCA",
+      "difficulty" : 6,
+      "clue" : "PTTNSC"
+    },
+    {
+      "answer" : "AMATRICIANA",
+      "difficulty" : 8,
+      "clue" : "MTRCNC"
+    },
+    {
+      "answer" : "NAPOLITANA",
+      "difficulty" : 5,
+      "clue" : "NPLTN"
+    },
+    {
+      "answer" : "FRA DIAVOLO",
+      "difficulty" : 9,
+      "clue" : "FR DVLL"
+    },
+    {
+      "answer" : "CACCIATORE",
+      "difficulty" : 7,
+      "clue" : "CCCTR"
+    },
+    {
+      "answer" : "GENOVESE",
+      "difficulty" : 7,
+      "clue" : "GNV"
+    },
+    {
+      "answer" : "AGLIO E OLIO",
+      "difficulty" : 10,
+      "clue" : "GL L"
+    },
+    {
+      "answer" : "VONGOLE",
+      "difficulty" : 8,
+      "clue" : "VNGL"
+    },
+    {
+      "answer" : "TARTUFO",
+      "difficulty" : 9,
+      "clue" : "TRTF"
+    },
+    {
+      "answer" : "ZAFFERANO",
+      "difficulty" : 9,
+      "clue" : "ZFFRN"
+    },
+    {
+      "answer" : "CACIO E PEPE",
+      "difficulty" : 10,
+      "clue" : "CC PP"
+    },
+    {
+      "answer" : "SALSA ROSA",
+      "difficulty" : 10,
+      "clue" : "SLS RS"
+    }
+  ],
+  "tags" : [
+    "culinary"
   ]
 }

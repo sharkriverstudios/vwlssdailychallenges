@@ -1,71 +1,4 @@
 {
-  "tags" : [
-    "music",
-    "theater",
-    "arts"
-  ],
-  "extraClues" : [
-    {
-      "answer" : "JERRY HERMAN",
-      "clue" : "JRR HRMN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "STEPHEN SCHWARTZ",
-      "clue" : "STPHN SCHWRTZ",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "FRANK LOESSER",
-      "clue" : "FRNK LSSSR",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "HAROLD ARLEN",
-      "clue" : "HRLD RLN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "KANDER AND EBB",
-      "clue" : "KNDR ND BB",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "ALAN MENKEN",
-      "clue" : "LN MNKN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "JULE STYNE",
-      "clue" : "JL STYN",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "OSCAR HAMMERSTEIN II",
-      "clue" : "SCR HMMRSTN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "JASON ROBERT BROWN",
-      "clue" : "JSN RBRT BRWN",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "JEANINE TESORI",
-      "clue" : "JNN TSR",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "MARVIN HAMLISCH",
-      "clue" : "MRVN HMLSCH",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "CHARLES STROUSE",
-      "clue" : "CHRLS STRS",
-      "difficulty" : 8
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -87,5 +20,72 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "GABON",
+      "difficulty" : 5,
+      "clue" : "GBN"
+    },
+    {
+      "answer" : "MADAGASCAR",
+      "difficulty" : 6,
+      "clue" : "MDGSCR"
+    },
+    {
+      "answer" : "TOGO",
+      "difficulty" : 5,
+      "clue" : "TG"
+    },
+    {
+      "answer" : "LUXEMBOURG",
+      "difficulty" : 7,
+      "clue" : "LXM BRG"
+    },
+    {
+      "answer" : "MALI",
+      "difficulty" : 5,
+      "clue" : "ML"
+    },
+    {
+      "answer" : "CHAD",
+      "difficulty" : 5,
+      "clue" : "CHD"
+    },
+    {
+      "answer" : "SWITZERLAND",
+      "difficulty" : 4,
+      "clue" : "SWTZRLND"
+    },
+    {
+      "answer" : "REPUBLIC OF THE CONGO",
+      "difficulty" : 9,
+      "clue" : "R PBL C F TH CNG"
+    },
+    {
+      "answer" : "CENTRAL AFRICAN REPUBLIC",
+      "difficulty" : 9,
+      "clue" : "CNTRL FRCN R PBL C"
+    },
+    {
+      "answer" : "DJIBOUTI",
+      "difficulty" : 6,
+      "clue" : "DJBT"
+    },
+    {
+      "answer" : "COMOROS",
+      "difficulty" : 6,
+      "clue" : "CMRS"
+    },
+    {
+      "answer" : "SEYCHELLES",
+      "difficulty" : 6,
+      "clue" : "SYCHLLS"
+    }
+  ],
+  "tags" : [
+    "geography",
+    "culture",
+    "language"
   ]
 }

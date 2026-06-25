@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "SKUNK APE",
+      "clue" : "SKNK P",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LOVELAND FROGMAN",
+      "clue" : "LVLND FRGMN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "LIZARD MAN",
+      "clue" : "LZRD MN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "LAKE CHAMPLAIN MONSTER",
+      "clue" : "LK CHMPLN MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "DOVER DEMON",
+      "clue" : "DVR DMN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FLATWOODS MONSTER",
+      "clue" : "FLTWDS MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "HODAG",
+      "clue" : "HDG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "FOUKE MONSTER",
+      "clue" : "FK MNSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BEAST OF BRAY ROAD",
+      "clue" : "BST F BRY RD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ALTAMAHA-HA",
+      "clue" : "LTMH-H",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "BUNYIP",
+      "clue" : "BNYP",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "WHITE RIVER MONSTER",
+      "clue" : "WHT RVR MNSTR",
+      "difficulty" : 7
+    }
+  ],
+  "tags" : [
+    "mythology",
+    "culture",
+    "folklore"
+  ],
+  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

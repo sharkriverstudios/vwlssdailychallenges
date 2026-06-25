@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.6.19",
-  "generatedAt": "2026-06-19T06:51:41Z",
+  "contentVersion": "2026.6.25",
+  "generatedAt": "2026-06-25T14:17:00Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-07-16",
+  "availableTo": "2026-07-23",
   "days": [
     {
       "date": "2026-04-01",
@@ -603,9 +603,9 @@
     {
       "date": "2026-06-25",
       "difficulty": 6,
-      "category": "Alanis Morisette",
+      "category": "Movies set in Paris",
       "path": "days/2026-06-25.json",
-      "hash": "sha256:b079bc4516d8a7f373b7a05e277035a801649d6d5eed9bf946911cf1ffb8de3e"
+      "hash": "sha256:062a9089a0f78551be4250a2d89355bf32752e2c875b8482469457b239f6bcdf"
     },
     {
       "date": "2026-06-26",
@@ -659,9 +659,9 @@
     {
       "date": "2026-07-03",
       "difficulty": 6,
-      "category": "Movies set in Paris",
+      "category": "Places Marco Polo Visited",
       "path": "days/2026-07-03.json",
-      "hash": "sha256:11ccef5023d4602fcbac227d184258b0ca93cd419ed6e80fda093c74884b954e"
+      "hash": "sha256:5be94f7c6ae4b61343a802b3d16601e245c9cd3c943db9bd4d9528804a641243"
     },
     {
       "date": "2026-07-04",
@@ -679,80 +679,129 @@
     },
     {
       "date": "2026-07-06",
-      "difficulty": 5,
-      "category": "Himalayan Wildlife",
+      "difficulty": 3,
+      "category": "Professions that Wear Uniforms",
       "path": "days/2026-07-06.json",
-      "hash": "sha256:311f94183e1e6342b60436cb4d348923f1ff9c0fb10d696961a9b224e081f575"
+      "hash": "sha256:b445757ab15e9988a4d544224f39a4665477056dd739978e32ceba4350e1667b"
     },
     {
       "date": "2026-07-07",
-      "difficulty": 5,
-      "category": "Celebrity Chefs",
+      "difficulty": 4,
+      "category": "Pasta Sauces",
       "path": "days/2026-07-07.json",
-      "hash": "sha256:d70e49b87503097758e6e2de126c8a460aac5829cc03515f9bf13d69200cc442"
+      "hash": "sha256:7fa4b385378f88ad6d4ada185fbd5147eebd71b9f3f72408ff94e721da6cd380"
     },
     {
       "date": "2026-07-08",
-      "difficulty": 6,
-      "category": "Places Marco Polo Visited",
+      "difficulty": 5,
+      "category": "Himalayan Wildlife",
       "path": "days/2026-07-08.json",
-      "hash": "sha256:6db82bc8fe1716c62fbcaf19103ed8268e2e44e2ac10be3ed7a5621dad4d2f61"
+      "hash": "sha256:5e908438c55a8981d77b7cbcced90bd857e5382abb5d48b2b26337b07b3299d8"
     },
     {
       "date": "2026-07-09",
       "difficulty": 5,
-      "category": "North American Cryptids",
+      "category": "Celebrity Chefs",
       "path": "days/2026-07-09.json",
-      "hash": "sha256:8b82542d9a0e9c18add803cd3dbf66f3d317af6e8b2aba79fd7b52ab3a41611a"
+      "hash": "sha256:a914a459b77d349a83fd562d19b5c7e199e3832c80d5b6850ecf8e808458bd84"
     },
     {
       "date": "2026-07-10",
-      "difficulty": 7,
-      "category": "parts of a cell",
+      "difficulty": 6,
+      "category": "Alanis Morisette",
       "path": "days/2026-07-10.json",
-      "hash": "sha256:a411e65ac63f18fbee0492a59d3aefcb97a41cc1a4aeb38a7cea375e034b6c04"
+      "hash": "sha256:10205c2bba9e834a3a03e38627f9842713771ba131b21d7b30b0561c68ed4414"
     },
     {
       "date": "2026-07-11",
       "difficulty": 5,
-      "category": "Whoopie Goldberg",
+      "category": "Tour de France",
       "path": "days/2026-07-11.json",
-      "hash": "sha256:9c4fcf0cb4379778787ab0cbc1e09f50a712d4decce20e88fb0261616aaad6ee"
+      "hash": "sha256:939a69b71a0fc247126c8712ffc76528636cb7a681772c6e51650f5f80c0f082"
     },
     {
       "date": "2026-07-12",
-      "difficulty": 6,
-      "category": "Willie Nelson Number Ones",
+      "difficulty": 7,
+      "category": "States beginning with a Vowel",
       "path": "days/2026-07-12.json",
-      "hash": "sha256:e6c02b3b7a9560d12a697faef5a7d853c521cb7837090d6df748086c09bbb530"
+      "hash": "sha256:ad6c700202cd3a9105bc0c922e8d2d85671a4bcd3f195c888acf86696a8f5789"
     },
     {
       "date": "2026-07-13",
-      "difficulty": 5,
-      "category": "Hans Christian Anderson",
+      "difficulty": 3,
+      "category": "Things with Motors",
       "path": "days/2026-07-13.json",
-      "hash": "sha256:e680def633f6c9a98e5191bc5c44f3df2788ff46a33933be08ba604292b6a433"
+      "hash": "sha256:8dcbebca85246ae05fce7c2f4b8806b6be25f2404af67c0a6cb4aebbacb70ac2"
     },
     {
       "date": "2026-07-14",
-      "difficulty": 3,
-      "category": "Professions that Wear Uniforms",
+      "difficulty": 4,
+      "category": "Trees of North America",
       "path": "days/2026-07-14.json",
-      "hash": "sha256:178e0419b064fda6d072f8d7e7dac2dfb4c3e1942945fad22919c3ae9fe238c9"
+      "hash": "sha256:ef72cca05d74b57d4080d6a2c8233a834930597d692d47c6c73dabe7a3ef7c09"
     },
     {
       "date": "2026-07-15",
-      "difficulty": 4,
-      "category": "Trees of North America",
+      "difficulty": 5,
+      "category": "Whoopie Goldberg",
       "path": "days/2026-07-15.json",
-      "hash": "sha256:e2a280fe81ec31cef5e43c1ee4548635489c8f8cfeff3e554df8007ffbe1fa7c"
+      "hash": "sha256:c56efbcb838dc2d1940ebe575a7e3b01b476cbec8955dfbb3a94e6f12ae68739"
     },
     {
       "date": "2026-07-16",
       "difficulty": 5,
-      "category": "Broadway Composers",
+      "category": "Countries Whose Native Language is French",
       "path": "days/2026-07-16.json",
-      "hash": "sha256:1408b7cf7b0724a42ce3e5052da6e560cfd4294a3fc1fc98151bd9962e55d50f"
+      "hash": "sha256:8aff90e06eecdf60c770ceae03acc150139f2c8d3285b13ddb74cc1ac0ebd4cc"
+    },
+    {
+      "date": "2026-07-17",
+      "difficulty": 7,
+      "category": "parts of a cell",
+      "path": "days/2026-07-17.json",
+      "hash": "sha256:6d6ddfc1e3de78dac3989e0d94b846f60e7fc2ad52056d22f08c4ae8a496252a"
+    },
+    {
+      "date": "2026-07-18",
+      "difficulty": 5,
+      "category": "North American Cryptids",
+      "path": "days/2026-07-18.json",
+      "hash": "sha256:e90dd974a9363fad44df297ad3abea436cebb0e02278a9543f4cc79b6965bd93"
+    },
+    {
+      "date": "2026-07-19",
+      "difficulty": 6,
+      "category": "Willie Nelson Number Ones",
+      "path": "days/2026-07-19.json",
+      "hash": "sha256:b528233e85734f68a8eaeb32158313099825bb0381412e44012db40638a69b96"
+    },
+    {
+      "date": "2026-07-20",
+      "difficulty": 5,
+      "category": "Hans Christian Anderson",
+      "path": "days/2026-07-20.json",
+      "hash": "sha256:96334a7a9bb94ac615423f2cbf10f62a493cc0d07a3b723b0fe3da00909f0c46"
+    },
+    {
+      "date": "2026-07-21",
+      "difficulty": 5,
+      "category": "Broadway Composers",
+      "path": "days/2026-07-21.json",
+      "hash": "sha256:238b14d5eecd9661de1c8b2c0fc87a98bbbf0fd504231ae5e8b993d86553dc31"
+    },
+    {
+      "date": "2026-07-22",
+      "difficulty": 5,
+      "category": "Languages Spoken in Israel",
+      "path": "days/2026-07-22.json",
+      "hash": "sha256:e4e15adb4f9f3692430d70949e62eb41009ff1aa34e49c02f0f53826c43fb363"
+    },
+    {
+      "date": "2026-07-23",
+      "difficulty": 4,
+      "category": "Game Show Hosts",
+      "path": "days/2026-07-23.json",
+      "hash": "sha256:df7b3fa1bc09196bfdac54d9e8d41234b3927f72f63e2fcd42fc2f4d154a9cc7"
     }
   ]
 }

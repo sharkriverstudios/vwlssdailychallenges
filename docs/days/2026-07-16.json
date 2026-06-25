@@ -1,105 +1,90 @@
 {
   "challenge" : {
     "candidates" : [
-      "Stephen Sondheim",
-      "Andrew Lloyd Webber",
-      "Leonard Bernstein",
-      "Richard Rodgers",
-      "Oscar Hammerstein II",
-      "Lin-Manuel Miranda",
-      "George Gershwin",
-      "Cole Porter",
-      "Irving Berlin",
-      "Jerry Herman",
-      "Jule Styne",
-      "Stephen Schwartz",
-      "Frank Loesser",
-      "Harold Arlen",
-      "Ahrens And Flaherty",
-      "Kander And Ebb",
-      "Jason Robert Brown",
-      "Alan Menken",
-      "Claude-Michel Schönberg",
-      "Jonathan Larson",
-      "Marc Shaiman",
-      "Marvin Hamlisch",
-      "Jeanine Tesori",
-      "Cy Coleman",
-      "Charles Strouse",
-      "Adam Guettel",
-      "Elton John",
-      "Duncan Sheik",
-      "William Finn",
-      "Tom Kitt",
-      "Richard Adler",
-      "Jerry Bock",
-      "Stephen Flaherty",
-      "Lucy Simon",
-      "David Yazbek",
-      "Benny Andersson",
-      "Björn Ulvaeus",
-      "Michael John LaChiusa",
-      "Galt MacDermot",
-      "Lynn Ahrens",
-      "Harvey Schmidt",
-      "Richard Maltby Jr.",
-      "Maury Yeston",
-      "Frank Wildhorn",
-      "John Kander",
-      "Tim Rice",
-      "Burt Bacharach",
-      "Mary Rodgers",
-      "Harry Warren",
-      "Hugh Martin",
-      "Robert Lopez",
-      "Benj Pasek",
-      "Justin Paul"
+      "France",
+      "Canada",
+      "Belgium",
+      "Switzerland",
+      "Luxembourg",
+      "Monaco",
+      "Haiti",
+      "Congo",
+      "Senegal",
+      "Mali",
+      "Ivory Coast",
+      "Burkina Faso",
+      "Niger",
+      "Madagascar",
+      "Cameroon",
+      "Chad",
+      "Guinea",
+      "Rwanda",
+      "Benin",
+      "Burundi",
+      "Togo",
+      "Central African Republic",
+      "Gabon",
+      "Republic Of The Congo",
+      "Djibouti",
+      "Equatorial Guinea",
+      "Comoros",
+      "Seychelles",
+      "Vanuatu",
+      "Lebanon",
+      "Mauritius",
+      "Moldova",
+      "Andorra",
+      "Saint Lucia",
+      "Dominica",
+      "Equatorial Guinea",
+      "Gabon",
+      "Guinea"
     ],
-    "category" : "Broadway Composers",
+    "category" : "Countries Whose Native Language is French",
     "clues" : [
       {
-        "answer" : "STEPHEN SONDHEIM",
-        "clue" : "STPHN SNDHM",
+        "answer" : "FRANCE",
+        "clue" : "FRNC",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BELGIUM",
+        "clue" : "BLGM",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CANADA",
+        "clue" : "CND",
         "difficulty" : 3
       },
       {
-        "answer" : "GEORGE GERSHWIN",
-        "clue" : "GRG GRSHWN",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "COLE PORTER",
-        "clue" : "CL PRTR",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "IRVING BERLIN",
-        "clue" : "RVNG BRLN",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "ANDREW LLOYD WEBBER",
-        "clue" : "NDRW LLYD WBBR",
+        "answer" : "HAITI",
+        "clue" : "HT",
         "difficulty" : 4
       },
       {
-        "answer" : "RICHARD RODGERS",
-        "clue" : "RCHRD RDGRS",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "LIN-MANUEL MIRANDA",
-        "clue" : "LNMNL MRND",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "LEONARD BERNSTEIN",
-        "clue" : "LNRD BRNSTN",
+        "answer" : "CAMEROON",
+        "clue" : "CMRN",
         "difficulty" : 5
+      },
+      {
+        "answer" : "SENEGAL",
+        "clue" : "SNG L",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "IVORY COAST",
+        "clue" : "VRY CST",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "BURKINA FASO",
+        "clue" : "BRKN FS",
+        "difficulty" : 8
       }
     ],
     "difficulty" : 5,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 1
   },
   "date" : "2026-07-16",
   "schemaVersion" : 1

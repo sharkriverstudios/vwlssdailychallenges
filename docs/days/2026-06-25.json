@@ -1,94 +1,92 @@
 {
   "challenge" : {
     "candidates" : [
-      "You Oughta Know",
-      "Ironic",
-      "Hand In My Pocket",
-      "You Learn",
-      "Head Over Feet",
-      "Uninvited",
-      "Thank U",
-      "All I Really Want",
-      "Right Through You",
-      "Forgiven",
-      "Not The Doctor",
-      "Perfect",
-      "Mary Jane",
-      "Wake Up",
-      "Your House",
-      "One Hand In My Pocket",
-      "Joining You",
-      "That I Would Be Good",
-      "So Pure",
-      "Unsent",
-      "Front Row",
-      "Heart Of The House",
-      "Sympathetic Character",
-      "Hands Clean",
-      "Precious Illusions",
-      "Everything",
-      "Out Is Through",
-      "Eight Easy Steps",
-      "Excuses",
-      "Underneath",
-      "Citizen Of The Planet",
-      "Versions Of Violence",
-      "In Praise Of The Vulnerable Man",
-      "Torch",
-      "Lens",
-      "Receive",
-      "Guardian",
-      "Empathy",
-      "Spiral",
-      "Woman Down",
-      "Havoc",
-      "Edge Of Evolution"
+      "Amelie",
+      "Midnight In Paris",
+      "Ratatouille",
+      "Moulin Rouge!",
+      "The Da Vinci Code",
+      "The Hunchback Of Notre Dame",
+      "Before Sunset",
+      "An American In Paris",
+      "La Vie En Rose",
+      "Paris, Je T'Aime",
+      "The Bourne Identity",
+      "Charade",
+      "The Intouchables",
+      "Julie & Julia",
+      "Sabrina",
+      "Midnight In Paris",
+      "Funny Face",
+      "Gigi",
+      "The Pink Panther",
+      "Taken",
+      "Les Miserables",
+      "Inception",
+      "The Devil Wears Prada",
+      "The Man In The Iron Mask",
+      "La La Land",
+      "Mr. Bean's Holiday",
+      "Marie Antoinette",
+      "The Red Balloon",
+      "Rogue Nation",
+      "Ronin",
+      "Something's Gotta Give",
+      "The Aristocats",
+      "A Bout De Souffle",
+      "Chocolat",
+      "Hugo",
+      "Everyone Says I Love You",
+      "Ocean's Twelve",
+      "Love In The Afternoon",
+      "Mission: Impossible",
+      "The Tourist"
     ],
-    "category" : "Alanis Morisette",
+    "category" : "Movies set in Paris",
     "clues" : [
       {
-        "answer" : "IRONIC",
-        "clue" : "RNC",
+        "answer" : "THE PINK PANTHER",
+        "clue" : "TH PNK PNTHR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "AMELIE",
+        "clue" : "ML",
         "difficulty" : 3
       },
       {
-        "answer" : "YOU LEARN",
-        "clue" : "Y LRN",
+        "answer" : "MIDNIGHT IN PARIS",
+        "clue" : "MDNGHT N PRS",
         "difficulty" : 3
       },
       {
-        "answer" : "YOU OUGHTA KNOW",
-        "clue" : "Y GHT KNW",
+        "answer" : "RATATOUILLE",
+        "clue" : "RTTLL",
         "difficulty" : 4
       },
       {
-        "answer" : "HAND IN MY POCKET",
-        "clue" : "HND N M PCKT",
+        "answer" : "LES MISERABLES",
+        "clue" : "LSM SRBLS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MOULIN ROUGE",
+        "clue" : "ML NRG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE DA VINCI CODE",
+        "clue" : "TH D VNC CD",
         "difficulty" : 5
       },
       {
-        "answer" : "UNINVITED",
-        "clue" : "NNVTD",
-        "difficulty" : 5
-      },
-      {
-        "answer" : "THANK U",
-        "clue" : "THNK",
+        "answer" : "THE HUNCHBACK OF NOTRE DAME",
+        "clue" : "TH HNCHBCK F NTR DM",
         "difficulty" : 6
-      },
-      {
-        "answer" : "ALL I REALLY WANT",
-        "clue" : "LL RLL WNT",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "JAGGED LITTLE PILL",
-        "clue" : "JG GD LT TLP LL",
-        "difficulty" : 7
       }
     ],
     "difficulty" : 6,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 5
   },
   "date" : "2026-06-25",
   "schemaVersion" : 1
