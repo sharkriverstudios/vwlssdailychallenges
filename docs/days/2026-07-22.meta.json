@@ -1,4 +1,71 @@
 {
+  "extraClues" : [
+    {
+      "difficulty" : 3,
+      "clue" : "MRCN BCH",
+      "answer" : "AMERICAN BEECH"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "LV K",
+      "answer" : "LIVE OAK"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "PNDRS PN",
+      "answer" : "PONDEROSA PINE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "QKNG SPN",
+      "answer" : "QUAKING ASPEN"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "RVR BRCH",
+      "answer" : "RIVER BIRCH"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "HNY LCST",
+      "answer" : "HONEY LOCUST"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "BLD CYPRSS",
+      "answer" : "BALD CYPRESS"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "MRCN SYCMR",
+      "answer" : "AMERICAN SYCAMORE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "SHGBRK HCKRY",
+      "answer" : "SHAGBARK HICKORY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "SG RNG",
+      "answer" : "OSAGE ORANGE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "BLCK LCST",
+      "answer" : "BLACK LOCUST"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "BTTRNT HCKRY",
+      "answer" : "BITTERNUT HICKORY"
+    }
+  ],
+  "tags" : [
+    "nature",
+    "geography",
+    "gardening"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -20,72 +87,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "answer" : "TIGRINYA",
-      "difficulty" : 7,
-      "clue" : "TGRNY"
-    },
-    {
-      "answer" : "SPANISH",
-      "difficulty" : 1,
-      "clue" : "SPNSH"
-    },
-    {
-      "answer" : "ROMANIAN",
-      "difficulty" : 5,
-      "clue" : "RMNN"
-    },
-    {
-      "answer" : "GERMAN",
-      "difficulty" : 2,
-      "clue" : "GRMN"
-    },
-    {
-      "answer" : "GEORGIAN",
-      "difficulty" : 6,
-      "clue" : "GRGN"
-    },
-    {
-      "answer" : "UKRAINIAN",
-      "difficulty" : 8,
-      "clue" : "KRNN"
-    },
-    {
-      "answer" : "POLISH",
-      "difficulty" : 3,
-      "clue" : "PLSH"
-    },
-    {
-      "answer" : "HUNGARIAN",
-      "difficulty" : 7,
-      "clue" : "HNGRN"
-    },
-    {
-      "answer" : "ITALIAN",
-      "difficulty" : 4,
-      "clue" : "TLN"
-    },
-    {
-      "answer" : "BULGARIAN",
-      "difficulty" : 4,
-      "clue" : "BLGRN"
-    },
-    {
-      "answer" : "ARMENIAN",
-      "difficulty" : 10,
-      "clue" : "RMNN"
-    },
-    {
-      "answer" : "TURKISH",
-      "difficulty" : 3,
-      "clue" : "TRKSH"
-    }
-  ],
-  "tags" : [
-    "language",
-    "culture",
-    "geography"
   ]
 }

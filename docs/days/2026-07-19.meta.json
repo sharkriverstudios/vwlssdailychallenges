@@ -1,67 +1,72 @@
 {
-  "description" : "songs that Willie Nelson performed that became number one hits",
   "extraClues" : [
     {
-      "answer" : "MAMAS DON'T LET YOUR BABIES GROW UP TO BE COWBOYS",
-      "difficulty" : 8,
-      "clue" : "MMS DNT LT YR BBS GRW P T B CWBYS"
+      "answer" : "SKUNK APE",
+      "clue" : "SKNK P",
+      "difficulty" : 5
     },
     {
-      "answer" : "ANGEL FLYING TOO CLOSE TO THE GROUND",
-      "difficulty" : 6,
-      "clue" : "NGL FLYNG T CLS T TH GRND"
+      "answer" : "LOVELAND FROGMAN",
+      "clue" : "LVLND FRGMN",
+      "difficulty" : 7
     },
     {
-      "answer" : "HIGHWAYMAN",
-      "difficulty" : 5,
-      "clue" : "HGHWYMN"
+      "answer" : "LIZARD MAN",
+      "clue" : "LZRD MN",
+      "difficulty" : 6
     },
     {
-      "answer" : "FORGIVING YOU WAS EASY",
-      "difficulty" : 4,
-      "clue" : "FRGVNG Y WS SY"
+      "answer" : "LAKE CHAMPLAIN MONSTER",
+      "clue" : "LK CHMPLN MNSTR",
+      "difficulty" : 7
     },
     {
-      "answer" : "PANCHO AND LEFTY",
-      "difficulty" : 5,
-      "clue" : "PNCH ND LFTY"
+      "answer" : "DOVER DEMON",
+      "clue" : "DVR DMN",
+      "difficulty" : 6
     },
     {
-      "answer" : "LIVING IN THE PROMISELAND",
-      "difficulty" : 6,
-      "clue" : "LVNG N TH PRMSLND"
+      "answer" : "FLATWOODS MONSTER",
+      "clue" : "FLTWDS MNSTR",
+      "difficulty" : 7
     },
     {
-      "answer" : "NOTHING I CAN DO ABOUT IT NOW",
-      "difficulty" : 7,
-      "clue" : "NTHNG CND BT T NW"
+      "answer" : "HODAG",
+      "clue" : "HDG",
+      "difficulty" : 8
     },
     {
-      "answer" : "CITY OF NEW ORLEANS",
-      "difficulty" : 5,
-      "clue" : "CTY F NW RLNS"
+      "answer" : "FOUKE MONSTER",
+      "clue" : "FK MNSTR",
+      "difficulty" : 7
     },
     {
-      "answer" : "SEVEN SPANISH ANGELS",
-      "difficulty" : 6,
-      "clue" : "SVN SPNSH NGLS"
+      "answer" : "BEAST OF BRAY ROAD",
+      "clue" : "BST F BRY RD",
+      "difficulty" : 7
     },
     {
-      "answer" : "JUST TO SATISFY YOU",
-      "difficulty" : 5,
-      "clue" : "JST T STSFY Y"
+      "answer" : "ALTAMAHA-HA",
+      "clue" : "LTMH-H",
+      "difficulty" : 9
     },
     {
-      "answer" : "ME AND BOBBY MCGEE",
-      "difficulty" : 6,
-      "clue" : "M ND BBY MCG"
+      "answer" : "BUNYIP",
+      "clue" : "BNYP",
+      "difficulty" : 9
     },
     {
-      "answer" : "UNCLOUDY DAY",
-      "difficulty" : 6,
-      "clue" : "NCLDY DY"
+      "answer" : "WHITE RIVER MONSTER",
+      "clue" : "WHT RVR MNSTR",
+      "difficulty" : 7
     }
   ],
+  "tags" : [
+    "mythology",
+    "culture",
+    "folklore"
+  ],
+  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
   "clueNotes" : [
     "",
     "",
@@ -83,9 +88,5 @@
     "",
     "",
     ""
-  ],
-  "tags" : [
-    "music",
-    "popular culture"
   ]
 }

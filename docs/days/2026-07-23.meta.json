@@ -1,66 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "answer" : "RICHARD DAWSON",
-      "clue" : "RCHRD DWSN"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "CHUCK WOOLERY",
-      "clue" : "CHCK WLR"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "GENE RAYBURN",
-      "clue" : "GN RYBRN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "MONTY HALL",
-      "clue" : "MNTY HLL"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "MEREDITH VIEIRA",
-      "clue" : "MRDTH VRY"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "JEFF PROBST",
-      "clue" : "JFF PRBST"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "NICK CANNON",
-      "clue" : "NCK CNN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "RYAN SEACREST",
-      "clue" : "RYN SCRST"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "JANE LYNCH",
-      "clue" : "JN LNCH"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "TERRY CREWS",
-      "clue" : "TRRY CRWS"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "CHRIS HARRISON",
-      "clue" : "CHRS HRRSN"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "CRAIG FERGUSON",
-      "clue" : "CRG FRGSN"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -83,9 +21,71 @@
     "",
     ""
   ],
+  "extraClues" : [
+    {
+      "answer" : "TIGRINYA",
+      "difficulty" : 7,
+      "clue" : "TGRNY"
+    },
+    {
+      "answer" : "SPANISH",
+      "difficulty" : 1,
+      "clue" : "SPNSH"
+    },
+    {
+      "answer" : "ROMANIAN",
+      "difficulty" : 5,
+      "clue" : "RMNN"
+    },
+    {
+      "answer" : "GERMAN",
+      "difficulty" : 2,
+      "clue" : "GRMN"
+    },
+    {
+      "answer" : "GEORGIAN",
+      "difficulty" : 6,
+      "clue" : "GRGN"
+    },
+    {
+      "answer" : "UKRAINIAN",
+      "difficulty" : 8,
+      "clue" : "KRNN"
+    },
+    {
+      "answer" : "POLISH",
+      "difficulty" : 3,
+      "clue" : "PLSH"
+    },
+    {
+      "answer" : "HUNGARIAN",
+      "difficulty" : 7,
+      "clue" : "HNGRN"
+    },
+    {
+      "answer" : "ITALIAN",
+      "difficulty" : 4,
+      "clue" : "TLN"
+    },
+    {
+      "answer" : "BULGARIAN",
+      "difficulty" : 4,
+      "clue" : "BLGRN"
+    },
+    {
+      "answer" : "ARMENIAN",
+      "difficulty" : 10,
+      "clue" : "RMNN"
+    },
+    {
+      "answer" : "TURKISH",
+      "difficulty" : 3,
+      "clue" : "TRKSH"
+    }
+  ],
   "tags" : [
-    "television",
-    "popular culture",
-    "games"
+    "language",
+    "culture",
+    "geography"
   ]
 }

@@ -1,72 +1,70 @@
 {
   "extraClues" : [
     {
-      "answer" : "SKUNK APE",
-      "clue" : "SKNK P",
+      "answer" : "LYSOSOME",
+      "clue" : "LSSM",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "VACUOLE",
+      "clue" : "VC L",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CYTOSKELETON",
+      "clue" : "CYTSKLTN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "NUCLEOLUS",
+      "clue" : "NCLLS",
       "difficulty" : 5
     },
     {
-      "answer" : "LOVELAND FROGMAN",
-      "clue" : "LVLND FRGMN",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "LIZARD MAN",
-      "clue" : "LZRD MN",
+      "answer" : "PEROXISOME",
+      "clue" : "PRXSM",
       "difficulty" : 6
     },
     {
-      "answer" : "LAKE CHAMPLAIN MONSTER",
-      "clue" : "LK CHMPLN MNSTR",
-      "difficulty" : 7
+      "answer" : "CENTRIOLE",
+      "clue" : "CNTRL",
+      "difficulty" : 5
     },
     {
-      "answer" : "DOVER DEMON",
-      "clue" : "DVR DMN",
+      "answer" : "PLASMA MEMBRANE",
+      "clue" : "PLSM MMBRN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CHROMATIN",
+      "clue" : "CHRM TN",
       "difficulty" : 6
     },
     {
-      "answer" : "FLATWOODS MONSTER",
-      "clue" : "FLTWDS MNSTR",
+      "answer" : "MICROTUBULE",
+      "clue" : "MCRTBL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "FLAGELLUM",
+      "clue" : "FLGLLM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CILIA",
+      "clue" : "CL",
       "difficulty" : 7
     },
     {
-      "answer" : "HODAG",
-      "clue" : "HDG",
-      "difficulty" : 8
-    },
-    {
-      "answer" : "FOUKE MONSTER",
-      "clue" : "FK MNSTR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "BEAST OF BRAY ROAD",
-      "clue" : "BST F BRY RD",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "ALTAMAHA-HA",
-      "clue" : "LTMH-H",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "BUNYIP",
-      "clue" : "BNYP",
-      "difficulty" : 9
-    },
-    {
-      "answer" : "WHITE RIVER MONSTER",
-      "clue" : "WHT RVR MNSTR",
-      "difficulty" : 7
+      "answer" : "RIBOSOME",
+      "clue" : "RB SM",
+      "difficulty" : 4
     }
   ],
   "tags" : [
-    "mythology",
-    "culture",
-    "folklore"
+    "science",
+    "biology"
   ],
-  "description" : "famous animals that may or may not exist in Canada, Mexico and the US",
   "clueNotes" : [
     "",
     "",
