@@ -1,0 +1,94 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "THE LAST WALTZ",
+      "difficulty" : 6,
+      "clue" : "TH LST WLTZ"
+    },
+    {
+      "answer" : "THE LAST PICTURE SHOW",
+      "difficulty" : 7,
+      "clue" : "TH LST PCTR SHW"
+    },
+    {
+      "answer" : "THE LAST KING OF SCOTLAND",
+      "difficulty" : 8,
+      "clue" : "TH LST KNG F SCTLND"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE LAST WITCH HUNTER",
+      "clue" : "TH LST WTCH HNTR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE LAST OF US",
+      "clue" : "TH LST F S"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE LAST TEMPTATION OF CHRIST",
+      "clue" : "TH LST TMPTTN F CHRST"
+    },
+    {
+      "clue" : "TH LST BY SCT",
+      "answer" : "THE LAST BOY SCOUT",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "TH LST DTL",
+      "answer" : "THE LAST DETAIL",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TH LST DYS F DSC",
+      "answer" : "THE LAST DAYS OF DISCO",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "TH LST BLCK MN N SN FNCS",
+      "answer" : "THE LAST BLACK MAN IN SAN FRANCISCO",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "TH LST F TH DGMN",
+      "answer" : "THE LAST OF THE DOGMEN",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "TH LST XPRSS",
+      "answer" : "THE LAST EXPRESS",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "arts",
+    "culture",
+    "cinema",
+    "literature",
+    "popular culture"
+  ],
+  "description" : "phrases, artistic works, cultural references that begin \"The Last (of) (the)\""
+}

@@ -1,9 +1,9 @@
 {
   "tags" : [
-    "literature",
-    "classics",
-    "folklore"
+    "culinary",
+    "common knowledge"
   ],
+  "description" : "types of beans",
   "clueNotes" : [
     "",
     "",
@@ -28,64 +28,64 @@
   ],
   "extraClues" : [
     {
+      "answer" : "KIDNEY BEANS",
+      "difficulty" : 1,
+      "clue" : "KDNY BNS"
+    },
+    {
+      "answer" : "FAVA BEAN",
       "difficulty" : 5,
-      "answer" : "THE WILD SWANS",
-      "clue" : "TH WLD SWNS"
+      "clue" : "FV BN"
     },
     {
-      "difficulty" : 4,
-      "answer" : "THE RED SHOES",
-      "clue" : "TH RD SHS"
-    },
-    {
+      "answer" : "GARBANZO BEAN",
       "difficulty" : 6,
-      "answer" : "THE TINDERBOX",
-      "clue" : "TH TNDRBX"
+      "clue" : "GRBNZ BN"
     },
     {
+      "answer" : "SOYBEAN",
+      "difficulty" : 2,
+      "clue" : "SYBN"
+    },
+    {
+      "answer" : "GREAT NORTHERN BEAN",
+      "difficulty" : 5,
+      "clue" : "GRT NRTHRN BN"
+    },
+    {
+      "answer" : "BLACK-EYED PEA",
+      "difficulty" : 7,
+      "clue" : "BLCKYD P"
+    },
+    {
+      "answer" : "RED BEAN",
+      "difficulty" : 3,
+      "clue" : "RD BN"
+    },
+    {
+      "answer" : "FLAGEOLET BEAN",
+      "difficulty" : 8,
+      "clue" : "FLGLT BN"
+    },
+    {
+      "answer" : "BORLOTTI BEAN",
+      "difficulty" : 8,
+      "clue" : "BRLTT BN"
+    },
+    {
+      "answer" : "FRENCH BEAN",
       "difficulty" : 6,
-      "answer" : "THE SWINEHERD",
-      "clue" : "TH SWNHRD"
+      "clue" : "FRNCH BN"
     },
     {
-      "difficulty" : 7,
-      "answer" : "THE SHEPHERDESS AND THE CHIMNEY SWEEP",
-      "clue" : "TH SHPHRDSS ND TH CHMNY SWP"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE FIR TREE",
-      "clue" : "TH FR TR"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE SHADOW",
-      "clue" : "TH SHDW"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE FLAX",
-      "clue" : "TH FLX"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE FLYING TRUNK",
-      "clue" : "TH FLYNG TRNK"
-    },
-    {
+      "answer" : "TEPARY BEAN",
       "difficulty" : 9,
-      "answer" : "THE ICE MAIDEN",
-      "clue" : "TH C MDN"
-    },
-    {
-      "difficulty" : 9,
-      "answer" : "THE GARDEN OF PARADISE",
-      "clue" : "TH GRDN F PRDS"
+      "clue" : "TPRY BN"
     },
     {
       "difficulty" : 10,
-      "answer" : "THE STORY OF A MOTHER",
-      "clue" : "TH STRY F  MTHR"
+      "answer" : "JACOB'S CATTLE BEAN",
+      "clue" : "JCB'S CTTL BN"
     }
   ]
 }

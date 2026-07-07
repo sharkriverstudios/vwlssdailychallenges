@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "TIGRINYA",
+      "difficulty" : 7,
+      "clue" : "TGRNY"
+    },
+    {
+      "answer" : "SPANISH",
+      "difficulty" : 1,
+      "clue" : "SPNSH"
+    },
+    {
+      "answer" : "ROMANIAN",
+      "difficulty" : 5,
+      "clue" : "RMNN"
+    },
+    {
+      "answer" : "GERMAN",
+      "difficulty" : 2,
+      "clue" : "GRMN"
+    },
+    {
+      "answer" : "GEORGIAN",
+      "difficulty" : 6,
+      "clue" : "GRGN"
+    },
+    {
+      "answer" : "UKRAINIAN",
+      "difficulty" : 8,
+      "clue" : "KRNN"
+    },
+    {
+      "answer" : "POLISH",
+      "difficulty" : 3,
+      "clue" : "PLSH"
+    },
+    {
+      "answer" : "HUNGARIAN",
+      "difficulty" : 7,
+      "clue" : "HNGRN"
+    },
+    {
+      "answer" : "ITALIAN",
+      "difficulty" : 4,
+      "clue" : "TLN"
+    },
+    {
+      "answer" : "BULGARIAN",
+      "difficulty" : 4,
+      "clue" : "BLGRN"
+    },
+    {
+      "answer" : "ARMENIAN",
+      "difficulty" : 10,
+      "clue" : "RMNN"
+    },
+    {
+      "answer" : "TURKISH",
+      "difficulty" : 3,
+      "clue" : "TRKSH"
+    }
+  ],
+  "tags" : [
+    "language",
+    "culture",
+    "geography"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Pickles",
+      "Cheese",
+      "Bacon",
+      "Ketchup",
+      "Mustard",
+      "Mayonnaise",
+      "Relish",
+      "Avocado",
+      "Fried Egg",
+      "Mushrooms",
+      "Jalapenos",
+      "Grilled Onions",
+      "Barbecue Sauce",
+      "Sriracha",
+      "Ranch Dressing",
+      "Swiss Cheese",
+      "American Cheese",
+      "Cheddar Cheese",
+      "Blue Cheese",
+      "Mozzarella Cheese",
+      "Pepper Jack Cheese",
+      "Pineapple",
+      "Chili",
+      "Coleslaw",
+      "Arugula",
+      "Spinach",
+      "Sauerkraut",
+      "Pesto",
+      "Hot Sauce",
+      "Thousand Island Dressing",
+      "Chimichurri",
+      "Hummus",
+      "Guacamole",
+      "Tzatziki",
+      "Olives",
+      "Feta Cheese",
+      "Roasted Red Peppers",
+      "Caramelized Onions",
+      "Kimchi",
+      "Apple Slices",
+      "Sun-Dried Tomatoes",
+      "Crispy Onions",
+      "Horseradish Sauce",
+      "Honey Mustard",
+      "Garlic Aioli"
+    ],
+    "category" : "Things you put on a Hamburger",
+    "clues" : [
+      {
+        "answer" : "CHEESE",
+        "clue" : "CHS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "KETCHUP",
+        "clue" : "KTCHP",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "LETTUCE",
+        "clue" : "LTTC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "TOMATO",
+        "clue" : "TMT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BACON",
+        "clue" : "BCN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PICKLES",
+        "clue" : "PCKLS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JALAPENOS",
+        "clue" : "JLPNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ONION",
+        "clue" : "NN",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-07-27",
+  "schemaVersion" : 1
+}

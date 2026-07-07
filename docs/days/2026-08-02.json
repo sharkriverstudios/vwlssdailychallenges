@@ -1,0 +1,114 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Hamburg",
+      "Naples",
+      "Frankfurt",
+      "Geneva",
+      "Dijon",
+      "Brussels",
+      "Cheddar",
+      "Gouda",
+      "Parma",
+      "Gruyere",
+      "Stilton",
+      "Worcestershire",
+      "Camembert",
+      "Provence",
+      "Yorkshire",
+      "Derby",
+      "Lancashire",
+      "Bologna",
+      "Cantal",
+      "Roquefort",
+      "Limburger",
+      "Darjeeling",
+      "Kobe",
+      "Sicily",
+      "Bordeaux",
+      "Valencia",
+      "Champagne",
+      "Gloucester",
+      "Havana",
+      "Jamaica",
+      "Java",
+      "Sardinia",
+      "Genoa",
+      "Seville",
+      "Anjou",
+      "Samarkand",
+      "Emmental",
+      "Bavaria",
+      "Monterey",
+      "Colby",
+      "Edam",
+      "Limon",
+      "Neufchatel",
+      "Toulouse",
+      "Feta",
+      "Vienna",
+      "Caerphilly",
+      "Muenster",
+      "Bergen",
+      "Modena",
+      "Alencon",
+      "Bresse",
+      "Rocamadour",
+      "Kalmar",
+      "Salzburg",
+      "Sorrento",
+      "Cayenne",
+      "Tuscany",
+      "Amalfi",
+      "Normandy",
+      "Ales"
+    ],
+    "category" : "Places that Named a Food",
+    "clues" : [
+      {
+        "answer" : "HAMBURG",
+        "clue" : "HMBRG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BOLOGNA",
+        "clue" : "BLGN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WORCESTERSHIRE",
+        "clue" : "WRCSTRSHR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BRUSSELS",
+        "clue" : "BRSSLS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "KOBE",
+        "clue" : "KB",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "DIJON",
+        "clue" : "DJN",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "PARMA",
+        "clue" : "PRM",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "DARJEELING",
+        "clue" : "DRJLNG",
+        "difficulty" : 9
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-02",
+  "schemaVersion" : 1
+}

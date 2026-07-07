@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "common knowledge"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "answer" : "MAYONNAISE",
+      "clue" : "MYNN"
+    },
+    {
+      "difficulty" : 1,
+      "answer" : "MUSTARD",
+      "clue" : "MSTRD"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "AVOCADO",
+      "clue" : "VCD"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FRIED EGG",
+      "clue" : "FRD GG"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "BARBECUE SAUCE",
+      "clue" : "BRBC SC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "SRIRACHA",
+      "clue" : "SRRCH"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "GUACAMOLE",
+      "clue" : "GCM"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CARAMELIZED ONIONS",
+      "clue" : "CRMLZD NNS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THOUSAND ISLAND DRESSING",
+      "clue" : "THSND SLND DRSSNG"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CHIMICHURRI",
+      "clue" : "CHMCHRR"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "SUN-DRIED TOMATOES",
+      "clue" : "SNDRD TMTS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ROASTED RED PEPPERS",
+      "clue" : "RSTD RD PPPRS"
+    }
+  ]
+}

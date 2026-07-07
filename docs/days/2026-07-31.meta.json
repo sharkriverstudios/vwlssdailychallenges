@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "ELENA KAGAN",
+      "difficulty" : 6,
+      "clue" : "LN KG"
+    },
+    {
+      "answer" : "EARL WARREN",
+      "difficulty" : 5,
+      "clue" : "RL WRRN"
+    },
+    {
+      "answer" : "WILLIAM HOWARD TAFT",
+      "difficulty" : 7,
+      "clue" : "WLLM HWRD TFT"
+    },
+    {
+      "answer" : "STEPHEN BREYER",
+      "difficulty" : 5,
+      "clue" : "STPHN BRYR"
+    },
+    {
+      "answer" : "JOHN MARSHALL",
+      "difficulty" : 6,
+      "clue" : "JHN MRSHLL"
+    },
+    {
+      "answer" : "SAMUEL ALITO",
+      "difficulty" : 5,
+      "clue" : "SML LT"
+    },
+    {
+      "answer" : "NEIL GORSUCH",
+      "difficulty" : 6,
+      "clue" : "NL GRSCH"
+    },
+    {
+      "answer" : "AMY CONEY BARRETT",
+      "difficulty" : 7,
+      "clue" : "MY CNY BRRT"
+    },
+    {
+      "answer" : "HUGO BLACK",
+      "difficulty" : 6,
+      "clue" : "HG BLCK"
+    },
+    {
+      "answer" : "WARREN E. BURGER",
+      "difficulty" : 6,
+      "clue" : "WRRN BRGR"
+    },
+    {
+      "answer" : "FELIX FRANKFURTER",
+      "difficulty" : 7,
+      "clue" : "FLX FRNKFRTR"
+    },
+    {
+      "answer" : "BENJAMIN CARDOZO",
+      "difficulty" : 8,
+      "clue" : "BNJMN CRDZ"
+    }
+  ],
+  "description" : "Notable Supreme Court Justices in US History (inclduing current day)",
+  "tags" : [
+    "law",
+    "history",
+    "politics"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

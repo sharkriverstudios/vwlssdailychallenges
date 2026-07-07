@@ -1,69 +1,64 @@
 {
-  "tags" : [
-    "music",
-    "theater",
-    "arts"
-  ],
   "extraClues" : [
     {
-      "answer" : "JERRY HERMAN",
-      "clue" : "JRR HRMN",
-      "difficulty" : 6
+      "difficulty" : 5,
+      "answer" : "RICHARD DAWSON",
+      "clue" : "RCHRD DWSN"
     },
     {
-      "answer" : "STEPHEN SCHWARTZ",
-      "clue" : "STPHN SCHWRTZ",
-      "difficulty" : 5
+      "difficulty" : 7,
+      "answer" : "CHUCK WOOLERY",
+      "clue" : "CHCK WLR"
     },
     {
-      "answer" : "FRANK LOESSER",
-      "clue" : "FRNK LSSSR",
-      "difficulty" : 6
+      "difficulty" : 8,
+      "answer" : "GENE RAYBURN",
+      "clue" : "GN RYBRN"
     },
     {
-      "answer" : "HAROLD ARLEN",
-      "clue" : "HRLD RLN",
-      "difficulty" : 7
+      "difficulty" : 6,
+      "answer" : "MONTY HALL",
+      "clue" : "MNTY HLL"
     },
     {
-      "answer" : "KANDER AND EBB",
-      "clue" : "KNDR ND BB",
-      "difficulty" : 6
+      "difficulty" : 7,
+      "answer" : "MEREDITH VIEIRA",
+      "clue" : "MRDTH VRY"
     },
     {
-      "answer" : "ALAN MENKEN",
-      "clue" : "LN MNKN",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "answer" : "JEFF PROBST",
+      "clue" : "JFF PRBST"
     },
     {
-      "answer" : "JULE STYNE",
-      "clue" : "JL STYN",
-      "difficulty" : 8
+      "difficulty" : 5,
+      "answer" : "NICK CANNON",
+      "clue" : "NCK CNN"
     },
     {
-      "answer" : "OSCAR HAMMERSTEIN II",
-      "clue" : "SCR HMMRSTN",
-      "difficulty" : 7
+      "difficulty" : 6,
+      "answer" : "RYAN SEACREST",
+      "clue" : "RYN SCRST"
     },
     {
-      "answer" : "JASON ROBERT BROWN",
-      "clue" : "JSN RBRT BRWN",
-      "difficulty" : 9
+      "difficulty" : 7,
+      "answer" : "JANE LYNCH",
+      "clue" : "JN LNCH"
     },
     {
-      "answer" : "JEANINE TESORI",
-      "clue" : "JNN TSR",
-      "difficulty" : 8
+      "difficulty" : 6,
+      "answer" : "TERRY CREWS",
+      "clue" : "TRRY CRWS"
     },
     {
-      "answer" : "MARVIN HAMLISCH",
-      "clue" : "MRVN HMLSCH",
-      "difficulty" : 7
+      "difficulty" : 8,
+      "answer" : "CHRIS HARRISON",
+      "clue" : "CHRS HRRSN"
     },
     {
-      "answer" : "CHARLES STROUSE",
-      "clue" : "CHRLS STRS",
-      "difficulty" : 8
+      "difficulty" : 7,
+      "answer" : "CRAIG FERGUSON",
+      "clue" : "CRG FRGSN"
     }
   ],
   "clueNotes" : [
@@ -87,5 +82,10 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "television",
+    "popular culture",
+    "games"
   ]
 }

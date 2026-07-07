@@ -1,0 +1,93 @@
+{
+  "description" : "things you see in a music festival (family friendly)",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "CMPNG GR",
+      "difficulty" : 6,
+      "answer" : "CAMPING GEAR"
+    },
+    {
+      "clue" : "MRCHNDS STND",
+      "difficulty" : 6,
+      "answer" : "MERCHANDISE STAND"
+    },
+    {
+      "clue" : "SCRTY GRD",
+      "difficulty" : 5,
+      "answer" : "SECURITY GUARD"
+    },
+    {
+      "clue" : "WTR BTTL",
+      "difficulty" : 3,
+      "answer" : "WATER BOTTLE"
+    },
+    {
+      "clue" : "FRST D KT",
+      "difficulty" : 5,
+      "answer" : "FIRST AID KIT"
+    },
+    {
+      "clue" : "FSTVL MP",
+      "difficulty" : 4,
+      "answer" : "FESTIVAL MAP"
+    },
+    {
+      "answer" : "PHONE CHARGER",
+      "difficulty" : 4,
+      "clue" : "PHN CHRGR"
+    },
+    {
+      "answer" : "DANCE FLOOR",
+      "difficulty" : 3,
+      "clue" : "DNC FLR"
+    },
+    {
+      "answer" : "SOUND SYSTEM",
+      "difficulty" : 4,
+      "clue" : "SND SYSTM"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "VP R",
+      "answer" : "VIP AREA"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "TRSH BN",
+      "answer" : "TRASH BIN"
+    },
+    {
+      "answer" : "FOOD COURT",
+      "clue" : "FD CRT",
+      "difficulty" : 4
+    }
+  ],
+  "tags" : [
+    "music",
+    "culture",
+    "events",
+    "entertainment"
+  ]
+}

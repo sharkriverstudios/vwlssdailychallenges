@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "outdoors",
+    "common knowledge",
+    "sports"
+  ],
+  "description" : "Things you see at a playground",
+  "extraClues" : [
+    {
+      "answer" : "TRAMPOLINE",
+      "clue" : "TRMPLN",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "PLYHS",
+      "answer" : "PLAYHOUSE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "ZP LN",
+      "answer" : "ZIP LINE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BLNC BM",
+      "answer" : "BALANCE BEAM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CLIMBING WALL",
+      "difficulty" : 5,
+      "clue" : "CLMBNG WLL"
+    },
+    {
+      "answer" : "HOPSCOTCH",
+      "difficulty" : 3,
+      "clue" : "HPSCTCH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "WATER FOUNTAIN",
+      "clue" : "WTR FNTN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PICNIC TABLE",
+      "clue" : "PCNC TBL"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "TR SWNG",
+      "answer" : "TIRE SWING"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "RP LDDR",
+      "answer" : "ROPE LADDER"
+    },
+    {
+      "answer" : "SPRING RIDER",
+      "difficulty" : 6,
+      "clue" : "SPRNGRDR"
+    },
+    {
+      "answer" : "MUSICAL INSTRUMENTS",
+      "difficulty" : 7,
+      "clue" : "MSCL NSTRMNTS"
+    }
+  ]
+}

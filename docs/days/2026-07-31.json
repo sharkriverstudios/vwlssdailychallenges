@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "John Marshall",
+      "Oliver Wendell Holmes Jr.",
+      "Thurgood Marshall",
+      "Ruth Bader Ginsburg",
+      "Sandra Day O'Connor",
+      "William Howard Taft",
+      "Earl Warren",
+      "Antonin Scalia",
+      "Clarence Thomas",
+      "Sonia Sotomayor",
+      "Elena Kagan",
+      "John Roberts",
+      "Stephen Breyer",
+      "Samuel Alito",
+      "Neil Gorsuch",
+      "Brett Kavanaugh",
+      "Amy Coney Barrett",
+      "William Rehnquist",
+      "Hugo Black",
+      "Felix Frankfurter",
+      "Louis Brandeis",
+      "Warren E. Burger",
+      "Benjamin Cardozo",
+      "John Paul Stevens",
+      "Byron White",
+      "Anthony Kennedy",
+      "David Souter",
+      "Harry Blackmun",
+      "Lewis F. Powell Jr.",
+      "Arthur Goldberg",
+      "Abe Fortas",
+      "Robert H. Jackson",
+      "William J. Brennan Jr.",
+      "Potter Stewart",
+      "John Jay",
+      "Charles Evans Hughes",
+      "Joseph Story",
+      "Roger B. Taney",
+      "Salmon P. Chase",
+      "William O. Douglas",
+      "Horace Gray",
+      "Harlan F. Stone",
+      "Tom C. Clark",
+      "Harold Hitz Burton",
+      "Stanley Forman Reed",
+      "James Clark McReynolds",
+      "Lucius Quintus C. Lamar II",
+      "Joseph McKenna",
+      "Pierce Butler",
+      "Joseph Rucker Lamar",
+      "Willis Van Devanter"
+    ],
+    "category" : "Supreme Court Justices",
+    "clues" : [
+      {
+        "answer" : "RUTH BADER GINSBURG",
+        "clue" : "RTH BDR GNSBRG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SONIA SOTOMAYOR",
+        "clue" : "SN STMYR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JOHN ROBERTS",
+        "clue" : "JHN RBRTS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CLARENCE THOMAS",
+        "clue" : "CLRN CTHMS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WILLIAM REHNQUIST",
+        "clue" : "WLLM RHNQST",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THURGOOD MARSHALL",
+        "clue" : "THRGD MRSHLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ANTONIN SCALIA",
+        "clue" : "NTNN SCL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SANDRA DAY O'CONNOR",
+        "clue" : "SNDR DY CNNR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-07-31",
+  "schemaVersion" : 1
+}

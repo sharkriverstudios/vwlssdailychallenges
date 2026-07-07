@@ -1,0 +1,109 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Hebrew",
+      "Arabic",
+      "English",
+      "Russian",
+      "Yiddish",
+      "Amharic",
+      "French",
+      "Spanish",
+      "Romanian",
+      "German",
+      "Tigrinya",
+      "Ladino",
+      "Georgian",
+      "Ukrainian",
+      "Polish",
+      "Hungarian",
+      "Italian",
+      "Bulgarian",
+      "Persian",
+      "Dutch",
+      "Armenian",
+      "Turkish",
+      "Portuguese",
+      "Azerbaijani",
+      "Bukharian",
+      "Kurdish",
+      "Serbian",
+      "Lithuanian",
+      "Uzbek",
+      "Thai",
+      "Japanese",
+      "Chinese",
+      "Hindi",
+      "Vietnamese",
+      "Bengali",
+      "Filipino",
+      "Swedish",
+      "Finnish",
+      "Norwegian",
+      "Danish",
+      "Czech",
+      "Slovak",
+      "Croatian",
+      "Bosnian",
+      "Albanian",
+      "Greek",
+      "Tamil",
+      "Punjabi",
+      "Gujarati",
+      "Malayalam",
+      "Kannada",
+      "Telugu",
+      "Sinhala",
+      "Thai",
+      "Laotian",
+      "Khmer"
+    ],
+    "category" : "Languages Spoken in Israel",
+    "clues" : [
+      {
+        "answer" : "HEBREW",
+        "clue" : "HBRW",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "ENGLISH",
+        "clue" : "NGLSH",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "RUSSIAN",
+        "clue" : "RSSN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FRENCH",
+        "clue" : "FRNCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ARABIC",
+        "clue" : "RBC",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "YIDDISH",
+        "clue" : "YDDSH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "AMHARIC",
+        "clue" : "MHRC",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "LADINO",
+        "clue" : "LDN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-30",
+  "schemaVersion" : 1
+}

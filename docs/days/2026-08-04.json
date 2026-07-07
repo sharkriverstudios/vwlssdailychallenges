@@ -1,0 +1,91 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Frodo Baggins",
+      "Samwise Gamgee",
+      "Meriadoc Brandybuck",
+      "Peregrin Took",
+      "Bilbo Baggins",
+      "Rosie Cotton",
+      "Lobelia Sackville-Baggins",
+      "Lotho Sackville-Baggins",
+      "Paladin Took",
+      "Fredegar Bolger",
+      "Gollum",
+      "Hamfast Gamgee",
+      "Tom Cotton",
+      "Belladonna Took",
+      "Primula Brandybuck",
+      "Gerontius Took",
+      "Pippin Took",
+      "Merry Brandybuck",
+      "Drogo Baggins",
+      "Daisy Gamgee",
+      "Goldilocks Gamgee",
+      "Elanor Gamgee",
+      "Faramir Took",
+      "Estella Bolger",
+      "Hobson Gamgee",
+      "Fortinbras Took",
+      "Adalgrim Took",
+      "Esmeralda Took",
+      "Diamond of Long Cleeve",
+      "Will Whitfoot",
+      "Otho Sackville-Baggins",
+      "Dora Baggins",
+      "Rorimac Brandybuck",
+      "Old Took",
+      "Tolman Cotton",
+      "Fosco Baggins",
+      "Hilda Bracegirdle",
+      "Folco Boffin"
+    ],
+    "category" : "Hobbits",
+    "clues" : [
+      {
+        "answer" : "BILBO BAGGINS",
+        "clue" : "BLB BGGNS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FRODO BAGGINS",
+        "clue" : "FRD BGGNS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SAMWISE GAMGEE",
+        "clue" : "SMWS GMG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PEREGRIN TOOK",
+        "clue" : "PRGRN TK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MERRY BRANDYBUCK",
+        "clue" : "MRR BRNDBCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ROSIE COTTON",
+        "clue" : "RSCTTN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ELANOR GAMGEE",
+        "clue" : "LN RG MG",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "LOBELIA SACKVILLE-BAGGINS",
+        "clue" : "LBLS CKVLLBG GNS",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-04",
+  "schemaVersion" : 1
+}

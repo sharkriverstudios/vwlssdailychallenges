@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "BRHM",
+      "difficulty" : 3,
+      "answer" : "ABRAHAM"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "NOAH",
+      "clue" : "NH"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "SARAH",
+      "clue" : "SRH"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "SAMUEL",
+      "clue" : "SML"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "REBECCA",
+      "clue" : "RBCC"
+    },
+    {
+      "clue" : "NTHN",
+      "answer" : "NATHAN",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SLMN",
+      "answer" : "SOLOMON",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "ZCHRY",
+      "answer" : "ZACHARY",
+      "difficulty" : 6
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "JEREMIAH",
+      "clue" : "JRMH"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PRISCILLA",
+      "clue" : "PRSCLL"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "PHILIP",
+      "clue" : "PHLP"
+    },
+    {
+      "clue" : "DBRH",
+      "difficulty" : 5,
+      "answer" : "DEBORAH"
+    }
+  ],
+  "tags" : [
+    "religion",
+    "culture",
+    "history"
+  ],
+  "description" : "Common names of people in North America today that come from the Bible"
+}

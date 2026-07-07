@@ -1,70 +1,10 @@
 {
-  "extraClues" : [
-    {
-      "answer" : "LYSOSOME",
-      "clue" : "LSSM",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "VACUOLE",
-      "clue" : "VC L",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "CYTOSKELETON",
-      "clue" : "CYTSKLTN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "NUCLEOLUS",
-      "clue" : "NCLLS",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "PEROXISOME",
-      "clue" : "PRXSM",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "CENTRIOLE",
-      "clue" : "CNTRL",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "PLASMA MEMBRANE",
-      "clue" : "PLSM MMBRN",
-      "difficulty" : 4
-    },
-    {
-      "answer" : "CHROMATIN",
-      "clue" : "CHRM TN",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "MICROTUBULE",
-      "clue" : "MCRTBL",
-      "difficulty" : 6
-    },
-    {
-      "answer" : "FLAGELLUM",
-      "clue" : "FLGLLM",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "CILIA",
-      "clue" : "CL",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "RIBOSOME",
-      "clue" : "RB SM",
-      "difficulty" : 4
-    }
-  ],
   "tags" : [
-    "science",
-    "biology"
+    "sports",
+    "traditions",
+    "travel"
   ],
+  "description" : "Everything about the race: gear, techniques, places, traditions, etc",
   "clueNotes" : [
     "",
     "",
@@ -86,5 +26,67 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "DMSTQ",
+      "answer" : "DOMESTIQUE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "GRN JRSY",
+      "answer" : "GREEN JERSEY",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "WHT JRSY",
+      "answer" : "WHITE JERSEY",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "TM CR",
+      "answer" : "TEAM CAR",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "SPRT VHCL",
+      "answer" : "SUPPORT VEHICLE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BDN",
+      "answer" : "BIDON",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "CHMPS-LYS",
+      "answer" : "CHAMPS-ELYSEES",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CL D TRMLT",
+      "answer" : "COL DU TOURMALET",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LP D'HZ",
+      "answer" : "ALPE D'HUEZ",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "CHLN",
+      "answer" : "ECHELON",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LNTRN RG",
+      "answer" : "LANTERNE ROUGE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "GRND DPRT",
+      "answer" : "GRAND DÉPART",
+      "difficulty" : 5
+    }
   ]
 }

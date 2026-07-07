@@ -1,0 +1,114 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Stage",
+      "Tent",
+      "Crowd",
+      "Camping Gear",
+      "Wristband",
+      "Food Truck",
+      "Merchandise Stand",
+      "Security Guard",
+      "Portable Toilet",
+      "Backpack",
+      "Sunglasses",
+      "Festival Map",
+      "Water Bottle",
+      "First Aid Kit",
+      "Earplugs",
+      "Hat",
+      "Sunscreen",
+      "Lanyard",
+      "Phone Charger",
+      "Picnic Blanket",
+      "Camera",
+      "Artist Lineup",
+      "Light Show",
+      "Sound System",
+      "VIP Area",
+      "Dance Floor",
+      "Face Paint",
+      "Glow Stick",
+      "Hammock",
+      "Bean Bag",
+      "Trash Bin",
+      "Recycling Station",
+      "Balloon",
+      "Confetti",
+      "Food Court",
+      "Beer Garden",
+      "Artist Merchandise",
+      "Information Booth",
+      "Festival Guide",
+      "Photo Booth",
+      "Hand Sanitizer",
+      "Raincoat",
+      "Poncho",
+      "LED Lights",
+      "Souvenir Shop",
+      "Phone Booth",
+      "Lost And Found",
+      "Charging Station",
+      "Water Refill Station",
+      "Art Installation",
+      "Live Stream",
+      "Yoga Session",
+      "Workshop Tent",
+      "Community Tent",
+      "Art Exhibit",
+      "Dance Workshop",
+      "Workshop Stage",
+      "Interactive Exhibit",
+      "Acoustic Stage",
+      "Meet And Greet",
+      "Green Room"
+    ],
+    "category" : "Music Festivals",
+    "clues" : [
+      {
+        "answer" : "STAGE",
+        "clue" : "STG",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "TENT",
+        "clue" : "TNT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "CROWD",
+        "clue" : "CRWD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FOOD TRUCK",
+        "clue" : "FD TRCK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GLOW STICK",
+        "clue" : "GLW STCK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HAND STAMP",
+        "clue" : "HND STMP",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JAM SESSION",
+        "clue" : "JMSSSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PORTAPOTTY",
+        "clue" : "PRTPTT",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-25",
+  "schemaVersion" : 1
+}

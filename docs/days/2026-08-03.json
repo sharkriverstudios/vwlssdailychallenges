@@ -1,0 +1,113 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Adam",
+      "Eve",
+      "Noah",
+      "Abraham",
+      "Isaac",
+      "Jacob",
+      "Joseph",
+      "Moses",
+      "Aaron",
+      "Joshua",
+      "Samuel",
+      "David",
+      "Solomon",
+      "Elijah",
+      "Isaiah",
+      "Jeremiah",
+      "Daniel",
+      "Jonah",
+      "Micah",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John",
+      "Paul",
+      "Peter",
+      "James",
+      "Andrew",
+      "Thomas",
+      "Philip",
+      "Simon",
+      "Timothy",
+      "Stephen",
+      "Nathan",
+      "Gabriel",
+      "Benjamin",
+      "Levi",
+      "Caleb",
+      "Jonathan",
+      "Rebecca",
+      "Sarah",
+      "Rachel",
+      "Leah",
+      "Miriam",
+      "Deborah",
+      "Ruth",
+      "Esther",
+      "Naomi",
+      "Hannah",
+      "Mary",
+      "Martha",
+      "Elizabeth",
+      "Lydia",
+      "Joanna",
+      "Anna",
+      "Priscilla",
+      "Phoebe",
+      "Susanna",
+      "Jesse",
+      "Zachary",
+      "Judith"
+    ],
+    "category" : "Biblical Names",
+    "clues" : [
+      {
+        "answer" : "DAVID",
+        "clue" : "DVD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ADAM",
+        "clue" : "DM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JOSHUA",
+        "clue" : "JSH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JOSEPH",
+        "clue" : "JSPH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RACHEL",
+        "clue" : "RCHL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MATTHEW",
+        "clue" : "MTTHW",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MARY",
+        "clue" : "MR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ELIJAH",
+        "clue" : "LJH",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-03",
+  "schemaVersion" : 1
+}

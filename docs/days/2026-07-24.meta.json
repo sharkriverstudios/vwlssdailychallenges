@@ -1,65 +1,8 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "answer" : "RICHARD DAWSON",
-      "clue" : "RCHRD DWSN"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "CHUCK WOOLERY",
-      "clue" : "CHCK WLR"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "GENE RAYBURN",
-      "clue" : "GN RYBRN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "MONTY HALL",
-      "clue" : "MNTY HLL"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "MEREDITH VIEIRA",
-      "clue" : "MRDTH VRY"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "JEFF PROBST",
-      "clue" : "JFF PRBST"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "NICK CANNON",
-      "clue" : "NCK CNN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "RYAN SEACREST",
-      "clue" : "RYN SCRST"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "JANE LYNCH",
-      "clue" : "JN LNCH"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "TERRY CREWS",
-      "clue" : "TRRY CRWS"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "CHRIS HARRISON",
-      "clue" : "CHRS HRRSN"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "CRAIG FERGUSON",
-      "clue" : "CRG FRGSN"
-    }
+  "tags" : [
+    "sailing",
+    "outdoors",
+    "common knowledge"
   ],
   "clueNotes" : [
     "",
@@ -83,9 +26,66 @@
     "",
     ""
   ],
-  "tags" : [
-    "television",
-    "popular culture",
-    "games"
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "answer" : "TAUTLINE HITCH",
+      "clue" : "TLTN HTCH"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ASHLEY STOPPER KNOT",
+      "clue" : "SHLY STPPR KNT"
+    },
+    {
+      "answer" : "BLOOD KNOT",
+      "clue" : "BLD KNT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SURGEON'S KNOT",
+      "clue" : "SRGNS KNT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SHEET BEND",
+      "clue" : "SHT BND",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "LARK'S HEAD",
+      "clue" : "LRKS HD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TIMBER HITCH",
+      "clue" : "TMBR HTCH",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WATER KNOT",
+      "clue" : "WTR KNT",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "MONKEY'S FIST",
+      "clue" : "MNKYS FST",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CONSTRICTOR KNOT",
+      "clue" : "CNSTRCTR KNT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "TRUCKER'S HITCH",
+      "clue" : "TRCKRS HTCH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CARRICK BEND",
+      "clue" : "CRRK BND",
+      "difficulty" : 7
+    }
   ]
 }

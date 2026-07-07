@@ -1,4 +1,9 @@
 {
+  "tags" : [
+    "literature",
+    "classics",
+    "folklore"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -23,69 +28,64 @@
   ],
   "extraClues" : [
     {
-      "answer" : "TIGRINYA",
-      "difficulty" : 7,
-      "clue" : "TGRNY"
-    },
-    {
-      "answer" : "SPANISH",
-      "difficulty" : 1,
-      "clue" : "SPNSH"
-    },
-    {
-      "answer" : "ROMANIAN",
       "difficulty" : 5,
-      "clue" : "RMNN"
+      "answer" : "THE WILD SWANS",
+      "clue" : "TH WLD SWNS"
     },
     {
-      "answer" : "GERMAN",
-      "difficulty" : 2,
-      "clue" : "GRMN"
+      "difficulty" : 4,
+      "answer" : "THE RED SHOES",
+      "clue" : "TH RD SHS"
     },
     {
-      "answer" : "GEORGIAN",
       "difficulty" : 6,
-      "clue" : "GRGN"
+      "answer" : "THE TINDERBOX",
+      "clue" : "TH TNDRBX"
     },
     {
-      "answer" : "UKRAINIAN",
-      "difficulty" : 8,
-      "clue" : "KRNN"
+      "difficulty" : 6,
+      "answer" : "THE SWINEHERD",
+      "clue" : "TH SWNHRD"
     },
     {
-      "answer" : "POLISH",
-      "difficulty" : 3,
-      "clue" : "PLSH"
-    },
-    {
-      "answer" : "HUNGARIAN",
       "difficulty" : 7,
-      "clue" : "HNGRN"
+      "answer" : "THE SHEPHERDESS AND THE CHIMNEY SWEEP",
+      "clue" : "TH SHPHRDSS ND TH CHMNY SWP"
     },
     {
-      "answer" : "ITALIAN",
-      "difficulty" : 4,
-      "clue" : "TLN"
+      "difficulty" : 7,
+      "answer" : "THE FIR TREE",
+      "clue" : "TH FR TR"
     },
     {
-      "answer" : "BULGARIAN",
-      "difficulty" : 4,
-      "clue" : "BLGRN"
+      "difficulty" : 7,
+      "answer" : "THE SHADOW",
+      "clue" : "TH SHDW"
     },
     {
-      "answer" : "ARMENIAN",
+      "difficulty" : 8,
+      "answer" : "THE FLAX",
+      "clue" : "TH FLX"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE FLYING TRUNK",
+      "clue" : "TH FLYNG TRNK"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE ICE MAIDEN",
+      "clue" : "TH C MDN"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE GARDEN OF PARADISE",
+      "clue" : "TH GRDN F PRDS"
+    },
+    {
       "difficulty" : 10,
-      "clue" : "RMNN"
-    },
-    {
-      "answer" : "TURKISH",
-      "difficulty" : 3,
-      "clue" : "TRKSH"
+      "answer" : "THE STORY OF A MOTHER",
+      "clue" : "TH STRY F  MTHR"
     }
-  ],
-  "tags" : [
-    "language",
-    "culture",
-    "geography"
   ]
 }

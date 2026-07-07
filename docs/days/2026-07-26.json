@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Last Supper",
+      "The Last Samurai",
+      "The Last Unicorn",
+      "The Last Of Us",
+      "The Last Jedi",
+      "The Last Of The Mohicans",
+      "The Last Dance",
+      "The Last Emperor",
+      "The Last King Of Scotland",
+      "The Last Airbender",
+      "The Last Boy Scout",
+      "The Last Starfighter",
+      "The Last Picture Show",
+      "The Last Ship",
+      "The Last Waltz",
+      "The Last Man On Earth",
+      "The Last Castle",
+      "The Last Of The Mohicans",
+      "The Last Tycoon",
+      "The Last Temptation Of Christ",
+      "The Last Of The Mohicans",
+      "The Last Of England",
+      "The Last Wave",
+      "The Last Witch Hunter",
+      "The Last Stand",
+      "The Last Station",
+      "The Last Holiday",
+      "The Last Of The Blonde Bombshells",
+      "The Last Detail",
+      "The Last Legion",
+      "The Last Command",
+      "The Last Seduction",
+      "The Last Days Of Disco",
+      "The Last Days Of Pompeii",
+      "The Last Emperor",
+      "The Last Frontier",
+      "The Last Express",
+      "The Last Laugh",
+      "The Last Man",
+      "The Last Word",
+      "The Last Picture Show",
+      "The Last Dragon",
+      "The Last Hero",
+      "The Last Days",
+      "The Last Resort",
+      "The Last Post",
+      "The Last September",
+      "The Last Tycoon",
+      "The Last Black Man In San Francisco",
+      "The Last Of The Dogmen",
+      "The Last Face",
+      "The Last Big Thing",
+      "The Last Legion",
+      "The Last Express"
+    ],
+    "category" : "Last",
+    "clues" : [
+      {
+        "answer" : "SUPPER",
+        "clue" : "SPPR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "EMPEROR",
+        "clue" : "MPRR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JEDI",
+        "clue" : "JD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHRISTMAS",
+        "clue" : "CHRSTMS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SAMURAI",
+        "clue" : "SMR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MAN ON EARTH",
+        "clue" : "MN NRTH",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "OF THE MOHICANS",
+        "clue" : "FTH MHCNS",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "PIECE OF THE PUZZLE",
+        "clue" : "PCFTHPZZL",
+        "difficulty" : 9
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-26",
+  "schemaVersion" : 1
+}

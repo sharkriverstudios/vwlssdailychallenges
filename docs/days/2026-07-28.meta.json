@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "LIE DOWN",
+      "difficulty" : 4,
+      "clue" : "L DWN"
+    },
+    {
+      "answer" : "JUMP THROUGH HOOP",
+      "difficulty" : 7,
+      "clue" : "JMP THRGH HP"
+    },
+    {
+      "answer" : "COME",
+      "difficulty" : 2,
+      "clue" : "CM"
+    },
+    {
+      "answer" : "SPEAK",
+      "difficulty" : 3,
+      "clue" : "SPK"
+    },
+    {
+      "answer" : "SPIN",
+      "difficulty" : 4,
+      "clue" : "SPN"
+    },
+    {
+      "answer" : "JUMP",
+      "difficulty" : 3,
+      "clue" : "JMP"
+    },
+    {
+      "answer" : "HIGH FIVE",
+      "difficulty" : 6,
+      "clue" : "HGH FV"
+    },
+    {
+      "answer" : "BALANCE",
+      "difficulty" : 4,
+      "clue" : "BLNC"
+    },
+    {
+      "answer" : "CATCH",
+      "clue" : "CTCH",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "CRAWL",
+      "clue" : "CRWL",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "DANCE",
+      "clue" : "DNC",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "WAVE",
+      "difficulty" : 5,
+      "clue" : "WV"
+    }
+  ],
+  "tags" : [
+    "animals",
+    "common knowledge",
+    "home"
+  ]
+}

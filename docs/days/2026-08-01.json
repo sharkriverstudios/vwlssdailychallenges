@@ -1,0 +1,99 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Swing Set",
+      "Slide",
+      "Seesaw",
+      "Monkey Bars",
+      "Sandbox",
+      "Merry-Go-Round",
+      "Jungle Gym",
+      "Climbing Wall",
+      "Tire Swing",
+      "Playhouse",
+      "Rope Ladder",
+      "Zip Line",
+      "Carousel",
+      "Balance Beam",
+      "Spring Rider",
+      "Play Tunnel",
+      "Trampoline",
+      "Basketball Hoop",
+      "Picnic Table",
+      "Hopscotch",
+      "Benches",
+      "Water Fountain",
+      "Trash Can",
+      "Bike Rack",
+      "Shaded Area",
+      "Walking Path",
+      "Slide Tower",
+      "Mats",
+      "Picnic Shelter",
+      "Drinking Fountain",
+      "Sand Toys",
+      "Toddler Climber",
+      "Rope Bridge",
+      "Ladder",
+      "Fireman's Pole",
+      "Musical Instruments",
+      "Soccer Net",
+      "Slide Tube",
+      "Wavy Slide",
+      "Chain Swing",
+      "Swingset Frame",
+      "Climbing Net",
+      "Balance Board",
+      "See-Saw Platform",
+      "Rope Swing",
+      "Pavilion"
+    ],
+    "category" : "At the Playground",
+    "clues" : [
+      {
+        "answer" : "SANDBOX",
+        "clue" : "SNDBX",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SLIDE",
+        "clue" : "SLD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SWING SET",
+        "clue" : "SWNG ST",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SEESAW",
+        "clue" : "SSW",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MONKEY BARS",
+        "clue" : "MNKY BRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BASKETBALL HOOP",
+        "clue" : "BSKTBLL HP",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JUNGLE GYM",
+        "clue" : "JNGL GM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MERRY-GO-ROUND",
+        "clue" : "MRRG RND",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-01",
+  "schemaVersion" : 1
+}

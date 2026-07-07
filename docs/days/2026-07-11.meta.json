@@ -1,10 +1,4 @@
 {
-  "tags" : [
-    "sports",
-    "traditions",
-    "travel"
-  ],
-  "description" : "Everything about the race: gear, techniques, places, traditions, etc",
   "clueNotes" : [
     "",
     "",
@@ -27,66 +21,72 @@
     "",
     ""
   ],
+  "tags" : [
+    "animals",
+    "nature",
+    "science"
+  ],
+  "description" : "different species of sharks",
   "extraClues" : [
     {
-      "clue" : "DMSTQ",
-      "answer" : "DOMESTIQUE",
-      "difficulty" : 8
+      "difficulty" : 5,
+      "answer" : "THRESHER SHARK",
+      "clue" : "THRSHR SHRK"
     },
     {
-      "clue" : "GRN JRSY",
-      "answer" : "GREEN JERSEY",
-      "difficulty" : 3
+      "difficulty" : 5,
+      "answer" : "NURSE SHARK",
+      "clue" : "NRS SHRK"
     },
     {
-      "clue" : "WHT JRSY",
-      "answer" : "WHITE JERSEY",
-      "difficulty" : 3
+      "difficulty" : 6,
+      "answer" : "SAND TIGER SHARK",
+      "clue" : "SND TGR SHRK"
     },
     {
-      "clue" : "TM CR",
-      "answer" : "TEAM CAR",
-      "difficulty" : 4
+      "difficulty" : 6,
+      "answer" : "BLACKTIP REEF SHARK",
+      "clue" : "BLCKTP RF SHRK"
     },
     {
-      "clue" : "SPRT VHCL",
-      "answer" : "SUPPORT VEHICLE",
-      "difficulty" : 7
+      "difficulty" : 5,
+      "answer" : "BASKING SHARK",
+      "clue" : "BSKNG SHRK"
     },
     {
-      "clue" : "BDN",
-      "answer" : "BIDON",
-      "difficulty" : 9
+      "difficulty" : 6,
+      "answer" : "MEGAMOUTH SHARK",
+      "clue" : "MGMT SHRK"
     },
     {
-      "clue" : "CHMPS-LYS",
-      "answer" : "CHAMPS-ELYSEES",
-      "difficulty" : 6
+      "difficulty" : 6,
+      "answer" : "GREENLAND SHARK",
+      "clue" : "GRNLND SHRK"
     },
     {
-      "clue" : "CL D TRMLT",
-      "answer" : "COL DU TOURMALET",
-      "difficulty" : 8
+      "difficulty" : 7,
+      "answer" : "OCEANIC WHITETIP SHARK",
+      "clue" : "CCNC WHTTP SHRK"
     },
     {
-      "clue" : "LP D'HZ",
-      "answer" : "ALPE D'HUEZ",
-      "difficulty" : 8
+      "difficulty" : 7,
+      "answer" : "ZEBRA SHARK",
+      "clue" : "ZBR SHRK"
     },
     {
-      "clue" : "CHLN",
-      "answer" : "ECHELON",
-      "difficulty" : 8
+      "difficulty" : 7,
+      "answer" : "PORT JACKSON SHARK",
+      "clue" : "PRT JCKSN SHRK"
     },
     {
-      "clue" : "LNTRN RG",
-      "answer" : "LANTERNE ROUGE",
-      "difficulty" : 7
+      "difficulty" : 8,
+      "answer" : "SAWSHARK",
+      "clue" : "SWSHRK"
     },
     {
-      "clue" : "GRND DPRT",
-      "answer" : "GRAND DÉPART",
-      "difficulty" : 5
+      "difficulty" : 8,
+      "answer" : "SPINY DOGFISH",
+      "clue" : "SPNY DGFSH"
     }
   ]
 }

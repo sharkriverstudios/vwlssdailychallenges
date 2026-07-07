@@ -1,0 +1,117 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sit",
+      "Stay",
+      "Heel",
+      "Come",
+      "Fetch",
+      "Roll Over",
+      "Shake Hands",
+      "Play Dead",
+      "Speak",
+      "Lie Down",
+      "Spin",
+      "Jump",
+      "Beg",
+      "High Five",
+      "Balance",
+      "Backflip",
+      "Weave",
+      "Catch",
+      "Crawl",
+      "Wave",
+      "Bow",
+      "Dance",
+      "Jump Through Hoop",
+      "Open Door",
+      "Close Door",
+      "Fetch Newspaper",
+      "Retrieve Leash",
+      "Ring Bell",
+      "Find It",
+      "Hug",
+      "Snuggle",
+      "Peekaboo",
+      "Stand",
+      "Tug",
+      "Push",
+      "Pull",
+      "Nod",
+      "Shake Head",
+      "Say Hi",
+      "Pray",
+      "Tidy Up",
+      "Basketball",
+      "Skateboard",
+      "Surf",
+      "Play Guitar",
+      "Play Piano",
+      "Ride Scooter",
+      "Salute",
+      "Cover Eyes",
+      "Carry Basket",
+      "Clean Up Toys",
+      "Jump Rope",
+      "Open Drawer",
+      "Walk Backwards",
+      "Get Tissue",
+      "Take A Bow",
+      "Spin In Circle",
+      "High Jump",
+      "Moonwalk",
+      "Play Soccer",
+      "Put Away Toys",
+      "Push Cart",
+      "Ring Doorbell",
+      "Say Goodbye"
+    ],
+    "category" : "Dog Tricks",
+    "clues" : [
+      {
+        "answer" : "SIT",
+        "clue" : "ST",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "FETCH",
+        "clue" : "FTCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HEEL",
+        "clue" : "HL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "STAY",
+        "clue" : "STY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BEG",
+        "clue" : "BG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ROLL OVER",
+        "clue" : "RL LVR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PLAY DEAD",
+        "clue" : "PL YD D",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SHAKE HANDS",
+        "clue" : "SHK HNDS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-07-28",
+  "schemaVersion" : 1
+}

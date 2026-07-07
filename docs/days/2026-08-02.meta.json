@@ -1,0 +1,93 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 9,
+      "clue" : "RQFRT",
+      "answer" : "ROQUEFORT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GD",
+      "answer" : "GOUDA"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CHMPGN",
+      "answer" : "CHAMPAGNE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "STLTN",
+      "answer" : "STILTON"
+    },
+    {
+      "answer" : "CAMEMBERT",
+      "difficulty" : 6,
+      "clue" : "CMMBRT"
+    },
+    {
+      "answer" : "LIMBURGER",
+      "difficulty" : 6,
+      "clue" : "LMBRGR"
+    },
+    {
+      "answer" : "GRUYERE",
+      "difficulty" : 6,
+      "clue" : "GRYR"
+    },
+    {
+      "answer" : "FETA",
+      "difficulty" : 5,
+      "clue" : "FT"
+    },
+    {
+      "answer" : "NAPLES",
+      "difficulty" : 8,
+      "clue" : "NPLS"
+    },
+    {
+      "answer" : "CHEDDAR",
+      "difficulty" : 5,
+      "clue" : "CHDDR"
+    },
+    {
+      "answer" : "VIENNA",
+      "difficulty" : 8,
+      "clue" : "VNN"
+    },
+    {
+      "answer" : "BORDEAUX",
+      "difficulty" : 7,
+      "clue" : "BRDX"
+    }
+  ],
+  "tags" : [
+    "culinary",
+    "geography",
+    "culture"
+  ],
+  "description" : "places that inspired the names of foods (basically the category \"Foods named after a place\", but the inverse where you have to name the place that inspired the food name)",
+  "notes" : "e.g. Hamburg (Hamburger), Naples (Neapolitan Ice Cream)"
+}

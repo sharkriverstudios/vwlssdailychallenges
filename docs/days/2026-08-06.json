@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sweet Home Alabama",
+      "Hotel California",
+      "Viva Las Vegas",
+      "New York, New York",
+      "Baker Street",
+      "Kokomo",
+      "Werewolves Of London",
+      "Boston",
+      "Philadelphia Freedom",
+      "Detroit Rock City",
+      "Walking In Memphis",
+      "Lodi",
+      "San Francisco (Be Sure To Wear Flowers In Your Hair)",
+      "I Left My Heart In San Francisco",
+      "Nutbush City Limits",
+      "Miami Vice Theme",
+      "Midnight Train To Georgia",
+      "Folsom Prison Blues",
+      "April In Paris",
+      "Last Train To Clarksville",
+      "By The Time I Get To Phoenix",
+      "Do You Know The Way To San Jose",
+      "Viva La Vida",
+      "Ohio",
+      "Memphis, Tennessee",
+      "Allentown",
+      "I Love L.A.",
+      "Cleveland Rocks",
+      "Streets Of Philadelphia",
+      "The Night Chicago Died",
+      "L.A. Woman",
+      "Barcelona",
+      "London Calling",
+      "New York Minute",
+      "Living In America",
+      "Kansas City",
+      "Belfast Child",
+      "Budapest",
+      "Sausalito Summernight",
+      "My City Was Gone",
+      "Californication",
+      "Hollywood Nights",
+      "Barcelona Nights",
+      "One Night In Bangkok",
+      "Promised Land",
+      "Going To California",
+      "Nashville Cats",
+      "Istanbul (Not Constantinople)",
+      "Raining In Baltimore",
+      "Santa Monica",
+      "Salford Sunday",
+      "Carolina In My Mind",
+      "Never Been To Spain",
+      "Meet Me In St. Louis"
+    ],
+    "category" : "Songs with City Names",
+    "clues" : [
+      {
+        "answer" : "NEW YORK, NEW YORK",
+        "clue" : "NW YRK NW YRK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LEAVING LAS VEGAS",
+        "clue" : "LVNG LS VGS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CLEVELAND ROCKS",
+        "clue" : "CLVLND RCKS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WALKING IN MEMPHIS",
+        "clue" : "WLKNG NM MPHS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WEREWOLVES OF LONDON",
+        "clue" : "WRWLVS F LNDN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LAST TRAIN TO CLARKSVILLE",
+        "clue" : "LST TRN T CLRKSVLL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "I LEFT MY HEART IN SAN FRANCISCO",
+        "clue" : "LF TM HR TNS N FRNC SC",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PHILADELPHIA FREEDOM",
+        "clue" : "PHLDLPH FRDM",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-06",
+  "schemaVersion" : 1
+}
