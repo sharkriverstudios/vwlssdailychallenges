@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "answer" : "RECLINER",
+      "clue" : "RCLNR"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "HAMMOCK",
+      "clue" : "HMMCK"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DIRECTOR'S CHAIR",
+      "clue" : "DRCTR'S CHR"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "THRONE",
+      "clue" : "THRN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PEW",
+      "clue" : "PW"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "LOUNGE CHAIR",
+      "clue" : "LNG CHR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DECK CHAIR",
+      "clue" : "DCK CHR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "BAR STOOL",
+      "clue" : "BR STL"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "ARMCHAIR",
+      "clue" : "RMCHR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "WINDOW SEAT",
+      "clue" : "WNDW ST"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "EGG CHAIR",
+      "clue" : "GG CHR"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "OTTOMAN",
+      "clue" : "TTMN"
+    }
+  ],
+  "tags" : [
+    "common knowledge",
+    "home",
+    "culture"
+  ],
+  "notes" : "be cryptic with at least 3 of them",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

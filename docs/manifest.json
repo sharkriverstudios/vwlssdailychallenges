@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.6.25",
-  "generatedAt": "2026-06-25T14:17:00Z",
+  "contentVersion": "2026.7.13",
+  "generatedAt": "2026-07-13T15:57:29Z",
   "availableFrom": "2026-04-01",
-  "availableTo": "2026-07-23",
+  "availableTo": "2026-08-07",
   "days": [
     {
       "date": "2026-04-01",
@@ -708,16 +708,16 @@
     {
       "date": "2026-07-10",
       "difficulty": 6,
-      "category": "Alanis Morisette",
+      "category": "Willie Nelson Number Ones",
       "path": "days/2026-07-10.json",
-      "hash": "sha256:10205c2bba9e834a3a03e38627f9842713771ba131b21d7b30b0561c68ed4414"
+      "hash": "sha256:c47ed2e2f6eda4c5dc5c9b7b53fb0090519084510723c16403dd3998415c0068"
     },
     {
       "date": "2026-07-11",
       "difficulty": 5,
-      "category": "Tour de France",
+      "category": "Sharks",
       "path": "days/2026-07-11.json",
-      "hash": "sha256:939a69b71a0fc247126c8712ffc76528636cb7a681772c6e51650f5f80c0f082"
+      "hash": "sha256:d076acbef77d8f60bea1969c7e49e1db498f577c9194c1ea2f648aa3be68b0d8"
     },
     {
       "date": "2026-07-12",
@@ -736,9 +736,9 @@
     {
       "date": "2026-07-14",
       "difficulty": 4,
-      "category": "Trees of North America",
+      "category": "TV Detective Procedurals of the 90s",
       "path": "days/2026-07-14.json",
-      "hash": "sha256:ef72cca05d74b57d4080d6a2c8233a834930597d692d47c6c73dabe7a3ef7c09"
+      "hash": "sha256:ff96a0dfd2acd1ced8525296c89feb180e2d61caa7e7349f748447b69d17401d"
     },
     {
       "date": "2026-07-15",
@@ -756,52 +756,157 @@
     },
     {
       "date": "2026-07-17",
-      "difficulty": 7,
-      "category": "parts of a cell",
+      "difficulty": 6,
+      "category": "Alanis Morisette",
       "path": "days/2026-07-17.json",
-      "hash": "sha256:6d6ddfc1e3de78dac3989e0d94b846f60e7fc2ad52056d22f08c4ae8a496252a"
+      "hash": "sha256:96d85e49f166cc4474ee08c7e6ac813d2a5146482f3edeaadde4d4aa76de0105"
     },
     {
       "date": "2026-07-18",
       "difficulty": 5,
-      "category": "North American Cryptids",
+      "category": "Tour de France",
       "path": "days/2026-07-18.json",
-      "hash": "sha256:e90dd974a9363fad44df297ad3abea436cebb0e02278a9543f4cc79b6965bd93"
+      "hash": "sha256:d5f123e7243d2e4b203c3892610d21ab3ab0ccacc6ce2554268c3f4776a02f7f"
     },
     {
       "date": "2026-07-19",
-      "difficulty": 6,
-      "category": "Willie Nelson Number Ones",
+      "difficulty": 7,
+      "category": "parts of a cell",
       "path": "days/2026-07-19.json",
-      "hash": "sha256:b528233e85734f68a8eaeb32158313099825bb0381412e44012db40638a69b96"
+      "hash": "sha256:61ef9445fc303664bcf682cd2034b91394409770c032ade0b25d31cc22151338"
     },
     {
       "date": "2026-07-20",
-      "difficulty": 5,
-      "category": "Hans Christian Anderson",
+      "difficulty": 3,
+      "category": "Beans",
       "path": "days/2026-07-20.json",
-      "hash": "sha256:96334a7a9bb94ac615423f2cbf10f62a493cc0d07a3b723b0fe3da00909f0c46"
+      "hash": "sha256:2875e50f01a25dadb573339238733f0b990e4ec842a1d831d8e0ef70ace00c33"
     },
     {
       "date": "2026-07-21",
-      "difficulty": 5,
-      "category": "Broadway Composers",
+      "difficulty": 4,
+      "category": "Game Show Hosts",
       "path": "days/2026-07-21.json",
-      "hash": "sha256:238b14d5eecd9661de1c8b2c0fc87a98bbbf0fd504231ae5e8b993d86553dc31"
+      "hash": "sha256:37cb4f1fcb21d1b355c5f5653a96b3f92234c0d09b0d5a5e8bd66335f667c4a0"
     },
     {
       "date": "2026-07-22",
-      "difficulty": 5,
-      "category": "Languages Spoken in Israel",
+      "difficulty": 4,
+      "category": "Trees of North America",
       "path": "days/2026-07-22.json",
-      "hash": "sha256:e4e15adb4f9f3692430d70949e62eb41009ff1aa34e49c02f0f53826c43fb363"
+      "hash": "sha256:956fe543a32b690e2679db2c1a3d7160b75a6af503f421626094f9241274dc71"
     },
     {
       "date": "2026-07-23",
-      "difficulty": 4,
-      "category": "Game Show Hosts",
+      "difficulty": 5,
+      "category": "Hans Christian Anderson",
       "path": "days/2026-07-23.json",
-      "hash": "sha256:df7b3fa1bc09196bfdac54d9e8d41234b3927f72f63e2fcd42fc2f4d154a9cc7"
+      "hash": "sha256:5e31afe89ddeddfca0e3d5f50224ffc764f0ae5b22a553b58f53229be35c2025"
+    },
+    {
+      "date": "2026-07-24",
+      "difficulty": 7,
+      "category": "Types of Knots",
+      "path": "days/2026-07-24.json",
+      "hash": "sha256:ad15adc7de6ca411a3c309ef24218ebec7b8117b4407e976e985db2fa9d163f4"
+    },
+    {
+      "date": "2026-07-25",
+      "difficulty": 4,
+      "category": "Music Festivals",
+      "path": "days/2026-07-25.json",
+      "hash": "sha256:75d62fef7ca1efffdcb1ac7a38400de7396de97eecff8f575a6bf4c200141782"
+    },
+    {
+      "date": "2026-07-26",
+      "difficulty": 7,
+      "category": "Last",
+      "path": "days/2026-07-26.json",
+      "hash": "sha256:05c392063c69c62d35675794186b42fc2f6e0e39c5be45773cf0f52909f74417"
+    },
+    {
+      "date": "2026-07-27",
+      "difficulty": 2,
+      "category": "Things you put on a Hamburger",
+      "path": "days/2026-07-27.json",
+      "hash": "sha256:0bf6756ff00526bd091a68a77aade04056488bb53a76077afac2c21656cf0f19"
+    },
+    {
+      "date": "2026-07-28",
+      "difficulty": 3,
+      "category": "Dog Tricks",
+      "path": "days/2026-07-28.json",
+      "hash": "sha256:b2f4d31b41fcb3fd5dd98dc3a41fba60dd402976ef19b143563aa93ccd9628ab"
+    },
+    {
+      "date": "2026-07-29",
+      "difficulty": 5,
+      "category": "North American Cryptids",
+      "path": "days/2026-07-29.json",
+      "hash": "sha256:469f22d74ef1d762017d2f63f697e0d9522f8241744ec09672bdfab9019605b9"
+    },
+    {
+      "date": "2026-07-30",
+      "difficulty": 5,
+      "category": "Languages Spoken in Israel",
+      "path": "days/2026-07-30.json",
+      "hash": "sha256:f1049dba6b3788b7ca3472addd6447f40003c0bd898de8312ea6935773b3cb38"
+    },
+    {
+      "date": "2026-07-31",
+      "difficulty": 7,
+      "category": "Supreme Court Justices",
+      "path": "days/2026-07-31.json",
+      "hash": "sha256:a736fe3f9c64941db5f5c6cb40f05f6896fb67fd45b4e4d6a7149341a6f2e193"
+    },
+    {
+      "date": "2026-08-01",
+      "difficulty": 3,
+      "category": "At the Playground",
+      "path": "days/2026-08-01.json",
+      "hash": "sha256:c6ba7d705bc5a988e17eee2443e1ecb5e8204e50d58db4b921b10c6fbd73316a"
+    },
+    {
+      "date": "2026-08-02",
+      "difficulty": 8,
+      "category": "Places that Named a Food",
+      "path": "days/2026-08-02.json",
+      "hash": "sha256:ecca256a7d90a80aecd7d70f0c4210ab7dbe3e38d460dccf34b81c79c9258b0d"
+    },
+    {
+      "date": "2026-08-03",
+      "difficulty": 4,
+      "category": "Biblical Names",
+      "path": "days/2026-08-03.json",
+      "hash": "sha256:cb33f13ef1d5fa3e955dd0075809d190af8cda2ff7075072526ed354d9efd713"
+    },
+    {
+      "date": "2026-08-04",
+      "difficulty": 8,
+      "category": "Hobbits",
+      "path": "days/2026-08-04.json",
+      "hash": "sha256:b3a0c4d345bdd7c13e01c2ba7810d1a96a8fdff20278126efac75a6e9806600c"
+    },
+    {
+      "date": "2026-08-05",
+      "difficulty": 5,
+      "category": "Broadway Composers",
+      "path": "days/2026-08-05.json",
+      "hash": "sha256:0dc132c5cccf62bc65c173bb33071e99314c36dd0f44d40061d95f526dee14ff"
+    },
+    {
+      "date": "2026-08-06",
+      "difficulty": 5,
+      "category": "Songs with City Names",
+      "path": "days/2026-08-06.json",
+      "hash": "sha256:8463d00d6d6f8e738b2ab3a50ec84d9967083c83983f0c38c726a62e94799d24"
+    },
+    {
+      "date": "2026-08-07",
+      "difficulty": 8,
+      "category": "Things you Can Sit On",
+      "path": "days/2026-08-07.json",
+      "hash": "sha256:f124cd24d9eccd3789cee9867e1334f23e2bc3b1a3895d97d31a5bb309c9c0d3"
     }
   ]
 }
