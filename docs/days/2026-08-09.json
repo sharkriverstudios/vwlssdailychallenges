@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Chair",
+      "Sofa",
+      "Bench",
+      "Stool",
+      "Couch",
+      "Rocking Chair",
+      "Bean Bag",
+      "Recliner",
+      "Loveseat",
+      "Ottoman",
+      "Dining Chair",
+      "Futon",
+      "Hammock",
+      "Bar Stool",
+      "Armchair",
+      "Park Bench",
+      "Window Seat",
+      "Swing",
+      "Pew",
+      "Lounge Chair",
+      "Deck Chair",
+      "Chaise Longue",
+      "Director's Chair",
+      "Folding Chair",
+      "Throne",
+      "Saddle",
+      "Pouf",
+      "Bicycle Seat",
+      "Yoga Ball",
+      "Tatami Mat",
+      "Sectional",
+      "Egg Chair",
+      "Camping Chair",
+      "Beanbag Chair",
+      "Gaming Chair",
+      "Floor Cushion",
+      "Tractor Seat",
+      "Piano Bench",
+      "Settee",
+      "Eames Lounge",
+      "Adirondack Chair",
+      "High Chair",
+      "The Thinking Rock",
+      "Sun Lounger",
+      "Chesterfield",
+      "Dining Booth",
+      "Ladderback Chair",
+      "Windsor Chair",
+      "Skateboard",
+      "Bleachers",
+      "Toadstool"
+    ],
+    "category" : "Things you Can Sit On",
+    "clues" : [
+      {
+        "answer" : "CHAIR",
+        "clue" : "CHR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SWING",
+        "clue" : "SWNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SADDLE",
+        "clue" : "SDDL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FUTON",
+        "clue" : "FTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "YOGA BALL",
+        "clue" : "YGBLL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "THE FENCE",
+        "clue" : "THFNC",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "HANDS",
+        "clue" : "HNDS",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "DECISION",
+        "clue" : "DCSN",
+        "difficulty" : 9
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-09",
+  "schemaVersion" : 1
+}

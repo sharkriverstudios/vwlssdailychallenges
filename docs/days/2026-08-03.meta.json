@@ -21,72 +21,72 @@
     "",
     ""
   ],
+  "notes" : "from the 70s, 80s, 90s",
   "extraClues" : [
     {
-      "clue" : "BRHM",
-      "difficulty" : 3,
-      "answer" : "ABRAHAM"
-    },
-    {
-      "difficulty" : 2,
-      "answer" : "NOAH",
-      "clue" : "NH"
-    },
-    {
-      "difficulty" : 4,
-      "answer" : "SARAH",
-      "clue" : "SRH"
-    },
-    {
-      "difficulty" : 4,
-      "answer" : "SAMUEL",
-      "clue" : "SML"
-    },
-    {
       "difficulty" : 5,
-      "answer" : "REBECCA",
-      "clue" : "RBCC"
-    },
-    {
-      "clue" : "NTHN",
-      "answer" : "NATHAN",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "SLMN",
-      "answer" : "SOLOMON",
-      "difficulty" : 4
-    },
-    {
-      "clue" : "ZCHRY",
-      "answer" : "ZACHARY",
-      "difficulty" : 6
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "JEREMIAH",
-      "clue" : "JRMH"
+      "answer" : "BLOOM COUNTY",
+      "clue" : "BLMCNT"
     },
     {
       "difficulty" : 6,
-      "answer" : "PRISCILLA",
-      "clue" : "PRSCLL"
+      "answer" : "THE WIZARD OF ID",
+      "clue" : "TH WZRD F D"
     },
     {
       "difficulty" : 4,
-      "answer" : "PHILIP",
-      "clue" : "PHLP"
+      "answer" : "FAMILY CIRCUS",
+      "clue" : "FMLY CRCS"
     },
     {
-      "clue" : "DBRH",
+      "difficulty" : 7,
+      "answer" : "FOR BETTER OR FOR WORSE",
+      "clue" : "FR BTTR R FR WRS"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "B.C.",
+      "clue" : "BC"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "ZIGGY",
+      "clue" : "ZGGY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "HAGAR THE HORRIBLE",
+      "clue" : "HGR TH HRRBL"
+    },
+    {
       "difficulty" : 5,
-      "answer" : "DEBORAH"
+      "answer" : "FOXTROT",
+      "clue" : "FXTRT"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "BEETLE BAILEY",
+      "clue" : "BTLBLY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "HEATHCLIFF",
+      "clue" : "HTHCLFF"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "SHOE",
+      "clue" : "SH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MARK TRAIL",
+      "clue" : "MRK TRL"
     }
   ],
   "tags" : [
-    "religion",
-    "culture",
-    "history"
-  ],
-  "description" : "Common names of people in North America today that come from the Bible"
+    "comics",
+    "popular culture",
+    "entertainment"
+  ]
 }

@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "business"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "answer" : "CHUCK E. CHEESE'S",
+      "clue" : "CHCK CHSSS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MARCO'S PIZZA",
+      "clue" : "MRC'S PZZ"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "JET'S PIZZA",
+      "clue" : "JT'S PZZ"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "MELLOW MUSHROOM",
+      "clue" : "MLLW MSHRM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "GODFATHER'S PIZZA",
+      "clue" : "GDFTHR'S PZZ"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "PAPA MURPHY'S",
+      "clue" : "PP MRPHY'S"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "ROUND TABLE PIZZA",
+      "clue" : "RND TBL PZZ"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "CI CI'S PIZZA",
+      "clue" : "CC'S PZZ"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "HUNGRY HOWIE'S",
+      "clue" : "HNGRY HW'S"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "PIEOLOGY",
+      "clue" : "PLGY"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PIZZA RANCH",
+      "clue" : "PZZ RNCH"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "MOD PIZZA",
+      "clue" : "MD PZZ"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

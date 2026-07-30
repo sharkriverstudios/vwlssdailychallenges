@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "HARRY CONNICK JR",
+      "clue" : "HRR CNNCK JR"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "PERRY COMO",
+      "clue" : "PRRY CM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "BOBBY DARIN",
+      "clue" : "BBY DRN"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "ANDY WILLIAMS",
+      "clue" : "NDY WLLMS"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "JOHNNY MATHIS",
+      "clue" : "JHNNY MTHS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "ENGELBERT HUMPERDINCK",
+      "clue" : "NGLBRT HMPRDNCK"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MEL TORME",
+      "clue" : "ML TRM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "JACK JONES",
+      "clue" : "JCK JNS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PAUL ANKA",
+      "clue" : "PL NK"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "JERRY VALE",
+      "clue" : "JRY VL"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "ANTHONY NEWLEY",
+      "clue" : "NTHNY NWLY"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "MATT MONRO",
+      "clue" : "MTT MNR"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "music",
+    "popular culture",
+    "history"
+  ],
+  "description" : "male pop singers from the 50s and 60s, or more modern singers who copy their style - e.g. Frank Sinatra"
+}

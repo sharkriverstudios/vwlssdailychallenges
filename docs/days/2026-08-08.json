@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Tomato",
+      "Zucchini",
+      "Bell Pepper",
+      "Eggplant",
+      "Cucumber",
+      "Corn",
+      "Green Bean",
+      "Watermelon",
+      "Cantaloupe",
+      "Okra",
+      "Summer Squash",
+      "Cherry Tomato",
+      "Hot Pepper",
+      "Basil",
+      "Dill",
+      "Mint",
+      "Chard",
+      "Kale",
+      "Arugula",
+      "Radish",
+      "Carrot",
+      "Beet",
+      "Onion",
+      "Garlic",
+      "Leek",
+      "Basil",
+      "Parsley",
+      "Oregano",
+      "Thyme",
+      "Sage",
+      "Rosemary",
+      "Chives",
+      "Spinach",
+      "Lettuce",
+      "Collard Greens",
+      "Pumpkin",
+      "Butternut Squash",
+      "Spaghetti Squash",
+      "Acorn Squash",
+      "Sunflower",
+      "Soybean",
+      "Black Eyed Pea",
+      "Pinto Bean",
+      "Lima Bean",
+      "Sweet Potato",
+      "Yam",
+      "Peanut",
+      "Celery",
+      "Broccoli",
+      "Cauliflower"
+    ],
+    "category" : "Summer Crops",
+    "clues" : [
+      {
+        "answer" : "CORN",
+        "clue" : "CRN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "TOMATO",
+        "clue" : "TMT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CUCUMBER",
+        "clue" : "CCMBR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WATERMELON",
+        "clue" : "WTRMLN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BELL PEPPER",
+        "clue" : "BLLPP PR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SUNFLOWER",
+        "clue" : "SNFLWR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ZUCCHINI",
+        "clue" : "ZCCHN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "OKRA",
+        "clue" : "KR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-08",
+  "schemaVersion" : 1
+}

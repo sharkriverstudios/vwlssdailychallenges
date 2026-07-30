@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "DS",
+      "difficulty" : 8,
+      "answer" : "DAISY"
+    },
+    {
+      "clue" : "LL",
+      "difficulty" : 9,
+      "answer" : "LILY"
+    },
+    {
+      "clue" : "RS",
+      "difficulty" : 9,
+      "answer" : "ROSE"
+    },
+    {
+      "clue" : "HYDRNG",
+      "difficulty" : 4,
+      "answer" : "HYDRANGEA"
+    },
+    {
+      "clue" : "PTN",
+      "difficulty" : 5,
+      "answer" : "PETUNIA"
+    },
+    {
+      "clue" : "HBSCSS",
+      "difficulty" : 5,
+      "answer" : "HIBISCUS"
+    },
+    {
+      "clue" : "PNY",
+      "difficulty" : 6,
+      "answer" : "PEONY"
+    },
+    {
+      "clue" : "CNFLWR",
+      "difficulty" : 6,
+      "answer" : "CONEFLOWER"
+    },
+    {
+      "clue" : "BLCKYDSN",
+      "difficulty" : 7,
+      "answer" : "BLACK-EYED SUSAN"
+    },
+    {
+      "clue" : "NSTRTM",
+      "difficulty" : 7,
+      "answer" : "NASTURTIUM"
+    },
+    {
+      "clue" : "GLLRD",
+      "difficulty" : 8,
+      "answer" : "GAILLARDIA"
+    },
+    {
+      "clue" : "BBLM",
+      "difficulty" : 7,
+      "answer" : "BEE BALM"
+    }
+  ],
+  "tags" : [
+    "summer",
+    "gardening",
+    "nature"
+  ]
+}

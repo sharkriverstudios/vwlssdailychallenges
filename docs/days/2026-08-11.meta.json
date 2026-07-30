@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "PMPRNCKL",
+      "answer" : "PUMPERNICKEL",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "CBTT",
+      "answer" : "CIABATTA",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CHLLH",
+      "answer" : "CHALLAH",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BRCH",
+      "answer" : "BRIOCHE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CRSSNT",
+      "answer" : "CROISSANT",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CRMPT",
+      "answer" : "CRUMPET",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "FGSS",
+      "answer" : "FOUGASSE",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "PNR",
+      "answer" : "PANEER",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "CHPT",
+      "answer" : "CHAPATI",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NJR",
+      "answer" : "INJERA",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "MTZ",
+      "answer" : "MATZO",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "KHCHPR",
+      "answer" : "KHACHAPURI",
+      "difficulty" : 9
+    }
+  ],
+  "description" : "types of bread",
+  "notes" : "do not incldue the word \"bread\" in the clue or answer e.g. \"rye\" not \"rye bread\"",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "culinary"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "TURKEY",
+      "difficulty" : 3,
+      "clue" : "TRKY"
+    },
+    {
+      "answer" : "GREECE",
+      "difficulty" : 4,
+      "clue" : "GRCC"
+    },
+    {
+      "answer" : "PORTUGAL",
+      "difficulty" : 4,
+      "clue" : "PRTGL"
+    },
+    {
+      "answer" : "NETHERLANDS",
+      "difficulty" : 4,
+      "clue" : "NTHRLNDS"
+    },
+    {
+      "answer" : "BELGIUM",
+      "difficulty" : 3,
+      "clue" : "BLGM"
+    },
+    {
+      "answer" : "NORWAY",
+      "difficulty" : 3,
+      "clue" : "NRWY"
+    },
+    {
+      "answer" : "ICELAND",
+      "difficulty" : 5,
+      "clue" : "CLND"
+    },
+    {
+      "answer" : "POLAND",
+      "difficulty" : 3,
+      "clue" : "PLND"
+    },
+    {
+      "answer" : "CZECH REPUBLIC",
+      "difficulty" : 7,
+      "clue" : "CZCH RPBLC"
+    },
+    {
+      "answer" : "HUNGARY",
+      "difficulty" : 3,
+      "clue" : "HNGRY"
+    },
+    {
+      "answer" : "BULGARIA",
+      "difficulty" : 6,
+      "clue" : "BLGR"
+    },
+    {
+      "answer" : "ROMANIA",
+      "difficulty" : 3,
+      "clue" : "RMN"
+    }
+  ],
+  "tags" : [
+    "geography",
+    "politics",
+    "history"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

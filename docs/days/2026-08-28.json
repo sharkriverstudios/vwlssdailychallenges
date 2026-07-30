@@ -1,0 +1,99 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Domino's Pizza",
+      "Pizza Hut",
+      "Papa John's",
+      "Little Caesars",
+      "Papa Murphy's",
+      "Marco's Pizza",
+      "California Pizza Kitchen",
+      "Sbarro",
+      "CiCi's Pizza",
+      "Blaze Pizza",
+      "Round Table Pizza",
+      "Jet's Pizza",
+      "Mellow Mushroom",
+      "Godfather's Pizza",
+      "Uno Pizzeria & Grill",
+      "Pizza Ranch",
+      "Hungry Howie's",
+      "Chuck E. Cheese's",
+      "Pizza Inn",
+      "Mountain Mike's Pizza",
+      "MOD Pizza",
+      "Pieology",
+      "Pizza Pizza",
+      "Ledo Pizza",
+      "Old Chicago Pizza",
+      "Boston Pizza",
+      "LaRosa's Pizzeria",
+      "Fox's Pizza Den",
+      "Village Inn Pizza",
+      "Happy Joe's Pizza",
+      "Red Brick Pizza",
+      "Pizza Factory",
+      "Imo's Pizza",
+      "Toppers Pizza",
+      "PizzaRev",
+      "Peter Piper Pizza",
+      "Casey's General Store",
+      "Gatti's Pizza",
+      "Rosati's Pizza",
+      "East of Chicago Pizza",
+      "Snappy Tomato Pizza",
+      "Garlic Jim's Famous Gourmet Pizza",
+      "Blackjack Pizza",
+      "Pizza My Heart",
+      "Stevi B's Pizza Buffet",
+      "Big Mama's & Papa's Pizzeria"
+    ],
+    "category" : "Pizza Chains",
+    "clues" : [
+      {
+        "answer" : "PIZZA HUT",
+        "clue" : "PZZ HT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "PAPA JOHN'S",
+        "clue" : "PP JHNS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LITTLE CAESARS",
+        "clue" : "LT TLC SRS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DOMINO'S",
+        "clue" : "DMNS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BLAZE PIZZA",
+        "clue" : "BLZ PZZ",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SBARRO",
+        "clue" : "SBRR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CALIFORNIA PIZZA KITCHEN",
+        "clue" : "CLFRN PZZ KTCHN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "UNO PIZZERIA AND GRILL",
+        "clue" : "NPZZRNDGRLL",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-08-28",
+  "schemaVersion" : 1
+}

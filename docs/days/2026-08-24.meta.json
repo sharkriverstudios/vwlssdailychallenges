@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 2,
+      "clue" : "SHL",
+      "answer" : "SHALE"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "SCHST",
+      "answer" : "SCHIST"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "GNSS",
+      "answer" : "GNEISS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "RHYLT",
+      "answer" : "RHYLITE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "DRT",
+      "answer" : "DIORITE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "PMC",
+      "answer" : "PUMICE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "TRVRTN",
+      "answer" : "TRAVERTINE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CHRT",
+      "answer" : "CHERT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "DLMT",
+      "answer" : "DOLOMITE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "PHLT",
+      "answer" : "PHYLITE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SCR",
+      "answer" : "SCORIA"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "MPHBLT",
+      "answer" : "AMPHIBOLITE"
+    }
+  ],
+  "description" : "kinds of rock",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "geology",
+    "science",
+    "nature"
+  ]
+}

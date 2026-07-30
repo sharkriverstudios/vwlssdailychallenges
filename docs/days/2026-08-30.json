@@ -1,0 +1,98 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Truth Or Consequences, New Mexico",
+      "Boring, Oregon",
+      "Ding Dong, Texas",
+      "Monkey's Eyebrow, Kentucky",
+      "Looneyville, Texas",
+      "Toad Suck, Arkansas",
+      "Yellville, Arkansas",
+      "Cut And Shoot, Texas",
+      "Slickpoo, Idaho",
+      "Intercourse, Pennsylvania",
+      "Bird In Hand, Pennsylvania",
+      "Normal, Illinois",
+      "Hell, Michigan",
+      "Why, Arizona",
+      "Embarrass, Minnesota",
+      "Dull, Scotland",
+      "Ecclefechan, Scotland",
+      "Bat Cave, North Carolina",
+      "Chicken, Alaska",
+      "Accident, Maryland",
+      "Squabbletown, California",
+      "Bacon Level, Alabama",
+      "Burnt Corn, Alabama",
+      "Jellybean, Australia",
+      "Punkeydoodles Corners, Ontario",
+      "Goofy Ridge, Illinois",
+      "Nothing, Arizona",
+      "Santa Claus, Indiana",
+      "Okay, Oklahoma",
+      "Zzyzx, California",
+      "Unalaska, Alaska",
+      "Peculiar, Missouri",
+      "Whynot, North Carolina",
+      "Ninety Six, South Carolina",
+      "Satan's Kingdom, Vermont",
+      "Asbestos, Quebec",
+      "Beer Bottle Crossing, Idaho",
+      "French Lick, Indiana",
+      "Cool, California",
+      "Bumpass, Virginia",
+      "Big Bottom, Washington",
+      "Two Egg, Florida",
+      "No Name, Colorado",
+      "Boogertown, North Carolina",
+      "Bugtussle, Kentucky"
+    ],
+    "category" : "Unusual City Names",
+    "clues" : [
+      {
+        "answer" : "HELL, MICHIGAN",
+        "clue" : "HLL MCHGN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BORING, OREGON",
+        "clue" : "BRNG RGN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "INTERCOURSE, PENNSYLVANIA",
+        "clue" : "NTRCRS PNNSLVN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "LOONEYVILLE, TEXAS",
+        "clue" : "LNYVLLTXS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PECULIAR, MISSOURI",
+        "clue" : "PCLR MSSR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "UNALASKA, ALASKA",
+        "clue" : "NLSKLSK",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "TRUTH OR CONSEQUENCES, NEW MEXICO",
+        "clue" : "TRTH R CNSQNCS NW MXC",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "SLICKPOO, IDAHO",
+        "clue" : "SLCKP DH",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-08-30",
+  "schemaVersion" : 1
+}

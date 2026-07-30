@@ -1,8 +1,4 @@
 {
-  "tags" : [
-    "literature",
-    "fantasy"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -25,68 +21,71 @@
     "",
     ""
   ],
-  "notes" : "for 11\/22\/26 ",
-  "description" : "named characters in The Hobbit and The Lord of the Rings who are Hobbits",
   "extraClues" : [
     {
-      "answer" : "PIPPIN TOOK",
-      "clue" : "PPPN TK",
-      "difficulty" : 5
-    },
-    {
-      "answer" : "FREDEGAR BOLGER",
-      "clue" : "FRDGR BLGR",
-      "difficulty" : 7
-    },
-    {
-      "answer" : "HAMFAST GAMGEE",
-      "clue" : "HMFST GMG",
+      "answer" : "SAINT VINCENT AND THE GRENADINES",
+      "clue" : "SNT VNCNT ND TH GRNDNS",
       "difficulty" : 6
     },
     {
-      "answer" : "MERIADOC BRANDYBUCK",
-      "clue" : "MRDC BRNDBCK",
-      "difficulty" : 7
+      "answer" : "ANTIGUA AND BARBUDA",
+      "clue" : "NTG ND BRBD",
+      "difficulty" : 5
     },
     {
-      "answer" : "GOLDILOCKS GAMGEE",
-      "clue" : "GLDLCKS GMG",
-      "difficulty" : 7
+      "answer" : "SAINT KITTS AND NEVIS",
+      "clue" : "SNT KTTS ND NVS",
+      "difficulty" : 5
     },
     {
-      "answer" : "FARAMIR TOOK",
-      "clue" : "FRMR TK",
-      "difficulty" : 7
+      "answer" : "HAITI",
+      "clue" : "HT",
+      "difficulty" : 1
     },
     {
-      "answer" : "LOTHO SACKVILLE-BAGGINS",
-      "clue" : "LTH SKVLL-BGGNS",
-      "difficulty" : 9
+      "answer" : "DOMINICAN REPUBLIC",
+      "clue" : "DMNCN R P BL C",
+      "difficulty" : 4
     },
     {
-      "answer" : "OTHO SACKVILLE-BAGGINS",
-      "clue" : "TH SKVLL-BGGNS",
-      "difficulty" : 9
+      "answer" : "DOMINICA",
+      "clue" : "DMNC",
+      "difficulty" : 3
     },
     {
-      "answer" : "GERONTIUS TOOK",
-      "clue" : "GRNTS TK",
-      "difficulty" : 8
+      "answer" : "ARUBA",
+      "clue" : "RB",
+      "difficulty" : 2
     },
     {
-      "clue" : "FRTNBRS TK",
-      "answer" : "FORTINBRAS TOOK",
-      "difficulty" : 8
+      "answer" : "CAYMAN ISLANDS",
+      "clue" : "CYMN SLNDS",
+      "difficulty" : 4
     },
     {
-      "clue" : "DMND F LNG CLV",
-      "answer" : "DIAMOND OF LONG CLEEVE",
-      "difficulty" : 10
+      "answer" : "SAINT MARTIN",
+      "clue" : "SNT MRTN",
+      "difficulty" : 4
     },
     {
-      "clue" : "FS BGGNS",
-      "answer" : "FOSCO BAGGINS",
-      "difficulty" : 9
+      "answer" : "CURACAO",
+      "clue" : "CR C",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "TURKS AND CAICOS ISLANDS",
+      "clue" : "TRKS ND CCS SLNDS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GUADELOUPE",
+      "clue" : "GDL P",
+      "difficulty" : 4
     }
+  ],
+  "tags" : [
+    "geography",
+    "travel",
+    "culture"
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "biology",
+    "nature"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "MUSSEL",
+      "clue" : "MSSL",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "SCALLOP",
+      "clue" : "SCLLP",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "CEPHALOPOD",
+      "clue" : "CPHLPD",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ABALONE",
+      "clue" : "BLN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WHELK",
+      "clue" : "WHLK",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "GEODUCK",
+      "clue" : "GDCK",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PERIWINKLE",
+      "clue" : "PRWNKL",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "CHITON",
+      "clue" : "CHTN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ESCARGOT",
+      "clue" : "SCRGT",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "COWRIE",
+      "clue" : "CWR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "TULIP SHELL",
+      "clue" : "TLPSHLL",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "RAZOR CLAM",
+      "clue" : "RZRCLM",
+      "difficulty" : 4
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Selfie",
+      "Hashtag",
+      "Viral",
+      "Clickbait",
+      "Troll",
+      "Meme",
+      "Vlog",
+      "Subtweet",
+      "Regram",
+      "Insta",
+      "Retweet",
+      "Unfollow",
+      "Live Stream",
+      "Influencer",
+      "DM",
+      "FOMO",
+      "Bae",
+      "Followback",
+      "Snapchat",
+      "Finsta",
+      "Stan",
+      "Cringe",
+      "Lurker",
+      "Ghosting",
+      "Catfish",
+      "Swipe Left",
+      "Swipe Right",
+      "TLDR",
+      "Photobomb",
+      "Vlogger",
+      "Thread",
+      "Story",
+      "Emoji",
+      "Snapstreak",
+      "Tag",
+      "Filter",
+      "Shadowban",
+      "Feed",
+      "Unsubscribe",
+      "Bio",
+      "Handle",
+      "Repost",
+      "Vine",
+      "Comments",
+      "Bump",
+      "Pin",
+      "Shoutout",
+      "Tiktok",
+      "Livestream",
+      "Digg",
+      "Reel",
+      "Clout",
+      "Zuckerberging"
+    ],
+    "category" : "Social Media Neologisms",
+    "clues" : [
+      {
+        "answer" : "HASHTAG",
+        "clue" : "HSHTG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SELFIE",
+        "clue" : "SLF",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TROLL",
+        "clue" : "TRLL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CLICKBAIT",
+        "clue" : "CLCKBT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GHOSTING",
+        "clue" : "GHSTNG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MEME",
+        "clue" : "MM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VIRAL",
+        "clue" : "VRL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "INFLUENCER",
+        "clue" : "NFLNCR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-26",
+  "schemaVersion" : 1
+}

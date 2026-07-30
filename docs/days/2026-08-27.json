@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Winnie The Pooh",
+      "Paddington Bear",
+      "Baloo",
+      "Yogi Bear",
+      "Fozzie Bear",
+      "Rupert Bear",
+      "Smokey Bear",
+      "Little Bear",
+      "Corduroy",
+      "Brother Bear",
+      "Kenai",
+      "Lotso",
+      "Masha And The Bear",
+      "Bear In The Big Blue House",
+      "The Berenstain Bears",
+      "Teddy Ruxpin",
+      "Mama Bear",
+      "Papa Bear",
+      "Baby Bear",
+      "Care Bears",
+      "Grizzly Bear",
+      "Iorek Byrnison",
+      "Rilakkuma",
+      "Koda",
+      "Gummy Bears",
+      "Boog",
+      "Ted",
+      "Bongo The Bear",
+      "Humphrey The Bear",
+      "Bernard Bear",
+      "Chilly Willy",
+      "Bernstein Bears",
+      "Sooty",
+      "The Great Bear",
+      "Fuzzy Wuzzy",
+      "Pudsey Bear",
+      "Bernard The Polar Bear",
+      "Super Ted",
+      "Mischa",
+      "The Brown Bear"
+    ],
+    "category" : "Fictional Bears",
+    "clues" : [
+      {
+        "answer" : "PADDINGTON",
+        "clue" : "PDDNGTN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "WINNIE THE POOH",
+        "clue" : "WNN TH PH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "YOGI BEAR",
+        "clue" : "YG BR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SMOKEY BEAR",
+        "clue" : "SMKY BR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BALOO",
+        "clue" : "BL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FOZZIE BEAR",
+        "clue" : "FZZ BR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TEDDY RUXPIN",
+        "clue" : "TDD RXPN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CARE BEARS",
+        "clue" : "CR BRS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-27",
+  "schemaVersion" : 1
+}

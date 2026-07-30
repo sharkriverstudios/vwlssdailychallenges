@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "fiction",
+    "popular culture",
+    "television",
+    "animation"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "TH BRNSTN BRS",
+      "answer" : "THE BERENSTAIN BEARS",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "LTTL BR",
+      "answer" : "LITTLE BEAR",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "CRDRY",
+      "answer" : "CORDUROY",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BRTHR BR",
+      "answer" : "BROTHER BEAR",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "RPRT BR",
+      "answer" : "RUPERT BEAR",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "MM BR",
+      "answer" : "MAMA BEAR",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "BR N TH BG BL HS",
+      "answer" : "BEAR IN THE BIG BLUE HOUSE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "RLKKM",
+      "answer" : "RILAKKUMA",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "RK BYRNSN",
+      "answer" : "IOREK BYRNISON",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LVBL LTS",
+      "answer" : "LOVABLE LOTSO",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "KN",
+      "answer" : "KENAI",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "GMMY BRS",
+      "answer" : "GUMMY BEARS",
+      "difficulty" : 3
+    }
+  ]
+}

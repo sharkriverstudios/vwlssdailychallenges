@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Frank Sinatra",
+      "Dean Martin",
+      "Bing Crosby",
+      "Tony Bennett",
+      "Nat King Cole",
+      "Perry Como",
+      "Sammy Davis Jr",
+      "Bobby Darin",
+      "Mel Torme",
+      "Andy Williams",
+      "Paul Anka",
+      "Johnny Mathis",
+      "Vic Damone",
+      "Harry Connick Jr",
+      "Michael Buble",
+      "Jack Jones",
+      "Pat Boone",
+      "Bobby Vinton",
+      "Al Martino",
+      "Steve Lawrence",
+      "Eddie Fisher",
+      "Jerry Vale",
+      "Robert Goulet",
+      "Matt Monro",
+      "Engelbert Humperdinck",
+      "Jimmy Roselli",
+      "Johnny Ray",
+      "Jim Nabors",
+      "Brook Benton",
+      "Jackie Wilson",
+      "Adam Wade",
+      "Lou Rawls",
+      "Johnny Hartman",
+      "Tony Orlando",
+      "Jimmy Durante",
+      "Anthony Newley",
+      "Buddy Greco",
+      "Dick Haymes",
+      "Roger Whittaker",
+      "Tom Jones",
+      "Ray Charles"
+    ],
+    "category" : "Crooners",
+    "clues" : [
+      {
+        "answer" : "FRANK SINATRA",
+        "clue" : "FRNK SNTR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NAT KING COLE",
+        "clue" : "NT KNG CL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DEAN MARTIN",
+        "clue" : "DN MRTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BING CROSBY",
+        "clue" : "BNG CRSB",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MICHAEL BUBLE",
+        "clue" : "MCHL BBL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TONY BENNETT",
+        "clue" : "TN BNNTT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SAMMY DAVIS JR",
+        "clue" : "SMM DVS JR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JIMMY DURANTE",
+        "clue" : "JMM DRNT",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-20",
+  "schemaVersion" : 1
+}

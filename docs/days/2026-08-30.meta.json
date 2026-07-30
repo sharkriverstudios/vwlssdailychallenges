@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "notes" : "include the state or country where the city is",
+  "tags" : [
+    "geography",
+    "culture"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "clue" : "DNG DNG TXS",
+      "answer" : "DING DONG, TEXAS"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "CHCKN LSK",
+      "answer" : "CHICKEN, ALASKA"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "ZZYX CLFRN",
+      "answer" : "ZZYZX, CALIFORNIA"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "SNT CLS NDN",
+      "answer" : "SANTA CLAUS, INDIANA"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CT ND SHT TXS",
+      "answer" : "CUT AND SHOOT, TEXAS"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "WHY RZN",
+      "answer" : "WHY, ARIZONA"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BT CV NRTH CRLN",
+      "answer" : "BAT CAVE, NORTH CAROLINA"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GFY RDG LLNS",
+      "answer" : "GOOFY RIDGE, ILLINOIS"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "BR BTTL CRSSNG DH",
+      "answer" : "BEER BOTTLE CROSSING, IDAHO"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BGTSL KNTCKY",
+      "answer" : "BUGTUSSLE, KENTUCKY"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BG BTTM WSHNGTN",
+      "answer" : "BIG BOTTOM, WASHINGTON"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "SQBBLWN CLFRN",
+      "answer" : "SQUABBLETOWN, CALIFORNIA"
+    }
+  ]
+}

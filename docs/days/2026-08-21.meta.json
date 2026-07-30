@@ -1,0 +1,92 @@
+{
+  "description" : "Books that are used to do basic research",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "reference",
+    "education",
+    "language"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "TH LMNTS F STYL",
+      "difficulty" : 5,
+      "answer" : "THE ELEMENTS OF STYLE"
+    },
+    {
+      "clue" : "GRY S N TMY",
+      "difficulty" : 5,
+      "answer" : "GRAY'S ANATOMY"
+    },
+    {
+      "clue" : "TH BBL",
+      "difficulty" : 1,
+      "answer" : "THE BIBLE"
+    },
+    {
+      "clue" : "TH WRLD FCTBK",
+      "difficulty" : 4,
+      "answer" : "THE WORLD FACTBOOK"
+    },
+    {
+      "clue" : "TH XFRD CMPNN T WN",
+      "difficulty" : 9,
+      "answer" : "THE OXFORD COMPANION TO WINE"
+    },
+    {
+      "clue" : "TH CMBRDG NCLPD",
+      "difficulty" : 6,
+      "answer" : "THE CAMBRIDGE ENCYCLOPEDIA"
+    },
+    {
+      "clue" : "TH XFRD DCTNRY F QTTNS",
+      "difficulty" : 7,
+      "answer" : "THE OXFORD DICTIONARY OF QUOTATIONS"
+    },
+    {
+      "clue" : "TH NCLPD F RL GN",
+      "difficulty" : 7,
+      "answer" : "THE ENCYCLOPEDIA OF RELIGION"
+    },
+    {
+      "clue" : "TH RT BK",
+      "difficulty" : 5,
+      "answer" : "THE ART BOOK"
+    },
+    {
+      "clue" : "TH ML HNDBK",
+      "difficulty" : 5,
+      "answer" : "THE MLA HANDBOOK"
+    },
+    {
+      "clue" : "TH PNGN DCTNRY F RT",
+      "difficulty" : 8,
+      "answer" : "THE PENGUIN DICTIONARY OF ART"
+    },
+    {
+      "clue" : "TH NCLPD F SCNC",
+      "difficulty" : 7,
+      "answer" : "THE ENCYCLOPEDIA OF SCIENCE"
+    }
+  ]
+}

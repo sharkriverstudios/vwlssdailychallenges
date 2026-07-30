@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "Things children do to help out around the house",
+  "extraClues" : [
+    {
+      "clue" : "SWP TH PRCH",
+      "difficulty" : 5,
+      "answer" : "SWEEP THE PORCH"
+    },
+    {
+      "clue" : "WP TH CNTRS",
+      "difficulty" : 5,
+      "answer" : "WIPE THE COUNTERS"
+    },
+    {
+      "clue" : "FLD LNDRY",
+      "difficulty" : 4,
+      "answer" : "FOLD LAUNDRY"
+    },
+    {
+      "clue" : "MW TH LWN",
+      "difficulty" : 4,
+      "answer" : "MOW THE LAWN"
+    },
+    {
+      "clue" : "CLN BTHRM",
+      "difficulty" : 4,
+      "answer" : "CLEAN BATHROOM"
+    },
+    {
+      "clue" : "SHVL SNW",
+      "difficulty" : 4,
+      "answer" : "SHOVEL SNOW"
+    },
+    {
+      "clue" : "MPTY DSHWSHR",
+      "difficulty" : 6,
+      "answer" : "EMPTY DISHWASHER"
+    },
+    {
+      "clue" : "CLN TH FRDG",
+      "difficulty" : 5,
+      "answer" : "CLEAN THE FRIDGE"
+    },
+    {
+      "clue" : "PT WY TS",
+      "difficulty" : 5,
+      "answer" : "PUT AWAY TOYS"
+    },
+    {
+      "clue" : "RGNZ CLST",
+      "difficulty" : 6,
+      "answer" : "ORGANIZE CLOSET"
+    },
+    {
+      "clue" : "CLN NDR TH CCH",
+      "difficulty" : 7,
+      "answer" : "CLEAN UNDER THE COUCH"
+    },
+    {
+      "clue" : "HLP WTH CKNG",
+      "difficulty" : 6,
+      "answer" : "HELP WITH COOKING"
+    }
+  ],
+  "tags" : [
+    "home",
+    "common knowledge"
+  ]
+}

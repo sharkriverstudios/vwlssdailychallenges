@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bar Graph",
+      "Line Graph",
+      "Pie Chart",
+      "Scatter Plot",
+      "Histogram",
+      "Box Plot",
+      "Area Chart",
+      "Bubble Chart",
+      "Radar Chart",
+      "Network Graph",
+      "Tree Diagram",
+      "Gantt Chart",
+      "Waterfall Chart",
+      "Candlestick Chart",
+      "Heat Map",
+      "Spider Chart",
+      "Chord Diagram",
+      "Pictograph",
+      "Dot Plot",
+      "Stem And Leaf Plot",
+      "Venn Diagram",
+      "Flowchart",
+      "Sankey Diagram",
+      "Treemap",
+      "Control Chart",
+      "Funnel Chart",
+      "Mosaic Plot",
+      "Violin Plot",
+      "Pareto Chart",
+      "Sunburst Chart",
+      "Ternary Plot",
+      "Streamgraph",
+      "Density Plot",
+      "Circular Barplot",
+      "Polar Area Chart",
+      "Bullet Graph",
+      "Lollipop Chart",
+      "Hexbin Chart",
+      "Coxcomb Chart",
+      "Parallel Coordinates Plot",
+      "Marimekko Chart",
+      "Alluvial Diagram",
+      "Spiral Plot",
+      "Contour Plot",
+      "Bubble Map",
+      "Arc Diagram",
+      "Chord Chart",
+      "Violin Chart",
+      "Rose Chart",
+      "Polar Plot",
+      "Dendrogram"
+    ],
+    "category" : "Graphs",
+    "clues" : [
+      {
+        "answer" : "BAR GRAPH",
+        "clue" : "BR GRPH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LINE GRAPH",
+        "clue" : "LN GRPH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PIE CHART",
+        "clue" : "P CHRT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SCATTER PLOT",
+        "clue" : "SCTTR PLT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HISTOGRAM",
+        "clue" : "HSTGRM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HEAT MAP",
+        "clue" : "HT MP",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VENN DIAGRAM",
+        "clue" : "VNN DGRM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GANTT CHART",
+        "clue" : "GNTT CHRT",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-31",
+  "schemaVersion" : 1
+}

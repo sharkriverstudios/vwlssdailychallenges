@@ -1,5 +1,5 @@
 {
-  "description" : "Cities that are capitals of US states",
+  "description" : "hammers and things associated with hammers",
   "clueNotes" : [
     "",
     "",
@@ -22,26 +22,25 @@
     "",
     ""
   ],
+  "tags" : [
+    "tools",
+    "construction",
+    "music",
+    "animals",
+    "popular culture"
+  ],
   "extraClues" : [
     {
-      "answer" : "ST. PAUL",
-      "difficulty" : 7,
-      "clue" : "STPL"
+      "difficulty" : 1
     },
     {
-      "answer" : "TOPEKA",
-      "difficulty" : 6,
-      "clue" : "TPK"
+      "difficulty" : 1
     },
     {
-      "answer" : "JEFFERSON CITY",
-      "difficulty" : 8,
-      "clue" : "JFFRSN CTY"
+      "difficulty" : 1
     },
     {
-      "answer" : "BISMARCK",
-      "difficulty" : 7,
-      "clue" : "BSMRCK"
+      "difficulty" : 1
     },
     {
       "difficulty" : 1
@@ -67,11 +66,5 @@
     {
       "difficulty" : 1
     }
-  ],
-  "notes" : "Don't include the state name itself (e.g. \"Albany\", not \"Albany New York\"",
-  "tags" : [
-    "geography",
-    "travel",
-    "education"
   ]
 }

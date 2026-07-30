@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Wash Dishes",
+      "Take Out Trash",
+      "Set The Table",
+      "Make The Bed",
+      "Vacuum The Floor",
+      "Feed The Pets",
+      "Water The Plants",
+      "Dust The Furniture",
+      "Sweep The Porch",
+      "Pick Up Toys",
+      "Fold Laundry",
+      "Wipe The Counters",
+      "Empty Dishwasher",
+      "Wash The Car",
+      "Rake Leaves",
+      "Mow The Lawn",
+      "Sort Recycling",
+      "Clean Bathroom",
+      "Clean Bedroom",
+      "Organize Closet",
+      "Help With Cooking",
+      "Weed The Garden",
+      "Shovel Snow",
+      "Wash Windows",
+      "Clean Mirrors",
+      "Polish Shoes",
+      "Hang Up Clothes",
+      "Put Away Groceries",
+      "Collect Mail",
+      "Feed Fish",
+      "Clean The Fridge",
+      "Vacuum Carpet",
+      "Dust Shelves",
+      "Change Bed Sheets",
+      "Straighten Books",
+      "Prepare School Lunches",
+      "Refill Soap Dispensers",
+      "Clean The Microwave",
+      "Water Indoor Plants",
+      "Wipe Doorknobs",
+      "Shake Out Rugs",
+      "Clean Under The Couch",
+      "Put Away Toys",
+      "Help With Grocery Shopping",
+      "Organize Bookshelf",
+      "Wipe Down Appliances",
+      "Sweep Kitchen Floor",
+      "Pick Up Dirty Clothes"
+    ],
+    "category" : "Chores",
+    "clues" : [
+      {
+        "answer" : "COOK",
+        "clue" : "CK",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "TAKE OUT TRASH",
+        "clue" : "TK TTRSH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MAKE THE BED",
+        "clue" : "MK TH BD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WATER THE PLANTS",
+        "clue" : "WTR TH PLNTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WASH DISHES",
+        "clue" : "W SHD SHS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DUST",
+        "clue" : "DST",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FEED THE PETS",
+        "clue" : "F DTH PTS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "VACUUM THE FLOOR",
+        "clue" : "VCM TH FLR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-10",
+  "schemaVersion" : 1
+}

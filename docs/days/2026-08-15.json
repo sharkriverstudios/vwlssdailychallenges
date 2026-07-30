@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Waikiki Beach",
+      "Miami Beach",
+      "Santa Monica Beach",
+      "Venice Beach",
+      "South Beach",
+      "Malibu Beach",
+      "Laguna Beach",
+      "Daytona Beach",
+      "Virginia Beach",
+      "Ocean City Beach",
+      "Myrtle Beach",
+      "Clearwater Beach",
+      "Panama City Beach",
+      "Huntington Beach",
+      "Coney Island Beach",
+      "Cape Cod Beach",
+      "Jones Beach",
+      "Honolulu Beach",
+      "Rehoboth Beach",
+      "Cannon Beach",
+      "Siesta Key Beach",
+      "Coronado Beach",
+      "La Jolla Beach",
+      "Long Beach",
+      "Rockaway Beach",
+      "Galveston Beach",
+      "Pismo Beach",
+      "North Shore Beach",
+      "Cocoa Beach",
+      "Hilton Head Island Beach",
+      "Outer Banks Beach",
+      "Pensacola Beach",
+      "Atlantic City Beach",
+      "Santa Cruz Beach",
+      "Martha's Vineyard Beach",
+      "Hamptons Beach",
+      "Newport Beach",
+      "Jersey Shore Beach",
+      "St. Pete Beach",
+      "Boca Raton Beach",
+      "Hampton Beach",
+      "Narragansett Beach",
+      "Crescent Beach",
+      "Kailua Beach",
+      "Key West Beach",
+      "Fire Island Beach",
+      "Asbury Park Beach",
+      "Tybee Island Beach",
+      "Cabo San Lucas Beach",
+      "Bahamas Paradise Beach",
+      "Cancun Beach"
+    ],
+    "category" : "American Beaches",
+    "clues" : [
+      {
+        "answer" : "MIAMI BEACH",
+        "clue" : "MM BCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "VENICE BEACH",
+        "clue" : "VNC BCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MALIBU BEACH",
+        "clue" : "ML BB CH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MYRTLE BEACH",
+        "clue" : "MRT LB CH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WAIKIKI BEACH",
+        "clue" : "WKK BCH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SANTA MONICA BEACH",
+        "clue" : "SNT MN C BCH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VIRGINIA BEACH",
+        "clue" : "VRGN BCH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SOUTH BEACH",
+        "clue" : "S THB CH",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-15",
+  "schemaVersion" : 1
+}

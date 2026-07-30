@@ -1,0 +1,109 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Violin",
+      "Viola",
+      "Cello",
+      "Double Bass",
+      "Harp",
+      "Guitar",
+      "Mandolin",
+      "Banjo",
+      "Ukulele",
+      "Lute",
+      "Zither",
+      "Hurdy-gurdy",
+      "Balalaika",
+      "Sitar",
+      "Shamisen",
+      "Koto",
+      "Erhu",
+      "Veena",
+      "Sarod",
+      "Rebab",
+      "Dombra",
+      "Charango",
+      "Chapman Stick",
+      "Cimbalom",
+      "Dulcimer",
+      "Pipa",
+      "Yangqin",
+      "Santoor",
+      "Nyckelharpa",
+      "Cavaquinho",
+      "Tiple",
+      "Cuatro",
+      "Bandura",
+      "Kantele",
+      "Guqin",
+      "Ruan",
+      "Domra",
+      "Tar",
+      "Baglama",
+      "Biwa",
+      "Hardanger Fiddle",
+      "Vihuela",
+      "Morin Khuur",
+      "Gayageum",
+      "Kora",
+      "Yayli Tanbur",
+      "Mandocello",
+      "Octobass",
+      "Kemenche",
+      "Sarangi",
+      "Gusli",
+      "Qanun",
+      "Laud",
+      "Saz",
+      "Tres",
+      "Aoud"
+    ],
+    "category" : "String Instruments",
+    "clues" : [
+      {
+        "answer" : "GUITAR",
+        "clue" : "GTR",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "VIOLIN",
+        "clue" : "VLN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CELLO",
+        "clue" : "CLL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HARP",
+        "clue" : "HRP",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "VIOLA",
+        "clue" : "VL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BANJO",
+        "clue" : "BNJ",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "UKULELE",
+        "clue" : "KLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LUTE",
+        "clue" : "LT",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-25",
+  "schemaVersion" : 1
+}

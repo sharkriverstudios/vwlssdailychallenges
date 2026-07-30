@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "clue" : "KRCH",
+      "answer" : "KARACHI"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "CHNGQNG",
+      "answer" : "CHONGQING"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "STNBL",
+      "answer" : "ISTANBUL"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BNS RS",
+      "answer" : "BUENOS AIRES"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "LGS",
+      "answer" : "LAGOS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "KNSHS",
+      "answer" : "KINSHASA"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MNL",
+      "answer" : "MANILA"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "TNJN",
+      "answer" : "TIANJIN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GNGZH",
+      "answer" : "GUANGZHOU"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "R D JNR",
+      "answer" : "RIO DE JANEIRO"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "BNGK",
+      "answer" : "BANGKOK"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "H CH MNH CTY",
+      "answer" : "HO CHI MINH CITY"
+    }
+  ],
+  "tags" : [
+    "geography",
+    "common knowledge"
+  ]
+}

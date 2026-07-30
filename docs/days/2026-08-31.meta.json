@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "science",
+    "technology",
+    "education",
+    "engineering"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "answer" : "RADAR CHART",
+      "clue" : "RDR CHRT"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "BOX PLOT",
+      "clue" : "BX PLT"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "WATERFALL CHART",
+      "clue" : "WTRFLL CHRT"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "TREE DIAGRAM",
+      "clue" : "TR DGRM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PICTOGRAPH",
+      "clue" : "PCTGRPH"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "FLOWCHART",
+      "clue" : "FLWCHRT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "SANKEY DIAGRAM",
+      "clue" : "SNKY DGRM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "BUBBLE CHART",
+      "clue" : "BBL CHRT"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "SPIDER CHART",
+      "clue" : "SPDR CHRT"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "CHORD DIAGRAM",
+      "clue" : "CHRD DGRM"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "TREEMAP",
+      "clue" : "TRMP"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "VIOLIN PLOT",
+      "clue" : "VLN PLT"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

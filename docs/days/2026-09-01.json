@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Apple II",
+      "Commodore 64",
+      "IBM PC",
+      "Steve Jobs",
+      "Bill Gates",
+      "Steve Wozniak",
+      "Paul Allen",
+      "Microsoft",
+      "Intel 8086",
+      "Xerox Alto",
+      "Lisa",
+      "Macintosh",
+      "Digital Research",
+      "Altair 8800",
+      "Tandy TRS-80",
+      "Amiga",
+      "Osborne 1",
+      "Sinclair ZX Spectrum",
+      "Atari ST",
+      "VisiCalc",
+      "Lotus 1-2-3",
+      "WordPerfect",
+      "MS-DOS",
+      "CP\/M",
+      "QDOS",
+      "Apple Lisa",
+      "Compaq Portable",
+      "Kaypro II",
+      "IBM XT",
+      "DEC Rainbow",
+      "NeXT Computer",
+      "Acorn Computers",
+      "Commodore PET",
+      "Texas Instruments TI-99",
+      "Hewlett-Packard",
+      "RadioShack",
+      "Lenovo 5150",
+      "IBM PS\/2",
+      "Windows 1.0",
+      "MacWrite",
+      "HyperCard",
+      "Aldus PageMaker",
+      "Borland",
+      "Netscape",
+      "Gateway 2000",
+      "Seiko Epson",
+      "Olivetti",
+      "BBC Micro",
+      "Kaypro",
+      "Amstrad CPC",
+      "Toshiba T1100",
+      "VMS",
+      "Solaris"
+    ],
+    "category" : "The PC Revolution",
+    "clues" : [
+      {
+        "answer" : "BILL GATES",
+        "clue" : "BLL GTS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "STEVE JOBS",
+        "clue" : "STV JBS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MICROSOFT",
+        "clue" : "MCRSFT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "XEROX",
+        "clue" : "XRX",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PAUL ALLEN",
+        "clue" : "PL LLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "STEVE WOZNIAK",
+        "clue" : "STV WZNK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VISICALC",
+        "clue" : "VSCLC",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "AMIGA",
+        "clue" : "MG",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-01",
+  "schemaVersion" : 1
+}

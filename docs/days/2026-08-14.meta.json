@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "history",
+    "politics"
+  ],
+  "description" : "Famous People from history who served as Secretary of State at some point",
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "JAMES MADISON",
+      "clue" : "JMS MDSN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "GEORGE SHULTZ",
+      "clue" : "GRG SHLTZ"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "JOHN FOSTER DULLES",
+      "clue" : "JHN FSTR DLLS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "MADELEINE ALBRIGHT",
+      "clue" : "MDLN LBRGHT"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "REX TILLERSON",
+      "clue" : "RX TLLRSN"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "ANTONY BLINKEN",
+      "clue" : "NTNY BLNKN"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "JOHN KERRY",
+      "clue" : "JHN KRY"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "DEAN ACHESON",
+      "clue" : "DN CHSN"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PHILANDER KNOX",
+      "clue" : "PHLND KNX"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "LAWRENCE EAGLEBURGER",
+      "clue" : "LWRNC GLBRGR"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ELIHU ROOT",
+      "clue" : "LHU RT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "EDMUND RANDOLPH",
+      "clue" : "DMND RNDLPH"
+    }
+  ]
+}

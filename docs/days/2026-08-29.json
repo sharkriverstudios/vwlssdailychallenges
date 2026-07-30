@@ -1,0 +1,111 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Backpack",
+      "Notebooks",
+      "Pens",
+      "Pencils",
+      "Erasers",
+      "Rulers",
+      "Binders",
+      "Folders",
+      "Highlighters",
+      "Markers",
+      "Crayons",
+      "Colored Pencils",
+      "Calculator",
+      "Pencil Sharpener",
+      "Sticky Notes",
+      "Index Cards",
+      "Lunch Box",
+      "Water Bottle",
+      "Graph Paper",
+      "Scissors",
+      "Glue Sticks",
+      "Tissues",
+      "Hand Sanitizer",
+      "Laptop",
+      "Tablet",
+      "Graphing Calculator",
+      "Whiteboard Markers",
+      "Planner",
+      "Composition Notebook",
+      "Mechanical Pencils",
+      "USB Drive",
+      "Stapler",
+      "Paper Clips",
+      "Book Covers",
+      "Backpack Tags",
+      "School Uniform",
+      "Gym Shoes",
+      "Locker Organizer",
+      "Desk Organizer",
+      "Headphones",
+      "Mouse",
+      "Mouse Pad",
+      "Printer Paper",
+      "Whiteout",
+      "Art Supplies",
+      "Protractor",
+      "Compass",
+      "Scientific Calculator",
+      "Bullet Journal",
+      "Laptop Case",
+      "Sports Equipment",
+      "Combination Lock",
+      "Lunch Bag",
+      "Homework Planner",
+      "Sticky Flags",
+      "Index Dividers",
+      "Binder Clips",
+      "Hole Punch"
+    ],
+    "category" : "Back to School Sale",
+    "clues" : [
+      {
+        "answer" : "PENCILS",
+        "clue" : "PNCLS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BACKPACK",
+        "clue" : "BCKPCK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NOTEBOOKS",
+        "clue" : "NTBKS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BINDERS",
+        "clue" : "BNDRS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CALCULATOR",
+        "clue" : "CLCLTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HIGHLIGHTERS",
+        "clue" : "HGHLGHTRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LAPTOP",
+        "clue" : "LPTP",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "INDEX CARDS",
+        "clue" : "NDX CRDS",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-29",
+  "schemaVersion" : 1
+}

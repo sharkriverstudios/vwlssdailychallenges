@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Thomas Jefferson",
+      "James Madison",
+      "James Monroe",
+      "Henry Clay",
+      "Daniel Webster",
+      "John C. Calhoun",
+      "William H. Seward",
+      "Elihu Root",
+      "Cordell Hull",
+      "George Marshall",
+      "Dean Acheson",
+      "John Foster Dulles",
+      "Henry Kissinger",
+      "Cyrus Vance",
+      "Alexander Haig",
+      "George Shultz",
+      "James Baker",
+      "Madeleine Albright",
+      "Colin Powell",
+      "Condoleezza Rice",
+      "Hillary Clinton",
+      "John Kerry",
+      "Rex Tillerson",
+      "Mike Pompeo",
+      "Antony Blinken",
+      "Edmund Randolph",
+      "Timothy Pickering",
+      "Edward Everett",
+      "William Jennings Bryan",
+      "Frank Kellogg",
+      "Cordell Hull",
+      "George P. Shultz",
+      "Walter Q. Gresham",
+      "Dean Rusk",
+      "John Hay",
+      "Philander Knox",
+      "William P. Rogers",
+      "Edmund Muskie",
+      "Lawrence Eagleburger",
+      "Warren Christopher"
+    ],
+    "category" : "Secretaries of State",
+    "clues" : [
+      {
+        "answer" : "THOMAS JEFFERSON",
+        "clue" : "THMS JFFRSN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "COLIN POWELL",
+        "clue" : "CLN PWLL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HILLARY CLINTON",
+        "clue" : "HLLR CLNTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HENRY KISSINGER",
+        "clue" : "HNR KSSNGR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JAMES MONROE",
+        "clue" : "JMS MNR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GEORGE MARSHALL",
+        "clue" : "GRG MRSHLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DANIEL WEBSTER",
+        "clue" : "DNL WBSTR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "WILLIAM SEWARD",
+        "clue" : "WLLM SWRD",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-14",
+  "schemaVersion" : 1
+}

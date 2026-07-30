@@ -1,0 +1,98 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Granite",
+      "Basalt",
+      "Limestone",
+      "Sandstone",
+      "Shale",
+      "Marble",
+      "Slate",
+      "Quartzite",
+      "Gneiss",
+      "Schist",
+      "Obsidian",
+      "Pumice",
+      "Rhyolite",
+      "Diorite",
+      "Andesite",
+      "Breccia",
+      "Conglomerate",
+      "Chalk",
+      "Dolomite",
+      "Flint",
+      "Siltstone",
+      "Chert",
+      "Phyllite",
+      "Soapstone",
+      "Travertine",
+      "Tuff",
+      "Hornfels",
+      "Pegmatite",
+      "Peridotite",
+      "Scoria",
+      "Amphibolite",
+      "Arkose",
+      "Anorthosite",
+      "Bauxite",
+      "Gabbro",
+      "Greywacke",
+      "Kimberlite",
+      "Lignite",
+      "Laterite",
+      "Marl",
+      "Serpentinite",
+      "Carbonatite",
+      "Eclogite",
+      "Komatiite",
+      "Lapilli"
+    ],
+    "category" : "Rocks",
+    "clues" : [
+      {
+        "answer" : "MARBLE",
+        "clue" : "MRBL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "GRANITE",
+        "clue" : "GRNT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SLATE",
+        "clue" : "SLT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LIMESTONE",
+        "clue" : "LMSTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BASALT",
+        "clue" : "BSLT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SANDSTONE",
+        "clue" : "SNDSTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "QUARTZ",
+        "clue" : "QRTZ",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "OBSIDIAN",
+        "clue" : "BSDN",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-24",
+  "schemaVersion" : 1
+}

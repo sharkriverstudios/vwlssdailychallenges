@@ -1,0 +1,83 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Italy",
+      "Spain",
+      "Turkey",
+      "Greece",
+      "Poland",
+      "Portugal",
+      "Netherlands",
+      "Belgium",
+      "Norway",
+      "Denmark",
+      "Luxembourg",
+      "Iceland",
+      "Czech Republic",
+      "Hungary",
+      "Bulgaria",
+      "Romania",
+      "Slovakia",
+      "Slovenia",
+      "Croatia",
+      "Albania",
+      "Montenegro",
+      "North Macedonia",
+      "Estonia",
+      "Latvia",
+      "Lithuania"
+    ],
+    "category" : "Countries in NATO",
+    "clues" : [
+      {
+        "answer" : "UNITED STATES",
+        "clue" : "NTD STTS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "CANADA",
+        "clue" : "CND",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "UNITED KINGDOM",
+        "clue" : "NTD KNGDM",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DENMARK",
+        "clue" : "DNMRK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FRANCE",
+        "clue" : "FRNC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GERMANY",
+        "clue" : "GRMN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ITALY",
+        "clue" : "TL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SPAIN",
+        "clue" : "SPN",
+        "difficulty" : 3
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-17",
+  "schemaVersion" : 1
+}

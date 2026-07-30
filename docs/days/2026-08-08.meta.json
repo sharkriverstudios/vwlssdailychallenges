@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "CNTLP",
+      "difficulty" : 5,
+      "answer" : "CANTALOUPE"
+    },
+    {
+      "clue" : "GRN BN",
+      "difficulty" : 5,
+      "answer" : "GREEN BEAN"
+    },
+    {
+      "clue" : "SMMR SQSH",
+      "difficulty" : 6,
+      "answer" : "SUMMER SQUASH"
+    },
+    {
+      "clue" : "HT PPR",
+      "difficulty" : 4,
+      "answer" : "HOT PEPPER"
+    },
+    {
+      "clue" : "CHRY TMT",
+      "difficulty" : 6,
+      "answer" : "CHERRY TOMATO"
+    },
+    {
+      "clue" : "SWT PT",
+      "difficulty" : 5,
+      "answer" : "SWEET POTATO"
+    },
+    {
+      "clue" : "BTTRNT SQSH",
+      "difficulty" : 7,
+      "answer" : "BUTTERNUT SQUASH"
+    },
+    {
+      "clue" : "PMPKN",
+      "difficulty" : 4,
+      "answer" : "PUMPKIN"
+    },
+    {
+      "clue" : "BLCK YD P",
+      "difficulty" : 8,
+      "answer" : "BLACK EYED PEA"
+    },
+    {
+      "clue" : "LM BN",
+      "difficulty" : 6,
+      "answer" : "LIMA BEAN"
+    },
+    {
+      "clue" : "GGPLNT",
+      "difficulty" : 5,
+      "answer" : "EGGPLANT"
+    },
+    {
+      "clue" : "SPGHTT SQSH",
+      "difficulty" : 7,
+      "answer" : "SPAGHETTI SQUASH"
+    }
+  ],
+  "tags" : [
+    "gardening",
+    "summer",
+    "culinary"
+  ],
+  "description" : "Garden crops that are harvested in late summer, around the. iddle of August"
+}

@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sunflower",
+      "Rose",
+      "Lavender",
+      "Lily",
+      "Daisy",
+      "Marigold",
+      "Zinnia",
+      "Petunia",
+      "Hibiscus",
+      "Begonia",
+      "Geranium",
+      "Peony",
+      "Hydrangea",
+      "Cosmos",
+      "Lantana",
+      "Snapdragon",
+      "Gladiolus",
+      "Salvia",
+      "Aster",
+      "Coneflower",
+      "Black-Eyed Susan",
+      "Daylily",
+      "Yarrow",
+      "Coreopsis",
+      "Fuchsia",
+      "Nasturtium",
+      "Impatiens",
+      "Verbena",
+      "Gaillardia",
+      "Beach Rose",
+      "Canna Lily",
+      "Morning Glory",
+      "Shasta Daisy",
+      "Sweet Pea",
+      "Foxglove",
+      "Phlox",
+      "Lobelia",
+      "Queen Anne's Lace",
+      "Bee Balm",
+      "Portulaca",
+      "Scabiosa",
+      "Balloon Flower",
+      "Heliotrope",
+      "Four O'Clocks",
+      "Butterfly Bush",
+      "Tickseed",
+      "Angelonia",
+      "Gazania",
+      "Plumbago",
+      "Lisianthus",
+      "Cleome"
+    ],
+    "category" : "Summer Flowers",
+    "clues" : [
+      {
+        "answer" : "SUNFLOWER",
+        "clue" : "SNFLWR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LAVENDER",
+        "clue" : "LVNDR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARIGOLD",
+        "clue" : "MRGLD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SNAPDRAGON",
+        "clue" : "SNPDRGN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GLADIOLUS",
+        "clue" : "GLDLS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BEGONIA",
+        "clue" : "BGN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "FUCHSIA",
+        "clue" : "FCHS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ZINNIA",
+        "clue" : "ZNN",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-22",
+  "schemaVersion" : 1
+}

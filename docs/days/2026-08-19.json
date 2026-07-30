@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Scarlet",
+      "Crimson",
+      "Ruby",
+      "Cherry",
+      "Cerise",
+      "Vermilion",
+      "Burgundy",
+      "Cardinal",
+      "Rose",
+      "Raspberry",
+      "Maroon",
+      "Sangria",
+      "Carmine",
+      "Wine",
+      "Garnet",
+      "Blush",
+      "Mahogany",
+      "Brick",
+      "Coral",
+      "Ruddy",
+      "Firebrick",
+      "Alizarin",
+      "Blood",
+      "Fuchsia",
+      "Currant",
+      "Cinnabar",
+      "Rust",
+      "Claret",
+      "Persimmon",
+      "Amaranth",
+      "Puce",
+      "Salmon",
+      "Poppy",
+      "Apple",
+      "Punch",
+      "Mulberry",
+      "Magenta",
+      "Saffron",
+      "Redwood",
+      "Terra Cotta",
+      "Copper"
+    ],
+    "category" : "Red",
+    "clues" : [
+      {
+        "answer" : "SCARLET",
+        "clue" : "SCRLT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CRIMSON",
+        "clue" : "CRMSN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ROSE",
+        "clue" : "RS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MAROON",
+        "clue" : "MRN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CARMINE",
+        "clue" : "CRMN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VERMILION",
+        "clue" : "VRMLN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BURGUNDY",
+        "clue" : "BRGND",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "AMARANTH",
+        "clue" : "MRNTH",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-08-19",
+  "schemaVersion" : 1
+}

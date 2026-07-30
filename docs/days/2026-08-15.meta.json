@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "DYTN BCH",
+      "answer" : "DAYTONA BEACH",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "LGN BCH",
+      "answer" : "LAGUNA BEACH",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "CN CTY BCH",
+      "answer" : "OCEAN CITY BEACH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CLRWT BCH",
+      "answer" : "CLEARWATER BEACH",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "PNM CTY BCH",
+      "answer" : "PANAMA CITY BEACH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "HNTNGTN BCH",
+      "answer" : "HUNTINGTON BEACH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CNY SLND BCH",
+      "answer" : "CONEY ISLAND BEACH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CP CD BCH",
+      "answer" : "CAPE COD BEACH",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "JNS BCH",
+      "answer" : "JONES BEACH",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "RHBTH BCH",
+      "answer" : "REHOBOTH BEACH",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CNN BCH",
+      "answer" : "CANNON BEACH",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CRND BCH",
+      "answer" : "CORONADO BEACH",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "geography",
+    "travel",
+    "popular culture"
+  ],
+  "description" : "well-known beaches in the US or other parts of the Americas"
+}

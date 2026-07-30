@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Clam",
+      "Oyster",
+      "Scallop",
+      "Mussel",
+      "Snail",
+      "Slug",
+      "Octopus",
+      "Squid",
+      "Cuttlefish",
+      "Nautilus",
+      "Conch",
+      "Cockle",
+      "Abalone",
+      "Whelk",
+      "Periwinkle",
+      "Chiton",
+      "Limpet",
+      "Turbo",
+      "Scaphopod",
+      "Cephalopod",
+      "Bivalve",
+      "Gastropod",
+      "Tusk Shell",
+      "Ark Shell",
+      "Razor Clam",
+      "Geoduck",
+      "Whelk",
+      "Sea Hare",
+      "Sea Butterfly",
+      "Paper Nautilus",
+      "Cowrie",
+      "Tulip Shell",
+      "Cone Shell",
+      "Quahog",
+      "Cockle",
+      "Escargot",
+      "Nudibranch",
+      "Moon Snail",
+      "Volute",
+      "Murex",
+      "Strombus",
+      "Tellin",
+      "Razor Shell",
+      "Jingle Shell",
+      "Olive Shell",
+      "Wentletrap",
+      "Triton",
+      "Cerith"
+    ],
+    "category" : "Mollusks",
+    "clues" : [
+      {
+        "answer" : "CLAM",
+        "clue" : "CLM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SNAIL",
+        "clue" : "SNL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SQUID",
+        "clue" : "SQD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "OYSTER",
+        "clue" : "YSTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CONCH",
+        "clue" : "CNCH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CUTTLEFISH",
+        "clue" : "CTTLFSH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "OCTOPUS",
+        "clue" : "CTPS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "NAUTILUS",
+        "clue" : "NTLS",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-18",
+  "schemaVersion" : 1
+}

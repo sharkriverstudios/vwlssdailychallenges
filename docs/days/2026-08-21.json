@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Oxford English Dictionary",
+      "Encyclopaedia Britannica",
+      "Roget's Thesaurus",
+      "Gray's Anatomy",
+      "Merriam-Webster Dictionary",
+      "World Almanac",
+      "Guinness World Records",
+      "Bartlett's Familiar Quotations",
+      "Strunk And White's The Elements Of Style",
+      "The Chicago Manual Of Style",
+      "The World Factbook",
+      "The Complete Works Of Shakespeare",
+      "The Bible",
+      "The Koran",
+      "The Torah",
+      "The Bhagavad Gita",
+      "The Constitution Of The United States",
+      "The Federalist Papers",
+      "Emily Post's Etiquette",
+      "The Oxford Companion To Wine",
+      "The Cambridge Encyclopedia",
+      "The Columbia Encyclopedia",
+      "The Atlas Of The World",
+      "The Encyclopedia Of World History",
+      "The Art Book",
+      "The Book Of Lists",
+      "The Norton Anthology Of English Literature",
+      "The MLA Handbook",
+      "The APA Publication Manual",
+      "The Oxford Companion To Music",
+      "The Penguin Dictionary Of Art",
+      "The Encyclopedia Of Religion",
+      "The Guinness Book Of Answers",
+      "The New York Public Library Desk Reference",
+      "The Oxford Companion To Philosophy",
+      "The Encyclopedia Of Science",
+      "The Oxford Dictionary Of Quotations",
+      "The Encyclopedia Of Popular Music",
+      "The Dictionary Of National Biography",
+      "The Oxford Companion To American Literature",
+      "The Oxford Classical Dictionary",
+      "The Encyclopedia Of Computer Science",
+      "The Encyclopedia Of Mathematics",
+      "The Encyclopedia Of Plants And Flowers",
+      "The Encyclopedia Of Animals",
+      "The Atlas Of Human Anatomy",
+      "The Biographical Dictionary",
+      "The Oxford History Of The Classical World",
+      "The Dictionary Of Scientific Biography",
+      "The Encyclopedia Of Architecture"
+    ],
+    "category" : "Reference Books",
+    "clues" : [
+      {
+        "answer" : "OXFORD ENGLISH DICTIONARY",
+        "clue" : "XFRD NGLSH DCTNR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GUINNESS WORLD RECORDS",
+        "clue" : "GNNSS WRLD RCRDS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MERRIAM-WEBSTER DICTIONARY",
+        "clue" : "MRRM W BSTR DCTNR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WORLD ALMANAC",
+        "clue" : "WRLDLMNC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ROGET'S THESAURUS",
+        "clue" : "RGTS THSR S",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ENCYCLOPAEDIA BRITANNICA",
+        "clue" : "NCCLPD BR TNN C",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE CHICAGO MANUAL OF STYLE",
+        "clue" : "TH CHCG MNL F STL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BARTLETT'S FAMILIAR QUOTATIONS",
+        "clue" : "BRTLTTS FMLR QTTNS",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-21",
+  "schemaVersion" : 1
+}

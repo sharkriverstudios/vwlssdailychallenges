@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "language",
+    "culture",
+    "arts"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "color names that mean \"red\" or some shade of red",
+  "extraClues" : [
+    {
+      "clue" : "SNGR",
+      "difficulty" : 8,
+      "answer" : "SANGRIA"
+    },
+    {
+      "clue" : "BLD",
+      "difficulty" : 5,
+      "answer" : "BLOOD"
+    },
+    {
+      "clue" : "CHRR",
+      "difficulty" : 3,
+      "answer" : "CHERRY"
+    },
+    {
+      "clue" : "MHGNY",
+      "difficulty" : 6,
+      "answer" : "MAHOGANY"
+    },
+    {
+      "clue" : "RB",
+      "difficulty" : 4,
+      "answer" : "RUBY"
+    },
+    {
+      "clue" : "GRNT",
+      "difficulty" : 5,
+      "answer" : "GARNET"
+    },
+    {
+      "clue" : "RD",
+      "difficulty" : 1,
+      "answer" : "RED"
+    },
+    {
+      "clue" : "FRBRCK",
+      "difficulty" : 7,
+      "answer" : "FIREBRICK"
+    },
+    {
+      "clue" : "LZRN",
+      "difficulty" : 8,
+      "answer" : "ALIZARIN"
+    },
+    {
+      "clue" : "CNNBR",
+      "difficulty" : 7,
+      "answer" : "CINNABAR"
+    },
+    {
+      "clue" : "PRSMMN",
+      "difficulty" : 9,
+      "answer" : "PERSIMMON"
+    },
+    {
+      "clue" : "CNNBR",
+      "difficulty" : 7,
+      "answer" : "CINNABAR"
+    }
+  ]
+}

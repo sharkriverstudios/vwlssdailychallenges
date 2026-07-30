@@ -1,0 +1,90 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "She Sells Sea Shells By The Sea Shore",
+      "Peter Piper Picked A Peck Of Pickled Peppers",
+      "How Much Wood Would A Woodchuck Chuck",
+      "Fuzzy Wuzzy Was A Bear",
+      "Betty Botter Bought Some Butter",
+      "Red Lorry Yellow Lorry",
+      "Unique New York",
+      "How Can A Clam Cram In A Clean Cream Can",
+      "I Scream You Scream We All Scream For Ice Cream",
+      "Six Sick Sheep",
+      "A Big Black Bear Sat On A Big Black Rug",
+      "Lesser Leather Never Weathered Wetter Weather Better",
+      "A Proper Copper Coffee Pot",
+      "Fred Fed Ted Bread And Ted Fed Fred Bread",
+      "Six Slippery Snails Slid Slowly Seaward",
+      "Toy Boat",
+      "Cooks Cook Cupcakes Quickly",
+      "Freshly Fried Flying Fish",
+      "Seventy-Seven Benevolent Elephants",
+      "The Sixth Sick Sheikh's Sixth Sheep's Sick",
+      "Irish Wristwatch",
+      "Sheep Should Sleep In A Shed",
+      "Truly Rural",
+      "A Skunk Sat On A Stump And Thunk The Stump Stunk",
+      "Red Leather Yellow Leather",
+      "Which Witch Switched The Swiss Wristwatches",
+      "A Flea And A Fly Flew Up In A Flue",
+      "Four Fine Fresh Fish For You",
+      "The Great Greek Grapes",
+      "Crisp Crusts Crackle And Crunch",
+      "He Thrusts His Fists Against The Posts",
+      "If A Dog Chews Shoes Whose Shoes Does He Choose",
+      "How Many Boards Could The Mongols Hoard",
+      "A Loyal Warrior Will Rarely Worry Why We Rule",
+      "Specific Pacific",
+      "The Leith Police Dismisseth Us",
+      "Shy Shelly Says She Shall Sew Sheets"
+    ],
+    "category" : "Tongue Twisters",
+    "clues" : [
+      {
+        "answer" : "HOW MUCH WOOD WOULD A WOODCHUCK CHUCK",
+        "clue" : "HW MCH WD WLDWDCHCK CHCK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PETER PIPER PICKED A PECK OF PICKLED PEPPERS",
+        "clue" : "PTR PPR PCKDPCK FPCKLD PPPRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SHE SELLS SEA SHELLS BY THE SEA SHORE",
+        "clue" : "SH SLLS S SHLLS B THS SHR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FUZZY WUZZY WAS A BEAR",
+        "clue" : "FZZ WZZ WSBR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "BETTY BOTTER BOUGHT SOME BUTTER",
+        "clue" : "BTT BTTR BGHT SM BTR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "I SCREAM YOU SCREAM WE ALL SCREAM FOR ICE CREAM",
+        "clue" : "SCRM Y SCR W LL SCR FRC CRM",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "UNIQUE NEW YORK",
+        "clue" : "NQ NW YRK",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "RED LORRY YELLOW LORRY",
+        "clue" : "RDLRR YLLW LRR",
+        "difficulty" : 9
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-23",
+  "schemaVersion" : 1
+}

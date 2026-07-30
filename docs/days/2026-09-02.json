@@ -1,0 +1,113 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Tokyo",
+      "Delhi",
+      "Shanghai",
+      "Sao Paulo",
+      "Mumbai",
+      "Beijing",
+      "Cairo",
+      "Dhaka",
+      "Mexico City",
+      "Osaka",
+      "Karachi",
+      "Chongqing",
+      "Istanbul",
+      "Buenos Aires",
+      "Kolkata",
+      "Lagos",
+      "Kinshasa",
+      "Manila",
+      "Tianjin",
+      "Guangzhou",
+      "Rio De Janeiro",
+      "Lahore",
+      "Bangalore",
+      "Shenzhen",
+      "Moscow",
+      "Chengdu",
+      "Paris",
+      "Jakarta",
+      "Bangkok",
+      "London",
+      "New York",
+      "Hong Kong",
+      "Singapore",
+      "Los Angeles",
+      "Seoul",
+      "Ho Chi Minh City",
+      "Madrid",
+      "Bogota",
+      "Toronto",
+      "Sydney",
+      "Barcelona",
+      "Chicago",
+      "Houston",
+      "Shenyang",
+      "Berlin",
+      "Riyadh",
+      "Cape Town",
+      "Melbourne",
+      "Johannesburg",
+      "Philadelphia",
+      "Nairobi",
+      "Santiago",
+      "Bangui",
+      "Alexandria",
+      "Addis Ababa",
+      "Lisbon",
+      "Dubai",
+      "Taipei",
+      "Kuala Lumpur",
+      "Vancouver"
+    ],
+    "category" : "Largest Cities in the World",
+    "clues" : [
+      {
+        "answer" : "TOKYO",
+        "clue" : "TKY",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BEIJING",
+        "clue" : "BJNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SHANGHAI",
+        "clue" : "SHNGH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MEXICO CITY",
+        "clue" : "MXC CT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MUMBAI",
+        "clue" : "MMB",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "CAIRO",
+        "clue" : "CR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "DELHI",
+        "clue" : "DLH",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "SAO PAULO",
+        "clue" : "S PL",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-09-02",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,86 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "HW CN  CLM CRM N  CLN CRM CN",
+      "answer" : "HOW CAN A CLAM CRAM IN A CLEAN CREAM CAN",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "SX SCK SHP",
+      "answer" : "SIX SICK SHEEP",
+      "difficulty" : 7
+    },
+    {
+      "clue" : " BG BLCK BR ST N  BG BLCK RG",
+      "answer" : "A BIG BLACK BEAR SAT ON A BIG BLACK RUG",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LSSR LTHR NVR WTHRD WTTR WTHR BTTR",
+      "answer" : "LESSER LEATHER NEVER WEATHERED WETTER WEATHER BETTER",
+      "difficulty" : 10
+    },
+    {
+      "clue" : " PRPR CPPR CFF PT",
+      "answer" : "A PROPER COPPER COFFEE POT",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "FRD FD TD BRD ND TD FD FRD BRD",
+      "answer" : "FRED FED TED BREAD AND TED FED FRED BREAD",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "SX SLPRY SNLS SLD SLWY SWRD",
+      "answer" : "SIX SLIPPERY SNAILS SLID SLOWLY SEAWARD",
+      "difficulty" : 10
+    },
+    {
+      "clue" : "TY BT",
+      "answer" : "TOY BOAT",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "CKS CK CPCKS QCKLY",
+      "answer" : "COOKS COOK CUPCAKES QUICKLY",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "FRSHLY FRD FLNG FSH",
+      "answer" : "FRESHLY FRIED FLYING FISH",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "SVNTY-SVN BNVLNT LPHNTS",
+      "answer" : "SEVENTY-SEVEN BENEVOLENT ELEPHANTS",
+      "difficulty" : 10
+    },
+    {
+      "clue" : "TH SXTH SCK SHKH'S SXTH SHP'S SCK",
+      "answer" : "THE SIXTH SICK SHEIKH'S SIXTH SHEEP'S SICK",
+      "difficulty" : 10
+    }
+  ]
+}

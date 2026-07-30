@@ -1,0 +1,92 @@
+{
+  "description" : "words and phrases that came out of the ride of social media",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "popular culture",
+    "language",
+    "technology"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "FM",
+      "difficulty" : 8,
+      "answer" : "FOMO"
+    },
+    {
+      "clue" : "DM",
+      "difficulty" : 1,
+      "answer" : "DM"
+    },
+    {
+      "clue" : "CRNG",
+      "difficulty" : 5,
+      "answer" : "CRINGE"
+    },
+    {
+      "clue" : "SBTWT",
+      "difficulty" : 8,
+      "answer" : "SUBTWEET"
+    },
+    {
+      "clue" : "CTFSH",
+      "difficulty" : 6,
+      "answer" : "CATFISH"
+    },
+    {
+      "clue" : "PHTBMB",
+      "difficulty" : 6,
+      "answer" : "PHOTOBOMB"
+    },
+    {
+      "clue" : "STRY",
+      "difficulty" : 5,
+      "answer" : "STORY"
+    },
+    {
+      "clue" : "MJ",
+      "difficulty" : 7,
+      "answer" : "EMOJI"
+    },
+    {
+      "clue" : "SNPT",
+      "difficulty" : 8,
+      "answer" : "SNAPCHAT"
+    },
+    {
+      "clue" : "FLTR",
+      "difficulty" : 5,
+      "answer" : "FILTER"
+    },
+    {
+      "clue" : "SHDWB",
+      "difficulty" : 9,
+      "answer" : "SHADOWBAN"
+    },
+    {
+      "clue" : "RTWT",
+      "difficulty" : 6,
+      "answer" : "RETWEET"
+    }
+  ]
+}

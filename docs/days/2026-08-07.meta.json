@@ -1,72 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 4,
-      "answer" : "RECLINER",
-      "clue" : "RCLNR"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "HAMMOCK",
-      "clue" : "HMMCK"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "DIRECTOR'S CHAIR",
-      "clue" : "DRCTR'S CHR"
-    },
-    {
-      "difficulty" : 4,
-      "answer" : "THRONE",
-      "clue" : "THRN"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "PEW",
-      "clue" : "PW"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "LOUNGE CHAIR",
-      "clue" : "LNG CHR"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "DECK CHAIR",
-      "clue" : "DCK CHR"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "BAR STOOL",
-      "clue" : "BR STL"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "ARMCHAIR",
-      "clue" : "RMCHR"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "WINDOW SEAT",
-      "clue" : "WNDW ST"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "EGG CHAIR",
-      "clue" : "GG CHR"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "OTTOMAN",
-      "clue" : "TTMN"
-    }
-  ],
-  "tags" : [
-    "common knowledge",
-    "home",
-    "culture"
-  ],
-  "notes" : "be cryptic with at least 3 of them",
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,73 @@
     "",
     "",
     ""
+  ],
+  "notes" : "avoid the 20th century",
+  "tags" : [
+    "history",
+    "politics"
+  ],
+  "description" : "Infamous leaders from history",
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "answer" : "BASIL THE BULGAR SLAYER",
+      "clue" : "BSL TH BLGR SLYR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "SARGON OF AKKAD",
+      "clue" : "SRGN F KKD"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "LOUIS XIV",
+      "clue" : "LS XIV"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "QIN SHI HUANG",
+      "clue" : "QN SH HNG"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "XERXES I",
+      "clue" : "XRX S"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "DOMITIAN",
+      "clue" : "DMTN"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ANTIOCHUS IV EPIPHANES",
+      "clue" : "NTCHS IV PPHNS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PTLOEMY XIII",
+      "clue" : "PTLMY XIII"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "HANNIBAL BARCA",
+      "clue" : "HNNBL BRC"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "SHAPUR I",
+      "clue" : "SHPR "
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "TIGLATH-PILESER III",
+      "clue" : "TGLTH-PLSR III"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "MITHRIDATES VI",
+      "clue" : "MTHRDT S VI"
+    }
   ]
 }

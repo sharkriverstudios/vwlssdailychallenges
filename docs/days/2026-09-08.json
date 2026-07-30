@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Karl Marx",
+      "Friedrich Engels",
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Mao Zedong",
+      "Che Guevara",
+      "Rosa Luxemburg",
+      "Antonio Gramsci",
+      "Ho Chi Minh",
+      "Fidel Castro",
+      "Nikita Khrushchev",
+      "Ho Chi Minh",
+      "Pol Pot",
+      "Kim Il-sung",
+      "Kim Jong-il",
+      "Kim Jong-un",
+      "Enver Hoxha",
+      "Georgi Dimitrov",
+      "Zhou Enlai",
+      "Deng Xiaoping",
+      "Georg Wilhelm Friedrich Hegel",
+      "Mikhail Gorbachev",
+      "Josip Broz Tito",
+      "Slobodan Milosevic",
+      "Gus Hall",
+      "Angela Davis",
+      "Bela Kun",
+      "Clara Zetkin",
+      "Herbert Marcuse",
+      "Bertolt Brecht",
+      "Mikhail Bakunin",
+      "Nadezhda Krupskaya",
+      "Emma Goldman",
+      "Walter Ulbricht",
+      "Ruth Fischer",
+      "Maxim Gorky",
+      "Vladimir Mayakovsky",
+      "Alexander Bogdanov",
+      "Gyorgy Lukacs",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "Eduard Bernstein",
+      "Paul Lafargue",
+      "Harry Haywood",
+      "Karl Liebknecht",
+      "Wilhelm Liebknecht",
+      "Nikolai Bukharin",
+      "Alexandra Kollontai",
+      "Leszek Kolakowski",
+      "Maurice Thorez",
+      "Palmiro Togliatti",
+      "Ho Chi Minh"
+    ],
+    "category" : "Famous Communists",
+    "clues" : [
+      {
+        "answer" : "KARL MARX",
+        "clue" : "KRL MRX",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "VLADIMIR LENIN",
+        "clue" : "VLDMR LNN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JOSEPH STALIN",
+        "clue" : "JSPHS TLN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MAO ZEDONG",
+        "clue" : "M ZDNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FIDEL CASTRO",
+        "clue" : "FDL CSTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LEON TROTSKY",
+        "clue" : "LN TRTSK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHE GUEVARA",
+        "clue" : "CH GVR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FRIEDRICH ENGELS",
+        "clue" : "FRDRCH NGLS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-09-08",
+  "schemaVersion" : 1
+}

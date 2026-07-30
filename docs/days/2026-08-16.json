@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Pick And Choose",
+      "Pick Me Up",
+      "Pick Up The Pace",
+      "Pick Of The Litter",
+      "Pick Your Battles",
+      "Pick Up The Tab",
+      "Pick Your Brain",
+      "Pick Up Steam",
+      "Pick Up Sticks",
+      "Pick Up The Slack",
+      "Pick Up A Bargain",
+      "Pick Out Of A Hat",
+      "Pick A Fight",
+      "Pick Sides",
+      "Pick Up Where You Left Off",
+      "Pick Your Poison",
+      "Pick Up The Pieces",
+      "Pick Someone's Pocket",
+      "Pick A Winner",
+      "Pick Up A Signal",
+      "Pick Up The Phone",
+      "Pick On Someone Your Own Size",
+      "Pick Up After Yourself",
+      "Pick Up A Skill",
+      "Pick Up A Habit",
+      "Pick Up A Language",
+      "Pick Up The Bill",
+      "Pick Up A Hitchhiker",
+      "Pick Up The Conversation",
+      "Pick Up The Check",
+      "Pick Up A Book",
+      "Pick Up An Accent",
+      "Pick Up The Vibe",
+      "Pick Up The Trail",
+      "Pick Up A Souvenir",
+      "Pick Up A Ticket",
+      "Pick Up A Customer",
+      "Pick Up The Pieces Of Your Life",
+      "Pick Up The Scent",
+      "Pick Up A Class",
+      "Pick Up A Hobby",
+      "Pick Up A Job",
+      "Pick Up A Date",
+      "Pick Up A Passenger",
+      "Pick Up A Call",
+      "Pick Up A Line",
+      "Pick Up A Conversation",
+      "Pick Up A Tune",
+      "Pick Up A Trend"
+    ],
+    "category" : "Pick",
+    "clues" : [
+      {
+        "answer" : "PICK UP THE PIECES",
+        "clue" : "PCK P TH PCS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PICK ME UP",
+        "clue" : "PCK M P",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICK OF THE LITTER",
+        "clue" : "PCK F TH LTTR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICK YOUR BATTLES",
+        "clue" : "PCK YR BTTLS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICK UP THE TAB",
+        "clue" : "PCK P TH TB",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICK UP THE SLACK",
+        "clue" : "PCK P TH SLCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "PICK A FIGHT",
+        "clue" : "PCK FGHT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PICK ON SOMEONE YOUR OWN SIZE",
+        "clue" : "PCK N SMN YR WN SZ",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-08-16",
+  "schemaVersion" : 1
+}

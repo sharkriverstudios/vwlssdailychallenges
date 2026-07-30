@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "MANDOLIN",
+      "clue" : "MNDLN",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SITAR",
+      "clue" : "STR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "DOUBLE BASS",
+      "clue" : "DBL BSS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "ZITHER",
+      "clue" : "ZTHR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "ERHU",
+      "clue" : "RH",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "SAROD",
+      "clue" : "SRD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "HURDY-GURDY",
+      "clue" : "HRDY-GRDY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BALALAIKA",
+      "clue" : "BLLK",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "NYCKELHARPA",
+      "clue" : "NYCKLHRP",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "KORA",
+      "clue" : "KR",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "OCTOBASS",
+      "clue" : "CTBSS",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "KEMENCHE",
+      "clue" : "KMNCH",
+      "difficulty" : 10
+    }
+  ],
+  "tags" : [
+    "music",
+    "culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

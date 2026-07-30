@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "things you buy for back to school",
+  "extraClues" : [
+    {
+      "difficulty" : 3,
+      "answer" : "ERASERS",
+      "clue" : "RSRS"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "FOLDERS",
+      "clue" : "FLDRS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "GRAPH PAPER",
+      "clue" : "GRPH PPR"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "STICKY NOTES",
+      "clue" : "STCKY NTS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "WHITEBOARD MARKERS",
+      "clue" : "WHTBRD MRKRS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PENCIL SHARPENER",
+      "clue" : "PNCL SHRPNR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "SCIENTIFIC CALCULATOR",
+      "clue" : "SCNTFC CLCLTR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "MECHANICAL PENCILS",
+      "clue" : "MCHNCL PNCLS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "HAND SANITIZER",
+      "clue" : "HND SNTZR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "LOCKER ORGANIZER",
+      "clue" : "LCKR RGNZR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DESK ORGANIZER",
+      "clue" : "DSK RGNZR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "BULLET JOURNAL",
+      "clue" : "BLLT JRNL"
+    }
+  ],
+  "tags" : [
+    "education",
+    "common knowledge",
+    "culture"
+  ]
+}

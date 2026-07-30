@@ -1,0 +1,100 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Stanford University",
+      "Massachusetts Institute Of Technology",
+      "California Institute Of Technology",
+      "University Of Chicago",
+      "Duke University",
+      "Johns Hopkins University",
+      "Northwestern University",
+      "University Of Notre Dame",
+      "Vanderbilt University",
+      "Rice University",
+      "Washington University In St. Louis",
+      "Emory University",
+      "University Of Southern California",
+      "Carnegie Mellon University",
+      "University Of California, Berkeley",
+      "University Of Michigan, Ann Arbor",
+      "University Of Virginia",
+      "Georgetown University",
+      "University Of North Carolina At Chapel Hill",
+      "University Of California, Los Angeles",
+      "New York University",
+      "University Of Rochester",
+      "Boston College",
+      "University Of California, San Diego",
+      "University Of Texas At Austin",
+      "Brandeis University",
+      "Wake Forest University",
+      "University Of Wisconsin-Madison",
+      "University Of Florida",
+      "University Of Washington",
+      "University Of Illinois Urbana-Champaign",
+      "Purdue University",
+      "University Of Maryland, College Park",
+      "University Of Georgia",
+      "University Of Miami",
+      "University Of California, Davis",
+      "University Of Minnesota, Twin Cities",
+      "University Of Colorado Boulder",
+      "University Of Pittsburgh",
+      "University Of Arizona",
+      "Ohio State University",
+      "Indiana University Bloomington",
+      "University Of Connecticut",
+      "University Of Iowa",
+      "University Of California, Santa Barbara",
+      "Pennsylvania State University",
+      "Rutgers University"
+    ],
+    "category" : "Not the Ivy League",
+    "clues" : [
+      {
+        "answer" : "STANFORD",
+        "clue" : "STNF RD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "DUKE",
+        "clue" : "DK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NORTHWESTERN",
+        "clue" : "NRTHWSTRN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BERKELEY",
+        "clue" : "BRKLY",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JOHNS HOPKINS",
+        "clue" : "JHNS HPKNS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CARNEGIE MELLON",
+        "clue" : "CRNG MLLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+        "clue" : "MSSCHSTTS NSTTT F TCHNLG",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "UNIVERSITY OF CHICAGO",
+        "clue" : "NVRS T F CHCG",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 3
+  },
+  "date" : "2026-09-03",
+  "schemaVersion" : 1
+}

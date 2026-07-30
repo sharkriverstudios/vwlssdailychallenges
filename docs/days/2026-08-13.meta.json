@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "music",
+    "geography",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "KANSAS CITY",
+      "clue" : "KNSS CTY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CALIFORNICATION",
+      "clue" : "CLFRNCTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LONDON CALLING",
+      "clue" : "LNDN CLLNG",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SWEET HOME ALABAMA",
+      "clue" : "SWT HM LBM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BAKER STREET",
+      "clue" : "BKR STRT",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "HOTEL CALIFORNIA",
+      "clue" : "HTL CLFRN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FOLSOM PRISON BLUES",
+      "clue" : "FLSM PRSN BLS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "DETROIT ROCK CITY",
+      "clue" : "DTRT RCK CTY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MIDNIGHT TRAIN TO GEORGIA",
+      "clue" : "MDNGHT TRN T GRG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BOSTON",
+      "clue" : "BSTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "OHIO",
+      "clue" : "H",
+      "difficulty" : 10
+    },
+    {
+      "answer" : "MEMPHIS, TENNESSEE",
+      "clue" : "MPHS TNNSS",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

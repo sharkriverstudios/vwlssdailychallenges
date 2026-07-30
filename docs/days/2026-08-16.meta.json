@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "language",
+    "common knowledge"
+  ],
+  "description" : "common phrases that include the word \"pick\"",
+  "extraClues" : [
+    {
+      "answer" : "PICK UP STEAM",
+      "clue" : "PCK P STM",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK YOUR POISON",
+      "clue" : "PCK YR PSN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "PICK UP THE PIECES",
+      "clue" : "PCK P TH PCS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP THE PHONE",
+      "clue" : "PCK P TH PHN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A LANGUAGE",
+      "clue" : "PCK P LNGG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A HABIT",
+      "clue" : "PCK P HBT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A SKILL",
+      "clue" : "PCK P SKLL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP AFTER YOURSELF",
+      "clue" : "PCK P FTR YRSLF",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PICK UP A BOOK",
+      "clue" : "PCK P BK",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A DATE",
+      "clue" : "PCK P DT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A HITCHHIKER",
+      "clue" : "PCK P HTCHHKR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PICK UP A PASSENGER",
+      "clue" : "PCK P PSSNGR",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

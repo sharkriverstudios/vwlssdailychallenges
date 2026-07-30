@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sourdough",
+      "Baguette",
+      "Ciabatta",
+      "Focaccia",
+      "Rye",
+      "Pita",
+      "Naan",
+      "Challah",
+      "Brioche",
+      "Bagel",
+      "Tortilla",
+      "Crumpet",
+      "Pumpernickel",
+      "Lavash",
+      "Pretzel",
+      "Muffin",
+      "Biscuit",
+      "Croissant",
+      "Fougasse",
+      "Paneer",
+      "Chapati",
+      "Arepa",
+      "Injera",
+      "Matzo",
+      "Pav",
+      "Zopf",
+      "Kaiser",
+      "Roti",
+      "Bara",
+      "Veda",
+      "Farl",
+      "Anpan",
+      "Damper",
+      "Tostada",
+      "Coppia",
+      "Bublik",
+      "Grissini",
+      "Panettone",
+      "Knäckebröd",
+      "Aish",
+      "Melonpan",
+      "Miche",
+      "Rewena",
+      "Soda",
+      "Tunnbröd",
+      "Paratha",
+      "Bannock",
+      "Cozonac",
+      "Kulich",
+      "Khachapuri",
+      "Lefse",
+      "Stollen",
+      "Tsoureki",
+      "Vatrushka"
+    ],
+    "category" : "Bread",
+    "clues" : [
+      {
+        "answer" : "PITA",
+        "clue" : "PT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "RYE",
+        "clue" : "R",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "NAAN",
+        "clue" : "NN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BAGEL",
+        "clue" : "BGL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PRETZEL",
+        "clue" : "PRTZL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BAGUETTE",
+        "clue" : "BGTT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SOURDOUGH",
+        "clue" : "SRDGH",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FOCACCIA",
+        "clue" : "FCCC",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-08-11",
+  "schemaVersion" : 1
+}

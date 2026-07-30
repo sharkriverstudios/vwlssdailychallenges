@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "NTN GRMSC",
+      "difficulty" : 6,
+      "answer" : "ANTONIO GRAMSCI"
+    },
+    {
+      "clue" : "H CH MNH",
+      "difficulty" : 4,
+      "answer" : "HO CHI MINH"
+    },
+    {
+      "clue" : "NKT KHRSHCHV",
+      "difficulty" : 7,
+      "answer" : "NIKITA KHRUSHCHEV"
+    },
+    {
+      "clue" : "RS LXMVRG",
+      "difficulty" : 6,
+      "answer" : "ROSA LUXEMBURG"
+    },
+    {
+      "clue" : "PL PT",
+      "difficulty" : 5,
+      "answer" : "POL POT"
+    },
+    {
+      "clue" : "KM L-SNG",
+      "difficulty" : 5,
+      "answer" : "KIM IL-SUNG"
+    },
+    {
+      "clue" : "NVR HXH",
+      "difficulty" : 8,
+      "answer" : "ENVER HOXHA"
+    },
+    {
+      "clue" : "GRG DMTRV",
+      "difficulty" : 8,
+      "answer" : "GEORGI DIMITROV"
+    },
+    {
+      "clue" : "ZH NL",
+      "difficulty" : 7,
+      "answer" : "ZHOU ENLAI"
+    },
+    {
+      "clue" : "DNG XPNG",
+      "difficulty" : 7,
+      "answer" : "DENG XIAOPING"
+    },
+    {
+      "clue" : "FRDRCK NGLS",
+      "difficulty" : 5,
+      "answer" : "FREDERICK ENGELS"
+    },
+    {
+      "clue" : "MM GLDMN",
+      "difficulty" : 7,
+      "answer" : "EMMA GOLDMAN"
+    }
+  ],
+  "tags" : [
+    "history",
+    "politics",
+    "philosophy"
+  ],
+  "description" : "thinkers, leaders, activists",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

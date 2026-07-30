@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Claw Hammer",
+      "Sledgehammer",
+      "Ball Peen Hammer",
+      "Mallet",
+      "Framing Hammer",
+      "Tack Hammer",
+      "Dead Blow Hammer",
+      "Cross Peen Hammer",
+      "Brick Hammer",
+      "Club Hammer",
+      "Power Hammer",
+      "Chasing Hammer",
+      "Planishing Hammer",
+      "Riveting Hammer",
+      "Welder's Hammer",
+      "Rock Hammer",
+      "Rubber Mallet",
+      "Blacksmith Hammer",
+      "Tinner's Hammer",
+      "Straight Peen Hammer",
+      "Engineer Hammer",
+      "Pick Hammer",
+      "Scaling Hammer",
+      "Soft Face Hammer",
+      "Joiner's Mallet",
+      "Copper Hammer",
+      "Nylon Hammer",
+      "Slaters Hammer",
+      "Bodywork Hammer",
+      "Electric Hammer",
+      "Hammer Handle",
+      "Hammerhead",
+      "Hammer Drill",
+      "Hammermill",
+      "Hammer Tacker",
+      "Hammer Wrench",
+      "Hammerstone",
+      "Hammer Throw",
+      "Hammer Anvil",
+      "Hammer Chisel",
+      "Hammer Loop"
+    ],
+    "category" : "Hammers",
+    "clues" : [
+      {
+        "answer" : "MC HAMMER",
+        "clue" : "MCHMMR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SLEDGEHAMMER",
+        "clue" : "SLDGHMMR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CARPENTER'S HAMMER",
+        "clue" : "CRPNTRSHMMR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HAMMER DRILL",
+        "clue" : "HMMRDRLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HAMMERHEAD SHARK",
+        "clue" : "HMMRHDSHRK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MALLET",
+        "clue" : "MLLT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "HAMMER THE POINT HOME",
+        "clue" : "HMMRTHPNTHM",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "HAMMERED DULCIMER",
+        "clue" : "HMMRDDLCMR",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-04",
+  "schemaVersion" : 1
+}
