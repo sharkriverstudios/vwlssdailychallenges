@@ -1,0 +1,87 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "answer" : "FREE AS A BIRD",
+      "clue" : "FRS  BRD"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "EAT LIKE A BIRD",
+      "clue" : "T LK  BRD"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PROUD AS A PEACOCK",
+      "clue" : "PRD S  PCCK"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "RARE BIRD",
+      "clue" : "RR BRD"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "WILD GOOSE CHASE",
+      "clue" : "WLD GS CHS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "FEATHER YOUR NEST",
+      "clue" : "FTHR YR NST"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "AN ALBATROSS AROUND ONE'S NECK",
+      "clue" : "N LBTRSS RND N'S NCK"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PECKING ORDER",
+      "clue" : "PCKNG RDR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DEAD AS A DODO",
+      "clue" : "DD S  DDD"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "EAGLE EYE",
+      "clue" : "GL Y"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "RUFFLE SOMEONE'S FEATHERS",
+      "clue" : "RFFL SMN'S FTHRS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "LIKE A DUCK TO WATER",
+      "clue" : "LK  DCK T WTR"
+    }
+  ],
+  "description" : "common phrases and proverbs related to birds"
+}

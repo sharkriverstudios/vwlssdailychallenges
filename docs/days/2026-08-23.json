@@ -42,33 +42,33 @@
     "category" : "Tongue Twisters",
     "clues" : [
       {
-        "answer" : "HOW MUCH WOOD WOULD A WOODCHUCK CHUCK",
-        "clue" : "HW MCH WD WLDWDCHCK CHCK",
-        "difficulty" : 3
-      },
-      {
         "answer" : "PETER PIPER PICKED A PECK OF PICKLED PEPPERS",
         "clue" : "PTR PPR PCKDPCK FPCKLD PPPRS",
         "difficulty" : 4
       },
       {
+        "answer" : "HOW MUCH WOOD WOULD A WOODCHUCK CHUCK",
+        "clue" : "HW MCH WD WLDWDCHCK CHCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BETTY BOTTER BOUGHT SOME BUTTER",
+        "clue" : "BTT BTTR BGHT SM BTTR",
+        "difficulty" : 5
+      },
+      {
         "answer" : "SHE SELLS SEA SHELLS BY THE SEA SHORE",
         "clue" : "SH SLLS S SHLLS B THS SHR",
-        "difficulty" : 5
+        "difficulty" : 6
       },
       {
         "answer" : "FUZZY WUZZY WAS A BEAR",
         "clue" : "FZZ WZZ WSBR",
-        "difficulty" : 6
+        "difficulty" : 7
       },
       {
-        "answer" : "BETTY BOTTER BOUGHT SOME BUTTER",
-        "clue" : "BTT BTTR BGHT SM BTR",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "I SCREAM YOU SCREAM WE ALL SCREAM FOR ICE CREAM",
-        "clue" : "SCRM Y SCR W LL SCR FRC CRM",
+        "answer" : "A PROPER COPPER COFFEE POT",
+        "clue" : "PRPR CPPR CFF PT",
         "difficulty" : 7
       },
       {
@@ -83,7 +83,7 @@
       }
     ],
     "difficulty" : 8,
-    "shareClueIndex" : 0
+    "shareClueIndex" : 4
   },
   "date" : "2026-08-23",
   "schemaVersion" : 1

@@ -23,64 +23,69 @@
   ],
   "extraClues" : [
     {
-      "clue" : "HW CN  CLM CRM N  CLN CRM CN",
+      "difficulty" : 9,
       "answer" : "HOW CAN A CLAM CRAM IN A CLEAN CREAM CAN",
-      "difficulty" : 9
+      "clue" : "HW CN  CLM CRM N  CLN CRM CN"
     },
     {
-      "clue" : "SX SCK SHP",
+      "difficulty" : 6,
       "answer" : "SIX SICK SHEEP",
-      "difficulty" : 7
+      "clue" : "SX SCK SHP"
     },
     {
-      "clue" : " BG BLCK BR ST N  BG BLCK RG",
+      "difficulty" : 8,
       "answer" : "A BIG BLACK BEAR SAT ON A BIG BLACK RUG",
-      "difficulty" : 8
+      "clue" : " BG BLCK BR ST N  BG BLCK RG"
     },
     {
-      "clue" : "LSSR LTHR NVR WTHRD WTTR WTHR BTTR",
+      "difficulty" : 6,
+      "answer" : "I SCREAM YOU SCREAM WE ALL SCREAM FOR ICE CREAM",
+      "clue" : "SCRM Y SCRM W LL SCRM FRC CRM"
+    },
+    {
+      "difficulty" : 10,
       "answer" : "LESSER LEATHER NEVER WEATHERED WETTER WEATHER BETTER",
-      "difficulty" : 10
+      "clue" : "LSSR LTHR NVR WTHRD WTTR WTHR BTTR"
     },
     {
-      "clue" : " PRPR CPPR CFF PT",
-      "answer" : "A PROPER COPPER COFFEE POT",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "FRD FD TD BRD ND TD FD FRD BRD",
+      "difficulty" : 8,
       "answer" : "FRED FED TED BREAD AND TED FED FRED BREAD",
-      "difficulty" : 9
+      "clue" : "FRD FD TD BRD ND TD FD FRD BRD"
     },
     {
-      "clue" : "SX SLPRY SNLS SLD SLWY SWRD",
+      "difficulty" : 9,
       "answer" : "SIX SLIPPERY SNAILS SLID SLOWLY SEAWARD",
-      "difficulty" : 10
+      "clue" : "SX SLPRY SNLS SLD SLWY SWRD"
     },
     {
-      "clue" : "TY BT",
+      "difficulty" : 6,
       "answer" : "TOY BOAT",
-      "difficulty" : 8
+      "clue" : "TY BT"
     },
     {
-      "clue" : "CKS CK CPCKS QCKLY",
+      "difficulty" : 8,
       "answer" : "COOKS COOK CUPCAKES QUICKLY",
-      "difficulty" : 9
+      "clue" : "CKS CK CPCKS QCKLY"
     },
     {
-      "clue" : "FRSHLY FRD FLNG FSH",
+      "difficulty" : 7,
       "answer" : "FRESHLY FRIED FLYING FISH",
-      "difficulty" : 8
+      "clue" : "FRSHLY FRD FLNG FSH"
     },
     {
-      "clue" : "SVNTY-SVN BNVLNT LPHNTS",
+      "difficulty" : 10,
       "answer" : "SEVENTY-SEVEN BENEVOLENT ELEPHANTS",
-      "difficulty" : 10
+      "clue" : "SVNTY-SVN BNVLNT LPHNTS"
     },
     {
-      "clue" : "TH SXTH SCK SHKH'S SXTH SHP'S SCK",
+      "difficulty" : 10,
       "answer" : "THE SIXTH SICK SHEIKH'S SIXTH SHEEP'S SICK",
-      "difficulty" : 10
+      "clue" : "TH SXTH SCK SHKH'S SXTH SHP'S SCK"
     }
+  ],
+  "tags" : [
+    "language",
+    "culture",
+    "popular culture"
   ]
 }
