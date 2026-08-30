@@ -1,4 +1,67 @@
 {
+  "description" : "colleges and universities that might be thought to be in the ivy league, but are not",
+  "extraClues" : [
+    {
+      "clue" : "VNDRBLT NVRS TY",
+      "difficulty" : 4,
+      "answer" : "VANDERBILT UNIVERSITY"
+    },
+    {
+      "clue" : "RC NVRS TY",
+      "difficulty" : 5,
+      "answer" : "RICE UNIVERSITY"
+    },
+    {
+      "clue" : "WSHNGTN NVRS TY N ST LS",
+      "difficulty" : 6,
+      "answer" : "WASHINGTON UNIVERSITY IN ST. LOUIS"
+    },
+    {
+      "clue" : "NVRS TY F STHRN CLFRN",
+      "difficulty" : 5,
+      "answer" : "UNIVERSITY OF SOUTHERN CALIFORNIA"
+    },
+    {
+      "clue" : "GRGTWN NVRS TY",
+      "difficulty" : 4,
+      "answer" : "GEORGETOWN UNIVERSITY"
+    },
+    {
+      "clue" : "CLFRN NSTTT F TCHNLGY",
+      "difficulty" : 5,
+      "answer" : "CALIFORNIA INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "clue" : "NVRS TY F MCHGN NN RBR",
+      "difficulty" : 6,
+      "answer" : "UNIVERSITY OF MICHIGAN, ANN ARBOR"
+    },
+    {
+      "clue" : "NVRS TY F VRGN",
+      "difficulty" : 5,
+      "answer" : "UNIVERSITY OF VIRGINIA"
+    },
+    {
+      "clue" : "NVRS TY F NRTH CRLN T CHPL HLL",
+      "difficulty" : 7,
+      "answer" : "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL"
+    },
+    {
+      "clue" : "NW YRK NVRS TY",
+      "difficulty" : 4,
+      "answer" : "NEW YORK UNIVERSITY"
+    },
+    {
+      "clue" : "BSTN CLLG",
+      "difficulty" : 4,
+      "answer" : "BOSTON COLLEGE"
+    },
+    {
+      "clue" : "PNNSYLVN STT NVRS TY",
+      "difficulty" : 6,
+      "answer" : "PENNSYLVANIA STATE UNIVERSITY"
+    }
+  ],
   "clueNotes" : [
     "",
     "",
@@ -21,72 +84,9 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "difficulty" : 3,
-      "clue" : "BM",
-      "answer" : "IBM"
-    },
-    {
-      "difficulty" : 10,
-      "clue" : "LTR 8800",
-      "answer" : "ALTAR 8800"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "CMMDR 64",
-      "answer" : "COMMODORE 64"
-    },
-    {
-      "difficulty" : 4,
-      "clue" : "MCNTSH",
-      "answer" : "MACINTOSH"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "PPL",
-      "answer" : "APPLE II"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "SBRN 1",
-      "answer" : "OSBORNE 1"
-    },
-    {
-      "difficulty" : 9,
-      "clue" : "SNCLR ZX SPCTRM",
-      "answer" : "SINCLAIR ZX SPECTRUM"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "TR ST",
-      "answer" : "ATARI ST"
-    },
-    {
-      "difficulty" : 8,
-      "clue" : "TNDY TRS 80",
-      "answer" : "TANDY TRS-80"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "LTS 1 2 3",
-      "answer" : "LOTUS 1-2-3"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "CMPQ PRTBL",
-      "answer" : "COMPAQ PORTABLE"
-    },
-    {
-      "difficulty" : 7,
-      "clue" : "NXT CM PTR",
-      "answer" : "NE XT COMPUTER"
-    }
-  ],
   "tags" : [
-    "technology",
-    "history",
-    "business"
-  ],
-  "description" : "People, companies and products involved in the personal computer revolution of the 70s and 80s"
+    "education",
+    "common knowledge",
+    "geography"
+  ]
 }

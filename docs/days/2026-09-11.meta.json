@@ -1,10 +1,45 @@
 {
-  "tags" : [
-    "animals",
-    "pets",
-    "biology",
-    "common knowledge"
+  "extraClues" : [
+    {
+      "clue" : "STH CRLN",
+      "answer" : "SOUTH CAROLINA",
+      "difficulty" : 4
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
   ],
+  "description" : "US States whose names are inspired by historic people",
   "clueNotes" : [
     "",
     "",
@@ -27,67 +62,9 @@
     "",
     ""
   ],
-  "description" : "rodents that are kept as pets",
-  "extraClues" : [
-    {
-      "clue" : "FNCYMS",
-      "answer" : "FANCY MOUSE",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "DMRT",
-      "answer" : "DUMBO RAT",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "SBRNHMSTR",
-      "answer" : "SIBERIAN HAMSTER",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "TDDYBRHMSTR",
-      "answer" : "TEDDY BEAR HAMSTER",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "RBRVSKHMSTR",
-      "answer" : "ROBOROVSKI HAMSTER",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "RSSNDWRFHMSTR",
-      "answer" : "RUSSIAN DWARF HAMSTER",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "CHNSHMSTR",
-      "answer" : "CHINESE HAMSTER",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "CRNTGNPG",
-      "answer" : "CORONET GUINEA PIG",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "FRCNPGMYMS",
-      "answer" : "AFRICAN PYGMY MOUSE",
-      "difficulty" : 9
-    },
-    {
-      "clue" : "SLVRFXCHNCHLL",
-      "answer" : "SILVER FOX CHINCHILLA",
-      "difficulty" : 10
-    },
-    {
-      "clue" : "STNDRDCHNCHLL",
-      "answer" : "STANDARD CHINCHILLA",
-      "difficulty" : 10
-    },
-    {
-      "answer" : "AFRICAN SOFT-FURRED RAT",
-      "difficulty" : 10,
-      "clue" : "FRCNSFTFRRDRT"
-    }
+  "tags" : [
+    "geography",
+    "history",
+    "culture"
   ]
 }

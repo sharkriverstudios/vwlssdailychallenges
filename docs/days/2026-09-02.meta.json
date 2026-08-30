@@ -21,70 +21,72 @@
     "",
     ""
   ],
+  "tags" : [
+    "technology",
+    "history",
+    "business"
+  ],
   "extraClues" : [
     {
+      "answer" : "IBM",
+      "difficulty" : 3,
+      "clue" : "BM"
+    },
+    {
+      "answer" : "ALTAR 8800",
+      "difficulty" : 10,
+      "clue" : "LTR 8800"
+    },
+    {
+      "answer" : "COMMODORE 64",
+      "difficulty" : 5,
+      "clue" : "CMMDR 64"
+    },
+    {
+      "answer" : "MACINTOSH",
       "difficulty" : 4,
-      "clue" : "KRCH",
-      "answer" : "KARACHI"
+      "clue" : "MCNTSH"
     },
     {
-      "difficulty" : 6,
-      "clue" : "CHNGQNG",
-      "answer" : "CHONGQING"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "STNBL",
-      "answer" : "ISTANBUL"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "BNS RS",
-      "answer" : "BUENOS AIRES"
-    },
-    {
-      "difficulty" : 5,
-      "clue" : "LGS",
-      "answer" : "LAGOS"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "KNSHS",
-      "answer" : "KINSHASA"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "MNL",
-      "answer" : "MANILA"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "TNJN",
-      "answer" : "TIANJIN"
-    },
-    {
-      "difficulty" : 6,
-      "clue" : "GNGZH",
-      "answer" : "GUANGZHOU"
-    },
-    {
+      "answer" : "APPLE II",
       "difficulty" : 7,
-      "clue" : "R D JNR",
-      "answer" : "RIO DE JANEIRO"
+      "clue" : "PPL"
     },
     {
-      "difficulty" : 5,
-      "clue" : "BNGK",
-      "answer" : "BANGKOK"
+      "answer" : "OSBORNE 1",
+      "difficulty" : 8,
+      "clue" : "SBRN 1"
     },
     {
+      "answer" : "SINCLAIR ZX SPECTRUM",
+      "difficulty" : 9,
+      "clue" : "SNCLR ZX SPCTRM"
+    },
+    {
+      "answer" : "ATARI ST",
+      "difficulty" : 8,
+      "clue" : "TR ST"
+    },
+    {
+      "answer" : "TANDY TRS-80",
+      "difficulty" : 8,
+      "clue" : "TNDY TRS 80"
+    },
+    {
+      "answer" : "LOTUS 1-2-3",
+      "difficulty" : 6,
+      "clue" : "LTS 1 2 3"
+    },
+    {
+      "answer" : "COMPAQ PORTABLE",
+      "difficulty" : 6,
+      "clue" : "CMPQ PRTBL"
+    },
+    {
+      "answer" : "NE XT COMPUTER",
       "difficulty" : 7,
-      "clue" : "H CH MNH CTY",
-      "answer" : "HO CHI MINH CITY"
+      "clue" : "NXT CM PTR"
     }
   ],
-  "tags" : [
-    "geography",
-    "common knowledge"
-  ]
+  "description" : "People, companies and products involved in the personal computer revolution of the 70s and 80s"
 }

@@ -1,70 +1,64 @@
 {
-  "tags" : [
-    "literature",
-    "fantasy"
-  ],
-  "notes" : "for 11\/22\/26 ",
-  "description" : "named characters in The Hobbit and The Lord of the Rings who are Hobbits",
   "extraClues" : [
     {
-      "answer" : "LOBELIA SACKVILLE-BAGGINS",
-      "difficulty" : 8,
-      "clue" : "LBLS CKVLLBG GNS"
+      "difficulty" : 4,
+      "answer" : "THE GOLD-BUG",
+      "clue" : "TH GLD-BG"
     },
     {
-      "answer" : "PIPPIN TOOK",
-      "difficulty" : 5,
-      "clue" : "PPPN TK"
-    },
-    {
-      "answer" : "HAMFAST GAMGEE",
       "difficulty" : 6,
-      "clue" : "HMFST GMG"
+      "answer" : "THE PURLOINED LETTER",
+      "clue" : "TH PRLND LTTR"
     },
     {
-      "answer" : "MERIADOC BRANDYBUCK",
+      "difficulty" : 5,
+      "answer" : "THE HAUNTED PALACE",
+      "clue" : "TH HNTD PLC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE CITY IN THE SEA",
+      "clue" : "TH CTY N TH S"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "A DREAM WITHIN A DREAM",
+      "clue" : " DR M WTHN  DR M"
+    },
+    {
       "difficulty" : 7,
-      "clue" : "MRDC BRNDBCK"
+      "answer" : "THE NARRATIVE OF ARTHUR GORDON PYM",
+      "clue" : "TH NRRTV F RTHR GRDN PYM"
     },
     {
-      "answer" : "GOLDILOCKS GAMGEE",
+      "difficulty" : 5,
+      "answer" : "THE CASK OF AMONTILLADO",
+      "clue" : "TH CSK F MNTLLD"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE OVAL PORTRAIT",
+      "clue" : "TH VL PRTRT"
+    },
+    {
       "difficulty" : 7,
-      "clue" : "GLDLCKS GMG"
+      "answer" : "THE PREMATURE BURIAL",
+      "clue" : "TH PRMTR BRL"
     },
     {
-      "answer" : "FARAMIR TOOK",
-      "difficulty" : 7,
-      "clue" : "FRMR TK"
-    },
-    {
-      "answer" : "LOTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "LTH SKVLL-BGGNS"
-    },
-    {
-      "answer" : "OTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "TH SKVLL-BGGNS"
-    },
-    {
-      "answer" : "GERONTIUS TOOK",
       "difficulty" : 8,
-      "clue" : "GRNTS TK"
+      "answer" : "THE SYSTEM OF DOCTOR TARR AND PROFESSOR FETHER",
+      "clue" : "TH SYSTM F DCTR TRR ND PRFSSR FTHR"
     },
     {
-      "answer" : "FORTINBRAS TOOK",
-      "difficulty" : 8,
-      "clue" : "FRTNBRS TK"
+      "difficulty" : 7,
+      "answer" : "THE IMP OF THE PERVERSE",
+      "clue" : "TH MP F TH PRVRS"
     },
     {
-      "answer" : "DIAMOND OF LONG CLEEVE",
-      "difficulty" : 10,
-      "clue" : "DMND F LNG CLV"
-    },
-    {
-      "answer" : "FOSCO BAGGINS",
-      "difficulty" : 9,
-      "clue" : "FS BGGNS"
+      "difficulty" : 6,
+      "answer" : "THE DEVIL IN THE BELFRY",
+      "clue" : "TH DVL N TH BLFRY"
     }
   ],
   "clueNotes" : [
@@ -88,5 +82,11 @@
     "",
     "",
     ""
+  ],
+  "description" : "works and other things associated with the author",
+  "tags" : [
+    "literature",
+    "classics",
+    "horror"
   ]
 }

@@ -1,7 +1,69 @@
 {
+  "extraClues" : [
+    {
+      "answer" : "MOUTHGUARD",
+      "difficulty" : 5,
+      "clue" : "MTHGRD"
+    },
+    {
+      "answer" : "FOOTBALL",
+      "difficulty" : 2,
+      "clue" : "FTBLL"
+    },
+    {
+      "answer" : "FACE MASK",
+      "difficulty" : 5,
+      "clue" : "FCMSK"
+    },
+    {
+      "answer" : "CHIN STRAP",
+      "difficulty" : 6,
+      "clue" : "CHN STRP"
+    },
+    {
+      "answer" : "PANTS",
+      "difficulty" : 3,
+      "clue" : "PNTS"
+    },
+    {
+      "answer" : "PLAYBOOK",
+      "difficulty" : 5,
+      "clue" : "PLYBK"
+    },
+    {
+      "answer" : "WATER BOTTLE",
+      "difficulty" : 5,
+      "clue" : "WTR BTTL"
+    },
+    {
+      "answer" : "THIGH PADS",
+      "difficulty" : 5,
+      "clue" : "THGH PDS"
+    },
+    {
+      "answer" : "HAND WARMER",
+      "difficulty" : 6,
+      "clue" : "HND WRMR"
+    },
+    {
+      "answer" : "REFEREE UNIFORM",
+      "difficulty" : 8,
+      "clue" : "RFR UNFRM"
+    },
+    {
+      "answer" : "INSTANT REPLAY SYSTEM",
+      "difficulty" : 9,
+      "clue" : "NSTNT RPLY SYSTM"
+    },
+    {
+      "answer" : "BLOCKING SLED",
+      "difficulty" : 8,
+      "clue" : "BLCKNG SLD"
+    }
+  ],
   "tags" : [
-    "music",
-    "popular culture"
+    "sports",
+    "football"
   ],
   "clueNotes" : [
     "",
@@ -25,66 +87,5 @@
     "",
     ""
   ],
-  "extraClues" : [
-    {
-      "clue" : "CHRLY WTTS",
-      "difficulty" : 5,
-      "answer" : "CHARLIE WATTS"
-    },
-    {
-      "clue" : "GNGR BKR",
-      "difficulty" : 6,
-      "answer" : "GINGER BAKER"
-    },
-    {
-      "clue" : "MTCH MTCHLL",
-      "difficulty" : 6,
-      "answer" : "MITCH MITCHELL"
-    },
-    {
-      "clue" : "STWRT CPLND",
-      "difficulty" : 6,
-      "answer" : "STEWART COPELAND"
-    },
-    {
-      "clue" : "TRVS BRKR",
-      "difficulty" : 5,
-      "answer" : "TRAVIS BARKER"
-    },
-    {
-      "clue" : "CHD SMTH",
-      "difficulty" : 6,
-      "answer" : "CHAD SMITH"
-    },
-    {
-      "clue" : "TRRY BZZ",
-      "difficulty" : 7,
-      "answer" : "TERRY BOZZIO"
-    },
-    {
-      "clue" : "CRTR BFRD",
-      "difficulty" : 8,
-      "answer" : "CARTER BEAUFORD"
-    },
-    {
-      "clue" : "JY JRD",
-      "difficulty" : 8,
-      "answer" : "JOEY JORDISON"
-    },
-    {
-      "clue" : "DNN CRY",
-      "difficulty" : 7,
-      "answer" : "DANNY CAREY"
-    },
-    {
-      "clue" : "MX WNB",
-      "difficulty" : 8,
-      "answer" : "MAX WEINBERG"
-    },
-    {
-      "clue" : "N PC",
-      "difficulty" : 9,
-      "answer" : "IAN PAICE"
-    }
-  ]
+  "description" : "things that are used by players or officials in an American Football game"
 }

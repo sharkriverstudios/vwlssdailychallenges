@@ -1,0 +1,100 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Birds Of A Feather Flock Together",
+      "A Bird In The Hand Is Worth Two In The Bush",
+      "Kill Two Birds With One Stone",
+      "The Early Bird Catches The Worm",
+      "A Little Bird Told Me",
+      "Like A Duck To Water",
+      "Free As A Bird",
+      "Eat Like A Bird",
+      "Birds Of A Feather",
+      "Nest Egg",
+      "Swan Song",
+      "Wild Goose Chase",
+      "Proud As A Peacock",
+      "Rare Bird",
+      "As The Crow Flies",
+      "Ugly Duckling",
+      "Sitting Duck",
+      "Feather Your Nest",
+      "Goose Bumps",
+      "Parrot Fashion",
+      "An Albatross Around One's Neck",
+      "Night Owl",
+      "Chicken Out",
+      "Under One's Wing",
+      "Cuckoo In The Nest",
+      "Watch Like A Hawk",
+      "Pecking Order",
+      "Dead As A Dodo",
+      "Eagle Eye",
+      "Like A Hawk",
+      "Fly The Coop",
+      "Swan Around",
+      "Cock And Bull Story",
+      "Henpecked",
+      "Strut Like A Peacock",
+      "Fine Feathered Friend",
+      "As The Crow Flies",
+      "Chicken Feed",
+      "Have A Lark",
+      "Ruffle Someone's Feathers",
+      "Take Under One's Wing",
+      "Goose Step",
+      "Hawk-eyed",
+      "Turkey Trot",
+      "To Ruffle Feathers",
+      "Beetle-browed",
+      "Lame Duck"
+    ],
+    "category" : "Bird Idioms",
+    "clues" : [
+      {
+        "answer" : "A LITTLE BIRD TOLD ME",
+        "clue" : "LTTL BRD TLD M",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NIGHT OWL",
+        "clue" : "NGHT WL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "THE EARLY BIRD CATCHES THE WORM",
+        "clue" : "TH RL BRD CTCHS TH WRM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "KILL TWO BIRDS WITH ONE STONE",
+        "clue" : "KLL TW BRDS WTH N STN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "A BIRD IN THE HAND IS WORTH TWO IN THE BUSH",
+        "clue" : "BRD N TH HND S WRTH TW N TH BSH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BIRDS OF A FEATHER FLOCK TOGETHER",
+        "clue" : "BRDS F FTHR FLCK TGTHR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SITTING DUCK",
+        "clue" : "STTNG DCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "AS THE CROW FLIES",
+        "clue" : "S TH CRW FLS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-12",
+  "schemaVersion" : 1
+}

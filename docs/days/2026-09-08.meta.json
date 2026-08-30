@@ -1,72 +1,72 @@
 {
+  "tags" : [
+    "literature",
+    "fantasy"
+  ],
+  "notes" : "for 11\/22\/26 ",
+  "description" : "named characters in The Hobbit and The Lord of the Rings who are Hobbits",
   "extraClues" : [
     {
-      "clue" : "NTN GRMSC",
-      "difficulty" : 6,
-      "answer" : "ANTONIO GRAMSCI"
-    },
-    {
-      "clue" : "H CH MNH",
-      "difficulty" : 4,
-      "answer" : "HO CHI MINH"
-    },
-    {
-      "clue" : "NKT KHRSHCHV",
-      "difficulty" : 7,
-      "answer" : "NIKITA KHRUSHCHEV"
-    },
-    {
-      "clue" : "RS LXMVRG",
-      "difficulty" : 6,
-      "answer" : "ROSA LUXEMBURG"
-    },
-    {
-      "clue" : "PL PT",
-      "difficulty" : 5,
-      "answer" : "POL POT"
-    },
-    {
-      "clue" : "KM L-SNG",
-      "difficulty" : 5,
-      "answer" : "KIM IL-SUNG"
-    },
-    {
-      "clue" : "NVR HXH",
+      "answer" : "LOBELIA SACKVILLE-BAGGINS",
       "difficulty" : 8,
-      "answer" : "ENVER HOXHA"
+      "clue" : "LBLS CKVLLBG GNS"
     },
     {
-      "clue" : "GRG DMTRV",
-      "difficulty" : 8,
-      "answer" : "GEORGI DIMITROV"
-    },
-    {
-      "clue" : "ZH NL",
-      "difficulty" : 7,
-      "answer" : "ZHOU ENLAI"
-    },
-    {
-      "clue" : "DNG XPNG",
-      "difficulty" : 7,
-      "answer" : "DENG XIAOPING"
-    },
-    {
-      "clue" : "FRDRCK NGLS",
+      "answer" : "PIPPIN TOOK",
       "difficulty" : 5,
-      "answer" : "FREDERICK ENGELS"
+      "clue" : "PPPN TK"
     },
     {
-      "clue" : "MM GLDMN",
+      "answer" : "HAMFAST GAMGEE",
+      "difficulty" : 6,
+      "clue" : "HMFST GMG"
+    },
+    {
+      "answer" : "MERIADOC BRANDYBUCK",
       "difficulty" : 7,
-      "answer" : "EMMA GOLDMAN"
+      "clue" : "MRDC BRNDBCK"
+    },
+    {
+      "answer" : "GOLDILOCKS GAMGEE",
+      "difficulty" : 7,
+      "clue" : "GLDLCKS GMG"
+    },
+    {
+      "answer" : "FARAMIR TOOK",
+      "difficulty" : 7,
+      "clue" : "FRMR TK"
+    },
+    {
+      "answer" : "LOTHO SACKVILLE-BAGGINS",
+      "difficulty" : 9,
+      "clue" : "LTH SKVLL-BGGNS"
+    },
+    {
+      "answer" : "OTHO SACKVILLE-BAGGINS",
+      "difficulty" : 9,
+      "clue" : "TH SKVLL-BGGNS"
+    },
+    {
+      "answer" : "GERONTIUS TOOK",
+      "difficulty" : 8,
+      "clue" : "GRNTS TK"
+    },
+    {
+      "answer" : "FORTINBRAS TOOK",
+      "difficulty" : 8,
+      "clue" : "FRTNBRS TK"
+    },
+    {
+      "answer" : "DIAMOND OF LONG CLEEVE",
+      "difficulty" : 10,
+      "clue" : "DMND F LNG CLV"
+    },
+    {
+      "answer" : "FOSCO BAGGINS",
+      "difficulty" : 9,
+      "clue" : "FS BGGNS"
     }
   ],
-  "tags" : [
-    "history",
-    "politics",
-    "philosophy"
-  ],
-  "description" : "thinkers, leaders, activists",
   "clueNotes" : [
     "",
     "",

@@ -1,5 +1,4 @@
 {
-  "description" : "hammers and things associated with hammers",
   "clueNotes" : [
     "",
     "",
@@ -66,5 +65,6 @@
     {
       "difficulty" : 1
     }
-  ]
+  ],
+  "description" : "hammers and things associated with hammers"
 }

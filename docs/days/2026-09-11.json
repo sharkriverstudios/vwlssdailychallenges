@@ -1,101 +1,60 @@
 {
   "challenge" : {
     "candidates" : [
-      "Hamster",
-      "Guinea Pig",
-      "Gerbil",
-      "Chinchilla",
-      "Mouse",
-      "Rat",
-      "Degu",
-      "Prairie Dog",
-      "Siberian Hamster",
-      "Campbell's Dwarf Hamster",
-      "Roborovski Hamster",
-      "Chinese Hamster",
-      "Fancy Rat",
-      "Dumbo Rat",
-      "Hairless Rat",
-      "Mongolian Gerbil",
-      "Spiny Mouse",
-      "African Pygmy Mouse",
-      "Fancy Mouse",
-      "Teddy Bear Hamster",
-      "Russian Dwarf Hamster",
-      "Winter White Hamster",
-      "African Soft-Furred Rat",
-      "Jird",
-      "Fat-Tailed Gerbil",
-      "Golden Hamster",
-      "Albino Rat",
-      "Black Mouse",
-      "Satin Mouse",
-      "Brindle Mouse",
-      "Blue Rat",
-      "Rex Rat",
-      "Silver Fox Chinchilla",
-      "Standard Chinchilla",
-      "Ebony Chinchilla",
-      "Pink-Eyed White Rat",
-      "Agouti Mouse",
-      "Fawn Mouse",
-      "Rouen Mouse",
-      "Chocolate Chinchilla",
-      "Beige Chinchilla",
-      "Himalayan Guinea Pig",
-      "Coronet Guinea Pig",
-      "Peruvian Guinea Pig",
-      "Texel Guinea Pig",
-      "Silkie Guinea Pig",
-      "Crested Guinea Pig",
-      "Teddy Guinea Pig",
-      "Abyssinian Guinea Pig",
-      "American Guinea Pig"
+      "Georgia",
+      "Louisiana",
+      "Maryland",
+      "New York",
+      "North Carolina",
+      "Pennsylvania",
+      "South Carolina",
+      "Virginia",
+      "Washington"
     ],
-    "category" : "Pet Rodents",
+    "category" : "States Named After People",
     "clues" : [
       {
-        "answer" : "HAMSTER",
-        "clue" : "HMSTR",
+        "answer" : "VIRGINIA",
+        "clue" : "VRGN",
         "difficulty" : 1
       },
       {
-        "answer" : "MOUSE",
-        "clue" : "MS",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "RAT",
-        "clue" : "RT",
-        "difficulty" : 1
-      },
-      {
-        "answer" : "GERBIL",
-        "clue" : "GRBL",
+        "answer" : "WASHINGTON",
+        "clue" : "WSHNGTN",
         "difficulty" : 2
       },
       {
-        "answer" : "CHINCHILLA",
-        "clue" : "CHNCHLL",
+        "answer" : "NEW YORK",
+        "clue" : "NW YRK",
         "difficulty" : 3
       },
       {
-        "answer" : "GUINEA PIG",
-        "clue" : "GNPG",
+        "answer" : "MARYLAND",
+        "clue" : "MRLND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GEORGIA",
+        "clue" : "GRG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "NORTH CAROLINA",
+        "clue" : "NRTH CRLN",
         "difficulty" : 4
       },
       {
-        "answer" : "PRAIRIE DOG",
-        "clue" : "PRRDG",
-        "difficulty" : 5
+        "answer" : "LOUISIANA",
+        "clue" : "LSN",
+        "difficulty" : 4
       },
       {
-        "answer" : "DEGU",
-        "clue" : "DG",
-        "difficulty" : 7
+        "answer" : "PENNSYLVANIA",
+        "clue" : "PNNSLVN",
+        "difficulty" : 5
       }
     ],
-    "difficulty" : 3,
+    "difficulty" : 4,
     "shareClueIndex" : 0
   },
   "date" : "2026-09-11",

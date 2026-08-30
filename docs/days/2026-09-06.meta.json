@@ -1,66 +1,4 @@
 {
-  "extraClues" : [
-    {
-      "difficulty" : 4,
-      "answer" : "THE GOLD-BUG",
-      "clue" : "TH GLD-BG"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE PURLOINED LETTER",
-      "clue" : "TH PRLND LTTR"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "THE HAUNTED PALACE",
-      "clue" : "TH HNTD PLC"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE CITY IN THE SEA",
-      "clue" : "TH CTY N TH S"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "A DREAM WITHIN A DREAM",
-      "clue" : " DR M WTHN  DR M"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE NARRATIVE OF ARTHUR GORDON PYM",
-      "clue" : "TH NRRTV F RTHR GRDN PYM"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "THE CASK OF AMONTILLADO",
-      "clue" : "TH CSK F MNTLLD"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE OVAL PORTRAIT",
-      "clue" : "TH VL PRTRT"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE PREMATURE BURIAL",
-      "clue" : "TH PRMTR BRL"
-    },
-    {
-      "difficulty" : 8,
-      "answer" : "THE SYSTEM OF DOCTOR TARR AND PROFESSOR FETHER",
-      "clue" : "TH SYSTM F DCTR TRR ND PRFSSR FTHR"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE IMP OF THE PERVERSE",
-      "clue" : "TH MP F TH PRVRS"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE DEVIL IN THE BELFRY",
-      "clue" : "TH DVL N TH BLFRY"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -83,10 +21,72 @@
     "",
     ""
   ],
-  "description" : "works and other things associated with the author",
   "tags" : [
-    "literature",
-    "classics",
-    "horror"
-  ]
+    "geography",
+    "history",
+    "politics"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "CLEVELAND, OHIO",
+      "difficulty" : 2,
+      "clue" : "CLVLND H"
+    },
+    {
+      "answer" : "ROOSEVELT ISLAND, NEW YORK",
+      "difficulty" : 6,
+      "clue" : "RSVLTSLND NW YRK"
+    },
+    {
+      "answer" : "EISENHOWER TUNNEL, COLORADO",
+      "difficulty" : 9,
+      "clue" : "SNHWRTNNLCLRD"
+    },
+    {
+      "answer" : "JOHNSON CITY, TENNESSEE",
+      "difficulty" : 5,
+      "clue" : "JHNSN CTY TNNSS"
+    },
+    {
+      "answer" : "MOUNT RUSHMORE, SOUTH DAKOTA",
+      "difficulty" : 5,
+      "clue" : "MNT RSHMR STH DKT"
+    },
+    {
+      "answer" : "WASHINGTON D.C.",
+      "difficulty" : 1,
+      "clue" : "WSHNGTN DC"
+    },
+    {
+      "answer" : "TRUMAN LAKE, MISSOURI",
+      "difficulty" : 7,
+      "clue" : "TRMN LK MSSR"
+    },
+    {
+      "answer" : "GRANT PARK, CHICAGO",
+      "difficulty" : 4,
+      "clue" : "GRNT PRK CHCG"
+    },
+    {
+      "answer" : "REAGAN NATIONAL AIRPORT, VIRGINIA",
+      "difficulty" : 8,
+      "clue" : "RGN NTNL RPRT VRGN"
+    },
+    {
+      "answer" : "HARRISONBURG, VIRGINIA",
+      "difficulty" : 6,
+      "clue" : "HRRSNBRG VRGN"
+    },
+    {
+      "answer" : "WOODROW WILSON BRIDGE, MARYLAND",
+      "difficulty" : 8,
+      "clue" : "WDRW WLSN BRDG MRYLND"
+    },
+    {
+      "answer" : "BENJAMIN HARRISON PRESIDENTIAL SITE, INDIANA",
+      "difficulty" : 10,
+      "clue" : "BNJMN HRRSN PRSDNTL ST ND"
+    }
+  ],
+  "description" : "cities, regions, landmarks"
 }
