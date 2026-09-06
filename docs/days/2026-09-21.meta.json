@@ -1,0 +1,93 @@
+{
+  "tags" : [
+    "children's books",
+    "literature",
+    "popular culture"
+  ],
+  "description" : "characetrs from books, movies and other projects that the author was involved in.",
+  "notes" : "Not characters that were introduced in adaptations",
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "THE SNEETCHES",
+      "clue" : "TH SNCHS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "SALLY",
+      "clue" : "SLLY"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "BARTHOLOMEW CUBBINS",
+      "clue" : "BRTHLMW CBBNS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SAM-I-AM",
+      "clue" : "SM-M"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE ONCE-LER",
+      "clue" : "TH NCL-R"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "THE ZAX",
+      "clue" : "TH ZX"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "THING ONE",
+      "clue" : "THNG N"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE WOCKET",
+      "clue" : "TH WCKT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "GERALD MCGREW",
+      "clue" : "GRLD MGRW"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "KING DERWIN",
+      "clue" : "KNG DRWN"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "THE YOTTLE",
+      "clue" : "TH YTTL"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "THE ZIZZER-ZAZZER-ZUZZ",
+      "clue" : "TH ZZZR-ZZZR-ZZZ"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

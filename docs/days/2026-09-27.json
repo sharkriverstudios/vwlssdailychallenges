@@ -1,0 +1,126 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sydney",
+      "Paris",
+      "Jordan",
+      "Santiago",
+      "Austin",
+      "Florence",
+      "Geneva",
+      "Adrian",
+      "Victoria",
+      "Madison",
+      "Diego",
+      "Charlotte",
+      "Savannah",
+      "Dublin",
+      "Brooklyn",
+      "Jackson",
+      "Cody",
+      "Milan",
+      "Chelsea",
+      "Raleigh",
+      "Sofia",
+      "Orlando",
+      "Alexandria",
+      "Lincoln",
+      "Dallas",
+      "Vienna",
+      "Houston",
+      "Kingston",
+      "Sierra",
+      "Phoenix",
+      "Berlin",
+      "Rome",
+      "Regina",
+      "Shannon",
+      "Valencia",
+      "Lima",
+      "Denver",
+      "Helena",
+      "Memphis",
+      "Troy",
+      "Athens",
+      "Geneva",
+      "Hugo",
+      "Marina",
+      "Dakota",
+      "India",
+      "Carson",
+      "Aspen",
+      "Virginia",
+      "Nash",
+      "Clinton",
+      "Hudson",
+      "Jordan",
+      "Logan",
+      "Oslo",
+      "Salem",
+      "Cairo",
+      "Carmen",
+      "Juneau",
+      "Reno",
+      "Sandy",
+      "Lydia",
+      "Francisco",
+      "Tyler",
+      "Reno",
+      "Carlisle",
+      "Milton",
+      "Trenton",
+      "Adelaide",
+      "Macon",
+      "Raleigh",
+      "Hampton",
+      "Odessa"
+    ],
+    "category" : "Places that Could be a Person",
+    "clues" : [
+      {
+        "answer" : "SYDNEY",
+        "clue" : "SDNY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "VICTORIA",
+        "clue" : "VCTR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MADISON",
+        "clue" : "MDSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SAVANNAH",
+        "clue" : "SVNNH",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JORDAN",
+        "clue" : "JRDN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "FLORENCE",
+        "clue" : "FLRNC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CHARLOTTE",
+        "clue" : "CHRLTT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "AUSTIN",
+        "clue" : "STN",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-27",
+  "schemaVersion" : 1
+}

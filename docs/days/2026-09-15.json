@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Downward Dog",
+      "Child's Pose",
+      "Warrior One",
+      "Warrior Two",
+      "Warrior Three",
+      "Tree Pose",
+      "Mountain Pose",
+      "Triangle Pose",
+      "Half Moon Pose",
+      "Bridge Pose",
+      "Cat Pose",
+      "Cow Pose",
+      "Cobra Pose",
+      "Bow Pose",
+      "Camel Pose",
+      "Fish Pose",
+      "Pigeon Pose",
+      "Crow Pose",
+      "Plank Pose",
+      "Headstand",
+      "Handstand",
+      "Chair Pose",
+      "Boat Pose",
+      "Eagle Pose",
+      "Locust Pose",
+      "Lotus Pose",
+      "Corpse Pose",
+      "Half Lord Of The Fishes",
+      "Reclined Hero Pose",
+      "Side Angle Pose",
+      "Extended Side Angle Pose",
+      "Dolphin Pose",
+      "King Dancer Pose",
+      "Revolved Triangle Pose",
+      "Happy Baby Pose",
+      "Seated Forward Bend",
+      "Extended Puppy Pose",
+      "Standing Forward Bend",
+      "Upward Dog",
+      "Four-Limbed Staff Pose",
+      "Revolved Half Moon Pose",
+      "Goddess Pose",
+      "Gate Pose",
+      "Lizard Pose",
+      "Horse Pose",
+      "Cow Face Pose",
+      "Hero Pose",
+      "Garland Pose",
+      "Bound Angle Pose",
+      "Reclining Bound Angle Pose",
+      "Wide-Legged Forward Bend",
+      "Standing Split"
+    ],
+    "category" : "Yoga Poses",
+    "clues" : [
+      {
+        "answer" : "DOWNWARD DOG",
+        "clue" : "DWNWRD DG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PLANK",
+        "clue" : "PLNK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHILD'S POSE",
+        "clue" : "CHLDS PS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TREE POSE",
+        "clue" : "TR PS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TRIANGLE POSE",
+        "clue" : "TRNGL PS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BRIDGE POSE",
+        "clue" : "BRDG PS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WARRIOR ONE",
+        "clue" : "WRRRN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HALF MOON",
+        "clue" : "HLF MN",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-15",
+  "schemaVersion" : 1
+}

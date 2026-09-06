@@ -1,0 +1,92 @@
+{
+  "description" : "thinkers, leaders, activists",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "answer" : "ANTONIO GRAMSCI",
+      "clue" : "NTN GRMSC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "HO CHI MINH",
+      "clue" : "H CH MNH"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "NIKITA KHRUSHCHEV",
+      "clue" : "NKT KHRSHCHV"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ROSA LUXEMBURG",
+      "clue" : "RS LXMVRG"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "POL POT",
+      "clue" : "PL PT"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "KIM IL-SUNG",
+      "clue" : "KM L-SNG"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ENVER HOXHA",
+      "clue" : "NVR HXH"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "GEORGI DIMITROV",
+      "clue" : "GRG DMTRV"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ZHOU ENLAI",
+      "clue" : "ZH NL"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "DENG XIAOPING",
+      "clue" : "DNG XPNG"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "FREDERICK ENGELS",
+      "clue" : "FRDRCK NGLS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "EMMA GOLDMAN",
+      "clue" : "MM GLDMN"
+    }
+  ],
+  "tags" : [
+    "history",
+    "politics",
+    "philosophy"
+  ]
+}

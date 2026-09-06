@@ -1,0 +1,94 @@
+{
+  "description" : "people named Pat or Patrick, idioms or terms that use the word Pat",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK BATEMAN",
+      "clue" : "PTRCK BTMN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK DEMPSY",
+      "clue" : "PTRCK DMPSY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "PATRICK EWING",
+      "clue" : "PTRCK WNG"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK KANE",
+      "clue" : "PTRCK KN"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "PAT RILEY",
+      "clue" : "PT RLY"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PATRICK WARBURTON",
+      "clue" : "PTRCK WRBRTN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK STUMP",
+      "clue" : "PTRCK STMP"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PATRICIA ARQUETTE",
+      "clue" : "PTRC RQTT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "PAT ON THE BACK",
+      "clue" : "PT N TH BCK"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PATSY RAMSEY",
+      "clue" : "PTSY RMSY"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PATRICK MODIANO",
+      "clue" : "PTRCK MDN"
+    },
+    {
+      "clue" : "PTRC HTN",
+      "difficulty" : 7,
+      "answer" : "PATRICIA HEATON"
+    }
+  ],
+  "tags" : [
+    "common knowledge",
+    "popular culture",
+    "entertainment",
+    "history"
+  ],
+  "notes" : "this is meant to be a cryptics Sunday puzzle"
+}

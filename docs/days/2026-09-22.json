@@ -1,0 +1,120 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "House Key",
+      "Car Key",
+      "Piano Key",
+      "Keyboard Key",
+      "Skeleton Key",
+      "Keynote",
+      "Keyhole",
+      "Keystone",
+      "Keychain",
+      "Keypad",
+      "Keycard",
+      "Keyring",
+      "Low Key",
+      "Key West",
+      "Key Lime",
+      "Key Signature",
+      "Key Grip",
+      "Key Lock",
+      "Keynote Speaker",
+      "Key Performance Indicator",
+      "Key Player",
+      "Key Factor",
+      "Key Details",
+      "Key Decision",
+      "Key Concept",
+      "Key Word",
+      "Key Phrase",
+      "Key Area",
+      "Key Moment",
+      "Key Role",
+      "Key Difference",
+      "Key Point",
+      "Key Element",
+      "Key Strength",
+      "Major Key",
+      "Minor Key",
+      "Key Position",
+      "Key Component",
+      "Key Benefit",
+      "Key Issue",
+      "Key Objective",
+      "Key Feature",
+      "Key Result",
+      "Key Strategy",
+      "Key Tactic",
+      "Key Contribution",
+      "Key Resource",
+      "Key Insight",
+      "Key Opportunity",
+      "Key Metric",
+      "Key Influence",
+      "Key Value",
+      "Key Objective Indicator",
+      "Key Variable",
+      "Key Consideration",
+      "Key Outcome",
+      "Key Target",
+      "Key Milestone",
+      "Key Assumption",
+      "Key Hypothesis",
+      "Key Principle",
+      "Key Driver",
+      "Key Enabler",
+      "Key Determinant",
+      "Key Characteristic",
+      "Key Component Indicator",
+      "Key Attribute"
+    ],
+    "category" : "Keys",
+    "clues" : [
+      {
+        "answer" : "CAR KEY",
+        "clue" : "CR KY",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "KEYCHAIN",
+        "clue" : "KYCHN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "KEYCARD",
+        "clue" : "KYCRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PIANO KEY",
+        "clue" : "PN KY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LOW KEY",
+        "clue" : "LW KY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SPACE KEY",
+        "clue" : "SPC KY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "KEYNOTE",
+        "clue" : "KYNT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "KEY LIME",
+        "clue" : "KY LM",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-22",
+  "schemaVersion" : 1
+}

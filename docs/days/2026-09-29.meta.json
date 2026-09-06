@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "music",
+    "popular culture",
+    "entertainment"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "answer" : "MIKE LOVE",
+      "clue" : "MK LV"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "AL JARDINE",
+      "clue" : "L JRDN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "CARL WILSON",
+      "clue" : "CRL WLSN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SURFER GIRL",
+      "clue" : "SRFR GRL"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "WOULDN'T IT BE NICE",
+      "clue" : "WLDN'T T B NC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "HELP ME, RHONDA",
+      "clue" : "HLP M RHND"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "LITTLE DEUCE COUPE",
+      "clue" : "LTTL DC CP"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "BEACH BOYS' PARTY!",
+      "clue" : "BCH BYS PRTY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "FUN, FUN, FUN",
+      "clue" : "FN FN FN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "SURFIN' SAFARI",
+      "clue" : "SRFN SFR"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "DENNIS WILSON",
+      "clue" : "DNNS WLSN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DON'T WORRY BABY",
+      "clue" : "DNT WRRY BBY"
+    }
+  ],
+  "description" : "Songs, albums, important band members",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

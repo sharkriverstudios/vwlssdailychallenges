@@ -1,0 +1,90 @@
+{
+  "description" : "plus, minus, etc",
+  "extraClues" : [
+    {
+      "clue" : "SMMTN",
+      "answer" : "SUMMATION",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "FRCTN",
+      "answer" : "FRACTION",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "XTRPLTN",
+      "answer" : "EXTRAPOLATION",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "MLTPLCTN",
+      "answer" : "MULTIPLICATION",
+      "difficulty" : 1
+    },
+    {
+      "clue" : "FCTRZTN",
+      "answer" : "FACTORIZATION",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "LGRTHM",
+      "answer" : "LOGARITHM",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "NTGRTN",
+      "answer" : "INTEGRATION",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "XPNTTN",
+      "answer" : "EXPONENTIATION",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "VCTR DDTN",
+      "answer" : "VECTOR ADDITION",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "MTRX MLTPLCTN",
+      "answer" : "MATRIX MULTIPLICATION",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "HYPRBLC SN",
+      "answer" : "HYPERBOLIC SINE",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "FRR TRNSFRM",
+      "answer" : "FOURIER TRANSFORM",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "mathematics"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

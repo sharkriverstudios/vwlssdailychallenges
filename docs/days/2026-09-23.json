@@ -1,0 +1,62 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Georgia",
+      "Louisiana",
+      "Maryland",
+      "New York",
+      "North Carolina",
+      "Pennsylvania",
+      "South Carolina",
+      "Virginia",
+      "Washington"
+    ],
+    "category" : "States Named After People",
+    "clues" : [
+      {
+        "answer" : "VIRGINIA",
+        "clue" : "VRGN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "WASHINGTON",
+        "clue" : "WSHNGTN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NEW YORK",
+        "clue" : "NW YRK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARYLAND",
+        "clue" : "MRLND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GEORGIA",
+        "clue" : "GRG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "NORTH CAROLINA",
+        "clue" : "NRTH CRLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LOUISIANA",
+        "clue" : "LSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PENNSYLVANIA",
+        "clue" : "PNNSLVN",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-23",
+  "schemaVersion" : 1
+}

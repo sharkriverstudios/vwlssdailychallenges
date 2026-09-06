@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "BLCK CPPD CHCKD",
+      "difficulty" : 5,
+      "answer" : "BLACK-CAPPED CHICKADEE"
+    },
+    {
+      "clue" : "STRN TWH",
+      "difficulty" : 6,
+      "answer" : "EASTERN TOWHEE"
+    },
+    {
+      "clue" : "MRCN CRW",
+      "difficulty" : 3,
+      "answer" : "AMERICAN CROW"
+    },
+    {
+      "clue" : "BRWN THRSHR",
+      "difficulty" : 4,
+      "answer" : "BROWN THRASHER"
+    },
+    {
+      "clue" : "YLLW RMPD WRBLR",
+      "difficulty" : 6,
+      "answer" : "YELLOW-RUMPED WARBLER"
+    },
+    {
+      "clue" : "STRN PHB",
+      "difficulty" : 6,
+      "answer" : "EASTERN PHOEBE"
+    },
+    {
+      "clue" : "CRLN WRN",
+      "difficulty" : 5,
+      "answer" : "CAROLINA WREN"
+    },
+    {
+      "clue" : "SCRLT TNGR",
+      "difficulty" : 5,
+      "answer" : "SCARLET TANAGER"
+    },
+    {
+      "clue" : "CDR WXWNG",
+      "difficulty" : 5,
+      "answer" : "CEDAR WAXWING"
+    },
+    {
+      "clue" : "NRTHRN MCKNGBRD",
+      "difficulty" : 4,
+      "answer" : "NORTHERN MOCKINGBIRD"
+    },
+    {
+      "clue" : "GLDN CRWND KNGLT",
+      "difficulty" : 7,
+      "answer" : "GOLDEN-CROWNED KINGLET"
+    },
+    {
+      "clue" : "NDG BNTNG",
+      "difficulty" : 6,
+      "answer" : "INDIGO BUNTING"
+    }
+  ],
+  "tags" : [
+    "nature",
+    "biology",
+    "animals",
+    "ornithology"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

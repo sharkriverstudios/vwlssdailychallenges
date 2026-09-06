@@ -1,0 +1,98 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Alice",
+      "Mad Hatter",
+      "White Rabbit",
+      "Queen Of Hearts",
+      "Cheshire Cat",
+      "March Hare",
+      "Caterpillar",
+      "Dormouse",
+      "King Of Hearts",
+      "Tweedledum",
+      "Tweedledee",
+      "Red Queen",
+      "White Queen",
+      "Humpty Dumpty",
+      "Jabberwock",
+      "Walrus",
+      "Carpenter",
+      "Mock Turtle",
+      "Gryphon",
+      "Knave Of Hearts",
+      "Duchess",
+      "Bill The Lizard",
+      "Dodo",
+      "Frog Footman",
+      "Fish Footman",
+      "Lion",
+      "Unicorn",
+      "White Knight",
+      "Gardeners",
+      "Cook",
+      "Queen Alice",
+      "Dinah",
+      "Bandersnatch",
+      "White King",
+      "Rose",
+      "Lily",
+      "Fawn",
+      "Hatta",
+      "Haigha",
+      "Gnat",
+      "Pepper",
+      "King Of Spades",
+      "Mock Turtle Soup",
+      "Knitting Sheep",
+      "White Pawn"
+    ],
+    "category" : "Alice in Wonderland",
+    "clues" : [
+      {
+        "answer" : "WHITE RABBIT",
+        "clue" : "WHT RBBT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHESHIRE CAT",
+        "clue" : "CHSHR CT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MAD HATTER",
+        "clue" : "MD HTTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "QUEEN OF HEARTS",
+        "clue" : "QN F HRTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARCH HARE",
+        "clue" : "MRCH HR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CATERPILLAR",
+        "clue" : "CTRPLLR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TWEEDLEDUM",
+        "clue" : "TWDLDM",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HUMPTY DUMPTY",
+        "clue" : "HMPT DMPT",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-16",
+  "schemaVersion" : 1
+}

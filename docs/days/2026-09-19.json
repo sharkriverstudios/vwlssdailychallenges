@@ -1,0 +1,108 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Cheerleaders",
+      "Mascot",
+      "Marching Band",
+      "Drumline",
+      "Pom Poms",
+      "Pep Band",
+      "Spirit Squad",
+      "Fight Song",
+      "School Colors",
+      "Pep Talk",
+      "Team Captain",
+      "Football Team",
+      "Basketball Team",
+      "Dance Team",
+      "Pep Rally Chant",
+      "School Mascot",
+      "Rally Towels",
+      "School Spirit",
+      "Principal",
+      "Vice Principal",
+      "Student Section",
+      "Homecoming Court",
+      "Spirit Week",
+      "Team Jerseys",
+      "Banners",
+      "School Flag",
+      "Theme Song",
+      "Class Yells",
+      "Rallying Cry",
+      "Halftime Show",
+      "Stadium",
+      "Bleachers",
+      "Pep Squad",
+      "School Fight Song",
+      "Pep Assembly",
+      "Team Huddle",
+      "Pep Rally Signs",
+      "Confetti",
+      "Crowd Surfing",
+      "Face Paint",
+      "Victory Chant",
+      "Rally Leader",
+      "School Crest",
+      "Alma Mater Song",
+      "School Chant",
+      "Team Mascot",
+      "Spirit Day",
+      "T-Shirt Toss",
+      "Team Cheers",
+      "Rally Speech",
+      "Pep Flags",
+      "Cheer Stunts",
+      "Rally Posters",
+      "School Drumline",
+      "Team Spirit"
+    ],
+    "category" : "At a Pep Rally",
+    "clues" : [
+      {
+        "answer" : "CHEERLEADERS",
+        "clue" : "CHRLDRS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "MASCOT",
+        "clue" : "MSCT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MARCHING BAND",
+        "clue" : "MRCHNG BND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SCHOOL SPIRIT",
+        "clue" : "SCHL SPRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FACE PAINT",
+        "clue" : "FC PNT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SCHOOL COLORS",
+        "clue" : "SCHL CLRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TEAM CAPTAIN",
+        "clue" : "TM CPTN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SPIRIT WEEK",
+        "clue" : "SPRT WK",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-19",
+  "schemaVersion" : 1
+}

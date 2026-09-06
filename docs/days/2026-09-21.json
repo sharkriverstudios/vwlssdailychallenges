@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Cat In The Hat",
+      "The Grinch",
+      "Horton",
+      "Sam-I-Am",
+      "Thing One",
+      "Thing Two",
+      "The Lorax",
+      "Cindy Lou Who",
+      "Gerald McGrew",
+      "Yertle The Turtle",
+      "Bartholomew Cubbins",
+      "King Derwin",
+      "The Sneetches",
+      "Sally",
+      "The Once-ler",
+      "The Zax",
+      "The Wocket",
+      "Fox In Socks",
+      "The Cat's Sister",
+      "The Gack",
+      "The Yuzz-a-ma-tuzz",
+      "The Nizzard",
+      "The Nerkle",
+      "The Zizzer-Zazzer-Zuzz",
+      "The Gox",
+      "The Nerd",
+      "The Yottle",
+      "The Fuddle-dee-duddle",
+      "The Quimney",
+      "The Skritz",
+      "The Kwigger",
+      "The Whos",
+      "The Hakken-Kraks",
+      "The Jibboo",
+      "The Wumbus",
+      "The Zinn-a-zu Bird",
+      "The Woset",
+      "The Wasket",
+      "The Glunk",
+      "The Yink"
+    ],
+    "category" : "Dr Seuss Characters",
+    "clues" : [
+      {
+        "answer" : "THE CAT IN THE HAT",
+        "clue" : "TH C T N TH HT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "THE GRINCH",
+        "clue" : "TH GRNCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "THE LORAX",
+        "clue" : "TH LRX",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THING TWO",
+        "clue" : "THNGTW",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HORTON",
+        "clue" : "HRTN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "YERTLE THE TURTLE",
+        "clue" : "YRTL TH TRTL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FOX IN SOCKS",
+        "clue" : "FX N SCKS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CINDY LOU WHO",
+        "clue" : "CND L WH",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-21",
+  "schemaVersion" : 1
+}

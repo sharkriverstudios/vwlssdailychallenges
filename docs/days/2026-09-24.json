@@ -1,0 +1,117 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Addition",
+      "Subtraction",
+      "Multiplication",
+      "Division",
+      "Exponentiation",
+      "Square Root",
+      "Modulus",
+      "Factorial",
+      "Logarithm",
+      "Integration",
+      "Differentiation",
+      "Summation",
+      "Average",
+      "Percentage",
+      "Decimal Point",
+      "Fraction",
+      "Cross Product",
+      "Dot Product",
+      "Matrix Multiplication",
+      "Scalar Multiplication",
+      "Vector Addition",
+      "Absolute Value",
+      "Ceiling Function",
+      "Floor Function",
+      "Greatest Common Divisor",
+      "Least Common Multiple",
+      "Prime Factorization",
+      "Rounding",
+      "Radical",
+      "Inverse",
+      "Reciprocal",
+      "Sine",
+      "Cosine",
+      "Tangent",
+      "Cotangent",
+      "Secant",
+      "Cosecant",
+      "Hyperbolic Sine",
+      "Hyperbolic Cosine",
+      "Hyperbolic Tangent",
+      "Partial Derivative",
+      "Chain Rule",
+      "Product Rule",
+      "Quotient Rule",
+      "Laplace Transform",
+      "Fourier Transform",
+      "Convolution",
+      "Gradient",
+      "Curl",
+      "Divergence",
+      "Jacobian",
+      "Hessian",
+      "Eigenvalue",
+      "Eigenvector",
+      "Determinant",
+      "Trace",
+      "Rank",
+      "Transpose",
+      "Inverse Matrix",
+      "Gaussian Elimination",
+      "Pivoting",
+      "Interpolation",
+      "Extrapolation",
+      "Least Squares"
+    ],
+    "category" : "Math Operations",
+    "clues" : [
+      {
+        "answer" : "ADDITION",
+        "clue" : "DDTN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SUBTRACTION",
+        "clue" : "SBTRCTN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "DIVISION",
+        "clue" : "DVSN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SQUARE ROOT",
+        "clue" : "SQR RT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PERCENTAGE",
+        "clue" : "PRCNTG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MODULUS",
+        "clue" : "MDLS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DERIVATIVE",
+        "clue" : "DRVTV",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "LAPLACE TRANSFORM",
+        "clue" : "LPLC TRNSFRM",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-24",
+  "schemaVersion" : 1
+}

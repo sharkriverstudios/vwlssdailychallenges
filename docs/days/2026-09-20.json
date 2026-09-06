@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "State Fair",
+      "World's Fair",
+      "County Fair",
+      "Fair Trade",
+      "All's Fair In Love And War",
+      "Fair Play",
+      "Fair Weather Friend",
+      "Funfair",
+      "Vanity Fair",
+      "The Fair Lady",
+      "Fair Game",
+      "The Fair Folk",
+      "Fair Deal",
+      "Fair And Square",
+      "Fair Is Foul And Foul Is Fair",
+      "Spring Fair",
+      "Fairgrounds",
+      "The Great State Fair",
+      "Book Fair",
+      "Science Fair",
+      "Fair Enough",
+      "Fair Warning",
+      "Trade Fair",
+      "The Fair Sex",
+      "Fair Dinkum",
+      "Fair Shake",
+      "Fair Use",
+      "The Fair City",
+      "Fair Ball",
+      "Merrie Fair",
+      "Fair Maiden",
+      "Fair-Minded",
+      "The Fair Haven",
+      "Fair Exchange",
+      "The Fair Youth",
+      "Fair And Just",
+      "Fair-Weather Sailor",
+      "Fair-Trade Certified",
+      "The Fair Unknown",
+      "Fair Crack Of The Whip",
+      "The Fair Maid Of Astolat",
+      "Fair-Weather Fans",
+      "Fairy Tale Fair",
+      "The Fair Quaker",
+      "Fairytale Ending",
+      "The Fair Green",
+      "Fair Share",
+      "Fair Trial",
+      "Old Fair Trade"
+    ],
+    "category" : "Fairs",
+    "clues" : [
+      {
+        "answer" : "STATE FAIR",
+        "clue" : "STT FR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "WORLD'S FAIR",
+        "clue" : "WRLDS FR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "COUNTY FAIR",
+        "clue" : "CNT FR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FAIR TRADE",
+        "clue" : "FR TRD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FAIR PLAY",
+        "clue" : "FR PLY",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FAIR WEATHER FRIEND",
+        "clue" : "FR WTHR FRND",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "VANITY FAIR",
+        "clue" : "VNT FR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "FAIR IS FOUL AND FOUL IS FAIR",
+        "clue" : "FR S FL ND FL S FR",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-09-20",
+  "schemaVersion" : 1
+}

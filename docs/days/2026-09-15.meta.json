@@ -1,0 +1,92 @@
+{
+  "description" : "american names for yoga poses (e.g. downward dog)",
+  "extraClues" : [
+    {
+      "difficulty" : 3,
+      "answer" : "HEADSTAND",
+      "clue" : "HDSTND"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "COBRA POSE",
+      "clue" : "CBR PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CHAIR POSE",
+      "clue" : "CHR PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "LOTUS POSE",
+      "clue" : "LTS PS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "EAGLE POSE",
+      "clue" : "GL PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PIGEON POSE",
+      "clue" : "PGN PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CAMEL POSE",
+      "clue" : "CML PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "BOAT POSE",
+      "clue" : "BT PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CROW POSE",
+      "clue" : "CRW PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "FISH POSE",
+      "clue" : "FSH PS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "HERO POSE",
+      "clue" : "HR PS"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "CORPSE POSE",
+      "clue" : "CRPS PS"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "culture",
+    "sports",
+    "health"
+  ]
+}

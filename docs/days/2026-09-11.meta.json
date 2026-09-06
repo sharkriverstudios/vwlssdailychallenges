@@ -1,45 +1,5 @@
 {
-  "extraClues" : [
-    {
-      "clue" : "STH CRLN",
-      "answer" : "SOUTH CAROLINA",
-      "difficulty" : 4
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    },
-    {
-      "difficulty" : 1
-    }
-  ],
-  "description" : "US States whose names are inspired by historic people",
+  "description" : "slang terms",
   "clueNotes" : [
     "",
     "",
@@ -62,9 +22,70 @@
     "",
     ""
   ],
+  "extraClues" : [
+    {
+      "clue" : "CHS",
+      "answer" : "CHEESE",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "LTT",
+      "answer" : "LETTUCE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CHPS",
+      "answer" : "CHOPS",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "DNR",
+      "answer" : "DINERO",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SCRTCH",
+      "answer" : "SCRATCH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CHPS",
+      "answer" : "CHIPS",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "CLMS",
+      "answer" : "CLAMS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "STCKS",
+      "answer" : "STACKS",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "SMLNS",
+      "answer" : "SIMOLEONS",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "SHRPNL",
+      "answer" : "SHRAPNEL",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "BDL",
+      "answer" : "BOODLE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SPNDLX",
+      "answer" : "SPONDULIX",
+      "difficulty" : 10
+    }
+  ],
   "tags" : [
-    "geography",
-    "history",
+    "language",
     "culture"
   ]
 }

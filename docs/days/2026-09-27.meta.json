@@ -1,0 +1,92 @@
+{
+  "description" : "countries, cities, regions that could be a person's name in American English",
+  "tags" : [
+    "geography",
+    "language",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "BRKLYN",
+      "difficulty" : 5,
+      "answer" : "BROOKLYN"
+    },
+    {
+      "clue" : "VNN",
+      "difficulty" : 5,
+      "answer" : "VIENNA"
+    },
+    {
+      "clue" : "LXNDR",
+      "difficulty" : 6,
+      "answer" : "ALEXANDRIA"
+    },
+    {
+      "clue" : "GNV",
+      "difficulty" : 6,
+      "answer" : "GENEVA"
+    },
+    {
+      "clue" : "RLND",
+      "difficulty" : 6,
+      "answer" : "ORLANDO"
+    },
+    {
+      "clue" : "HLN",
+      "difficulty" : 6,
+      "answer" : "HELENA"
+    },
+    {
+      "clue" : "PRS",
+      "difficulty" : 3,
+      "answer" : "PARIS"
+    },
+    {
+      "clue" : "PHNX",
+      "difficulty" : 6,
+      "answer" : "PHOENIX"
+    },
+    {
+      "clue" : "KNGSTN",
+      "difficulty" : 6,
+      "answer" : "KINGSTON"
+    },
+    {
+      "clue" : "SNTG",
+      "difficulty" : 7,
+      "answer" : "SANTIAGO"
+    },
+    {
+      "clue" : "MPHS",
+      "difficulty" : 6,
+      "answer" : "MEMPHIS"
+    },
+    {
+      "clue" : "THNS",
+      "difficulty" : 5,
+      "answer" : "ATHENS"
+    }
+  ]
+}

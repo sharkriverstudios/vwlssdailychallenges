@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "SNST BLVRD",
+      "answer" : "SUNSET BOULEVARD",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "STRLGHT XPRSS",
+      "answer" : "STARLIGHT EXPRESS",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "JSPH ND TH MZNG TCHNCLR DRMCT",
+      "answer" : "JOSEPH AND THE AMAZING TECHNICOLOR DREAMCOAT",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "LV NVR DS",
+      "answer" : "LOVE NEVER DIES",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "NY DRM WLL D",
+      "answer" : "ANY DREAM WILL DO",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "WHSTL DWN TH WND",
+      "answer" : "WHISTLE DOWN THE WIND",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TH WMN N WHT",
+      "answer" : "THE WOMAN IN WHITE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TK THT LK FF YR FC",
+      "answer" : "TAKE THAT LOOK OFF YOUR FACE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "TH LKS F S",
+      "answer" : "THE LIKES OF US",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "TH PRFCT YR",
+      "answer" : "THE PERFECT YEAR",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "GTHSMN",
+      "answer" : "GETHSEMANE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BNNS RS",
+      "answer" : "BUENOS AIRES",
+      "difficulty" : 6
+    }
+  ],
+  "description" : "songs, musicals, other things that he is known for",
+  "tags" : [
+    "music",
+    "theater",
+    "entertainment"
+  ]
+}

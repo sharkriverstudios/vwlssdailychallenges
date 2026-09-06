@@ -1,72 +1,4 @@
 {
-  "tags" : [
-    "literature",
-    "fantasy"
-  ],
-  "notes" : "for 11\/22\/26 ",
-  "description" : "named characters in The Hobbit and The Lord of the Rings who are Hobbits",
-  "extraClues" : [
-    {
-      "answer" : "LOBELIA SACKVILLE-BAGGINS",
-      "difficulty" : 8,
-      "clue" : "LBLS CKVLLBG GNS"
-    },
-    {
-      "answer" : "PIPPIN TOOK",
-      "difficulty" : 5,
-      "clue" : "PPPN TK"
-    },
-    {
-      "answer" : "HAMFAST GAMGEE",
-      "difficulty" : 6,
-      "clue" : "HMFST GMG"
-    },
-    {
-      "answer" : "MERIADOC BRANDYBUCK",
-      "difficulty" : 7,
-      "clue" : "MRDC BRNDBCK"
-    },
-    {
-      "answer" : "GOLDILOCKS GAMGEE",
-      "difficulty" : 7,
-      "clue" : "GLDLCKS GMG"
-    },
-    {
-      "answer" : "FARAMIR TOOK",
-      "difficulty" : 7,
-      "clue" : "FRMR TK"
-    },
-    {
-      "answer" : "LOTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "LTH SKVLL-BGGNS"
-    },
-    {
-      "answer" : "OTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "TH SKVLL-BGGNS"
-    },
-    {
-      "answer" : "GERONTIUS TOOK",
-      "difficulty" : 8,
-      "clue" : "GRNTS TK"
-    },
-    {
-      "answer" : "FORTINBRAS TOOK",
-      "difficulty" : 8,
-      "clue" : "FRTNBRS TK"
-    },
-    {
-      "answer" : "DIAMOND OF LONG CLEEVE",
-      "difficulty" : 10,
-      "clue" : "DMND F LNG CLV"
-    },
-    {
-      "answer" : "FOSCO BAGGINS",
-      "difficulty" : 9,
-      "clue" : "FS BGGNS"
-    }
-  ],
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,74 @@
     "",
     "",
     ""
+  ],
+  "notes" : "must have been created in a book. Can't have originated in a movie, tv series of comic book",
+  "description" : "Imaginary places in fantasy literature",
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "clue" : "SHR",
+      "answer" : "SHIRE"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "MRDR",
+      "answer" : "MORDOR"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "RVNDLL",
+      "answer" : "RIVENDELL"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "LTHLRN",
+      "answer" : "LOTHLORIEN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "GNDR",
+      "answer" : "GONDOR"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "VLNR",
+      "answer" : "VALINOR"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "LNTRS",
+      "answer" : "ELANTRIS"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "LNKHMR",
+      "answer" : "LANKHMAR"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SHNNR",
+      "answer" : "SHANNARA"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "PRDYN",
+      "answer" : "PRYDAIN"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "LGSS",
+      "answer" : "ALAGAESIA"
+    },
+    {
+      "difficulty" : 10,
+      "clue" : "TNLRN",
+      "answer" : "TANELORN"
+    }
+  ],
+  "tags" : [
+    "fantasy",
+    "literature",
+    "fiction"
   ]
 }

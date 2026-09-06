@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Brad Pitt",
+      "Reese Witherspoon",
+      "Bruce Willis",
+      "Tom Selleck",
+      "Julia Roberts",
+      "Paul Rudd",
+      "Christina Applegate",
+      "Sean Penn",
+      "Alec Baldwin",
+      "Winona Ryder",
+      "Jon Favreau",
+      "Helen Hunt",
+      "Susan Sarandon",
+      "Danny DeVito",
+      "Ben Stiller",
+      "Gary Oldman",
+      "Charlie Sheen",
+      "Brooke Shields",
+      "Robin Williams",
+      "Billy Crystal",
+      "Jean-Claude Van Damme",
+      "Elle Macpherson",
+      "Anna Faris",
+      "Hank Azaria",
+      "Eddie Cahill",
+      "Hugh Laurie",
+      "George Clooney",
+      "Noah Wyle",
+      "Gabrielle Union",
+      "Jeff Goldblum",
+      "Debra Jo Rupp",
+      "Elliott Gould",
+      "Tate Donovan",
+      "Michael Rapaport",
+      "Freddie Prinze Jr.",
+      "Jennifer Saunders",
+      "Dakota Fanning",
+      "Isabella Rossellini",
+      "Jason Alexander",
+      "James Michael Tyler",
+      "Selma Blair",
+      "Ralph Lauren",
+      "David Arquette",
+      "Ellen Pompeo",
+      "Jennifer Coolidge",
+      "Aisha Tyler",
+      "Mae Whitman",
+      "Marlo Thomas",
+      "Eddie Van Halen",
+      "Kristin Davis",
+      "Greg Kinnear"
+    ],
+    "category" : "Guest Stars on Friends",
+    "clues" : [
+      {
+        "answer" : "BRAD PITT",
+        "clue" : "BRD PTT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BRUCE WILLIS",
+        "clue" : "BRC WLLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ROBIN WILLIAMS",
+        "clue" : "RBN WLLMS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JULIA ROBERTS",
+        "clue" : "JL RBRTS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PAUL RUDD",
+        "clue" : "PL RDD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TOM SELLECK",
+        "clue" : "T MSL LCK",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "REESE WITHERSPOON",
+        "clue" : "RSWTH RSPN",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "CHRISTINA APPLEGATE",
+        "clue" : "CHRSTN PPLGT",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-17",
+  "schemaVersion" : 1
+}

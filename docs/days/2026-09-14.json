@@ -1,0 +1,118 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "American Robin",
+      "Northern Cardinal",
+      "Blue Jay",
+      "Baltimore Oriole",
+      "American Goldfinch",
+      "Eastern Bluebird",
+      "House Finch",
+      "Song Sparrow",
+      "Common Grackle",
+      "Mourning Dove",
+      "Red-Winged Blackbird",
+      "Tufted Titmouse",
+      "Carolina Wren",
+      "Cedar Waxwing",
+      "White-Throated Sparrow",
+      "Hermit Thrush",
+      "Brown Thrasher",
+      "American Crow",
+      "Eastern Towhee",
+      "Black-Capped Chickadee",
+      "Purple Finch",
+      "House Sparrow",
+      "Northern Mockingbird",
+      "Gray Catbird",
+      "Dark-Eyed Junco",
+      "Yellow-Rumped Warbler",
+      "Ruby-Crowned Kinglet",
+      "Pine Warbler",
+      "Scarlet Tanager",
+      "Evening Grosbeak",
+      "American Woodcock",
+      "Yellow Warbler",
+      "Indigo Bunting",
+      "White-Breasted Nuthatch",
+      "Red-Bellied Woodpecker",
+      "Downy Woodpecker",
+      "Hairy Woodpecker",
+      "Pileated Woodpecker",
+      "Northern Flicker",
+      "Eastern Phoebe",
+      "Black-Throated Blue Warbler",
+      "Prothonotary Warbler",
+      "Belted Kingfisher",
+      "American Redstart",
+      "Brown Creeper",
+      "Golden-Crowned Kinglet",
+      "Swainson's Thrush",
+      "Eastern Meadowlark",
+      "Western Meadowlark",
+      "Yellow-Headed Blackbird",
+      "Spotted Towhee",
+      "Blue-Gray Gnatcatcher",
+      "Cerulean Warbler",
+      "Wood Thrush",
+      "Veery",
+      "Northern Parula",
+      "Louisiana Waterthrush",
+      "American Tree Sparrow",
+      "Field Sparrow",
+      "Savannah Sparrow",
+      "Hooded Warbler",
+      "Yellow-Throated Warbler",
+      "Ovenbird",
+      "Kentucky Warbler",
+      "Worm-Eating Warbler"
+    ],
+    "category" : "American Song Birds",
+    "clues" : [
+      {
+        "answer" : "BLUE JAY",
+        "clue" : "BL JY",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "AMERICAN ROBIN",
+        "clue" : "MRCN RBN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NORTHERN CARDINAL",
+        "clue" : "NRTHRN CRDNL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BALTIMORE ORIOLE",
+        "clue" : "BLTMR RL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "AMERICAN GOLDFINCH",
+        "clue" : "MRCN GLDFNCH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EASTERN BLUEBIRD",
+        "clue" : "STRN BLBRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MOURNING DOVE",
+        "clue" : "MRNNG DV",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "RED-WINGED BLACKBIRD",
+        "clue" : "RD WNGD BLCKBRD",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-09-14",
+  "schemaVersion" : 1
+}

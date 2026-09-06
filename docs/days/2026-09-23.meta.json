@@ -1,0 +1,70 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "STH CRLN",
+      "answer" : "SOUTH CAROLINA",
+      "difficulty" : 4
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    },
+    {
+      "difficulty" : 1
+    }
+  ],
+  "description" : "US States whose names are inspired by historic people",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "geography",
+    "history",
+    "culture"
+  ]
+}

@@ -1,89 +1,92 @@
 {
   "challenge" : {
     "candidates" : [
-      "Frodo Baggins",
-      "Samwise Gamgee",
-      "Meriadoc Brandybuck",
-      "Peregrin Took",
-      "Bilbo Baggins",
-      "Rosie Cotton",
-      "Lobelia Sackville-Baggins",
-      "Lotho Sackville-Baggins",
-      "Paladin Took",
-      "Fredegar Bolger",
-      "Gollum",
-      "Hamfast Gamgee",
-      "Tom Cotton",
-      "Belladonna Took",
-      "Primula Brandybuck",
-      "Gerontius Took",
-      "Pippin Took",
-      "Merry Brandybuck",
-      "Drogo Baggins",
-      "Daisy Gamgee",
-      "Goldilocks Gamgee",
-      "Elanor Gamgee",
-      "Faramir Took",
-      "Estella Bolger",
-      "Hobson Gamgee",
-      "Fortinbras Took",
-      "Adalgrim Took",
-      "Esmeralda Took",
-      "Diamond of Long Cleeve",
-      "Will Whitfoot",
-      "Otho Sackville-Baggins",
-      "Dora Baggins",
-      "Rorimac Brandybuck",
-      "Old Took",
-      "Tolman Cotton",
-      "Fosco Baggins",
-      "Hilda Bracegirdle",
-      "Folco Boffin"
+      "Middle Earth",
+      "Narnia",
+      "Westeros",
+      "Hogwarts",
+      "Oz",
+      "Shire",
+      "Rohan",
+      "Mordor",
+      "Gondor",
+      "Lothlorien",
+      "Rivendell",
+      "Neverland",
+      "Wonderland",
+      "Discworld",
+      "Earthsea",
+      "Hyboria",
+      "Xanth",
+      "Prydain",
+      "Amber",
+      "Avalon",
+      "Erebor",
+      "Valinor",
+      "Gormenghast",
+      "Eldraine",
+      "Shannara",
+      "Pern",
+      "Alagaesia",
+      "Melnibone",
+      "Elysium",
+      "Lankhmar",
+      "Redwall",
+      "Wunderland",
+      "Zothique",
+      "Elantris",
+      "Tanelorn",
+      "Krynn",
+      "Lyonesse",
+      "Ember",
+      "Broceliande",
+      "Llareggub",
+      "Ozland"
     ],
-    "category" : "Hobbits",
+    "category" : "Classic Fantasy Worlds",
     "clues" : [
       {
-        "answer" : "BILBO BAGGINS",
-        "clue" : "BLB BGGNS",
+        "answer" : "NARNIA",
+        "clue" : "NRN",
         "difficulty" : 2
       },
       {
-        "answer" : "FRODO BAGGINS",
-        "clue" : "FRD BGGNS",
+        "answer" : "HOGWARTS",
+        "clue" : "HGWRTS",
         "difficulty" : 2
       },
       {
-        "answer" : "SAMWISE GAMGEE",
-        "clue" : "SMWS GMG",
+        "answer" : "OZ",
+        "clue" : "Z",
         "difficulty" : 3
       },
       {
-        "answer" : "PEREGRIN TOOK",
-        "clue" : "PRGRNTK",
+        "answer" : "NEVERLAND",
+        "clue" : "NVRLND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WONDERLAND",
+        "clue" : "WNDRLND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DISCWORLD",
+        "clue" : "DSCWRLD",
         "difficulty" : 4
       },
       {
-        "answer" : "MERRY BRANDYBUCK",
-        "clue" : "MRR BRNDBCK",
+        "answer" : "MIDDLE EARTH",
+        "clue" : "MDDL RTH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WESTEROS",
+        "clue" : "WSTRS",
         "difficulty" : 5
-      },
-      {
-        "answer" : "ROSIE COTTON",
-        "clue" : "RSCTTN",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "FREDEGAR BOLGER",
-        "clue" : "FRDGR BLGR",
-        "difficulty" : 7
-      },
-      {
-        "answer" : "ELANOR GAMGEE",
-        "clue" : "LN RG MG",
-        "difficulty" : 7
       }
     ],
-    "difficulty" : 8,
+    "difficulty" : 4,
     "shareClueIndex" : 0
   },
   "date" : "2026-09-08",

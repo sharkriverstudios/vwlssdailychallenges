@@ -1,0 +1,93 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "DRUMLINE",
+      "clue" : "DRMLN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "POM POMS",
+      "clue" : "PM PMS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PEP BAND",
+      "clue" : "PP BND",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PRINCIPAL",
+      "clue" : "PRNCPL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FIGHT SONG",
+      "clue" : "FGHT SNG",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "STUDENT SECTION",
+      "clue" : "STDNT SCTN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HOMECOMING COURT",
+      "clue" : "HMCMNG CRT",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "TEAM JERSEYS",
+      "clue" : "TM JRSYS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PEP TALK",
+      "clue" : "PP TLK",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "BANNERS",
+      "clue" : "BNNRS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "BLEACHERS",
+      "clue" : "BLCHRS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "VICTORY CHANT",
+      "clue" : "VCTRY CHNT",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "education",
+    "traditions",
+    "sports",
+    "popular culture"
+  ],
+  "description" : "people, things, traditions associated with high school pep rallies"
+}

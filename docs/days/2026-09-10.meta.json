@@ -1,72 +1,66 @@
 {
   "extraClues" : [
     {
-      "clue" : "NTN GRMSC",
-      "difficulty" : 6,
-      "answer" : "ANTONIO GRAMSCI"
+      "clue" : "HMLSS SHLTR",
+      "answer" : "HOMELESS SHELTER",
+      "difficulty" : 3
     },
     {
-      "clue" : "H CH MNH",
-      "difficulty" : 4,
-      "answer" : "HO CHI MINH"
+      "clue" : "MNTRNG",
+      "answer" : "MENTORING",
+      "difficulty" : 6
     },
     {
-      "clue" : "NKT KHRSHCHV",
-      "difficulty" : 7,
-      "answer" : "NIKITA KHRUSHCHEV"
+      "clue" : "LBRRY SSSTNT",
+      "answer" : "LIBRARY ASSISTANT",
+      "difficulty" : 6
     },
     {
-      "clue" : "RS LXMVRG",
-      "difficulty" : 6,
-      "answer" : "ROSA LUXEMBURG"
+      "clue" : "SNR CNTR",
+      "answer" : "SENIOR CENTER",
+      "difficulty" : 4
     },
     {
-      "clue" : "PL PT",
-      "difficulty" : 5,
-      "answer" : "POL POT"
+      "clue" : "NVRNMNTL CNSRVTN",
+      "answer" : "ENVIRONMENTAL CONSERVATION",
+      "difficulty" : 7
     },
     {
-      "clue" : "KM L-SNG",
-      "difficulty" : 5,
-      "answer" : "KIM IL-SUNG"
+      "clue" : "YTH SPRTS CCH",
+      "answer" : "YOUTH SPORTS COACH",
+      "difficulty" : 6
     },
     {
-      "clue" : "NVR HXH",
-      "difficulty" : 8,
-      "answer" : "ENVER HOXHA"
+      "clue" : "BCH CLNP",
+      "answer" : "BEACH CLEANUP",
+      "difficulty" : 5
     },
     {
-      "clue" : "GRG DMTRV",
-      "difficulty" : 8,
-      "answer" : "GEORGI DIMITROV"
+      "clue" : "CRSS HTLN",
+      "answer" : "CRISIS HOTLINE",
+      "difficulty" : 7
     },
     {
-      "clue" : "ZH NL",
-      "difficulty" : 7,
-      "answer" : "ZHOU ENLAI"
+      "clue" : "RD CRSS VLNTR",
+      "answer" : "RED CROSS VOLUNTEER",
+      "difficulty" : 5
     },
     {
-      "clue" : "DNG XPNG",
-      "difficulty" : 7,
-      "answer" : "DENG XIAOPING"
+      "clue" : "WLDLF RSC",
+      "answer" : "WILDLIFE RESCUE",
+      "difficulty" : 5
     },
     {
-      "clue" : "FRDRCK NGLS",
-      "difficulty" : 5,
-      "answer" : "FREDERICK ENGELS"
+      "clue" : "FNDRSNG VNT",
+      "answer" : "FUNDRAISING EVENT",
+      "difficulty" : 6
     },
     {
-      "clue" : "MM GLDMN",
-      "difficulty" : 7,
-      "answer" : "EMMA GOLDMAN"
+      "clue" : "DPT HGHWY",
+      "answer" : "ADOPT A HIGHWAY",
+      "difficulty" : 8
     }
   ],
-  "tags" : [
-    "history",
-    "politics",
-    "philosophy"
-  ],
-  "description" : "thinkers, leaders, activists",
   "clueNotes" : [
     "",
     "",
@@ -88,5 +82,11 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "charity",
+    "community service",
+    "health",
+    "non-profit organizations"
   ]
 }

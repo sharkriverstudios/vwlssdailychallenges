@@ -1,0 +1,98 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Phantom Of The Opera",
+      "Cats",
+      "Evita",
+      "Jesus Christ Superstar",
+      "Joseph And The Amazing Technicolor Dreamcoat",
+      "Sunset Boulevard",
+      "Starlight Express",
+      "Aspects Of Love",
+      "Love Never Dies",
+      "School Of Rock",
+      "The Woman In White",
+      "Whistle Down The Wind",
+      "Song And Dance",
+      "Tell Me On A Sunday",
+      "The Beautiful Game",
+      "The Likes Of Us",
+      "By Jeeves",
+      "The Phantom Of Manhattan",
+      "Memory",
+      "Don't Cry For Me Argentina",
+      "Music Of The Night",
+      "I Don't Know How To Love Him",
+      "Any Dream Will Do",
+      "With One Look",
+      "Love Changes Everything",
+      "No Matter What",
+      "Close Every Door",
+      "Unexpected Song",
+      "All I Ask Of You",
+      "Another Suitcase In Another Hall",
+      "Buenos Aires",
+      "Gethsemane",
+      "Masquerade",
+      "The Perfect Year",
+      "Pie Jesu",
+      "Superstar",
+      "Take That Look Off Your Face",
+      "Think Of Me",
+      "Wishing You Were Somehow Here Again",
+      "Heaven On Their Minds",
+      "King Herod's Song",
+      "Everything's Alright",
+      "Macavity: The Mystery Cat",
+      "Mr. Mistoffelees",
+      "The Rum Tum Tugger"
+    ],
+    "category" : "Andrew Lloyd Webber",
+    "clues" : [
+      {
+        "answer" : "CATS",
+        "clue" : "CTS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "EVITA",
+        "clue" : "VT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "MEMORY",
+        "clue" : "MMR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JESUS CHRIST SUPERSTAR",
+        "clue" : "JSS CHRST SPRSTR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MUSIC OF THE NIGHT",
+        "clue" : "MSC F TH NGHT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE PHANTOM OF THE OPERA",
+        "clue" : "THPHN TM FTH PR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "DON'T CRY FOR ME ARGENTINA",
+        "clue" : "DNT CR FR M RGNTN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "I DON'T KNOW HOW TO LOVE HIM",
+        "clue" : "DNT KNW HW T LV HM",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-09-26",
+  "schemaVersion" : 1
+}

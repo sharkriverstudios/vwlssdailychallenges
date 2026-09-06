@@ -1,0 +1,93 @@
+{
+  "description" : "characters from \"Alice's Adventurs in Wonderland\" or \"Through the Looking Glass\" -or both",
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "clue" : "DD",
+      "answer" : "DODO"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "TWDDLDD",
+      "answer" : "TWEEDLEDEE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "LC",
+      "answer" : "ALICE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "RD QN",
+      "answer" : "RED QUEEN"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "WHT QN",
+      "answer" : "WHITE QUEEN"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "JBBRWCK",
+      "answer" : "JABBERWOCK"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "WLRS",
+      "answer" : "WALRUS"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CRPNTR",
+      "answer" : "CARPENTER"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "MCK TRTL",
+      "answer" : "MOCK TURTLE"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "GRPHN",
+      "answer" : "GRYPHON"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "KNV F HRTS",
+      "answer" : "KNAVE OF HEARTS"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "WHT KNGHT",
+      "answer" : "WHITE KNIGHT"
+    }
+  ],
+  "tags" : [
+    "literature",
+    "fiction",
+    "classics",
+    "fantasy"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

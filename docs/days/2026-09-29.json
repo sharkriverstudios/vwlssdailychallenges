@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Good Vibrations",
+      "Pet Sounds",
+      "California Girls",
+      "Surfin' USA",
+      "Brian Wilson",
+      "Mike Love",
+      "Al Jardine",
+      "Carl Wilson",
+      "Dennis Wilson",
+      "God Only Knows",
+      "I Get Around",
+      "Wouldn't It Be Nice",
+      "Barbara Ann",
+      "Surfer Girl",
+      "Fun, Fun, Fun",
+      "Help Me, Rhonda",
+      "Little Deuce Coupe",
+      "Beach Boys' Party!",
+      "Smiley Smile",
+      "Wild Honey",
+      "Sunflower",
+      "Surf's Up",
+      "Holland",
+      "Endless Summer",
+      "Summer Days (And Summer Nights!!)",
+      "Friends",
+      "20\/20",
+      "All Summer Long",
+      "In My Room",
+      "The Warmth Of The Sun",
+      "Heroes And Villains",
+      "Do It Again",
+      "Kokomo",
+      "Darlin'",
+      "Catch A Wave",
+      "Sloop John B",
+      "Dance, Dance, Dance",
+      "Shut Down",
+      "Don't Worry Baby",
+      "The Beach Boys Today!",
+      "Stack-O-Tracks",
+      "Love You",
+      "That's Why God Made The Radio",
+      "Keep An Eye On Summer",
+      "Spirit Of America",
+      "The Smile Sessions",
+      "50 Big Ones",
+      "Surfin' Safari",
+      "The Little Girl I Once Knew",
+      "Wendy"
+    ],
+    "category" : "The Beach Boys",
+    "clues" : [
+      {
+        "answer" : "GOOD VIBRATIONS",
+        "clue" : "GD VBRTNS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CALIFORNIA GIRLS",
+        "clue" : "CLFRN GRLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SURFIN' USA",
+        "clue" : "SRFN S",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GOD ONLY KNOWS",
+        "clue" : "GD NL KNWS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BARBARA ANN",
+        "clue" : "BRBR NN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "I GET AROUND",
+        "clue" : "G T RND",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BRIAN WILSON",
+        "clue" : "BRN WLSN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PET SOUNDS",
+        "clue" : "PT SNDS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-09-29",
+  "schemaVersion" : 1
+}

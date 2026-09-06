@@ -1,60 +1,94 @@
 {
   "challenge" : {
     "candidates" : [
-      "Georgia",
-      "Louisiana",
-      "Maryland",
-      "New York",
-      "North Carolina",
-      "Pennsylvania",
-      "South Carolina",
-      "Virginia",
-      "Washington"
+      "Bucks",
+      "Dough",
+      "Cash",
+      "Moolah",
+      "Greenbacks",
+      "Bread",
+      "Lettuce",
+      "Cheddar",
+      "Dinero",
+      "Scratch",
+      "Cabbage",
+      "Dough",
+      "Loot",
+      "Coin",
+      "Benjamins",
+      "Bones",
+      "Clams",
+      "Stacks",
+      "Fetti",
+      "Gelt",
+      "Guap",
+      "Scrilla",
+      "Skrilla",
+      "Wampum",
+      "Chips",
+      "Quid",
+      "Smackers",
+      "Simoleons",
+      "Mazuma",
+      "Pesos",
+      "Shekels",
+      "Boodle",
+      "Duckets",
+      "Frogskins",
+      "Jacks",
+      "Kale",
+      "Nuggets",
+      "Shrapnel",
+      "Breadsticks",
+      "Lucre",
+      "Paper",
+      "Racks",
+      "Spondulix"
     ],
-    "category" : "States Named After People",
+    "category" : "Other Words for Money",
     "clues" : [
       {
-        "answer" : "VIRGINIA",
-        "clue" : "VRGN",
+        "answer" : "CASH",
+        "clue" : "CSH",
         "difficulty" : 1
       },
       {
-        "answer" : "WASHINGTON",
-        "clue" : "WSHNGTN",
-        "difficulty" : 2
+        "answer" : "BUCKS",
+        "clue" : "BCKS",
+        "difficulty" : 1
       },
       {
-        "answer" : "NEW YORK",
-        "clue" : "NW YRK",
+        "answer" : "DOUGH",
+        "clue" : "DGH",
         "difficulty" : 3
       },
       {
-        "answer" : "MARYLAND",
-        "clue" : "MRLND",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "GEORGIA",
-        "clue" : "GRG",
-        "difficulty" : 3
-      },
-      {
-        "answer" : "NORTH CAROLINA",
-        "clue" : "NRTH CRLN",
+        "answer" : "BREAD",
+        "clue" : "BRD",
         "difficulty" : 4
       },
       {
-        "answer" : "LOUISIANA",
-        "clue" : "LSN",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "PENNSYLVANIA",
-        "clue" : "PNNSLVN",
+        "answer" : "MOOLAH",
+        "clue" : "MLH",
         "difficulty" : 5
+      },
+      {
+        "answer" : "GREENBACKS",
+        "clue" : "GRNBCKS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BENJAMINS",
+        "clue" : "BNJMNS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "WAMPUM",
+        "clue" : "WMPM",
+        "difficulty" : 7
       }
     ],
-    "difficulty" : 4,
+    "difficulty" : 6,
     "shareClueIndex" : 0
   },
   "date" : "2026-09-11",

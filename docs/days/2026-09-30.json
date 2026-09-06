@@ -1,0 +1,112 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Patrick Stewart",
+      "Patrick Swayze",
+      "Patrick Dempsey",
+      "Patricia Arquette",
+      "Pat Benatar",
+      "Pat Boone",
+      "Pat Riley",
+      "Pat Sajak",
+      "Patrick Ewing",
+      "Patrick Mahomes",
+      "Saint Patrick",
+      "Patrick Henry",
+      "Patrick Warburton",
+      "Patrick Wilson",
+      "Patrick Kane",
+      "Patrick McGoohan",
+      "Patrick Bateman",
+      "Pat Buchanan",
+      "Pat Morita",
+      "Pat Summerall",
+      "Pat Tillman",
+      "Pat Garrett",
+      "Pat McAfee",
+      "Pat Nixon",
+      "Pat Hingle",
+      "Pat O'Brien",
+      "Patricia Clarkson",
+      "Patricia Heaton",
+      "Patricia Neal",
+      "Patricia Highsmith",
+      "Patricia Cornwell",
+      "Patricia Krenwinkel",
+      "Patricia Richardson",
+      "Patron Saint",
+      "Pat On The Back",
+      "Pat Down",
+      "Patty Melt",
+      "It's A Pat",
+      "Pat Hand",
+      "Pat On The Head",
+      "Pat Answer",
+      "Patter Song",
+      "Patter Of Feet",
+      "Pat Yourself On The Back",
+      "Patsy Cline",
+      "Patsy Kensit",
+      "Patsy Ramsey",
+      "Patrick Star",
+      "Patrick Stump",
+      "Patrick Modiano",
+      "Patrick Labyorteaux",
+      "Patricia Routledge",
+      "Patricia Velasquez",
+      "Saint Patrick's Day",
+      "Pat The Bunny",
+      "Pat The Dog",
+      "Pat The Cat",
+      "Patsy Stone",
+      "Patrice Lumumba"
+    ],
+    "category" : "Pats",
+    "clues" : [
+      {
+        "answer" : "PAT SAJAK",
+        "clue" : "PT SJK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SAINT PATRICK",
+        "clue" : "SNT PTRCK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PATRICK STEWART",
+        "clue" : "PTRCK STWRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PATRICK SWAYZE",
+        "clue" : "PTRCK SWYZ",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PATRICK MAHOMES",
+        "clue" : "PTRCK MHM S",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PAT BENATAR",
+        "clue" : "PT BNT R",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PATSY CLINE",
+        "clue" : "PTS CLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PATRICK HENRY",
+        "clue" : "PTRCK HNR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-09-30",
+  "schemaVersion" : 1
+}

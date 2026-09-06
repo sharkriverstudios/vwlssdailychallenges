@@ -1,10 +1,4 @@
 {
-  "tags" : [
-    "animals",
-    "pets",
-    "biology",
-    "common knowledge"
-  ],
   "clueNotes" : [
     "",
     "",
@@ -27,67 +21,73 @@
     "",
     ""
   ],
-  "description" : "rodents that are kept as pets",
   "extraClues" : [
     {
-      "clue" : "FNCYMS",
-      "answer" : "FANCY MOUSE",
-      "difficulty" : 7
+      "answer" : "RUNNING ON FUMES",
+      "difficulty" : 4,
+      "clue" : "RNNNG N FMS"
     },
     {
-      "clue" : "DMRT",
-      "answer" : "DUMBO RAT",
-      "difficulty" : 7
+      "answer" : "RUNNING THROUGH THE JUNGLE",
+      "difficulty" : 7,
+      "clue" : "RNNNG THRGH TH JNGL"
     },
     {
-      "clue" : "SBRNHMSTR",
-      "answer" : "SIBERIAN HAMSTER",
-      "difficulty" : 8
+      "answer" : "RUNNING IN THE FAMILY",
+      "difficulty" : 5,
+      "clue" : "RNNNG N TH FMLY"
     },
     {
-      "clue" : "TDDYBRHMSTR",
-      "answer" : "TEDDY BEAR HAMSTER",
-      "difficulty" : 8
+      "answer" : "RUNNING OUT OF TIME",
+      "difficulty" : 4,
+      "clue" : "RNNNG T F TM"
     },
     {
-      "clue" : "RBRVSKHMSTR",
-      "answer" : "ROBOROVSKI HAMSTER",
-      "difficulty" : 9
+      "answer" : "RUNNING ON FAITH",
+      "difficulty" : 6,
+      "clue" : "RNNNG N FTH"
     },
     {
-      "clue" : "RSSNDWRFHMSTR",
-      "answer" : "RUSSIAN DWARF HAMSTER",
-      "difficulty" : 9
+      "answer" : "RUNNING WITH THE DEVIL",
+      "difficulty" : 5,
+      "clue" : "RNNNG WTH TH DVL"
     },
     {
-      "clue" : "CHNSHMSTR",
-      "answer" : "CHINESE HAMSTER",
-      "difficulty" : 7
+      "answer" : "RUNNING BLIND",
+      "difficulty" : 6,
+      "clue" : "RNNNG BLND"
     },
     {
-      "clue" : "CRNTGNPG",
-      "answer" : "CORONET GUINEA PIG",
-      "difficulty" : 9
+      "answer" : "RUNNING UP THAT HILL",
+      "difficulty" : 7,
+      "clue" : "RNNNG P THT HLL"
     },
     {
-      "clue" : "FRCNPGMYMS",
-      "answer" : "AFRICAN PYGMY MOUSE",
-      "difficulty" : 9
+      "answer" : "RUNNING MAN",
+      "difficulty" : 3,
+      "clue" : "RNNNG MN"
     },
     {
-      "clue" : "SLVRFXCHNCHLL",
-      "answer" : "SILVER FOX CHINCHILLA",
-      "difficulty" : 10
+      "answer" : "RUNNING ON ICE",
+      "difficulty" : 6,
+      "clue" : "RNNNG N C"
     },
     {
-      "clue" : "STNDRDCHNCHLL",
-      "answer" : "STANDARD CHINCHILLA",
-      "difficulty" : 10
+      "answer" : "RUNNING WITH THE NIGHT",
+      "difficulty" : 7,
+      "clue" : "RNNNG WTH TH NGHT"
     },
     {
-      "answer" : "AFRICAN SOFT-FURRED RAT",
-      "difficulty" : 10,
-      "clue" : "FRCNSFTFRRDRT"
+      "answer" : "RUNNING FROM THE SHADOWS",
+      "difficulty" : 6,
+      "clue" : "RNNNG FRM TH SHDWS"
     }
+  ],
+  "description" : "idioms, sayings, song lyrics, movies, tv, popular culture and cultural references etc that reference the word \"running\"",
+  "notes" : "This is meant to be a cryptic Sunday challenge",
+  "tags" : [
+    "language",
+    "popular culture",
+    "entertainment"
   ]
 }
