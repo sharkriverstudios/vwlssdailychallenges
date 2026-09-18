@@ -1,9 +1,70 @@
 {
-  "description" : "countries, cities, regions that could be a person's name in American English",
+  "notes" : "this is meant to be a Sunday cryptic challenge, so chosoe technical terms",
+  "extraClues" : [
+    {
+      "answer" : "ISO",
+      "difficulty" : 9,
+      "clue" : "S"
+    },
+    {
+      "answer" : "DEPTH OF FIELD",
+      "difficulty" : 3,
+      "clue" : "DPTH F FLD"
+    },
+    {
+      "answer" : "RESOLUTION",
+      "difficulty" : 4,
+      "clue" : "RSLTN"
+    },
+    {
+      "answer" : "AUTOFOKUS",
+      "difficulty" : 8,
+      "clue" : "TFKS"
+    },
+    {
+      "answer" : "TRIPOD",
+      "difficulty" : 2,
+      "clue" : "TRPD"
+    },
+    {
+      "answer" : "MACRO PHOTOGRAPHY",
+      "difficulty" : 5,
+      "clue" : "MCR PHTGRPHY"
+    },
+    {
+      "answer" : "VIEWFINDER",
+      "difficulty" : 3,
+      "clue" : "VWFNDR"
+    },
+    {
+      "answer" : "ZOOM LENS",
+      "difficulty" : 3,
+      "clue" : "ZM LNS"
+    },
+    {
+      "answer" : "COMPOSITION",
+      "difficulty" : 4,
+      "clue" : "CMPSN"
+    },
+    {
+      "answer" : "NEGATIVE SPACE",
+      "difficulty" : 5,
+      "clue" : "NGTV SPC"
+    },
+    {
+      "answer" : "HDR",
+      "difficulty" : 1,
+      "clue" : "HDR"
+    },
+    {
+      "answer" : "LONG EXPOSURE",
+      "difficulty" : 4,
+      "clue" : "LNG XPSR"
+    }
+  ],
   "tags" : [
-    "geography",
-    "language",
-    "popular culture"
+    "photography",
+    "technology"
   ],
   "clueNotes" : [
     "",
@@ -26,67 +87,5 @@
     "",
     "",
     ""
-  ],
-  "extraClues" : [
-    {
-      "clue" : "BRKLYN",
-      "difficulty" : 5,
-      "answer" : "BROOKLYN"
-    },
-    {
-      "clue" : "VNN",
-      "difficulty" : 5,
-      "answer" : "VIENNA"
-    },
-    {
-      "clue" : "LXNDR",
-      "difficulty" : 6,
-      "answer" : "ALEXANDRIA"
-    },
-    {
-      "clue" : "GNV",
-      "difficulty" : 6,
-      "answer" : "GENEVA"
-    },
-    {
-      "clue" : "RLND",
-      "difficulty" : 6,
-      "answer" : "ORLANDO"
-    },
-    {
-      "clue" : "HLN",
-      "difficulty" : 6,
-      "answer" : "HELENA"
-    },
-    {
-      "clue" : "PRS",
-      "difficulty" : 3,
-      "answer" : "PARIS"
-    },
-    {
-      "clue" : "PHNX",
-      "difficulty" : 6,
-      "answer" : "PHOENIX"
-    },
-    {
-      "clue" : "KNGSTN",
-      "difficulty" : 6,
-      "answer" : "KINGSTON"
-    },
-    {
-      "clue" : "SNTG",
-      "difficulty" : 7,
-      "answer" : "SANTIAGO"
-    },
-    {
-      "clue" : "MPHS",
-      "difficulty" : 6,
-      "answer" : "MEMPHIS"
-    },
-    {
-      "clue" : "THNS",
-      "difficulty" : 5,
-      "answer" : "ATHENS"
-    }
   ]
 }

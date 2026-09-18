@@ -1,72 +1,45 @@
 {
-  "tags" : [
-    "literature",
-    "fantasy"
-  ],
-  "notes" : "for 11\/22\/26 ",
-  "description" : "named characters in The Hobbit and The Lord of the Rings who are Hobbits",
   "extraClues" : [
     {
-      "answer" : "LOBELIA SACKVILLE-BAGGINS",
-      "difficulty" : 8,
-      "clue" : "LBLS CKVLLBG GNS"
+      "clue" : "STH CRLN",
+      "answer" : "SOUTH CAROLINA",
+      "difficulty" : 4
     },
     {
-      "answer" : "PIPPIN TOOK",
-      "difficulty" : 5,
-      "clue" : "PPPN TK"
+      "difficulty" : 1
     },
     {
-      "answer" : "HAMFAST GAMGEE",
-      "difficulty" : 6,
-      "clue" : "HMFST GMG"
+      "difficulty" : 1
     },
     {
-      "answer" : "MERIADOC BRANDYBUCK",
-      "difficulty" : 7,
-      "clue" : "MRDC BRNDBCK"
+      "difficulty" : 1
     },
     {
-      "answer" : "GOLDILOCKS GAMGEE",
-      "difficulty" : 7,
-      "clue" : "GLDLCKS GMG"
+      "difficulty" : 1
     },
     {
-      "answer" : "FARAMIR TOOK",
-      "difficulty" : 7,
-      "clue" : "FRMR TK"
+      "difficulty" : 1
     },
     {
-      "answer" : "LOTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "LTH SKVLL-BGGNS"
+      "difficulty" : 1
     },
     {
-      "answer" : "OTHO SACKVILLE-BAGGINS",
-      "difficulty" : 9,
-      "clue" : "TH SKVLL-BGGNS"
+      "difficulty" : 1
     },
     {
-      "answer" : "GERONTIUS TOOK",
-      "difficulty" : 8,
-      "clue" : "GRNTS TK"
+      "difficulty" : 1
     },
     {
-      "answer" : "FORTINBRAS TOOK",
-      "difficulty" : 8,
-      "clue" : "FRTNBRS TK"
+      "difficulty" : 1
     },
     {
-      "answer" : "DIAMOND OF LONG CLEEVE",
-      "difficulty" : 10,
-      "clue" : "DMND F LNG CLV"
+      "difficulty" : 1
     },
     {
-      "answer" : "FOSCO BAGGINS",
-      "difficulty" : 9,
-      "clue" : "FS BGGNS"
+      "difficulty" : 1
     }
   ],
+  "description" : "US States whose names are inspired by historic people",
   "clueNotes" : [
     "",
     "",
@@ -88,5 +61,10 @@
     "",
     "",
     ""
+  ],
+  "tags" : [
+    "geography",
+    "history",
+    "culture"
   ]
 }

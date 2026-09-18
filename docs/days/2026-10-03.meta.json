@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 4,
+      "answer" : "THE GOLD-BUG",
+      "clue" : "TH GLD-BG"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE PURLOINED LETTER",
+      "clue" : "TH PRLND LTTR"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "THE HAUNTED PALACE",
+      "clue" : "TH HNTD PLC"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE CITY IN THE SEA",
+      "clue" : "TH CTY N TH S"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "A DREAM WITHIN A DREAM",
+      "clue" : " DR M WTHN  DR M"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE NARRATIVE OF ARTHUR GORDON PYM",
+      "clue" : "TH NRRTV F RTHR GRDN PYM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "THE CASK OF AMONTILLADO",
+      "clue" : "TH CSK F MNTLLD"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE OVAL PORTRAIT",
+      "clue" : "TH VL PRTRT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE PREMATURE BURIAL",
+      "clue" : "TH PRMTR BRL"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE SYSTEM OF DOCTOR TARR AND PROFESSOR FETHER",
+      "clue" : "TH SYSTM F DCTR TRR ND PRFSSR FTHR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE IMP OF THE PERVERSE",
+      "clue" : "TH MP F TH PRVRS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THE DEVIL IN THE BELFRY",
+      "clue" : "TH DVL N TH BLFRY"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "works and other things associated with the author",
+  "tags" : [
+    "literature",
+    "classics",
+    "horror"
+  ]
+}

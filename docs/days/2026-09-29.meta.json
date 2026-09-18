@@ -1,72 +1,4 @@
 {
-  "tags" : [
-    "music",
-    "popular culture",
-    "entertainment"
-  ],
-  "extraClues" : [
-    {
-      "difficulty" : 6,
-      "answer" : "MIKE LOVE",
-      "clue" : "MK LV"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "AL JARDINE",
-      "clue" : "L JRDN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "CARL WILSON",
-      "clue" : "CRL WLSN"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "SURFER GIRL",
-      "clue" : "SRFR GRL"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "WOULDN'T IT BE NICE",
-      "clue" : "WLDN'T T B NC"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "HELP ME, RHONDA",
-      "clue" : "HLP M RHND"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "LITTLE DEUCE COUPE",
-      "clue" : "LTTL DC CP"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "BEACH BOYS' PARTY!",
-      "clue" : "BCH BYS PRTY"
-    },
-    {
-      "difficulty" : 4,
-      "answer" : "FUN, FUN, FUN",
-      "clue" : "FN FN FN"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "SURFIN' SAFARI",
-      "clue" : "SRFN SFR"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "DENNIS WILSON",
-      "clue" : "DNNS WLSN"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "DON'T WORRY BABY",
-      "clue" : "DNT WRRY BBY"
-    }
-  ],
-  "description" : "Songs, albums, important band members",
   "clueNotes" : [
     "",
     "",
@@ -88,5 +20,73 @@
     "",
     "",
     ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "SNST BLVRD",
+      "answer" : "SUNSET BOULEVARD",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "STRLGHT XPRSS",
+      "answer" : "STARLIGHT EXPRESS",
+      "difficulty" : 2
+    },
+    {
+      "clue" : "JSPH ND TH MZNG TCHNCLR DRMCT",
+      "answer" : "JOSEPH AND THE AMAZING TECHNICOLOR DREAMCOAT",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "LV NVR DS",
+      "answer" : "LOVE NEVER DIES",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "NY DRM WLL D",
+      "answer" : "ANY DREAM WILL DO",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "WHSTL DWN TH WND",
+      "answer" : "WHISTLE DOWN THE WIND",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TH WMN N WHT",
+      "answer" : "THE WOMAN IN WHITE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TK THT LK FF YR FC",
+      "answer" : "TAKE THAT LOOK OFF YOUR FACE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "TH LKS F S",
+      "answer" : "THE LIKES OF US",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "TH PRFCT YR",
+      "answer" : "THE PERFECT YEAR",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "GTHSMN",
+      "answer" : "GETHSEMANE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BNNS RS",
+      "answer" : "BUENOS AIRES",
+      "difficulty" : 6
+    }
+  ],
+  "description" : "songs, musicals, other things that he is known for",
+  "tags" : [
+    "music",
+    "theater",
+    "entertainment"
   ]
 }

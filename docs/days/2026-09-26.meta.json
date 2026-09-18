@@ -23,70 +23,68 @@
   ],
   "extraClues" : [
     {
-      "clue" : "SNST BLVRD",
-      "answer" : "SUNSET BOULEVARD",
-      "difficulty" : 3
-    },
-    {
-      "clue" : "STRLGHT XPRSS",
-      "answer" : "STARLIGHT EXPRESS",
-      "difficulty" : 2
-    },
-    {
-      "clue" : "JSPH ND TH MZNG TCHNCLR DRMCT",
-      "answer" : "JOSEPH AND THE AMAZING TECHNICOLOR DREAMCOAT",
+      "clue" : "JHNN NTS",
+      "answer" : "JOHNNY UNITAS",
       "difficulty" : 5
     },
     {
-      "clue" : "LV NVR DS",
-      "answer" : "LOVE NEVER DIES",
+      "clue" : "STV YNG",
+      "answer" : "STEVE YOUNG",
       "difficulty" : 4
     },
     {
-      "clue" : "NY DRM WLL D",
-      "answer" : "ANY DREAM WILL DO",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "WHSTL DWN TH WND",
-      "answer" : "WHISTLE DOWN THE WIND",
+      "clue" : "TRY KMN",
+      "answer" : "TROY AIKMAN",
       "difficulty" : 6
     },
     {
-      "clue" : "TH WMN N WHT",
-      "answer" : "THE WOMAN IN WHITE",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "TK THT LK FF YR FC",
-      "answer" : "TAKE THAT LOOK OFF YOUR FACE",
-      "difficulty" : 8
-    },
-    {
-      "clue" : "TH LKS F S",
-      "answer" : "THE LIKES OF US",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "TH PRFCT YR",
-      "answer" : "THE PERFECT YEAR",
-      "difficulty" : 5
-    },
-    {
-      "clue" : "GTHSMN",
-      "answer" : "GETHSEMANE",
-      "difficulty" : 7
-    },
-    {
-      "clue" : "BNNS RS",
-      "answer" : "BUENOS AIRES",
+      "clue" : "RGR STBCH",
+      "answer" : "ROGER STAUBACH",
       "difficulty" : 6
+    },
+    {
+      "clue" : "BN RTHLSBRGR",
+      "answer" : "BEN ROETHLISBERGER",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PTRCK MHMS",
+      "answer" : "PATRICK MAHOMES",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "FRN TRKNTN",
+      "answer" : "FRAN TARKENTON",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "RSSLL WLSN",
+      "answer" : "RUSSELL WILSON",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "L MNNNG",
+      "answer" : "ELI MANNING",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "KRT WRNR",
+      "answer" : "KURT WARNER",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "JM KLLY",
+      "answer" : "JIM KELLY",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "WRRN MN",
+      "answer" : "WARREN MOON",
+      "difficulty" : 5
     }
   ],
-  "description" : "songs, musicals, other things that he is known for",
   "tags" : [
-    "music",
-    "theater",
-    "entertainment"
+    "american football",
+    "sports"
   ]
 }

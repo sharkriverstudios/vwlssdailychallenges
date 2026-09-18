@@ -1,73 +1,5 @@
 {
-  "tags" : [
-    "children's books",
-    "literature",
-    "popular culture"
-  ],
-  "description" : "characetrs from books, movies and other projects that the author was involved in.",
-  "notes" : "Not characters that were introduced in adaptations",
-  "extraClues" : [
-    {
-      "difficulty" : 5,
-      "answer" : "THE SNEETCHES",
-      "clue" : "TH SNCHS"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "SALLY",
-      "clue" : "SLLY"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "BARTHOLOMEW CUBBINS",
-      "clue" : "BRTHLMW CBBNS"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "SAM-I-AM",
-      "clue" : "SM-M"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "THE ONCE-LER",
-      "clue" : "TH NCL-R"
-    },
-    {
-      "difficulty" : 5,
-      "answer" : "THE ZAX",
-      "clue" : "TH ZX"
-    },
-    {
-      "difficulty" : 3,
-      "answer" : "THING ONE",
-      "clue" : "THNG N"
-    },
-    {
-      "difficulty" : 6,
-      "answer" : "THE WOCKET",
-      "clue" : "TH WCKT"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "GERALD MCGREW",
-      "clue" : "GRLD MGRW"
-    },
-    {
-      "difficulty" : 7,
-      "answer" : "KING DERWIN",
-      "clue" : "KNG DRWN"
-    },
-    {
-      "difficulty" : 9,
-      "answer" : "THE YOTTLE",
-      "clue" : "TH YTTL"
-    },
-    {
-      "difficulty" : 10,
-      "answer" : "THE ZIZZER-ZAZZER-ZUZZ",
-      "clue" : "TH ZZZR-ZZZR-ZZZ"
-    }
-  ],
+  "description" : "people named Pat or Patrick, idioms or terms that use the word Pat",
   "clueNotes" : [
     "",
     "",
@@ -89,5 +21,74 @@
     "",
     "",
     ""
-  ]
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK BATEMAN",
+      "clue" : "PTRCK BTMN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK DEMPSY",
+      "clue" : "PTRCK DMPSY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "PATRICK EWING",
+      "clue" : "PTRCK WNG"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK KANE",
+      "clue" : "PTRCK KN"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "PAT RILEY",
+      "clue" : "PT RLY"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PATRICK WARBURTON",
+      "clue" : "PTRCK WRBRTN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PATRICK STUMP",
+      "clue" : "PTRCK STMP"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "PATRICIA ARQUETTE",
+      "clue" : "PTRC RQTT"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "PAT ON THE BACK",
+      "clue" : "PT N TH BCK"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PATSY RAMSEY",
+      "clue" : "PTSY RMSY"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "PATRICK MODIANO",
+      "clue" : "PTRCK MDN"
+    },
+    {
+      "clue" : "PTRC HTN",
+      "difficulty" : 7,
+      "answer" : "PATRICIA HEATON"
+    }
+  ],
+  "tags" : [
+    "common knowledge",
+    "popular culture",
+    "entertainment",
+    "history"
+  ],
+  "notes" : "this is meant to be a cryptics Sunday puzzle"
 }

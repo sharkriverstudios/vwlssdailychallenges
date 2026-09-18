@@ -1,45 +1,68 @@
 {
+  "notes" : "\"key\" or a string syninym must be in every clue",
+  "description" : "a cryptic puzzle listing different kinds of uses for the word Key.",
   "extraClues" : [
     {
-      "clue" : "STH CRLN",
-      "answer" : "SOUTH CAROLINA",
-      "difficulty" : 4
+      "difficulty" : 7,
+      "answer" : "KEY GRIP",
+      "clue" : "KY GRP"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 5,
+      "answer" : "SKELETON KEY",
+      "clue" : "SKLTN KY"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 5,
+      "answer" : "KEYHOLE",
+      "clue" : "KYHL"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 7,
+      "answer" : "KEYSTONE",
+      "clue" : "KYSTN"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 6,
+      "answer" : "KEY SIGNATURE",
+      "clue" : "KY SGNTR"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 4,
+      "answer" : "KEYPAD",
+      "clue" : "KYPD"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 5,
+      "answer" : "KEYRING",
+      "clue" : "KYRNG"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 2,
+      "answer" : "HOUSE KEY",
+      "clue" : "HS KY"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 6,
+      "answer" : "KEY WEST",
+      "clue" : "KY WST"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 7,
+      "answer" : "KEYNOTE SPEAKER",
+      "clue" : "KYNT SPKR"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 4,
+      "answer" : "MAJOR KEY",
+      "clue" : "MJR KY"
     },
     {
-      "difficulty" : 1
+      "difficulty" : 4,
+      "answer" : "MINOR KEY",
+      "clue" : "MNR KY"
     }
   ],
-  "description" : "US States whose names are inspired by historic people",
   "clueNotes" : [
     "",
     "",
@@ -63,8 +86,8 @@
     ""
   ],
   "tags" : [
-    "geography",
-    "history",
-    "culture"
+    "language",
+    "puzzles",
+    "common knowledge"
   ]
 }

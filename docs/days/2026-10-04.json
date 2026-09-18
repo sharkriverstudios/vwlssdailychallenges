@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Johnny Carson",
+      "David Letterman",
+      "Jay Leno",
+      "Conan O'Brien",
+      "Jimmy Fallon",
+      "Stephen Colbert",
+      "Jimmy Kimmel",
+      "Seth Meyers",
+      "James Corden",
+      "Trevor Noah",
+      "Craig Ferguson",
+      "Arsenio Hall",
+      "John Oliver",
+      "Graham Norton",
+      "Chelsea Handler",
+      "Larry King",
+      "Jon Stewart",
+      "Carson Daly",
+      "Lilly Singh",
+      "Samantha Bee",
+      "Desus Nice",
+      "Merv Griffin",
+      "Dick Cavett",
+      "Joan Rivers",
+      "Craig Kilborn",
+      "Tom Snyder",
+      "George Lopez",
+      "Rosie O'Donnell",
+      "Zach Galifianakis",
+      "Eric Andre",
+      "Bill Maher",
+      "Mo'Nique",
+      "Pat Sajak",
+      "Russell Brand",
+      "Alan Carr",
+      "Russell Howard",
+      "Trevor McDonald",
+      "Garry Shandling",
+      "Tom Green",
+      "Chris Gethard",
+      "Steve Allen",
+      "Morton Downey Jr.",
+      "Tavis Smiley",
+      "Dick Van Dyke",
+      "Terry Wogan",
+      "Jonathan Ross",
+      "Michael Parkinson",
+      "Alan Partridge",
+      "James Lipton",
+      "Phil Donahue",
+      "Louis Theroux"
+    ],
+    "category" : "Late Night Talk Show Hosts",
+    "clues" : [
+      {
+        "answer" : "JOHNNY CARSON",
+        "clue" : "JHNN CRSN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "DAVID LETTERMAN",
+        "clue" : "DVD LTTRMN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JAY LENO",
+        "clue" : "JY LN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JON STEWART",
+        "clue" : "JN STWRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JIMMY FALLON",
+        "clue" : "JMM FLLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CONAN O'BRIEN",
+        "clue" : "CNN BRN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STEPHEN COLBERT",
+        "clue" : "STPHN CLBRT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JOHN OLIVER",
+        "clue" : "JHN LVR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-04",
+  "schemaVersion" : 1
+}
