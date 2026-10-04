@@ -1,0 +1,93 @@
+{
+  "description" : "Cast from the first three years",
+  "extraClues" : [
+    {
+      "clue" : "GRG C",
+      "answer" : "GEORGE COE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "MCHL DNGH",
+      "answer" : "MICHAEL O'DONOGHUE",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "L FRNKN",
+      "answer" : "AL FRANKEN",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TM DVS",
+      "answer" : "TOM DAVIS",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "BCK HNRY",
+      "answer" : "BUCK HENRY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "LLTT GLD",
+      "answer" : "ELLIOTT GOULD",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LLY TMLN",
+      "answer" : "LILY TOMLIN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PL SMN",
+      "answer" : "PAUL SIMON",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "CND C BRGN",
+      "answer" : "CANDICE BERGEN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "STV MRTN",
+      "answer" : "STEVE MARTIN",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "RC DL",
+      "answer" : "ERIC IDLE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "PTR BYL",
+      "answer" : "PETER BOYLE",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "television",
+    "comedy",
+    "entertainment",
+    "popular culture"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Beak",
+      "Claw",
+      "Wing",
+      "Tail",
+      "Feather",
+      "Crest",
+      "Nape",
+      "Talon",
+      "Plumage",
+      "Ruff",
+      "Bill",
+      "Crown",
+      "Eye Ring",
+      "Throat",
+      "Flank",
+      "Mantle",
+      "Primaries",
+      "Secondaries",
+      "Tertials",
+      "Coverts",
+      "Scapulars",
+      "Axillaries",
+      "Gorget",
+      "Vent",
+      "Rump",
+      "Back",
+      "Belly",
+      "Breast",
+      "Chin",
+      "Lore",
+      "Wattle",
+      "Saddle",
+      "Ear Coverts",
+      "Gape",
+      "Lores",
+      "Tarsus",
+      "Preen Gland",
+      "Hallux",
+      "Hind Toe",
+      "Cere",
+      "Orbital Ring",
+      "Forehead",
+      "Alula",
+      "Underparts",
+      "Upperparts",
+      "Pectoral Muscles",
+      "Thigh"
+    ],
+    "category" : "Parts of a Bird",
+    "clues" : [
+      {
+        "answer" : "BEAK",
+        "clue" : "BK",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "WING",
+        "clue" : "WNG",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "FEATHER",
+        "clue" : "FTHR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TALON",
+        "clue" : "TLN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CREST",
+        "clue" : "CRST",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PLUMAGE",
+        "clue" : "PLMG",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GORGET",
+        "clue" : "GRGT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "VENT",
+        "clue" : "VNT",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-09",
+  "schemaVersion" : 1
+}

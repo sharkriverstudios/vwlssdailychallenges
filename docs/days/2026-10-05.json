@@ -1,99 +1,107 @@
 {
   "challenge" : {
     "candidates" : [
-      "Beak",
-      "Claw",
-      "Wing",
-      "Tail",
-      "Feather",
-      "Crest",
-      "Nape",
-      "Talon",
-      "Plumage",
-      "Ruff",
-      "Bill",
-      "Crown",
-      "Eye Ring",
-      "Throat",
-      "Flank",
-      "Mantle",
-      "Primaries",
-      "Secondaries",
-      "Tertials",
-      "Coverts",
-      "Scapulars",
-      "Axillaries",
-      "Gorget",
-      "Vent",
-      "Rump",
-      "Back",
-      "Belly",
-      "Breast",
-      "Chin",
-      "Lore",
-      "Wattle",
-      "Saddle",
-      "Ear Coverts",
-      "Gape",
-      "Lores",
-      "Tarsus",
-      "Preen Gland",
-      "Hallux",
-      "Hind Toe",
-      "Cere",
-      "Orbital Ring",
-      "Forehead",
-      "Alula",
-      "Underparts",
-      "Upperparts",
-      "Pectoral Muscles",
-      "Thigh"
+      "Algebra",
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Geometry",
+      "Calculus",
+      "Trigonometry",
+      "History",
+      "Geography",
+      "English",
+      "Literature",
+      "Spanish",
+      "French",
+      "German",
+      "Latin",
+      "Economics",
+      "Psychology",
+      "Sociology",
+      "Philosophy",
+      "Art",
+      "Music",
+      "Drama",
+      "Computer Science",
+      "Physical Education",
+      "Health",
+      "Environmental Science",
+      "World History",
+      "American History",
+      "Civics",
+      "Government",
+      "Statistics",
+      "Creative Writing",
+      "Journalism",
+      "Anthropology",
+      "Astronomy",
+      "Business Studies",
+      "Accounting",
+      "Botany",
+      "Zoology",
+      "Meteorology",
+      "Oceanography",
+      "Ethics",
+      "Public Speaking",
+      "Debate",
+      "Graphic Design",
+      "Photography",
+      "Web Design",
+      "Robotics",
+      "Engineering",
+      "Woodworking",
+      "Metalworking",
+      "Fashion Design",
+      "Culinary Arts",
+      "Nutrition",
+      "Forensics"
     ],
-    "category" : "Parts of a Bird",
+    "category" : "High School Subjects",
     "clues" : [
       {
-        "answer" : "BEAK",
-        "clue" : "BK",
-        "difficulty" : 1
+        "answer" : "ALGEBRA",
+        "clue" : "LGBR",
+        "difficulty" : 2
       },
       {
-        "answer" : "WING",
-        "clue" : "WNG",
-        "difficulty" : 1
+        "answer" : "HISTORY",
+        "clue" : "HSTR",
+        "difficulty" : 2
       },
       {
-        "answer" : "FEATHER",
-        "clue" : "FTHR",
+        "answer" : "SPANISH",
+        "clue" : "SPNSH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BIOLOGY",
+        "clue" : "BLG",
         "difficulty" : 3
       },
       {
-        "answer" : "TALON",
-        "clue" : "TLN",
+        "answer" : "GEOGRAPHY",
+        "clue" : "GGRPH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHEMISTRY",
+        "clue" : "CHMSTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PHYSICS",
+        "clue" : "PHSCS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LITERATURE",
+        "clue" : "LTRTR",
         "difficulty" : 4
-      },
-      {
-        "answer" : "CREST",
-        "clue" : "CRST",
-        "difficulty" : 4
-      },
-      {
-        "answer" : "PLUMAGE",
-        "clue" : "PLMG",
-        "difficulty" : 5
-      },
-      {
-        "answer" : "GORGET",
-        "clue" : "GRGT",
-        "difficulty" : 6
-      },
-      {
-        "answer" : "VENT",
-        "clue" : "VNT",
-        "difficulty" : 7
       }
     ],
-    "difficulty" : 6,
-    "shareClueIndex" : 0
+    "difficulty" : 3,
+    "shareClueIndex" : 2
   },
   "date" : "2026-10-05",
   "schemaVersion" : 1

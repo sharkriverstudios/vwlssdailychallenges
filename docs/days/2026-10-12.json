@@ -1,0 +1,100 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Friends In Low Places",
+      "The Dance",
+      "If Tomorrow Never Comes",
+      "Unanswered Prayers",
+      "The Thunder Rolls",
+      "Shameless",
+      "Rodeo",
+      "Papa Loved Mama",
+      "Ain't Goin' Down ('Til The Sun Comes Up)",
+      "Standing Outside The Fire",
+      "Callin' Baton Rouge",
+      "Two Of A Kind, Workin' On A Full House",
+      "That Summer",
+      "The River",
+      "Much Too Young (To Feel This Damn Old)",
+      "Not Counting You",
+      "American Honky-Tonk Bar Association",
+      "The Beaches Of Cheyenne",
+      "She's Every Woman",
+      "Wrapped Up In You",
+      "To Make You Feel My Love",
+      "We Shall Be Free",
+      "Longneck Bottle",
+      "Two Pina Coladas",
+      "More Than A Memory",
+      "Good Ride Cowboy",
+      "Wild Horses",
+      "The Red Strokes",
+      "Lost In You",
+      "In Another's Eyes",
+      "Beer Run (B Double E Double Are You In?)",
+      "Burning Bridges",
+      "The Change",
+      "Squeeze Me In",
+      "Midnight Sun",
+      "It's Your Song",
+      "Do What You Gotta Do",
+      "All Day Long",
+      "The Road I'm On",
+      "Cowboy Cadillac",
+      "Wrapped Up In You",
+      "The Old Stuff",
+      "Fishin' In The Dark",
+      "Every Now And Then",
+      "That Ol' Wind",
+      "She's Gonna Make It",
+      "Rollin'"
+    ],
+    "category" : "Garth Brooks",
+    "clues" : [
+      {
+        "answer" : "FRIENDS IN LOW PLACES",
+        "clue" : "FRNDS N LW PLCS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "THE DANCE",
+        "clue" : "TH DNC",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE THUNDER ROLLS",
+        "clue" : "TH THNDR RLLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "THE RIVER",
+        "clue" : "TH RVR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "UNANSWERED PRAYERS",
+        "clue" : "NNSWRD PRYRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "IF TOMORROW NEVER COMES",
+        "clue" : "F TMRRW NVR CMS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "TWO PINA COLADAS",
+        "clue" : "TW PN CLDS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MORE THAN A MEMORY",
+        "clue" : "MR THN MMR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-10-12",
+  "schemaVersion" : 1
+}

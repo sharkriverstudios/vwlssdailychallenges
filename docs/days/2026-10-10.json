@@ -1,0 +1,121 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Beer",
+      "Bratwurst",
+      "Lederhosen",
+      "Dirndl",
+      "Pretzel",
+      "Munich",
+      "Bavarian Cream",
+      "Oompah Band",
+      "Beer Tent",
+      "Stein",
+      "Beer Garden",
+      "Polka",
+      "Keg",
+      "Sausage",
+      "Sauerkraut",
+      "Oktoberfest Parade",
+      "Biergarten",
+      "Radler",
+      "Hofbrauhaus",
+      "Bavaria",
+      "Festival",
+      "German Folk Music",
+      "Chicken Dance",
+      "Schuhplattler",
+      "Volksfest",
+      "Weisswurst",
+      "Maßkrug",
+      "Hendl",
+      "Apple Strudel",
+      "Gingerbread Heart",
+      "Alte Wiesn",
+      "Brezen",
+      "Wiesn",
+      "Maypole",
+      "Bavarian Hat",
+      "Carnival Rides",
+      "Traditional Costume",
+      "Beer Stein",
+      "Prost",
+      "Beer Barrel",
+      "Festival Tent",
+      "Spaten",
+      "Lowenbrau",
+      "Paulaner",
+      "Hacker-Pschorr",
+      "Augustiner",
+      "Hofbräu",
+      "Kaiserschmarrn",
+      "Ferris Wheel",
+      "Schottenhamel",
+      "Oktoberfestbier",
+      "Bierleichen",
+      "Folk Dances",
+      "Schunkeln",
+      "Bavarian Alps",
+      "Hops",
+      "Märzen",
+      "Tracht",
+      "Barrel Tapping",
+      "Folk Costumes",
+      "Bavarian Flag",
+      "Brezel",
+      "Weihenstephaner",
+      "Alpenhorn",
+      "Bierfest",
+      "Bavarian Pretzel",
+      "Traditional Bavarian Music",
+      "Krug"
+    ],
+    "category" : "Octoberfest",
+    "clues" : [
+      {
+        "answer" : "MUNICH",
+        "clue" : "MNCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "STEIN",
+        "clue" : "STN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BRATWURST",
+        "clue" : "BRTWRST",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PRETZEL",
+        "clue" : "PRTZL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LEDERHOSEN",
+        "clue" : "LDRHSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BAVARIA",
+        "clue" : "BVR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "OOMPAH BAND",
+        "clue" : "MPH BND",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BAVARIAN CREAM",
+        "clue" : "BVRN CRM",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-10",
+  "schemaVersion" : 1
+}

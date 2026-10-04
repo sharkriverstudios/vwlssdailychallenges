@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "answer" : "FLANK",
+      "clue" : "FLNK"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "RUMP",
+      "clue" : "RMP"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "NAPE",
+      "clue" : "NP"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CROWN",
+      "clue" : "CRWN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "MANTLE",
+      "clue" : "MNTL"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "THROAT",
+      "clue" : "THRT"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "TERTIALS",
+      "clue" : "TRTLS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "SCAPULARS",
+      "clue" : "SCPLRS"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "AXILLARIES",
+      "clue" : "XLLRS"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "PREEN GLAND",
+      "clue" : "PRN GLND"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "PECTORAL MUSCLES",
+      "clue" : "PCTRL MSCLS"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "ORBITAL RING",
+      "clue" : "RBTL RNG"
+    }
+  ],
+  "tags" : [
+    "ornithology",
+    "biology"
+  ]
+}

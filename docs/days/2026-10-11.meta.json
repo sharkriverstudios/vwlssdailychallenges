@@ -1,0 +1,91 @@
+{
+  "description" : "synonyms, idioms, euphemisms for describing something as unfamiliar to a large number of people",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "NFMLR",
+      "answer" : "UNFAMILIAR",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "NXPLRD",
+      "answer" : "UNEXPLORED",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NCMPRHNSBL",
+      "answer" : "INCOMPREHENSIBLE",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "NHRD F",
+      "answer" : "UNHEARD OF",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PZZLNG",
+      "answer" : "PUZZLING",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "NKNWN",
+      "answer" : "UNKNOWN",
+      "difficulty" : 3
+    },
+    {
+      "clue" : " MSTRY",
+      "answer" : "A MYSTERY",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "N TH DRK",
+      "answer" : "IN THE DARK",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "NCHRTD WTRS",
+      "answer" : "UNCHARTED WATERS",
+      "difficulty" : 7
+    },
+    {
+      "clue" : " CLSD BK",
+      "answer" : "A CLOSED BOOK",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "T F TH RDNRY",
+      "answer" : "OUT OF THE ORDINARY",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "NPLMBD DPTHS",
+      "answer" : "UNPLUMBED DEPTHS",
+      "difficulty" : 10
+    }
+  ],
+  "tags" : [
+    "language",
+    "common knowledge"
+  ]
+}

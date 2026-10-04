@@ -1,4 +1,8 @@
 {
+  "tags" : [
+    "education",
+    "popular culture"
+  ],
   "clueNotes" : [
     "",
     "",
@@ -23,68 +27,64 @@
   ],
   "extraClues" : [
     {
-      "difficulty" : 7,
-      "answer" : "FLANK",
-      "clue" : "FLNK"
+      "clue" : "CNMCS",
+      "answer" : "ECONOMICS",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 6,
-      "answer" : "RUMP",
-      "clue" : "RMP"
+      "clue" : "GMTRY",
+      "answer" : "GEOMETRY",
+      "difficulty" : 3
     },
     {
-      "difficulty" : 8,
-      "answer" : "NAPE",
-      "clue" : "NP"
+      "clue" : "PHLSPHY",
+      "answer" : "PHILOSOPHY",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 5,
-      "answer" : "CROWN",
-      "clue" : "CRWN"
+      "clue" : "CLCLS",
+      "answer" : "CALCULUS",
+      "difficulty" : 3
     },
     {
-      "difficulty" : 6,
-      "answer" : "MANTLE",
-      "clue" : "MNTL"
+      "clue" : "TRGNMTRY",
+      "answer" : "TRIGONOMETRY",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 6,
-      "answer" : "THROAT",
-      "clue" : "THRT"
+      "clue" : "FRNCH",
+      "answer" : "FRENCH",
+      "difficulty" : 2
     },
     {
-      "difficulty" : 8,
-      "answer" : "TERTIALS",
-      "clue" : "TRTLS"
+      "clue" : "PSYCHLGY",
+      "answer" : "PSYCHOLOGY",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 8,
-      "answer" : "SCAPULARS",
-      "clue" : "SCPLRS"
+      "clue" : "CMPTR SCNC",
+      "answer" : "COMPUTER SCIENCE",
+      "difficulty" : 7
     },
     {
-      "difficulty" : 9,
-      "answer" : "AXILLARIES",
-      "clue" : "XLLRS"
+      "clue" : "NVRNMNTL SCNC",
+      "answer" : "ENVIRONMENTAL SCIENCE",
+      "difficulty" : 8
     },
     {
-      "difficulty" : 9,
-      "answer" : "PREEN GLAND",
-      "clue" : "PRN GLND"
+      "clue" : "SCLGY",
+      "answer" : "SOCIOLOGY",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 9,
-      "answer" : "PECTORAL MUSCLES",
-      "clue" : "PCTRL MSCLS"
+      "clue" : "STRNMY",
+      "answer" : "ASTRONOMY",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 10,
-      "answer" : "ORBITAL RING",
-      "clue" : "RBTL RNG"
+      "clue" : "PHYSCL DCTN",
+      "answer" : "PHYSICAL EDUCATION",
+      "difficulty" : 7
     }
-  ],
-  "tags" : [
-    "ornithology",
-    "biology"
   ]
 }

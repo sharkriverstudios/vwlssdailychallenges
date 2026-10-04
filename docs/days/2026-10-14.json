@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Leap Of Faith",
+      "Jump The Gun",
+      "Hop Skip And A Jump",
+      "Spring Into Action",
+      "Bound And Leap",
+      "Jump For Joy",
+      "Leapfrog",
+      "Take A Leap",
+      "Vault Over",
+      "Jump The Shark",
+      "Pounce",
+      "Hurdle Over",
+      "Jump Through Hoops",
+      "Bunny Hop",
+      "Pop Up",
+      "Bounce Back",
+      "Hop On Board",
+      "Leap Ahead",
+      "Skip A Beat",
+      "Overleap",
+      "Jump In Feet First",
+      "Bounce Off The Walls",
+      "Jump Off The Page",
+      "Jump Start",
+      "Jump Ship",
+      "Springboard",
+      "High Jump",
+      "Jump To Conclusions",
+      "Rise And Shine",
+      "Leap Year",
+      "Jump Out At",
+      "Take Flight",
+      "Jump Out Of Your Skin",
+      "Take The Plunge",
+      "Vaulting Ambition",
+      "Leap And Bound",
+      "Leap Before You Look",
+      "Hop To It",
+      "Jump Down Someone's Throat",
+      "Leap Over",
+      "Jump Overboard",
+      "Spring A Surprise",
+      "Jump Bail",
+      "Leap Of Imagination",
+      "Jump The Queue",
+      "Hop The Fence",
+      "Jump At The Chance",
+      "Leap Of Logic",
+      "Jump In",
+      "Jump The Broom",
+      "Take The Leap",
+      "Jump Off Point"
+    ],
+    "category" : "Jumping",
+    "clues" : [
+      {
+        "answer" : "JUMP FOR JOY",
+        "clue" : "JMP FR JY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JUMP THE GUN",
+        "clue" : "JMP TH GN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LEAP OF FAITH",
+        "clue" : "LP F FTH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BOUNCE BACK",
+        "clue" : "BNC BK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SPRING INTO ACTION",
+        "clue" : "SPRNG NT CTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JUMP TO CONCLUSIONS",
+        "clue" : "JMP T CNCLSNS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JUMP THROUGH HOOPS",
+        "clue" : "JMP THRGH HPS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "JUMP THE SHARK",
+        "clue" : "JMP TH SHRK",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-10-14",
+  "schemaVersion" : 1
+}

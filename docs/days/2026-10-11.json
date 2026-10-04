@@ -1,0 +1,92 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Alien",
+      "Foreign",
+      "Unfamiliar",
+      "Obscure",
+      "Arcane",
+      "Esoteric",
+      "Cryptic",
+      "Enigmatic",
+      "Mysterious",
+      "Uncharted",
+      "Unexplored",
+      "Unheard Of",
+      "Incomprehensible",
+      "Unrecognized",
+      "Uncommon",
+      "Unaccustomed",
+      "Unseen",
+      "Unusual",
+      "Unknown Quantity",
+      "Off The Beaten Path",
+      "Beyond The Pale",
+      "Out Of The Ordinary",
+      "Beyond Comprehension",
+      "In The Dark",
+      "Unfathomable",
+      "Puzzling",
+      "A Mystery",
+      "Uncharted Waters",
+      "Inexplicable",
+      "Shadowy",
+      "Not On The Map",
+      "In The Shadows",
+      "Never Before Seen",
+      "Not Well Known",
+      "Stranger",
+      "New Territory",
+      "Unplumbed Depths",
+      "A Closed Book",
+      "A Riddle"
+    ],
+    "category" : "Unknown",
+    "clues" : [
+      {
+        "answer" : "ALIEN",
+        "clue" : "LN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CRYPTIC",
+        "clue" : "CRPTC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FOREIGN",
+        "clue" : "FRGN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MYSTERIOUS",
+        "clue" : "MSTRS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "OBSCURE",
+        "clue" : "BSCR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ENIGMATIC",
+        "clue" : "NGMTC",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "ESOTERIC",
+        "clue" : "STRC",
+        "difficulty" : 8
+      },
+      {
+        "answer" : "UNFATHOMABLE",
+        "clue" : "NFTHMBL",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 8,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-10-11",
+  "schemaVersion" : 1
+}

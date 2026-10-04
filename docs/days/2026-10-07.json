@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Chevy Chase",
+      "John Belushi",
+      "Dan Aykroyd",
+      "Gilda Radner",
+      "Jane Curtin",
+      "Garrett Morris",
+      "Laraine Newman",
+      "Bill Murray",
+      "George Coe",
+      "Michael O'Donoghue",
+      "Tom Schiller",
+      "Al Franken",
+      "Tom Davis",
+      "Don Pardo",
+      "Buck Henry",
+      "Elliott Gould",
+      "Steve Martin",
+      "Lily Tomlin",
+      "Paul Simon",
+      "Randy Newman",
+      "Candice Bergen",
+      "Eric Idle",
+      "Peter Boyle",
+      "Madeline Kahn",
+      "Jill Clayburgh",
+      "Raquel Welch",
+      "Desi Arnaz",
+      "Kris Kristofferson",
+      "Richard Pryor",
+      "Norman Lear",
+      "Anthony Perkins",
+      "Broderick Crawford",
+      "Ron Nessen",
+      "Robert Klein",
+      "Dudley Moore",
+      "Bea Arthur",
+      "Sissy Spacek",
+      "Buck Owens",
+      "Fran Tarkenton",
+      "Dick Cavett",
+      "Lorne Michaels",
+      "Howard Shore",
+      "Herb Sargent",
+      "Alan Zweibel",
+      "Anne Beatts",
+      "Rosie Shuster",
+      "Marilyn Suzanne Miller",
+      "Neil Levy",
+      "Tom Davis"
+    ],
+    "category" : "Early SNL Cast Members",
+    "clues" : [
+      {
+        "answer" : "CHEVY CHASE",
+        "clue" : "CHV CHS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JOHN BELUSHI",
+        "clue" : "JHN BLSH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DAN AYKROYD",
+        "clue" : "DN YKRYD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GILDA RADNER",
+        "clue" : "GLD RDNR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BILL MURRAY",
+        "clue" : "BLL MRRY",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JANE CURTIN",
+        "clue" : "JN CRTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GARRETT MORRIS",
+        "clue" : "GRRTT MRRS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LARAINE NEWMAN",
+        "clue" : "LRN NWMN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-07",
+  "schemaVersion" : 1
+}

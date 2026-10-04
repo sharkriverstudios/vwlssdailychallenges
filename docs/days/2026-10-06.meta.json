@@ -1,72 +1,69 @@
 {
-  "tags" : [
-    "music",
-    "popular culture",
-    "entertainment"
-  ],
   "extraClues" : [
     {
-      "difficulty" : 6,
-      "answer" : "MIKE LOVE",
-      "clue" : "MK LV"
+      "answer" : "TWICE-BAKED POTATOES",
+      "clue" : "TWCBKD PTT",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 6,
-      "answer" : "AL JARDINE",
-      "clue" : "L JRDN"
+      "answer" : "POTATO WEDGES",
+      "clue" : "PTT WDG",
+      "difficulty" : 3
     },
     {
-      "difficulty" : 6,
-      "answer" : "CARL WILSON",
-      "clue" : "CRL WLSN"
+      "answer" : "POTATO PANCAKES",
+      "clue" : "PTT PNCKS",
+      "difficulty" : 4
     },
     {
-      "difficulty" : 5,
-      "answer" : "SURFER GIRL",
-      "clue" : "SRFR GRL"
+      "answer" : "POTATO GNOCCHI",
+      "clue" : "PTT GNCH",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 7,
-      "answer" : "WOULDN'T IT BE NICE",
-      "clue" : "WLDN'T T B NC"
+      "answer" : "POTATO GRATIN",
+      "clue" : "PTT GRTN",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 6,
-      "answer" : "HELP ME, RHONDA",
-      "clue" : "HLP M RHND"
+      "answer" : "POTATO CROQUETTES",
+      "clue" : "PTT CRQTT",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 7,
-      "answer" : "LITTLE DEUCE COUPE",
-      "clue" : "LTTL DC CP"
+      "answer" : "POMMES FRITES",
+      "clue" : "PMMS FRTS",
+      "difficulty" : 7
     },
     {
-      "difficulty" : 7,
-      "answer" : "BEACH BOYS' PARTY!",
-      "clue" : "BCH BYS PRTY"
+      "answer" : "POTATO LATKES",
+      "clue" : "PTT LTK",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 4,
-      "answer" : "FUN, FUN, FUN",
-      "clue" : "FN FN FN"
+      "answer" : "POMMES ANNA",
+      "clue" : "PMMS NN",
+      "difficulty" : 8
     },
     {
-      "difficulty" : 6,
-      "answer" : "SURFIN' SAFARI",
-      "clue" : "SRFN SFR"
+      "answer" : "POTATO PIEROGI",
+      "clue" : "PTT PRG",
+      "difficulty" : 6
     },
     {
-      "difficulty" : 6,
-      "answer" : "DENNIS WILSON",
-      "clue" : "DNNS WLSN"
+      "answer" : "POTATO DUMPLINGS",
+      "clue" : "PTT DMPLNGS",
+      "difficulty" : 5
     },
     {
-      "difficulty" : 5,
-      "answer" : "DON'T WORRY BABY",
-      "clue" : "DNT WRRY BBY"
+      "answer" : "POTATO ROULADE",
+      "clue" : "PTT RLD",
+      "difficulty" : 6
     }
   ],
-  "description" : "Songs, albums, important band members",
+  "tags" : [
+    "culinary"
+  ],
   "clueNotes" : [
     "",
     "",

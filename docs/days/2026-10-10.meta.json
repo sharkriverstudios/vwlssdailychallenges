@@ -1,0 +1,93 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "KEG",
+      "clue" : "KG",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "SAUERKRAUT",
+      "clue" : "SRKRT",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "BEER",
+      "clue" : "BR",
+      "difficulty" : 1
+    },
+    {
+      "answer" : "OKTOBERFEST PARADE",
+      "clue" : "KTBFRST PRD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "POLKA",
+      "clue" : "PLK",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "BEER GARDEN",
+      "clue" : "BR GRDN",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "DIRNDL",
+      "clue" : "DRNDL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CHICKEN DANCE",
+      "clue" : "CHCKN DNC",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SCHUHPLATTLER",
+      "clue" : "SCHHPLTTLR",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "VOLSKEST",
+      "clue" : "VLKSFST",
+      "difficulty" : 10
+    },
+    {
+      "answer" : "WEISSWURST",
+      "clue" : "WSSWRST",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HOFBRÄUHAUS",
+      "clue" : "HFBRHS",
+      "difficulty" : 8
+    }
+  ],
+  "description" : "things, practices, ideas associated with the annual festival",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "culture",
+    "traditions",
+    "events",
+    "culinary"
+  ]
+}

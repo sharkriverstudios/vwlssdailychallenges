@@ -1,0 +1,92 @@
+{
+  "description" : "idioms, phrases, synonyms for jumping or involving jumping",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "notes" : "this is meant to be a cryptic puzzle, so be obscure",
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "clue" : "TK TH PLNG",
+      "answer" : "TAKE THE PLUNGE"
+    },
+    {
+      "difficulty" : 3,
+      "clue" : "LPFRG",
+      "answer" : "LEAPFROG"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "JMP N FT FRST",
+      "answer" : "JUMP IN FEET FIRST"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "JMP FF TH PG",
+      "answer" : "JUMP OFF THE PAGE"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "VLT VR",
+      "answer" : "VAULT OVER"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "HP SKP ND JMP",
+      "answer" : "HOP SKIP AND A JUMP"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "TK L LP",
+      "answer" : "TAKE A LEAP"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "BNC FF TH WLLS",
+      "answer" : "BOUNCE OFF THE WALLS"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "HP N BRD",
+      "answer" : "HOP ON BOARD"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "JMP TH Q",
+      "answer" : "JUMP THE QUEUE"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "LP HD",
+      "answer" : "LEAP AHEAD"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "JMP T TH CHNC",
+      "answer" : "JUMP AT THE CHANCE"
+    }
+  ],
+  "tags" : [
+    "language",
+    "common knowledge"
+  ]
+}
