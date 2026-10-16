@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "cinema",
+    "horror",
+    "comedy"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 8,
+      "clue" : "TTCK F TH KLLR TMT",
+      "answer" : "ATTACK OF THE KILLER TOMATOES"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "TH FNL GRLS",
+      "answer" : "THE FINAL GIRLS"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : " HNTD HS",
+      "answer" : "A HAUNTED HOUSE"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "STDNT BDS",
+      "answer" : "STUDENT BODIES"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CLB DRD",
+      "answer" : "CLUB DREAD"
+    },
+    {
+      "difficulty" : 4,
+      "clue" : "VMPRS SCK",
+      "answer" : "VAMPIRES SUCK"
+    },
+    {
+      "difficulty" : 10,
+      "clue" : "RPSSSD",
+      "answer" : "REPOSSESSED"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "DD ND BRKFST",
+      "answer" : "DEAD AND BREAKFAST"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "RTRN F TH KLLR TMT",
+      "answer" : "RETURN OF THE KILLER TOMATOES"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "TH RTRN F TH LVNG DD",
+      "answer" : "THE RETURN OF THE LIVING DEAD"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "TH FRGHTNRS",
+      "answer" : "THE FRIGHTENERS"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "TH DD DNT D",
+      "answer" : "THE DEAD DON'T DIE"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

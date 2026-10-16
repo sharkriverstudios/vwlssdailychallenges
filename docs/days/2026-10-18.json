@@ -1,0 +1,88 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Vienna",
+      "Salzburg",
+      "Innsbruck",
+      "Zurich",
+      "Basel",
+      "Geneva",
+      "Bern",
+      "Lucerne",
+      "Vaduz",
+      "Graz",
+      "Linz",
+      "St. Gallen",
+      "Winterthur",
+      "Lausanne",
+      "Bregenz",
+      "Dornbirn",
+      "Chur",
+      "Feldkirch",
+      "Klagenfurt",
+      "Villach",
+      "St. Polten",
+      "Liechtenstein",
+      "Fribourg",
+      "Schaffhausen",
+      "Neuchatel",
+      "Thun",
+      "Biel\/Bienne",
+      "Lugano",
+      "Luzern",
+      "Aarau",
+      "Sankt Gallen",
+      "Altdorf",
+      "Lichtenstein",
+      "Solothurn",
+      "Sitten"
+    ],
+    "category" : "German Cities Not In Germany",
+    "clues" : [
+      {
+        "answer" : "VIENNA",
+        "clue" : "VNN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "ZURICH",
+        "clue" : "ZRCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BASEL",
+        "clue" : "BSL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GENEVA",
+        "clue" : "GNV",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BERN",
+        "clue" : "BRN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SALZBURG",
+        "clue" : "SLZBRG",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "INNSBRUCK",
+        "clue" : "NNSBRCK",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "LIECHTENSTEIN",
+        "clue" : "LCHTNSTN",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-18",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,94 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "SUBWAY SURFERS",
+      "clue" : "SBWY SRFRS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "AMONG US",
+      "clue" : "MNG S",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FORTNITE",
+      "clue" : "FRTNT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PUBG MOBILE",
+      "clue" : "PBGB MBL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CUT THE ROPE",
+      "clue" : "CT TH RP",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "PLANTS VS ZOMBIES",
+      "clue" : "PLNTS VS ZMBS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "JETPACK JOYRIDE",
+      "clue" : "JTPCK JYRD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MONUMENT VALLEY",
+      "clue" : "MNMNT VLLY",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GENSHIN IMPACT",
+      "clue" : "GNSHN MPCT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CLASH ROYALE",
+      "clue" : "CLSH RYL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CROSSY ROAD",
+      "clue" : "CRSSY RD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "POCKET GOD",
+      "clue" : "PCKT GD",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "games",
+    "technology",
+    "popular culture",
+    "entertainment"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "description" : "games that were introduced and made it big on the iPhone App Store",
+  "notes" : "they must have had a real cultural impact (e.g. Angry Birds being mentioned in 30 Rock), not just be big on the store"
+}

@@ -1,0 +1,112 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Leonardo Da Vinci",
+      "Michelangelo Buonarroti",
+      "Raphael",
+      "Titian",
+      "Sandro Botticelli",
+      "Caravaggio",
+      "Donatello",
+      "Giovanni Bellini",
+      "Andrea Mantegna",
+      "Fra Angelico",
+      "Paolo Uccello",
+      "Albrecht Durer",
+      "Hans Holbein The Younger",
+      "Pieter Bruegel The Elder",
+      "Giotto",
+      "Lorenzo Ghiberti",
+      "Masaccio",
+      "Piero Della Francesca",
+      "Giorgione",
+      "Luca Signorelli",
+      "Filippo Lippi",
+      "Domenico Ghirlandaio",
+      "Correggio",
+      "Tintoretto",
+      "El Greco",
+      "Fra Filippo Lippi",
+      "Veronese",
+      "Benozzo Gozzoli",
+      "Hieronymus Bosch",
+      "Giovanni Battista Moroni",
+      "Luca Della Robbia",
+      "Jacopo Pontormo",
+      "Agnolo Bronzino",
+      "Perugino",
+      "Fra Bartolomeo",
+      "Andrea Del Sarto",
+      "Cosimo Tura",
+      "Cimabue",
+      "Carlo Crivelli",
+      "Francesco Francia",
+      "Pinturicchio",
+      "Giulio Romano",
+      "Cima Da Conegliano",
+      "Giovanni Antonio Bazzi",
+      "Rosso Fiorentino",
+      "Polidoro Da Caravaggio",
+      "Giovanni Battista Tiepolo",
+      "Jacopo Bassano",
+      "Sebastiano Del Piombo",
+      "Paolo Veronese",
+      "Federico Barocci",
+      "Pisanello",
+      "Matthias Grunewald",
+      "Bernardino Luini",
+      "Andrea Solari",
+      "Giorgio Vasari",
+      "Benvenuto Cellini",
+      "Francesco Primaticcio",
+      "Giovanni Antonio Boltraffio"
+    ],
+    "category" : "Renaissance Painters",
+    "clues" : [
+      {
+        "answer" : "RAPHAEL",
+        "clue" : "RPHL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MICHELANGELO",
+        "clue" : "MCHLNGL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DONATELLO",
+        "clue" : "DNTLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TITIAN",
+        "clue" : "TTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LEONARDO DA VINCI",
+        "clue" : "LNRD D VNC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BOTTICELLI",
+        "clue" : "BTTCLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CARAVAGGIO",
+        "clue" : "CRVGG",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "ALBRECHT DURER",
+        "clue" : "LBRCHT DRR",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-10-15",
+  "schemaVersion" : 1
+}

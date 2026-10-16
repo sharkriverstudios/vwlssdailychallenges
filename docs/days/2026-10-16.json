@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Golden Girls",
+      "Rose Nylund",
+      "Betty White's Off Their Rockers",
+      "The Mary Tyler Moore Show",
+      "Sue Ann Nivens",
+      "Hot In Cleveland",
+      "The Proposal",
+      "Lake Placid",
+      "The Betty White Show",
+      "Life With Elizabeth",
+      "The Lorax",
+      "Boston Legal",
+      "Advise And Consent",
+      "Date With The Angels",
+      "Pet Set",
+      "Saturday Night Live",
+      "The Lost Valentine",
+      "The Bold And The Beautiful",
+      "Bringing Down The House",
+      "You Again",
+      "The Love Boat",
+      "The Match Game",
+      "Mama's Family",
+      "Bones",
+      "The Simpsons",
+      "That '70s Show",
+      "Alvin And The Chipmunks: The Squeakquel",
+      "Toy Story 4",
+      "Ponyo",
+      "The Wild Thornberrys",
+      "The Practice",
+      "Community",
+      "My Wife And Kids",
+      "The Proposal",
+      "The Lionhearts",
+      "Ladies Man",
+      "The Story Of Santa Claus",
+      "Annie's Point",
+      "Love & War",
+      "The John Larroquette Show",
+      "Hard Rain",
+      "Dennis The Menace Strikes Again",
+      "Advise And Consent",
+      "The Best Of Betty White",
+      "Betty White In Person",
+      "Happy Homemaker",
+      "Hollywood On Television",
+      "Third Watch",
+      "The Naked Truth",
+      "The Golden Palace",
+      "The Betty White Christmas Special"
+    ],
+    "category" : "Betty White",
+    "clues" : [
+      {
+        "answer" : "THE GOLDEN GIRLS",
+        "clue" : "TH GLDN GRLS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PASSWORD",
+        "clue" : "PSSWRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HOT IN CLEVELAND",
+        "clue" : "HT N CLVLND",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE PROPOSAL",
+        "clue" : "TH PRPSL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE MARY TYLER MOORE SHOW",
+        "clue" : "TH MR TLR MR SHW",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "LAKE PLACID",
+        "clue" : "LK PLCD",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "SUE ANN NIVENS",
+        "clue" : "S NN NVNS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "THE LORAX",
+        "clue" : "TH LRX",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-16",
+  "schemaVersion" : 1
+}

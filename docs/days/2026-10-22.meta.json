@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "FUEL TANK",
+      "clue" : "FL TNK"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "CLUTCH",
+      "clue" : "CLTCH"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "CHASSIS",
+      "clue" : "CHSSS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "POWER TAKE-OFF",
+      "clue" : "PWR TKFF"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "DIFFERENTIAL",
+      "clue" : "DFFRNTL"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "HYDRAULIC SYSTEM",
+      "clue" : "HYDRLC SYSTM"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THREE-POINT HITCH",
+      "clue" : "THR-PNT HTCH"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "HYDRAULIC PUMP",
+      "clue" : "HYDRLC PMP"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "ROLLOVER PROTECTION STRUCTURE",
+      "clue" : "RLLVR PRTCTN STRCTR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "IGNITION SWITCH",
+      "clue" : "GNTN SWTCH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DASHBOARD",
+      "clue" : "DSHBRD"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MUFFLER",
+      "clue" : "MFFLR"
+    }
+  ],
+  "tags" : [
+    "agriculture",
+    "engineering",
+    "technology"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "description" : "roles, projects, sayings associated with Betty White",
+  "tags" : [
+    "television",
+    "cinema",
+    "popular culture",
+    "entertainment"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 9,
+      "answer" : "DATE WITH THE ANGELS",
+      "clue" : "DT WTH TH NGLS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "PET SET",
+      "clue" : "PT ST"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "ROSE NYLUND",
+      "clue" : "RS NYLND"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "THE SIMPSONS",
+      "clue" : "TH SMPSNS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "THE LOVE BOAT",
+      "clue" : "TH LV BT"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "THE BETTY WHITE SHOW",
+      "clue" : "TH BTTY WHT SHW"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "THE GOLDEN PALACE",
+      "clue" : "TH GLDN PLCS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "MAMA'S FAMILY",
+      "clue" : "MMS FMLY"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "BRINGING DOWN THE HOUSE",
+      "clue" : "BRNGNG DWN TH HS"
+    },
+    {
+      "difficulty" : 9,
+      "answer" : "LIFE WITH ELIZABETH",
+      "clue" : "LF WTH LZBTH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "THE MATCH GAME",
+      "clue" : "TH MTCH GM"
+    },
+    {
+      "difficulty" : 10,
+      "answer" : "ADVISE AND CONSENT",
+      "clue" : "DVS ND CNSNT"
+    }
+  ]
+}

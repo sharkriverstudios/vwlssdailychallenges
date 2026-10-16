@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "CHIPPEWA",
+      "clue" : "CHPPW",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "COMANCHE",
+      "clue" : "CMNCH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "BLACKFOOT",
+      "clue" : "BLCKFT",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HOPI",
+      "clue" : "HP",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CHEYENNE",
+      "clue" : "CHYNN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "CHICKASAW",
+      "clue" : "CHCKSW",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "YAKAMA",
+      "clue" : "YKM",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "TLINGIT",
+      "clue" : "TLNGT",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "PASSAMAQUODDY",
+      "clue" : "PSSMQDDY",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "TSIMSHIAN",
+      "clue" : "TSMSHN",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "QUINAULT",
+      "clue" : "QNLT",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "WAMPANOAG",
+      "clue" : "WMPNG",
+      "difficulty" : 9
+    }
+  ],
+  "tags" : [
+    "culture",
+    "history",
+    "geography"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "description" : "songs written by Paul McCartney",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "notes" : "inculde songs he wrote but that someone else performed",
+  "tags" : [
+    "music",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "THE LONG AND WINDING ROAD",
+      "clue" : "TH LNG ND WNDNG RD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ELEONOR RIGBY",
+      "clue" : "LN R RGBY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CAN'T BUY ME LOVE",
+      "clue" : "CNT BY M LV",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HELLO GOODBYE",
+      "clue" : "HLL GBY",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "BAND ON THE RUN",
+      "clue" : "BND N TH RN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "MAYBE I'M AMAZED",
+      "clue" : "MYB 'M MZD",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "WITH A LITTLE HELP FROM MY FRIENDS",
+      "clue" : "WTH L TTL HLP FRM MY FRNDS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "DRIVE MY CAR",
+      "clue" : "DRV MY CR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SILLY LOVE SONGS",
+      "clue" : "SLLY LV SNGS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "OB-LA-DI, OB-LA-DA",
+      "clue" : "BLD BLD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ROCKY RACCOON",
+      "clue" : "RCKY RCCN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MULL OF KINTYRE",
+      "clue" : "MLL F KNTYR",
+      "difficulty" : 7
+    }
+  ]
+}

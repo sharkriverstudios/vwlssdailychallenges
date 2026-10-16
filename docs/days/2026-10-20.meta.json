@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "FLORIDA MARLINS",
+      "clue" : "FLRD MRLNS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MINNESOTA TWINS",
+      "clue" : "MNNST TWNS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "ATLANTA BRAVES",
+      "clue" : "TLNT BRVS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PITTSBURGH PIRATES",
+      "clue" : "PTTSBRGH PRTS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "SEATTLE MARINERS",
+      "clue" : "STTL MRNRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "COLORADO ROCKIES",
+      "clue" : "CLRD RCKS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LOS ANGELES ANGELS",
+      "clue" : "LS NGLS NGLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "SAN FRANCISCO GIANTS",
+      "clue" : "SN FRNCSC GNTS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "HOUSTON ASTROS",
+      "clue" : "HSTN STRS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CLEVELAND GUARDIANS",
+      "clue" : "CLVLND GRDNS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "KANSAS CITY ROYALS",
+      "clue" : "KNSS CTY RYLS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "WASHINGTON NATIONALS",
+      "clue" : "WSHNGTN NTNLS",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "sports",
+    "animals",
+    "popular culture"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins",
+      "Pete Conrad",
+      "Alan Bean",
+      "Alan Shepard",
+      "Edgar Mitchell",
+      "David Scott",
+      "James Irwin",
+      "John Young",
+      "Charles Duke",
+      "Eugene Cernan",
+      "Harrison Schmitt",
+      "Thomas Stafford",
+      "Jack Swigert",
+      "Fred Haise",
+      "William Anders",
+      "Rusty Schweickart",
+      "Stuart Roosa",
+      "Alfred Worden",
+      "James Lovell",
+      "John Swigert",
+      "Ronald Evans",
+      "Richard Gordon",
+      "Charles Conrad",
+      "Donn Eisele",
+      "Walter Cunningham",
+      "Frank Borman",
+      "Thomas Mattingly",
+      "Ken Mattingly",
+      "Gordon Cooper",
+      "James McDivitt",
+      "Roger Chaffee",
+      "Edward White",
+      "Virgil Grissom",
+      "Elliot See"
+    ],
+    "category" : "Apollo Astronauts",
+    "clues" : [
+      {
+        "answer" : "NEIL ARMSTRONG",
+        "clue" : "NL RMSTRNG",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BUZZ ALDRIN",
+        "clue" : "BZZ LDRN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MICHAEL COLLINS",
+        "clue" : "MCHL CLLNS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ALAN SHEPARD",
+        "clue" : "LN SHPRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JIM LOVELL",
+        "clue" : "JM LVLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ALAN BEAN",
+        "clue" : "LN BN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PETE CONRAD",
+        "clue" : "PT CNRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "EUGENE CERNAN",
+        "clue" : "GN CRNN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-23",
+  "schemaVersion" : 1
+}

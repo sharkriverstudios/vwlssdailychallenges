@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Scary Movie",
+      "Shaun Of The Dead",
+      "Tucker And Dale Vs Evil",
+      "The Cabin In The Woods",
+      "What We Do In The Shadows",
+      "Young Frankenstein",
+      "Zombieland",
+      "The Final Girls",
+      "Scream",
+      "A Haunted House",
+      "Student Bodies",
+      "Club Dread",
+      "Stan Helsing",
+      "Vampires Suck",
+      "Repossessed",
+      "Dead And Breakfast",
+      "Saturday The 14th",
+      "Transylvania 6-5000",
+      "Return Of The Killer Tomatoes",
+      "An American Werewolf In London",
+      "The Haunted World Of El Superbeasto",
+      "Scary Movie 2",
+      "Scary Movie 3",
+      "Scary Movie 4",
+      "Scary Movie 5",
+      "Lesbian Vampire Killers",
+      "Freaks Of Nature",
+      "Love At First Bite",
+      "The Monster Squad",
+      "Black Sheep",
+      "Piranha 3D",
+      "Rubber",
+      "The Dead Don't Die",
+      "Attack Of The Killer Tomatoes",
+      "Killer Klowns From Outer Space",
+      "Innocent Blood",
+      "Idle Hands",
+      "The Frighteners",
+      "The Return Of The Living Dead",
+      "Snakes On A Plane",
+      "Deathgasm",
+      "Little Shop Of Horrors",
+      "Bubba Ho-Tep",
+      "Slither",
+      "House",
+      "Cooties",
+      "WolfCop",
+      "Hansel And Gretel Get Baked",
+      "Fido",
+      "Bloodsucking Bastards",
+      "The Babysitter",
+      "Bride Of Chucky"
+    ],
+    "category" : "Parody Horror Movies",
+    "clues" : [
+      {
+        "answer" : "SCARY MOVIE",
+        "clue" : "SCR MV",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "YOUNG FRANKENSTEIN",
+        "clue" : "YNG FRNKNSTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LITTLE SHOP OF HORRORS",
+        "clue" : "LTTL SHP F HRRRS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ZOMBIELAND",
+        "clue" : "ZMBLND",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE CABIN IN THE WOODS",
+        "clue" : "TH CBN N TH WDS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SHAUN OF THE DEAD",
+        "clue" : "SHN F TH DD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WHAT WE DO IN THE SHADOWS",
+        "clue" : "WHT W D N TH SHDWS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "KILLER KLOWNS FROM OUTER SPACE",
+        "clue" : "KLLR KLWNS FRM TR SPC",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-24",
+  "schemaVersion" : 1
+}

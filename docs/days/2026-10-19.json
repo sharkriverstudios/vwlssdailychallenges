@@ -1,0 +1,114 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Angry Birds",
+      "Candy Crush Saga",
+      "Clash Of Clans",
+      "Temple Run",
+      "Fruit Ninja",
+      "Flappy Bird",
+      "Pokémon Go",
+      "Words With Friends",
+      "Subway Surfers",
+      "Among Us",
+      "Fortnite",
+      "PUBG Mobile",
+      "Cut The Rope",
+      "Plants Vs Zombies",
+      "Jetpack Joyride",
+      "Minecraft: Pocket Edition",
+      "2048",
+      "Doodle Jump",
+      "Monument Valley",
+      "Genshin Impact",
+      "Clash Royale",
+      "Injustice: Gods Among Us",
+      "Bad Piggies",
+      "Hay Day",
+      "Brawl Stars",
+      "Crossy Road",
+      "Hill Climb Racing",
+      "Asphalt 8: Airborne",
+      "Super Mario Run",
+      "Mario Kart Tour",
+      "FIFA Mobile",
+      "The Sims FreePlay",
+      "Draw Something",
+      "QuizUp",
+      "Geometry Dash",
+      "Piano Tiles",
+      "Alto's Adventure",
+      "Idle Heroes",
+      "Raid: Shadow Legends",
+      "DragonVale",
+      "CSR Racing",
+      "Real Racing 3",
+      "Pocket God",
+      "Plague Inc.",
+      "Neko Atsume",
+      "FarmVille 2: Country Escape",
+      "Marvel Contest Of Champions",
+      "Despicable Me: Minion Rush",
+      "Battle Cats",
+      "Tiny Wings",
+      "Boom Beach",
+      "Vainglory",
+      "SimCity BuildIt",
+      "Magic Tiles 3",
+      "Hungry Shark Evolution",
+      "Homescapes",
+      "Gardenscapes",
+      "Idle Miner Tycoon",
+      "Talking Tom",
+      "Game Of War: Fire Age",
+      "Harry Potter: Wizards Unite"
+    ],
+    "category" : "Mobile Games",
+    "clues" : [
+      {
+        "answer" : "ANGRY BIRDS",
+        "clue" : "NGR BRDS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FRUIT NINJA",
+        "clue" : "FRT NNJ",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "POKEMON GO",
+        "clue" : "PKMN G",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TEMPLE RUN",
+        "clue" : "TMPL RN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FLAPPY BIRD",
+        "clue" : "FLPP BRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CANDY CRUSH SAGA",
+        "clue" : "CND CRSH SG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CLASH OF CLANS",
+        "clue" : "CLSH F CLNS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WORDS WITH FRIENDS",
+        "clue" : "WRDS WTH FRNDS",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-10-19",
+  "schemaVersion" : 1
+}

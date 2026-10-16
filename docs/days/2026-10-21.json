@@ -1,0 +1,108 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Hey Jude",
+      "Let It Be",
+      "Yesterday",
+      "Blackbird",
+      "The Long And Winding Road",
+      "Eleanor Rigby",
+      "Penny Lane",
+      "Maybe I'm Amazed",
+      "Live And Let Die",
+      "Band On The Run",
+      "Here Today",
+      "And I Love Her",
+      "Can't Buy Me Love",
+      "All My Loving",
+      "Lady Madonna",
+      "Hello Goodbye",
+      "Get Back",
+      "Fool On The Hill",
+      "With A Little Help From My Friends",
+      "Back In The U.S.S.R.",
+      "Drive My Car",
+      "Paperback Writer",
+      "Good Day Sunshine",
+      "She's Leaving Home",
+      "I Will",
+      "We Can Work It Out",
+      "Michelle",
+      "Helter Skelter",
+      "The End",
+      "I'm Looking Through You",
+      "Two Of Us",
+      "Golden Slumbers",
+      "Things We Said Today",
+      "Ob-La-Di, Ob-La-Da",
+      "I've Just Seen A Face",
+      "I Saw Her Standing There",
+      "Lovely Rita",
+      "Mother Nature's Son",
+      "Rocky Raccoon",
+      "Another Day",
+      "Silly Love Songs",
+      "Jet",
+      "My Love",
+      "Uncle Albert\/Admiral Halsey",
+      "Junior's Farm",
+      "Mull Of Kintyre",
+      "Coming Up",
+      "No More Lonely Nights",
+      "Figure Of Eight",
+      "Hope Of Deliverance",
+      "The World Tonight",
+      "Fine Line",
+      "Jenny Wren",
+      "Dance Tonight",
+      "New"
+    ],
+    "category" : "Paul McCartney",
+    "clues" : [
+      {
+        "answer" : "LET IT BE",
+        "clue" : "LT T B",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HEY JUDE",
+        "clue" : "HY JD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "YESTERDAY",
+        "clue" : "YSTRDY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PENNY LANE",
+        "clue" : "PNN LN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BLACKBIRD",
+        "clue" : "BLCKBRD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BACK IN THE USSR",
+        "clue" : "BCK N THSSR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "AND I LOVE HER",
+        "clue" : "ND L V HR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LIVE AND LET DIE",
+        "clue" : "LV ND LT D",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-10-21",
+  "schemaVersion" : 1
+}

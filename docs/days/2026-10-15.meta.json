@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "GIOVANNI BELLINI",
+      "difficulty" : 6,
+      "clue" : "GVNN BLLN"
+    },
+    {
+      "answer" : "ANDREA MANTEGNA",
+      "difficulty" : 6,
+      "clue" : "NDR MNTGN"
+    },
+    {
+      "answer" : "FRA ANGELICO",
+      "difficulty" : 5,
+      "clue" : "FR NGLC"
+    },
+    {
+      "answer" : "PAOLO UCCELLO",
+      "difficulty" : 7,
+      "clue" : "PL CCLL"
+    },
+    {
+      "answer" : "HANS HOLBEIN THE YOUNGER",
+      "difficulty" : 8,
+      "clue" : "HNS HLBN TH YNGR"
+    },
+    {
+      "answer" : "PIETER BRUEGEL THE ELDER",
+      "difficulty" : 8,
+      "clue" : "PTR BRGL TH LDR"
+    },
+    {
+      "answer" : "GIOTTO",
+      "difficulty" : 5,
+      "clue" : "GTT"
+    },
+    {
+      "answer" : "LORENZO GHIBERTI",
+      "difficulty" : 7,
+      "clue" : "LRNZ GHBR"
+    },
+    {
+      "answer" : "MASACCIO",
+      "difficulty" : 6,
+      "clue" : "MSCC"
+    },
+    {
+      "answer" : "PIERO DELLA FRANCESCA",
+      "difficulty" : 7,
+      "clue" : "PR DLL FRNCSC"
+    },
+    {
+      "answer" : "GIORGIONE",
+      "difficulty" : 7,
+      "clue" : "GRGN"
+    },
+    {
+      "answer" : "LUCA SIGNORELLI",
+      "difficulty" : 8,
+      "clue" : "LC SGNRLL"
+    }
+  ],
+  "tags" : [
+    "arts",
+    "history",
+    "culture"
+  ]
+}

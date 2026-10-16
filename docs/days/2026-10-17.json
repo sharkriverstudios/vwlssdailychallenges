@@ -1,0 +1,124 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Navajo",
+      "Cherokee",
+      "Sioux",
+      "Chippewa",
+      "Choctaw",
+      "Apache",
+      "Iroquois",
+      "Seminole",
+      "Lumbee",
+      "Pueblo",
+      "Comanche",
+      "Blackfoot",
+      "Mohawk",
+      "Crow",
+      "Hopi",
+      "Cree",
+      "Shoshone",
+      "Inuit",
+      "Aleut",
+      "Arapaho",
+      "Osage",
+      "Ute",
+      "Ojibwe",
+      "Lakota",
+      "Nez Perce",
+      "Yakama",
+      "Cheyenne",
+      "Chickasaw",
+      "Zuni",
+      "Lenape",
+      "Muscogee",
+      "Oneida",
+      "Kaw",
+      "Huron",
+      "Yurok",
+      "Miccosukee",
+      "Paiute",
+      "Quinault",
+      "Makah",
+      "Kickapoo",
+      "Wampanoag",
+      "Tlingit",
+      "Abenaki",
+      "Chinook",
+      "Catawba",
+      "Passamaquoddy",
+      "Penobscot",
+      "Narragansett",
+      "Potawatomi",
+      "Menominee",
+      "Pawnee",
+      "Modoc",
+      "Karuk",
+      "Swinomish",
+      "Cayuga",
+      "Salish",
+      "Havasupai",
+      "Yavapai",
+      "Tsimshian",
+      "Wichita",
+      "Nooksack",
+      "Chumash",
+      "Tuscarora",
+      "Gros Ventre",
+      "Pima",
+      "Sauk",
+      "Natchez",
+      "Klamath",
+      "Maidu",
+      "Modoc",
+      "Tanana"
+    ],
+    "category" : "Indigenous Nations of North America",
+    "clues" : [
+      {
+        "answer" : "NAVAJO",
+        "clue" : "NVJ",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "SIOUX",
+        "clue" : "SX",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHEROKEE",
+        "clue" : "CHRK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "APACHE",
+        "clue" : "PCH",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "IROQUOIS",
+        "clue" : "RQS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SEMINOLE",
+        "clue" : "SMNL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PUEBLO",
+        "clue" : "PBL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MOHAWK",
+        "clue" : "MHWK",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-17",
+  "schemaVersion" : 1
+}

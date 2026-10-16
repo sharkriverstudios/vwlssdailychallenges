@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "LAUSANNE",
+      "clue" : "LSNN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "WINTERTHUR",
+      "clue" : "WNTRTHR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "LUCERNE",
+      "clue" : "LCRN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "VADUZ",
+      "clue" : "VDZ",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "LUGANO",
+      "clue" : "LGN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "KLAGENFURT",
+      "clue" : "KLGNFRT",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "SCHAFFHAUSEN",
+      "clue" : "SCHFFHSN",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "NEUCHATEL",
+      "clue" : "NCHTL",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "THUN",
+      "clue" : "THN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "CHUR",
+      "clue" : "CHR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "FRIBOURG",
+      "clue" : "FRBRG",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "BIENNE",
+      "clue" : "BNN",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "geography",
+    "travel"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

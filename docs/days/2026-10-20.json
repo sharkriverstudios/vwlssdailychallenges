@@ -1,0 +1,56 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Baltimore Orioles",
+      "Toronto Blue Jays",
+      "St. Louis Cardinals"
+    ],
+    "category" : "MLB Teams Named After Animals",
+    "clues" : [
+      {
+        "answer" : "DETROIT TIGERS",
+        "clue" : "DTRT TGRS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "CHICAGO CUBS",
+        "clue" : "CHCG CBS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BALTIMORE ORIOLES",
+        "clue" : "BLTMR RLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TORONTO BLUE JAYS",
+        "clue" : "TRNT BL JYS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ST. LOUIS CARDINALS",
+        "clue" : "ST LS CRDNLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MIAMI MARLINS",
+        "clue" : "MM MRLNS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TAMPA BAY RAYS",
+        "clue" : "TMP BY RYS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ARIZONA DIAMONDBACKS",
+        "clue" : "RZN DMNDBCKS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-20",
+  "schemaVersion" : 1
+}

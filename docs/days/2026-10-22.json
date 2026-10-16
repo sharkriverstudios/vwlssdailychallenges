@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Wheel",
+      "Engine",
+      "Transmission",
+      "Axle",
+      "Radiator",
+      "Hydraulic System",
+      "Cab",
+      "Seat",
+      "Steering Wheel",
+      "Exhaust",
+      "Fuel Tank",
+      "Battery",
+      "Hitch",
+      "Tires",
+      "Clutch",
+      "Gearbox",
+      "Differential",
+      "Power Take-Off",
+      "Brake",
+      "Chassis",
+      "Alternator",
+      "Air Filter",
+      "Oil Filter",
+      "Fenders",
+      "Dashboard",
+      "Muffler",
+      "Hydraulic Pump",
+      "Throttle",
+      "Three-Point Hitch",
+      "Flywheel",
+      "Bumper",
+      "Cooling Fan",
+      "Hydraulic Cylinder",
+      "Toolbox",
+      "Headlights",
+      "Ignition Switch",
+      "Drawbar",
+      "Rollover Protection Structure",
+      "Seatbelt",
+      "Horn",
+      "Control Lever",
+      "Loader",
+      "Cultivator",
+      "Plow",
+      "Tiller",
+      "Ripper",
+      "Bale Spear",
+      "Boom Lift",
+      "Blade"
+    ],
+    "category" : "Parts of a Tractor",
+    "clues" : [
+      {
+        "answer" : "WHEEL",
+        "clue" : "WHL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BRAKE",
+        "clue" : "BRK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "AXLE",
+        "clue" : "XL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "STEERING WHEEL",
+        "clue" : "STRNG WHL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "RADIATOR",
+        "clue" : "RDTR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TRANSMISSION",
+        "clue" : "TRNSMSSN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ENGINE",
+        "clue" : "NGN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BATTERY",
+        "clue" : "BTTR",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-22",
+  "schemaVersion" : 1
+}

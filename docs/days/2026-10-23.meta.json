@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "astronomy",
+    "history",
+    "space exploration"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "HARRISON SCHMITT",
+      "difficulty" : 6,
+      "clue" : "HRRSN SCHMTT"
+    },
+    {
+      "answer" : "JOHN YOUNG",
+      "difficulty" : 3,
+      "clue" : "JHN YNG"
+    },
+    {
+      "answer" : "CHARLES DUKE",
+      "difficulty" : 5,
+      "clue" : "CHRLS DK"
+    },
+    {
+      "answer" : "DAVID SCOTT",
+      "difficulty" : 5,
+      "clue" : "DVD SCTT"
+    },
+    {
+      "answer" : "EDGAR MITCHELL",
+      "difficulty" : 6,
+      "clue" : "DGR MTCHLL"
+    },
+    {
+      "answer" : "THOMAS STAFFORD",
+      "difficulty" : 6,
+      "clue" : "THMS STFFRD"
+    },
+    {
+      "answer" : "JAMES IRWIN",
+      "difficulty" : 7,
+      "clue" : "JMS RWN"
+    },
+    {
+      "answer" : "FRED HAISE",
+      "difficulty" : 6,
+      "clue" : "FRD HS"
+    },
+    {
+      "answer" : "WILLIAM ANDERS",
+      "difficulty" : 7,
+      "clue" : "WLLM NDRS"
+    },
+    {
+      "answer" : "STUART ROOSA",
+      "difficulty" : 8,
+      "clue" : "STRT RS"
+    },
+    {
+      "answer" : "RICHARD GORDON",
+      "difficulty" : 8,
+      "clue" : "RCHR GRDN"
+    },
+    {
+      "answer" : "RONALD EVANS",
+      "difficulty" : 9,
+      "clue" : "RNLD VNS"
+    }
+  ]
+}
