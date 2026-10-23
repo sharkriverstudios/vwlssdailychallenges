@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "halloween",
+    "popular culture",
+    "traditions"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "MMY",
+      "difficulty" : 2,
+      "answer" : "MUMMY"
+    },
+    {
+      "clue" : "DRCL",
+      "difficulty" : 2,
+      "answer" : "DRACULA"
+    },
+    {
+      "clue" : "FRNKNSTN",
+      "difficulty" : 4,
+      "answer" : "FRANKENSTEIN"
+    },
+    {
+      "clue" : "PHNTM",
+      "difficulty" : 4,
+      "answer" : "PHANTOM"
+    },
+    {
+      "clue" : "WNDR WMN",
+      "difficulty" : 5,
+      "answer" : "WONDER WOMAN"
+    },
+    {
+      "clue" : "SHRLCK HLMS",
+      "difficulty" : 5,
+      "answer" : "SHERLOCK HOLMES"
+    },
+    {
+      "clue" : "STRNT",
+      "difficulty" : 6,
+      "answer" : "ASTRONAUT"
+    },
+    {
+      "clue" : "SPRHR",
+      "difficulty" : 6,
+      "answer" : "SUPERHERO"
+    },
+    {
+      "clue" : "DNSR",
+      "difficulty" : 5,
+      "answer" : "DINOSAUR"
+    },
+    {
+      "clue" : "KNGHT",
+      "difficulty" : 5,
+      "answer" : "KNIGHT"
+    },
+    {
+      "answer" : "CIRCUS RINGMASTER",
+      "clue" : "CRCS RNGMSTR",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "STEAMPUNK",
+      "clue" : "STMPNK",
+      "difficulty" : 6
+    }
+  ]
+}

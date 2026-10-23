@@ -1,0 +1,91 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Incisors",
+      "Canines",
+      "Premolars",
+      "Molars",
+      "Wisdom Teeth",
+      "Carnassials",
+      "Tusks",
+      "Ivory",
+      "Fangs",
+      "Bicuspids",
+      "Tricuspids",
+      "Bunodonts",
+      "Lophodonts",
+      "Selenodonts",
+      "Hypsodonts",
+      "Brachydonts",
+      "Diastema",
+      "Cusps",
+      "Dental Formula",
+      "Dental Arcade",
+      "Dental Lamina",
+      "Enamel",
+      "Dentin",
+      "Cementum",
+      "Root",
+      "Crown",
+      "Cuspids",
+      "Occlusal Surface",
+      "Maxillary Teeth",
+      "Mandibular Teeth",
+      "Heterodont Dentition",
+      "Homodont Dentition",
+      "Polyphyodont",
+      "Diphyodont",
+      "Monophyodont",
+      "Deciduous Teeth",
+      "Primary Teeth",
+      "Permanent Teeth"
+    ],
+    "category" : "Teeth",
+    "clues" : [
+      {
+        "answer" : "INCISOR",
+        "clue" : "NCSR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MOLAR",
+        "clue" : "MLR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CANINE",
+        "clue" : "CNN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PREMOLAR",
+        "clue" : "PRMLR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FANGS",
+        "clue" : "FNGS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TUSKS",
+        "clue" : "TSKS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WISDOM TOOTH",
+        "clue" : "WSDM TTH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TRICUSPIDS",
+        "clue" : "TRCSPDS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-11-05",
+  "schemaVersion" : 1
+}

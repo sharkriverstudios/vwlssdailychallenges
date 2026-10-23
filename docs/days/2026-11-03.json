@@ -1,0 +1,110 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Model T",
+      "Mustang",
+      "F-150",
+      "Explorer",
+      "Fusion",
+      "Focus",
+      "Bronco",
+      "Escape",
+      "Expedition",
+      "Edge",
+      "Taurus",
+      "Fiesta",
+      "Ranger",
+      "Maverick",
+      "Pinto",
+      "Thunderbird",
+      "Fairlane",
+      "Galaxy",
+      "Crown Victoria",
+      "Escort",
+      "Continentals",
+      "EcoSport",
+      "Flex",
+      "Windstar",
+      "Aerostar",
+      "Probe",
+      "Tempo",
+      "Mondeo",
+      "Falcon",
+      "Granada",
+      "Capri",
+      "Kuga",
+      "Sierra",
+      "Cougar",
+      "C-Max",
+      "B-Max",
+      "Transit",
+      "Courier",
+      "Freestyle",
+      "Five Hundred",
+      "Aspire",
+      "Econoline",
+      "Freestar",
+      "Excursion",
+      "Festiva",
+      "Sable",
+      "Zephyr",
+      "Shelby GT500",
+      "Elite",
+      "Skyliner",
+      "Anglia",
+      "Scorpio",
+      "Taunus",
+      "Orion",
+      "Ka",
+      "Consul",
+      "Galaxy"
+    ],
+    "category" : "Ford Motor Company",
+    "clues" : [
+      {
+        "answer" : "MODEL T",
+        "clue" : "MDL T",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MUSTANG",
+        "clue" : "MSTNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EXPLORER",
+        "clue" : "XPLRR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BRONCO",
+        "clue" : "BRNC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "RANGER",
+        "clue" : "RNGR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FOCUS",
+        "clue" : "FCS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THUNDERBIRD",
+        "clue" : "THNDRBRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ESCAPE",
+        "clue" : "SCP",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-03",
+  "schemaVersion" : 1
+}

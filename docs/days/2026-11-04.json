@@ -1,0 +1,105 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Hugh Grant",
+      "Hugh Jackman",
+      "Hugh Laurie",
+      "Hugh Hefner",
+      "Hugh Bonneville",
+      "Hugh Dancy",
+      "Hugh Dennis",
+      "Hugh Fearnley-Whittingstall",
+      "Hugh Grosvenor",
+      "Hugh Hudson",
+      "Hugh Downs",
+      "Hugh O'Brian",
+      "Hugh Brannum",
+      "Hugh McElhenny",
+      "Hugh Cornwell",
+      "Hugh Panaro",
+      "Hugh Paddick",
+      "Hugh Quarshie",
+      "Hugh Riminton",
+      "Hugh Sheridan",
+      "Hugh Scully",
+      "Hugh Skinner",
+      "Hugh Thompson",
+      "Hugh Wilson",
+      "Hugh McColl",
+      "Hugh Segal",
+      "Hugh Keays-Byrne",
+      "Hugh Masekela",
+      "Hugh McElroy",
+      "Hugh MacDiarmid",
+      "Hugh Walpole",
+      "Hugh Lofting",
+      "Hugh Miller",
+      "Hugh Trevor-Roper",
+      "Hugh Williamson",
+      "Hugh Raffles",
+      "Hugh Sealy",
+      "Hugh Beaumont",
+      "Hugh Freeze",
+      "Hugh Sheridan",
+      "Hugh Latimer",
+      "Hugh Carthy",
+      "Hugh Gaitskell",
+      "Hugh Laurie",
+      "Hugh Bonneville",
+      "Hugh Fraser",
+      "Hugh Edwards",
+      "Hugh Marlowe",
+      "Hugh Griffith",
+      "Hugh Dillon",
+      "Hugh Lockhart",
+      "Hugh Lurie"
+    ],
+    "category" : "Famous Hughs",
+    "clues" : [
+      {
+        "answer" : "HUGH GRANT",
+        "clue" : "HGH GRNT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HUGH JACKMAN",
+        "clue" : "HGH JCKMN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "HUGH HEFNER",
+        "clue" : "HGH HFNR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HUGH LAURIE",
+        "clue" : "HGH LR",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HUGH DOWNS",
+        "clue" : "HGH DWNS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HUGH BONNEVILLE",
+        "clue" : "HGH BNNVLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HUGH DENNIS",
+        "clue" : "HGH DNNS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "HUGH MASAKELA",
+        "clue" : "HGH MSKL",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-04",
+  "schemaVersion" : 1
+}

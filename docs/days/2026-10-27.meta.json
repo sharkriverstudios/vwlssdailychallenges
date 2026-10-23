@@ -1,0 +1,90 @@
+{
+  "tags" : [
+    "culinary",
+    "agriculture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "JERUSALEM ARTICHOKE",
+      "clue" : "JRSLM RTCHK",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "ZUCCHINI",
+      "clue" : "ZCCHN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "BELL PEPPER",
+      "clue" : "BLL PPR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TURNIP",
+      "clue" : "TRNP",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "EGGPLANT",
+      "clue" : "GGPLNT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "BUTTERNUT SQUASH",
+      "clue" : "BTRNT SQSH",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SPAGHETTI SQUASH",
+      "clue" : "SPGHTT SQSH",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ARTICHOKE",
+      "clue" : "RTCHK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SAVOY CABBAGE",
+      "clue" : "SVY CBBG",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BRUSSELS SPROUTS",
+      "clue" : "BRSSL SPRTS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "WATER CHESTNUT",
+      "clue" : "WTR CHSTNT",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "JICAMA",
+      "clue" : "JCM",
+      "difficulty" : 9
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

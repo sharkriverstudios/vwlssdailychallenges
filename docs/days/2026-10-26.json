@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "The Band",
+      "George Harrison",
+      "Johnny Cash",
+      "Joan Baez",
+      "Eric Clapton",
+      "Tom Petty",
+      "Mark Knopfler",
+      "Willie Nelson",
+      "Neil Young",
+      "Ronnie Wood",
+      "Ringo Starr",
+      "Van Morrison",
+      "John Lennon",
+      "Mick Jagger",
+      "Keith Richards",
+      "Roger McGuinn",
+      "Emmylou Harris",
+      "Jerry Garcia",
+      "Robbie Robertson",
+      "T Bone Burnett",
+      "Leon Russell",
+      "Al Kooper",
+      "Bruce Springsteen",
+      "Paul Simon",
+      "Carlos Santana",
+      "Roy Orbison",
+      "Bono",
+      "Patti Smith",
+      "Stevie Nicks",
+      "Joni Mitchell",
+      "Tom Morello",
+      "Daniel Lanois",
+      "Jeff Lynne",
+      "Rick Danko",
+      "Garth Hudson",
+      "Levon Helm",
+      "Charlie McCoy",
+      "Johnny Winter",
+      "Kris Kristofferson",
+      "Levon Helm",
+      "Rick Danko",
+      "Garth Hudson",
+      "Charlie Sexton",
+      "Tony Garnier",
+      "David Bromberg",
+      "Merle Haggard",
+      "Allen Ginsberg",
+      "Michael Bloomfield",
+      "Jack White",
+      "Norah Jones",
+      "Lucinda Williams",
+      "Elvis Costello",
+      "John Mellencamp"
+    ],
+    "category" : "Played with Bob Dylan",
+    "clues" : [
+      {
+        "answer" : "JOHNNY CASH",
+        "clue" : "JHNN CSH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ERIC CLAPTON",
+        "clue" : "RC CLPTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TOM PETTY",
+        "clue" : "TM PTT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GEORGE HARRISON",
+        "clue" : "GRG HRRSN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WILLIE NELSON",
+        "clue" : "WLL NLSN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JOAN BAEZ",
+        "clue" : "JN BZ",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JONI MITCHELL",
+        "clue" : "JN MTCHLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "NEIL YOUNG",
+        "clue" : "NL YNG",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-26",
+  "schemaVersion" : 1
+}

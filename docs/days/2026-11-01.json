@@ -1,0 +1,99 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Essential",
+      "Vital",
+      "Pivotal",
+      "Crucial",
+      "Decisive",
+      "Urgent",
+      "Key",
+      "Important",
+      "Significant",
+      "Imperative",
+      "Pressing",
+      "Momentous",
+      "Paramount",
+      "Necessary",
+      "Fundamental",
+      "Indispensable",
+      "Core",
+      "Central",
+      "Integral",
+      "Major",
+      "Serious",
+      "Grave",
+      "Severe",
+      "Acute",
+      "Judgmental",
+      "Analytical",
+      "Evaluative",
+      "Assessing",
+      "Discerning",
+      "Faultfinding",
+      "Censorious",
+      "Judicious",
+      "Opinionated",
+      "Diagnostic",
+      "Insightful",
+      "Perceptive",
+      "Observant",
+      "Introspective",
+      "Reflective",
+      "Thoughtful",
+      "Scrutinizing",
+      "Appraising",
+      "Investigative",
+      "Interrogative",
+      "Demanding",
+      "Exacting"
+    ],
+    "category" : "Critical",
+    "clues" : [
+      {
+        "answer" : "ESSENTIAL",
+        "clue" : "SSNTL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "VITAL",
+        "clue" : "VTL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "URGENT",
+        "clue" : "RGNT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "PIVOTAL",
+        "clue" : "PVTL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DECISIVE",
+        "clue" : "DCSV",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JUDGMENTAL",
+        "clue" : "JDGMNTL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "DISCRIMINATING",
+        "clue" : "DSCRMNTNG",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "SCRUTINIZING",
+        "clue" : "SCRTNZNG",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-01",
+  "schemaVersion" : 1
+}

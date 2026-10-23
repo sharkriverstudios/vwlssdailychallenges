@@ -1,0 +1,91 @@
+{
+  "description" : "breeds of hound dog",
+  "tags" : [
+    "animals",
+    "pets"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 7,
+      "clue" : "BZN HND",
+      "answer" : "IBIZAN HOUND"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "HRR",
+      "answer" : "HARRIER"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SLK",
+      "answer" : "SALUKI"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "PHRH HND",
+      "answer" : "PHARAOH HOUND"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FGHN HND",
+      "answer" : "AFGHAN HOUND"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "SCTTSH DRHND",
+      "answer" : "SCOTTISH DEERHOUND"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "TTRHND",
+      "answer" : "OTTERHOUND"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "NRWG N LKHND",
+      "answer" : "NORWEGIAN ELKHOUND"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "PRTG S PDNG",
+      "answer" : "PORTUGUESE PODENGO"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "NGLSH FXHND",
+      "answer" : "ENGLISH FOXHOUND"
+    },
+    {
+      "difficulty" : 5,
+      "clue" : "MRCN FXHND",
+      "answer" : "AMERICAN FOXHOUND"
+    },
+    {
+      "difficulty" : 10,
+      "clue" : "PTT BSS T GRFFN VNDN",
+      "answer" : "PETIT BASSET GRIFFON VENDEEN"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "NICK FOR NICHOLAS",
+      "clue" : "NCK FR NCHLS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LIZ FOR ELIZABETH",
+      "clue" : "LZ FR LZBTH",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MIKE FOR MICHAEL",
+      "clue" : "MK FR MCHL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PAT FOR PATRICK",
+      "clue" : "PT FR PTRCK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "STEVE FOR STEVEN",
+      "clue" : "STV FR STVN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PETE FOR PETER",
+      "clue" : "PT FR PTR",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MATT FOR MATTHEW",
+      "clue" : "MTT FR MTTHW",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "CHRIS FOR CHRISTOPHER",
+      "clue" : "CHRS FR CHRSTPHR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "KATE FOR KATHERINE",
+      "clue" : "KT FR KTHRN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "RICK FOR RICHARD",
+      "clue" : "RCK FR RCHRD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PHIL FOR PHILIP",
+      "clue" : "PHL FR PHLP",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "RALPH FOR RAPHAEL",
+      "clue" : "RLPH FR RPHL",
+      "difficulty" : 7
+    }
+  ],
+  "description" : "the nickname, then the word \"for\" then the name it's associated with e.g. \"Bill for William\"",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "language",
+    "common knowledge"
+  ]
+}

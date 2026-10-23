@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "music",
+    "popular culture"
+  ],
+  "description" : "Artists who have famously collaborated with Bob Dylan",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "VAN MORRISON",
+      "clue" : "VN MRRSN",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "THE BAND",
+      "clue" : "TH BND",
+      "difficulty" : 2
+    },
+    {
+      "answer" : "RINGO STARR",
+      "clue" : "RNG STRR",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "PAUL SIMON",
+      "clue" : "PL SMN",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "MARK KNOPFLER",
+      "clue" : "MRK KNPLR",
+      "difficulty" : 5
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "ROBBIE ROBERTSON",
+      "clue" : "RBB RBRTSN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "RONNIE WOOD",
+      "clue" : "RNN WD"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "BRUCE SPRINGSTEEN",
+      "clue" : "BRC SPRNGSTN"
+    },
+    {
+      "difficulty" : 1,
+      "answer" : "BOB DYLAN",
+      "clue" : "BB DYLN"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "BONO",
+      "clue" : "BN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "MICK JAGGER",
+      "clue" : "MCK JGGR"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "KEITH RICHARDS",
+      "clue" : "KTH RCHRDS"
+    }
+  ]
+}

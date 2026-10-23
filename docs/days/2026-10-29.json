@@ -1,0 +1,117 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Treble Clef",
+      "Bass Clef",
+      "Quarter Note",
+      "Eighth Note",
+      "Whole Note",
+      "Half Note",
+      "Sixteenth Note",
+      "Dotted Note",
+      "Time Signature",
+      "Key Signature",
+      "Sharp",
+      "Flat",
+      "Natural",
+      "Ledger Line",
+      "Measure",
+      "Bar Line",
+      "Rest",
+      "Crescendo",
+      "Decrescendo",
+      "Fermata",
+      "Accent",
+      "Staccato",
+      "Legato",
+      "Slur",
+      "Tie",
+      "Trill",
+      "Glissando",
+      "Arpeggio",
+      "Dynamics",
+      "Tempo",
+      "Metronome Marking",
+      "Da Capo",
+      "Dal Segno",
+      "Fine",
+      "Coda",
+      "Repeat Sign",
+      "Chords",
+      "Interval",
+      "Octave",
+      "Staff",
+      "Grand Staff",
+      "Key Signature",
+      "Scale",
+      "Pitch",
+      "Harmony",
+      "Melody",
+      "Counterpoint",
+      "Syncopation",
+      "Polyrhythm",
+      "Cadence",
+      "Motif",
+      "Ostinato",
+      "Prelude",
+      "Fugue",
+      "Sonata",
+      "Symphony",
+      "Concerto",
+      "Canon",
+      "Figured Bass",
+      "Ornament",
+      "Appoggiatura",
+      "Acciaccatura",
+      "Turn",
+      "Grace Note"
+    ],
+    "category" : "Music Notation",
+    "clues" : [
+      {
+        "answer" : "SHARP",
+        "clue" : "SHRP",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BASS CLEF",
+        "clue" : "BSS CLF",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "QUARTER NOTE",
+        "clue" : "QRTR NT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ACCENT",
+        "clue" : "CCNT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TIME SIGNATURE",
+        "clue" : "TM SGNTR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FERMATA",
+        "clue" : "FRMT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CODA",
+        "clue" : "CD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GLISSANDO",
+        "clue" : "GLSSND",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-29",
+  "schemaVersion" : 1
+}

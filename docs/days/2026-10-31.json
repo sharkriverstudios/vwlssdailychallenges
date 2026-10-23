@@ -1,0 +1,129 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Witch",
+      "Vampire",
+      "Ghost",
+      "Zombie",
+      "Pirate",
+      "Werewolf",
+      "Skeleton",
+      "Mummy",
+      "Devil",
+      "Pumpkin",
+      "Clown",
+      "Fairy",
+      "Princess",
+      "Superhero",
+      "Ninja",
+      "Doctor",
+      "Police Officer",
+      "Firefighter",
+      "Cat",
+      "Dog",
+      "Batman",
+      "Spider-Man",
+      "Wonder Woman",
+      "Harry Potter",
+      "Dinosaur",
+      "Astronaut",
+      "Cowboy",
+      "Cheerleader",
+      "Frankenstein",
+      "Dracula",
+      "Mermaid",
+      "Unicorn",
+      "Alien",
+      "Angel",
+      "Grim Reaper",
+      "Jester",
+      "Knight",
+      "Queen",
+      "King",
+      "Elf",
+      "Robot",
+      "Bunny",
+      "Minion",
+      "Samurai",
+      "Pirate Captain",
+      "Mad Scientist",
+      "Gorilla",
+      "Viking",
+      "Bee",
+      "Ladybug",
+      "Lion",
+      "Tiger",
+      "Dragon",
+      "Hippie",
+      "Rockstar",
+      "Gladiator",
+      "Steampunk",
+      "Circus Ringmaster",
+      "Cleopatra",
+      "Monster",
+      "Ballerina",
+      "Chef",
+      "Astronaut",
+      "Detective",
+      "Mime",
+      "Sailor",
+      "Wizard",
+      "Joker",
+      "Nun",
+      "Cyborg",
+      "Phantom",
+      "Caveman",
+      "Gangster",
+      "Sherlock Holmes",
+      "Maid",
+      "Pharaoh"
+    ],
+    "category" : "Halloween Costumes",
+    "clues" : [
+      {
+        "answer" : "WITCH",
+        "clue" : "WTCH",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "VAMPIRE",
+        "clue" : "VMPR",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "GHOST",
+        "clue" : "GHST",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "ZOMBIE",
+        "clue" : "ZMB",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PIRATE",
+        "clue" : "PRT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "WEREWOLF",
+        "clue" : "WRWLF",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SKELETON",
+        "clue" : "SKLTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GRIM REAPER",
+        "clue" : "GRM RPR",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-31",
+  "schemaVersion" : 1
+}

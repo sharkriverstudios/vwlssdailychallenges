@@ -1,0 +1,92 @@
+{
+  "description" : "types of teeth, in the human mouth or in the mouths of other animals",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "BCSPDS",
+      "answer" : "BICUSPIDS",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CRNSSL",
+      "answer" : "CARNASSIALS",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "HYPSDNT",
+      "answer" : "HYPSODONTS",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "LPHDNT",
+      "answer" : "LOPHODONTS",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "BRHYDNT",
+      "answer" : "BRAHYDONT",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "DPHYDNT",
+      "answer" : "DIPHYODONT",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "DCDS TTH",
+      "answer" : "DECIDUOUS TEETH",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SLDNT",
+      "answer" : "SELODONT",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "MNPHYDNT",
+      "answer" : "MONOPHYODONT",
+      "difficulty" : 10
+    },
+    {
+      "clue" : "DST",
+      "answer" : "DIATEMA",
+      "difficulty" : 10
+    },
+    {
+      "clue" : "NML",
+      "answer" : "ENAMEL",
+      "difficulty" : 3
+    },
+    {
+      "clue" : "DNTN",
+      "answer" : "DENTIN",
+      "difficulty" : 3
+    }
+  ],
+  "tags" : [
+    "biology",
+    "health",
+    "animals"
+  ]
+}

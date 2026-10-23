@@ -1,0 +1,88 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Afghan Hound",
+      "Basset Hound",
+      "Beagle",
+      "Bloodhound",
+      "Borzoi",
+      "Coonhound",
+      "Dachshund",
+      "Foxhound",
+      "Greyhound",
+      "Harrier",
+      "Ibizan Hound",
+      "Irish Wolfhound",
+      "Otterhound",
+      "Pharaoh Hound",
+      "Plott Hound",
+      "Rhodesian Ridgeback",
+      "Saluki",
+      "Scottish Deerhound",
+      "Whippet",
+      "Basenji",
+      "Norwegian Elkhound",
+      "Portuguese Podengo",
+      "Petit Basset Griffon Vendeen",
+      "American Foxhound",
+      "English Foxhound",
+      "Finnish Spitz",
+      "Hamiltonstovare",
+      "Italian Greyhound",
+      "Black And Tan Coonhound",
+      "Treeing Walker Coonhound",
+      "Redbone Coonhound",
+      "Bluetick Coonhound",
+      "Grand Basset Griffon Vendeen",
+      "American English Coonhound",
+      "Sloughi"
+    ],
+    "category" : "Hound Dogs",
+    "clues" : [
+      {
+        "answer" : "BEAGLE",
+        "clue" : "BGL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BLOODHOUND",
+        "clue" : "BLDHND",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GREYHOUND",
+        "clue" : "GRYHND",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DACHSHUND",
+        "clue" : "DCHSHND",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BASSET HOUND",
+        "clue" : "BSS TH ND",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WHIPPET",
+        "clue" : "WH PPT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "RHODESIAN RIDGEBACK",
+        "clue" : "RHD SN RDGBCK",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "BORZOI",
+        "clue" : "BRZ",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-30",
+  "schemaVersion" : 1
+}

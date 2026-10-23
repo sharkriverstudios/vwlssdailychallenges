@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "RED ANJOU",
+      "difficulty" : 4,
+      "clue" : "RD NJ"
+    },
+    {
+      "answer" : "GREEN ANJOU",
+      "difficulty" : 5,
+      "clue" : "GRN NJ"
+    },
+    {
+      "answer" : "WILLIAMS",
+      "difficulty" : 7,
+      "clue" : "WLLMS"
+    },
+    {
+      "answer" : "PACKHAM'S TRIUMPH",
+      "difficulty" : 8,
+      "clue" : "PCKHM'S TRMPH"
+    },
+    {
+      "answer" : "CLAPP'S FAVORITE",
+      "difficulty" : 9,
+      "clue" : "CLPP'S FVRT"
+    },
+    {
+      "answer" : "BEURRE BOSC",
+      "difficulty" : 4,
+      "clue" : "BRR BSC"
+    },
+    {
+      "answer" : "HARROW DELIGHT",
+      "difficulty" : 8,
+      "clue" : "HRRW DLGT"
+    },
+    {
+      "answer" : "WINTER NELIS",
+      "difficulty" : 7,
+      "clue" : "WNTR NLS"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "BT FTL",
+      "answer" : "ABATE FETEL"
+    },
+    {
+      "difficulty" : 9,
+      "clue" : "CLMB RD",
+      "answer" : "COLUMBIA RED"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "BRR HRD",
+      "answer" : "BEURRE HARDY"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "FLMSH BTY",
+      "answer" : "FLEMISH BEAUTY"
+    }
+  ],
+  "tags" : [
+    "culinary",
+    "agriculture",
+    "common knowledge"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

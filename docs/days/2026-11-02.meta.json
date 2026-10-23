@@ -1,0 +1,90 @@
+{
+  "extraClues" : [
+    {
+      "answer" : "OXFORDS",
+      "clue" : "XFRDS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ESPADRILLES",
+      "clue" : "SPDRLLS",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "SANDALS",
+      "clue" : "SNDLS",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "WEDGES",
+      "clue" : "WDGS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ANKLE BOOTS",
+      "clue" : "NKL BTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "COWBOY BOOTS",
+      "clue" : "CWB Y BTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SOCCER CLEATS",
+      "clue" : "SCCR CLTS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "RUNNING SHOES",
+      "clue" : "RNNNG SHS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "DRESS SHOES",
+      "clue" : "DRSS SHS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "GALOSHES",
+      "clue" : "GLSHS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "MARY JANES",
+      "clue" : "MRY JNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "PLATFORM SHOES",
+      "clue" : "PLTFRM SHS",
+      "difficulty" : 5
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "fashion",
+    "common knowledge"
+  ]
+}

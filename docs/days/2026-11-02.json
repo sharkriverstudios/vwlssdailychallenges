@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Loafers",
+      "Flip Flops",
+      "High Heels",
+      "Slippers",
+      "Clogs",
+      "Moccasins",
+      "Oxfords",
+      "Ballet Flats",
+      "Wedges",
+      "Espadrilles",
+      "Ankle Boots",
+      "Cowboy Boots",
+      "Soccer Cleats",
+      "Running Shoes",
+      "Hiking Boots",
+      "Dress Shoes",
+      "Galoshes",
+      "Mary Janes",
+      "Platform Shoes",
+      "Combat Boots",
+      "Mules",
+      "Boat Shoes",
+      "Chukka Boots",
+      "Slides",
+      "Slingbacks",
+      "Peep Toe Shoes",
+      "Pumps",
+      "Chelsea Boots",
+      "Chopines",
+      "Sabots",
+      "Derby Shoes",
+      "Jelly Shoes",
+      "Plimsolls",
+      "Deck Shoes",
+      "Court Shoes",
+      "Brogues",
+      "Tennis Shoes",
+      "Duck Boots",
+      "Monk Straps",
+      "Alpargatas",
+      "T-Strap Sandals",
+      "Kitten Heels",
+      "Espadrilles",
+      "Gladiator Sandals",
+      "Riding Boots",
+      "Thigh High Boots",
+      "Wingtip Shoes",
+      "Zori"
+    ],
+    "category" : "You Put Them on Your Feet",
+    "clues" : [
+      {
+        "answer" : "SNEAKERS",
+        "clue" : "SNKRS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "FLIP FLOPS",
+        "clue" : "FLP FLPS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HIGH HEELS",
+        "clue" : "HGH HLS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SLIPPERS",
+        "clue" : "SLPPRS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BOOTS",
+        "clue" : "BTS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CLOGS",
+        "clue" : "CLGS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LOAFERS",
+        "clue" : "LFRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MOCCASINS",
+        "clue" : "MCCSNS",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-11-02",
+  "schemaVersion" : 1
+}

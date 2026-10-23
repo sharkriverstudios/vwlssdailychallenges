@@ -1,0 +1,89 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 6,
+      "answer" : "LEDGER LINE",
+      "clue" : "LDGR LN"
+    },
+    {
+      "difficulty" : 3,
+      "answer" : "NATURAL",
+      "clue" : "NTRL"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "DYNAMICS",
+      "clue" : "DNMCS"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "CRESCENDO",
+      "clue" : "CRSCND"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "ARPEGGIO",
+      "clue" : "RPGG"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "METRONOME MARKING",
+      "clue" : "MTRNM MRKNG"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "KEY SIGNATURE",
+      "clue" : "KY SGNTR"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "TREBLE CLEF",
+      "clue" : "TRBL CLF"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "OSTINATO",
+      "clue" : "STNT"
+    },
+    {
+      "difficulty" : 1,
+      "answer" : "RHYTHM",
+      "clue" : "RHYTHM"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SYNCOPATION",
+      "clue" : "SYNCPTN"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "POLYRHYTHM",
+      "clue" : "PLYRHYTHM"
+    }
+  ],
+  "tags" : [
+    "music"
+  ]
+}

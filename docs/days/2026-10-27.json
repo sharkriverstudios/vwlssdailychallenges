@@ -1,0 +1,111 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Carrot",
+      "Potato",
+      "Celery",
+      "Onion",
+      "Garlic",
+      "Turnip",
+      "Parsnip",
+      "Leek",
+      "Peas",
+      "Green Beans",
+      "Tomato",
+      "Bell Pepper",
+      "Zucchini",
+      "Mushroom",
+      "Corn",
+      "Cabbage",
+      "Cauliflower",
+      "Broccoli",
+      "Squash",
+      "Kale",
+      "Spinach",
+      "Chard",
+      "Fennel",
+      "Sweet Potato",
+      "Radish",
+      "Rutabaga",
+      "Brussels Sprouts",
+      "Eggplant",
+      "Pumpkin",
+      "Okra",
+      "Artichoke",
+      "Asparagus",
+      "Beetroot",
+      "Bok Choy",
+      "Jicama",
+      "Yam",
+      "Collard Greens",
+      "Escarole",
+      "Endive",
+      "Celeriac",
+      "Mustard Greens",
+      "Horseradish",
+      "Kohlrabi",
+      "Water Chestnut",
+      "Taro",
+      "Chayote",
+      "Jerusalem Artichoke",
+      "Salsify",
+      "Turnip Greens",
+      "Romaine Lettuce",
+      "Butterhead Lettuce",
+      "Radicchio",
+      "Savoy Cabbage",
+      "Napa Cabbage",
+      "Acorn Squash",
+      "Butternut Squash",
+      "Spaghetti Squash",
+      "Pattypan Squash"
+    ],
+    "category" : "Vegetable Stew",
+    "clues" : [
+      {
+        "answer" : "CARROT",
+        "clue" : "CRRT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "POTATO",
+        "clue" : "PTT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "TOMATO",
+        "clue" : "TMT",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "BROCCOLI",
+        "clue" : "BRCCL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CELERY",
+        "clue" : "CLR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PARSNIP",
+        "clue" : "PRSNP",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CAULIFLOWER",
+        "clue" : "CLFLWR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ONION",
+        "clue" : "NN",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-27",
+  "schemaVersion" : 1
+}

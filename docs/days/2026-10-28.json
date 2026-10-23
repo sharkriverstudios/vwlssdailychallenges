@@ -1,0 +1,113 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Coco Chanel",
+      "Giorgio Armani",
+      "Karl Lagerfeld",
+      "Yves Saint Laurent",
+      "Donatella Versace",
+      "Christian Dior",
+      "Ralph Lauren",
+      "Tommy Hilfiger",
+      "Calvin Klein",
+      "Alexander McQueen",
+      "Valentino Garavani",
+      "Jean-Paul Gaultier",
+      "Marc Jacobs",
+      "Michael Kors",
+      "Stella McCartney",
+      "Vivienne Westwood",
+      "Oscar de la Renta",
+      "Donna Karan",
+      "Miuccia Prada",
+      "Guccio Gucci",
+      "Hubert de Givenchy",
+      "Thierry Mugler",
+      "John Galliano",
+      "Rei Kawakubo",
+      "Issey Miyake",
+      "Diane von Furstenberg",
+      "Hedi Slimane",
+      "Phoebe Philo",
+      "Giorgio Armani",
+      "Riccardo Tisci",
+      "Jil Sander",
+      "Pierre Balmain",
+      "Gianni Versace",
+      "Azzedine Alaia",
+      "Alber Elbaz",
+      "Cristobal Balenciaga",
+      "Elie Saab",
+      "Carolina Herrera",
+      "Dries Van Noten",
+      "Vera Wang",
+      "Betsey Johnson",
+      "Nicolas Ghesquiere",
+      "Kenzo Takada",
+      "Paul Smith",
+      "Mary Quant",
+      "Tom Ford",
+      "Zac Posen",
+      "Anna Sui",
+      "Tory Burch",
+      "Domenico Dolce",
+      "Stefano Gabbana",
+      "Karl Lagerfeld",
+      "Manolo Blahnik",
+      "Christian Louboutin",
+      "Giambattista Valli",
+      "Hanae Mori",
+      "Raf Simons",
+      "Virgil Abloh",
+      "Olivier Rousteing",
+      "Demna Gvasalia"
+    ],
+    "category" : "Famous Fashion Designers",
+    "clues" : [
+      {
+        "answer" : "CALVIN KLEIN",
+        "clue" : "CLVN KLN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "COCO CHANEL",
+        "clue" : "CC CHNL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GIORGIO ARMANI",
+        "clue" : "GRG RMN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "RALPH LAUREN",
+        "clue" : "RLPHLRN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHRISTIAN DIOR",
+        "clue" : "CHRSTN DR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "GIANNI VERSACE",
+        "clue" : "GNN VRSC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "OSCAR DE LA RENTA",
+        "clue" : "SCRDLRNT",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "MIUCCIA PRADA",
+        "clue" : "MCCPRD",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-28",
+  "schemaVersion" : 1
+}

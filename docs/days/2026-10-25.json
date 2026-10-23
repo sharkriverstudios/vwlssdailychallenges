@@ -1,0 +1,110 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bob For Robert",
+      "Bill For William",
+      "Mike For Michael",
+      "Tom For Thomas",
+      "Jim For James",
+      "Dave For David",
+      "Joe For Joseph",
+      "Rick For Richard",
+      "Pat For Patrick",
+      "Sam For Samuel",
+      "Ben For Benjamin",
+      "Alex For Alexander",
+      "Liz For Elizabeth",
+      "Kate For Katherine",
+      "Nate For Nathan",
+      "Matt For Matthew",
+      "Chris For Christopher",
+      "Steve For Steven",
+      "Dan For Daniel",
+      "Nick For Nicholas",
+      "Ted For Theodore",
+      "Charlie For Charles",
+      "Jack For John",
+      "Frank For Francis",
+      "Jerry For Gerald",
+      "Larry For Lawrence",
+      "Pete For Peter",
+      "Ron For Ronald",
+      "Doug For Douglas",
+      "Phil For Philip",
+      "Tim For Timothy",
+      "Andy For Andrew",
+      "Ray For Raymond",
+      "Maggie For Margaret",
+      "Jenny For Jennifer",
+      "Rob For Robert",
+      "Chuck For Charles",
+      "Jamie For James",
+      "Tony For Anthony",
+      "Sue For Susan",
+      "Harry For Henry",
+      "Leo For Leonard",
+      "Gus For Augustus",
+      "Ed For Edward",
+      "Walt For Walter",
+      "Fred For Frederick",
+      "Hank For Henry",
+      "Mick For Michael",
+      "Paul For Paul",
+      "Barry For Bartholomew",
+      "Rudy For Rudolph",
+      "Marty For Martin",
+      "Jake For Jacob",
+      "Josh For Joshua",
+      "Vince For Vincent",
+      "Russ For Russell",
+      "Ralph For Raphael"
+    ],
+    "category" : "Common Nicknames",
+    "clues" : [
+      {
+        "answer" : "DAVE FOR DAVID",
+        "clue" : "DV FR DVD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "JIM FOR JAMES",
+        "clue" : "JM FR JMS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BOB FOR ROBERT",
+        "clue" : "BB FR RBRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BILL FOR WILLIAM",
+        "clue" : "BLL FR WLLM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TOM FOR THOMAS",
+        "clue" : "TM FR THMS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "JERRY FOR GERALD",
+        "clue" : "JRR FR GRLD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "JACK FOR JOHN",
+        "clue" : "JCK FR JHN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "SUE FOR SUSAN",
+        "clue" : "S FR SSN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 2,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-10-25",
+  "schemaVersion" : 1
+}

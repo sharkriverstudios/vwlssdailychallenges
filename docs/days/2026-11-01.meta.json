@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "language",
+    "communication"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "SIGNIFICANT",
+      "difficulty" : 5,
+      "clue" : "SGNFCT"
+    },
+    {
+      "answer" : "KEY",
+      "difficulty" : 2,
+      "clue" : "KY"
+    },
+    {
+      "answer" : "IMPERATIVE",
+      "difficulty" : 5,
+      "clue" : "MPRTV"
+    },
+    {
+      "answer" : "MOMENTOUS",
+      "difficulty" : 6,
+      "clue" : "MMNTS"
+    },
+    {
+      "answer" : "PARAMOUNT",
+      "difficulty" : 5,
+      "clue" : "PRMNT"
+    },
+    {
+      "answer" : "NECESSARY",
+      "difficulty" : 5,
+      "clue" : "NCCSRY"
+    },
+    {
+      "answer" : "CRUCIAL",
+      "difficulty" : 4,
+      "clue" : "CRCL"
+    },
+    {
+      "answer" : "IMPORTANT",
+      "difficulty" : 4,
+      "clue" : "MPRTNT"
+    },
+    {
+      "answer" : "FUNDAMENTAL",
+      "difficulty" : 6,
+      "clue" : "FNDMNTL"
+    },
+    {
+      "answer" : "INTEGRAL",
+      "difficulty" : 5,
+      "clue" : "NTGRL"
+    },
+    {
+      "answer" : "ANALYTICAL",
+      "difficulty" : 7,
+      "clue" : "NLTCL"
+    },
+    {
+      "answer" : "PERCEPTIVE",
+      "difficulty" : 6,
+      "clue" : "PRCPTV"
+    }
+  ],
+  "description" : "synonyms for the word critical in any of its definitions or uses",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

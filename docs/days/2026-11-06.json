@@ -1,0 +1,91 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bartlett",
+      "Anjou",
+      "Bosc",
+      "Comice",
+      "Seckel",
+      "Forelle",
+      "Concorde",
+      "Asian",
+      "Starkrimson",
+      "Taylor's Gold",
+      "Red Anjou",
+      "Green Anjou",
+      "Packham's Triumph",
+      "Conference",
+      "Williams",
+      "Red Bartlett",
+      "Clapp's Favorite",
+      "Passe Crassane",
+      "Beurre Hardy",
+      "Beurre Bosc",
+      "Beurre d'Anjou",
+      "D'Anjou",
+      "Winter Nelis",
+      "Pineapple",
+      "Le Conte",
+      "Kieffer",
+      "Abate Fetel",
+      "Aurora",
+      "Blake's Pride",
+      "Columbia Red",
+      "Dana Hovey",
+      "Flemish Beauty",
+      "Harrow Delight",
+      "Harrow Sweet",
+      "Magness",
+      "Moonglow",
+      "Orcas",
+      "Red Clapp"
+    ],
+    "category" : "Kinds of Pear",
+    "clues" : [
+      {
+        "answer" : "BOSC",
+        "clue" : "BSC",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BARTLETT",
+        "clue" : "BRTLTT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "ANJOU",
+        "clue" : "NJ",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SECKEL",
+        "clue" : "SCKL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "COMICE",
+        "clue" : "CMC",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STARKRIMSON",
+        "clue" : "STRKRMSN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "FORELLE",
+        "clue" : "FRLL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "CONCORDE",
+        "clue" : "CNCRD",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-06",
+  "schemaVersion" : 1
+}

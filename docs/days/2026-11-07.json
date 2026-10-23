@@ -1,0 +1,94 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Atlantic City",
+      "Cape May",
+      "Liberty State Park",
+      "Princeton University",
+      "Six Flags Great Adventure",
+      "The Jersey Shore",
+      "Thomas Edison National Historical Park",
+      "Grounds For Sculpture",
+      "Paterson Great Falls",
+      "Delaware Water Gap",
+      "The Adventure Aquarium",
+      "Ocean City Boardwalk",
+      "Asbury Park",
+      "The Pine Barrens",
+      "Red Bank",
+      "Hoboken",
+      "Morristown National Historical Park",
+      "Liberty Science Center",
+      "High Point State Park",
+      "Long Beach Island",
+      "Ellis Island",
+      "The Wildwoods",
+      "Seaside Heights",
+      "Battleship New Jersey Museum",
+      "The Lakota Wolf Preserve",
+      "The Meadowlands",
+      "The Palisades",
+      "Monmouth Park Racetrack",
+      "Lambertville",
+      "Frenchtown",
+      "Cape May County Park & Zoo",
+      "Barnegat Lighthouse State Park",
+      "The Hoboken Waterfront",
+      "The Sterling Hill Mining Museum",
+      "The Delaware River Tubing",
+      "The Morris Museum",
+      "The Montclair Art Museum",
+      "The Newark Museum",
+      "The Liberty Hall Museum",
+      "The USS New Jersey",
+      "The Franklin Institute"
+    ],
+    "category" : "New Jersey Road Trip",
+    "clues" : [
+      {
+        "answer" : "ATLANTIC CITY",
+        "clue" : "TLNTC CT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "PRINCETON UNIVERSITY",
+        "clue" : "PRNCTN NVRST",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THE MEADOWLANDS",
+        "clue" : "TH MDWLNDS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE PINE BARRENS",
+        "clue" : "TH PN BRRNS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "LIBERTY STATE PARK",
+        "clue" : "LBRT STT PRK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SIX FLAGS GREAT ADVENTURE",
+        "clue" : "SX FLGS GRT DVNTR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "DELAWARE WATER GAP",
+        "clue" : "DLWR WTR GP",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "THOMAS EDISON NATIONAL HISTORICAL PARK",
+        "clue" : "THMS DSN NTNL HSTRCL PRK",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-07",
+  "schemaVersion" : 1
+}

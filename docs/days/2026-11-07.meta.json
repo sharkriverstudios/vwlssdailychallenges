@@ -1,0 +1,95 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "TH WLDWDS",
+      "difficulty" : 5,
+      "answer" : "THE WILDWOODS"
+    },
+    {
+      "clue" : "LLS SLND",
+      "difficulty" : 3,
+      "answer" : "ELLIS ISLAND"
+    },
+    {
+      "clue" : "TH JRSY SHR",
+      "difficulty" : 4,
+      "answer" : "THE JERSEY SHORE"
+    },
+    {
+      "clue" : "CN CTY BRDWLK",
+      "difficulty" : 7,
+      "answer" : "OCEAN CITY BOARDWALK"
+    },
+    {
+      "clue" : "CP MY",
+      "difficulty" : 3,
+      "answer" : "CAPE MAY"
+    },
+    {
+      "clue" : "PTRSN GRT FLLS",
+      "difficulty" : 6,
+      "answer" : "PATERSON GREAT FALLS"
+    },
+    {
+      "clue" : "HGH PNT STT PRK",
+      "difficulty" : 7,
+      "answer" : "HIGH POINT STATE PARK"
+    },
+    {
+      "clue" : "LNG BCH SLND",
+      "difficulty" : 4,
+      "answer" : "LONG BEACH ISLAND"
+    },
+    {
+      "clue" : "GRNDS FR SCLPTR",
+      "difficulty" : 8,
+      "answer" : "GROUNDS FOR SCULPTURE"
+    },
+    {
+      "clue" : "TH DVNTR QRM",
+      "difficulty" : 9,
+      "answer" : "THE ADVENTURE AQUARIUM"
+    },
+    {
+      "clue" : "TH PLSDS",
+      "difficulty" : 6,
+      "answer" : "THE PALISADES"
+    },
+    {
+      "clue" : "TH LKT WLF PRSRV",
+      "difficulty" : 10,
+      "answer" : "THE LAKOTA WOLF PRESERVE"
+    }
+  ],
+  "description" : "places you would visit in New Jersey if you lived in the area and wanted to take a day trip",
+  "tags" : [
+    "travel",
+    "geography",
+    "culture",
+    "entertainment",
+    "history",
+    "nature"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "fashion",
+    "business",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "difficulty" : 5,
+      "answer" : "ALEXANDER MCQUEEN",
+      "clue" : "LXNDRMQN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "YVES SAINT LAURENT",
+      "clue" : "YVSSNTLRNT"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "KARL LAGERFELD",
+      "clue" : "KRL LGRFLD"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "STELLA MCCARTNEY",
+      "clue" : "STLLMCCRTNY"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DONATELLA VERSACE",
+      "clue" : "DNTLL VRS"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "VALENTINO GARAVANI",
+      "clue" : "VLNTNGRVN"
+    },
+    {
+      "difficulty" : 6,
+      "answer" : "VIVIENNE WESTWOOD",
+      "clue" : "VVNNWSTWD"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "REI KAWAKUBO",
+      "clue" : "RK WK B"
+    },
+    {
+      "difficulty" : 8,
+      "answer" : "ISSEY MIYAKE",
+      "clue" : "SSYMYK"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "JEAN-PAUL GAULTIER",
+      "clue" : "JNPLGLTR"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "HUBERT DE GIVENCHY",
+      "clue" : "HBRTDGVNCHY"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "VERA WANG",
+      "clue" : "VRWNG"
+    }
+  ]
+}

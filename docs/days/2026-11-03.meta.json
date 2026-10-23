@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "business",
+    "transportation",
+    "popular culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "FUSION",
+      "clue" : "FSN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "EXPEDITION",
+      "clue" : "XPDTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "TAURUS",
+      "clue" : "TRS",
+      "difficulty" : 6
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FST",
+      "answer" : "FIESTA"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "MVRCK",
+      "answer" : "MAVERICK"
+    },
+    {
+      "difficulty" : 2,
+      "clue" : "F 150",
+      "answer" : "F-150"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "PNT",
+      "answer" : "PINTO"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "CRWN VCTR",
+      "answer" : "CROWN VICTORIA"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "SCRT",
+      "answer" : "ESCORT"
+    },
+    {
+      "difficulty" : 6,
+      "clue" : "FLCN",
+      "answer" : "FALCON"
+    },
+    {
+      "difficulty" : 7,
+      "clue" : "GLXY",
+      "answer" : "GALAXY"
+    },
+    {
+      "difficulty" : 8,
+      "clue" : "SHLBY GT500",
+      "answer" : "SHELBY GT500"
+    }
+  ],
+  "description" : "Well known models",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
