@@ -1,0 +1,124 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Sydney",
+      "Charlotte",
+      "Dallas",
+      "Austin",
+      "Madison",
+      "Jackson",
+      "Raleigh",
+      "Savannah",
+      "Geneva",
+      "Florence",
+      "Victor",
+      "Adrian",
+      "Milton",
+      "Orlando",
+      "Clinton",
+      "Irving",
+      "Duncan",
+      "Milford",
+      "Cleveland",
+      "Clayton",
+      "Marshall",
+      "Nelson",
+      "Chandler",
+      "Milan",
+      "Lincoln",
+      "Landon",
+      "Bristol",
+      "Marion",
+      "Logan",
+      "Dillon",
+      "Gordon",
+      "Grant",
+      "Preston",
+      "Regina",
+      "Hudson",
+      "Trenton",
+      "Mitchell",
+      "Hamilton",
+      "Lynn",
+      "Brandon",
+      "Kingston",
+      "Harrison",
+      "Shannon",
+      "Paris",
+      "Richmond",
+      "Denver",
+      "Tyler",
+      "Jordan",
+      "Denton",
+      "Benton",
+      "Anderson",
+      "Clinton",
+      "Blaine",
+      "Riley",
+      "Alexandria",
+      "Eugene",
+      "Kendall",
+      "Elgin",
+      "Laurence",
+      "Bailey",
+      "Marion",
+      "Monroe",
+      "Newport",
+      "Quincy",
+      "Warren",
+      "Alvin",
+      "Davis",
+      "Beverly",
+      "Kirkland",
+      "Chester",
+      "Murray"
+    ],
+    "category" : "Cities That Sound Like People",
+    "clues" : [
+      {
+        "answer" : "SYDNEY",
+        "clue" : "SDNY",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHARLOTTE",
+        "clue" : "CHRLTT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MADISON",
+        "clue" : "MDSN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SAVANNAH",
+        "clue" : "SVNNH",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "FLORENCE",
+        "clue" : "FLRNC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GENEVA",
+        "clue" : "GNV",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "KINGSTON",
+        "clue" : "KNGSTN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ORLANDO",
+        "clue" : "RLND",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-08",
+  "schemaVersion" : 1
+}

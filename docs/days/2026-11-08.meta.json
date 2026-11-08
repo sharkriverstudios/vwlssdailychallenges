@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "VCTR",
+      "difficulty" : 7,
+      "answer" : "VICTOR"
+    },
+    {
+      "clue" : "MRSHLL",
+      "difficulty" : 6,
+      "answer" : "MARSHALL"
+    },
+    {
+      "clue" : "MLTN",
+      "difficulty" : 6,
+      "answer" : "MILTON"
+    },
+    {
+      "clue" : "DLLS",
+      "difficulty" : 3,
+      "answer" : "DALLAS"
+    },
+    {
+      "clue" : "DNKN",
+      "difficulty" : 6,
+      "answer" : "DUNCAN"
+    },
+    {
+      "clue" : "TRSTN",
+      "difficulty" : 8,
+      "answer" : "TRISTAN"
+    },
+    {
+      "clue" : "STN",
+      "difficulty" : 7,
+      "answer" : "AUSTIN"
+    },
+    {
+      "clue" : "TYLR",
+      "difficulty" : 5,
+      "answer" : "TYLER"
+    },
+    {
+      "clue" : "JCKSN",
+      "difficulty" : 3,
+      "answer" : "JACKSON"
+    },
+    {
+      "clue" : "CHSTR",
+      "difficulty" : 5,
+      "answer" : "CHESTER"
+    },
+    {
+      "clue" : "MTCHLL",
+      "difficulty" : 7,
+      "answer" : "MITCHELL"
+    },
+    {
+      "clue" : "HRRSN",
+      "difficulty" : 5,
+      "answer" : "HARRISON"
+    }
+  ],
+  "description" : "Cities whose names sound like the names of people, either first or last name. They should not be named after anyone though",
+  "tags" : [
+    "geography",
+    "language"
+  ]
+}
