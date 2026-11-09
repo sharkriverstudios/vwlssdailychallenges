@@ -1,0 +1,103 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bon Jovi",
+      "Poison",
+      "Mötley Crüe",
+      "Def Leppard",
+      "Twisted Sister",
+      "Cinderella",
+      "Ratt",
+      "Skid Row",
+      "Whitesnake",
+      "Quiet Riot",
+      "Warrant",
+      "Dokken",
+      "Great White",
+      "Winger",
+      "L.A. Guns",
+      "Slaughter",
+      "Tesla",
+      "Europe",
+      "Kix",
+      "Vixen",
+      "Faster Pussycat",
+      "Night Ranger",
+      "FireHouse",
+      "Extreme",
+      "White Lion",
+      "Danger Danger",
+      "Stryper",
+      "Britny Fox",
+      "Trixter",
+      "BulletBoys",
+      "Steelheart",
+      "Hurricane",
+      "Femme Fatale",
+      "Helix",
+      "King Kobra",
+      "Y&T",
+      "Autograph",
+      "Bang Tango",
+      "Babylon A.D.",
+      "Badlands",
+      "Blue Murder",
+      "Loudness",
+      "XYZ",
+      "Pretty Boy Floyd",
+      "Saigon Kick",
+      "Black 'N Blue",
+      "Rough Cutt",
+      "Shark Island",
+      "Tigertailz",
+      "Zodiac Mindwarp And The Love Reaction"
+    ],
+    "category" : "80s Hair Bands",
+    "clues" : [
+      {
+        "answer" : "DEF LEPPARD",
+        "clue" : "DF LPPRD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BON JOVI",
+        "clue" : "BN JV",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "TWISTED SISTER",
+        "clue" : "TWSTD SSTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MOTLEY CRUE",
+        "clue" : "MTLY CR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "WHITESNAKE",
+        "clue" : "WHTSNK",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "POISON",
+        "clue" : "PSN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "QUIET RIOT",
+        "clue" : "QT RT",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "RATT",
+        "clue" : "RTT",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-11",
+  "schemaVersion" : 1
+}

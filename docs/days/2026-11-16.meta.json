@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "tags" : [
+    "history",
+    "politics",
+    "culture",
+    "charity"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "AUNG SAN SUU KYI",
+      "clue" : "NG SN S KY",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LIU XIAOBO",
+      "clue" : "L XBB",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MUHAMMAD YUNUS",
+      "clue" : "MHMMD YNS",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "ALBERT SCHWEITZER",
+      "clue" : "LBRT SCHWTZR",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "INTERNATIONAL RED CROSS",
+      "clue" : "NTRNTNL RD CRSS",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "AMNESTY INTERNATIONAL",
+      "clue" : "MNSTY NTRNTNL",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MIKHAIL GORBACHEV",
+      "clue" : "MKHL GRBCHV",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "HENRY KISSINGER",
+      "clue" : "HNRY KSSNGR",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "SHIRIN EBADI",
+      "clue" : "SHRN BD",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "OSCAR ARIAS",
+      "clue" : "SCR RS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "ELLEN JOHNSON SIRLEAF",
+      "clue" : "LLN JHNSN SRLF",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "INTERNATIONAL CAMPAIGN TO BAN LANDMINES",
+      "clue" : "NTRNTNL CMPGN T BN LNDMNS",
+      "difficulty" : 10
+    }
+  ]
+}

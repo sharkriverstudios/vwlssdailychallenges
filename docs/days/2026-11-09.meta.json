@@ -1,0 +1,90 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "MRPHY BD",
+      "difficulty" : 5,
+      "answer" : "MURPHY BED"
+    },
+    {
+      "clue" : "SF BD",
+      "difficulty" : 4,
+      "answer" : "SOFA BED"
+    },
+    {
+      "clue" : "R MTTRSS",
+      "difficulty" : 6,
+      "answer" : "AIR MATTRESS"
+    },
+    {
+      "clue" : "DYBD",
+      "difficulty" : 6,
+      "answer" : "DAYBED"
+    },
+    {
+      "clue" : "CNPY BD",
+      "difficulty" : 7,
+      "answer" : "CANOPY BED"
+    },
+    {
+      "clue" : "TRNDL BD",
+      "difficulty" : 7,
+      "answer" : "TRUNDLE BED"
+    },
+    {
+      "clue" : "CHR LNG",
+      "difficulty" : 8,
+      "answer" : "CHAIR LOUNGE"
+    },
+    {
+      "clue" : "CNVRTBL SF",
+      "difficulty" : 8,
+      "answer" : "CONVERTIBLE SOFA"
+    },
+    {
+      "clue" : "TTM MT",
+      "difficulty" : 9,
+      "answer" : "TATAMI MAT"
+    },
+    {
+      "clue" : "PLTFRM BD",
+      "difficulty" : 7,
+      "answer" : "PLATFORM BED"
+    },
+    {
+      "clue" : "BSSNT",
+      "difficulty" : 7,
+      "answer" : "BASSINET"
+    },
+    {
+      "clue" : "TRLLS BD",
+      "difficulty" : 9,
+      "answer" : "TRELLIS BED"
+    }
+  ],
+  "tags" : [
+    "home",
+    "furniture"
+  ]
+}

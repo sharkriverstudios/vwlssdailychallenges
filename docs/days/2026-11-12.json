@@ -1,0 +1,93 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Chrysanthemum",
+      "Aster",
+      "Japanese Anemone",
+      "Sedum",
+      "Helenium",
+      "Goldenrod",
+      "Dahlia",
+      "Sneezeweed",
+      "Marigold",
+      "Sunflower",
+      "Cyclamen",
+      "Tithonia",
+      "Cosmos",
+      "Zinnia",
+      "Verbena",
+      "Echinacea",
+      "Black-Eyed Susan",
+      "Autumn Crocus",
+      "Salvia",
+      "Coreopsis",
+      "Gaillardia",
+      "Russian Sage",
+      "Rudbeckia",
+      "Helianthus",
+      "Snapdragon",
+      "Coneflower",
+      "Michaelmas Daisy",
+      "Gentian",
+      "Toad Lily",
+      "Mum",
+      "Pansy",
+      "Sweet Alyssum",
+      "Nerine",
+      "Colchicum",
+      "Angelonia",
+      "Viola",
+      "Amaranth",
+      "Pineapple Sage",
+      "Saffron Crocus",
+      "Chelone"
+    ],
+    "category" : "Autumn Flowers",
+    "clues" : [
+      {
+        "answer" : "MUM",
+        "clue" : "MM",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "SUNFLOWER",
+        "clue" : "SNFLWR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARIGOLD",
+        "clue" : "MRGLD",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DAHLIA",
+        "clue" : "DHL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GOLDENROD",
+        "clue" : "GLDNRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CHRYSANTHEMUM",
+        "clue" : "CHRSNTHMM",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "COREOPSIS",
+        "clue" : "CRPSS",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "JAPANESE ANEMONE",
+        "clue" : "JPNS NMN",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-12",
+  "schemaVersion" : 1
+}

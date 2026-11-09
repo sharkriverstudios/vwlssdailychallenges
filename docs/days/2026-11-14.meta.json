@@ -1,0 +1,92 @@
+{
+  "extraClues" : [
+    {
+      "difficulty" : 1,
+      "answer" : "SKY",
+      "clue" : "SKY"
+    },
+    {
+      "difficulty" : 1,
+      "answer" : "FLY",
+      "clue" : "FLY"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "HEARD",
+      "clue" : "HRD"
+    },
+    {
+      "difficulty" : 2,
+      "answer" : "FLANDERS",
+      "clue" : "FLNDRS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "DAWN",
+      "clue" : "DWN"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "FIELDS",
+      "clue" : "FLDS"
+    },
+    {
+      "difficulty" : 7,
+      "answer" : "TORCH",
+      "clue" : "TRCH"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "FOE",
+      "clue" : "F"
+    },
+    {
+      "difficulty" : 4,
+      "answer" : "HANDS",
+      "clue" : "HNDS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "SLEEP",
+      "clue" : "SLP"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "RISE",
+      "clue" : "RS"
+    },
+    {
+      "difficulty" : 5,
+      "answer" : "PEACE",
+      "clue" : "PC"
+    }
+  ],
+  "description" : "words from the poem",
+  "tags" : [
+    "literature",
+    "history",
+    "poetry"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

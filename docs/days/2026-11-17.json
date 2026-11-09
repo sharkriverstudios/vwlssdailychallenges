@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi",
+      "Yenisei",
+      "Yellow",
+      "Ob",
+      "Parana",
+      "Congo",
+      "Amur",
+      "Lena",
+      "Mekong",
+      "Mackenzie",
+      "Niger",
+      "Brahmaputra",
+      "Murray",
+      "Tocantins",
+      "Volga",
+      "Indus",
+      "Madeira",
+      "Purus",
+      "Yukon",
+      "Sao Francisco",
+      "Colorado",
+      "Irtysh",
+      "Syr Darya",
+      "Ganges",
+      "Danube",
+      "Chari",
+      "Salween",
+      "Zambezi",
+      "Ural",
+      "Orinoco",
+      "Araguaia",
+      "Euphrates",
+      "Ohio",
+      "Vistula",
+      "Rhine",
+      "Shatt Al-Arab",
+      "Dnieper",
+      "Kama",
+      "Seine",
+      "Loire",
+      "Tagus",
+      "Elbe",
+      "Douro",
+      "Thames",
+      "Tiber"
+    ],
+    "category" : "World's Longest Rivers",
+    "clues" : [
+      {
+        "answer" : "NILE",
+        "clue" : "NL",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "AMAZON",
+        "clue" : "MZN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "MISSISSIPPI",
+        "clue" : "MSSSSPP",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CONGO",
+        "clue" : "CNG",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "VOLGA",
+        "clue" : "VLG",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MEKONG",
+        "clue" : "MKNG",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BRAHMAPUTRA",
+        "clue" : "BRHMPTR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "EUPHRATES",
+        "clue" : "PHRTS",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-17",
+  "schemaVersion" : 1
+}

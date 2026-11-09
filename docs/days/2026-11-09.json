@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Bed",
+      "Mattress",
+      "Futon",
+      "Couch",
+      "Sofa Bed",
+      "Air Mattress",
+      "Bunk Bed",
+      "Waterbed",
+      "Daybed",
+      "Hammock",
+      "Sleeping Bag",
+      "Canopy Bed",
+      "Loft Bed",
+      "Murphy Bed",
+      "Folding Bed",
+      "Trundle Bed",
+      "Toddler Bed",
+      "Four-Poster Bed",
+      "Platform Bed",
+      "Divan Bed",
+      "Adjustable Bed",
+      "Rollaway Bed",
+      "Tatami Mat",
+      "Camp Bed",
+      "Fainting Couch",
+      "Convertible Sofa",
+      "Chaise Lounge",
+      "Headboard",
+      "Bassinet",
+      "Crib",
+      "Cot",
+      "Daybed",
+      "Platform Bed",
+      "Sleigh Bed",
+      "Caravan Bed",
+      "Captain's Bed",
+      "High Sleeper",
+      "Low Sleeper",
+      "Mission Bed",
+      "Ottoman Bed",
+      "Panel Bed",
+      "Poster Bed",
+      "Slat Bed",
+      "Storage Bed",
+      "Studio Couch",
+      "Trestle Bed",
+      "Wingback Bed",
+      "Z Bed"
+    ],
+    "category" : "You Sleep On It",
+    "clues" : [
+      {
+        "answer" : "BED",
+        "clue" : "BD",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "COUCH",
+        "clue" : "CCH",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MATTRESS",
+        "clue" : "MTTRSS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "WATERBED",
+        "clue" : "WTRBD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SLEEPING BAG",
+        "clue" : "SLPNG BG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BUNK BED",
+        "clue" : "BNK BD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FUTON",
+        "clue" : "FTN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HAMMOCK",
+        "clue" : "HMMCK",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-09",
+  "schemaVersion" : 1
+}

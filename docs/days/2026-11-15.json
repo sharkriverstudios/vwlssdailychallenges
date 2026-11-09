@@ -1,0 +1,96 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Humerus",
+      "Radius",
+      "Ulna",
+      "Scapula",
+      "Clavicle",
+      "Scaphoid",
+      "Lunate",
+      "Triquetrum",
+      "Pisiform",
+      "Trapezium",
+      "Trapezoid",
+      "Capitate",
+      "Hamate",
+      "Metacarpal",
+      "Phalanges",
+      "Coracoid Process",
+      "Acromion",
+      "Glenoid Cavity",
+      "Olecranon",
+      "Radial Tuberosity",
+      "Ulnar Styloid",
+      "Radial Styloid",
+      "Deltoid Tuberosity",
+      "Supraspinous Fossa",
+      "Infraspinous Fossa",
+      "Subscapular Fossa",
+      "Intertubercular Groove",
+      "Medial Epicondyle",
+      "Lateral Epicondyle",
+      "Coronoid Process",
+      "Radial Notch",
+      "Surgical Neck",
+      "Anatomical Neck",
+      "Greater Tubercle",
+      "Lesser Tubercle",
+      "Shaft Of Humerus",
+      "Capitulum",
+      "Trochlea",
+      "Head Of Radius",
+      "Neck Of Radius",
+      "Proximal Phalanx",
+      "Middle Phalanx",
+      "Distal Phalanx"
+    ],
+    "category" : "Bones of the Upper Body",
+    "clues" : [
+      {
+        "answer" : "HUMERUS",
+        "clue" : "HMRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "RADIUS",
+        "clue" : "RDS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "ULNA",
+        "clue" : "LN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SCAPULA",
+        "clue" : "SCPL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CLAVICLE",
+        "clue" : "CLVCL",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "PHALANGES",
+        "clue" : "PHLNGS",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "SCAPHOID",
+        "clue" : "SCPHD",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "CAPITULUM",
+        "clue" : "CPTLM",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 7,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-11-15",
+  "schemaVersion" : 1
+}

@@ -1,0 +1,91 @@
+{
+  "notes" : "this is a cryptic sunday puzzle, so feel free to get obscure",
+  "tags" : [
+    "biology",
+    "anatomy"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "LNT",
+      "difficulty" : 5,
+      "answer" : "LUNATE"
+    },
+    {
+      "clue" : "TRPZM",
+      "difficulty" : 5,
+      "answer" : "TRAPEZIUM"
+    },
+    {
+      "clue" : "HMT",
+      "difficulty" : 5,
+      "answer" : "HAMATE"
+    },
+    {
+      "clue" : "MTCRPL",
+      "difficulty" : 4,
+      "answer" : "METACARPAL"
+    },
+    {
+      "clue" : "TRQTRM",
+      "difficulty" : 7,
+      "answer" : "TRIQUETRUM"
+    },
+    {
+      "clue" : "CRCD PRCSS",
+      "difficulty" : 8,
+      "answer" : "CORACOID PROCESS"
+    },
+    {
+      "clue" : "LCRNN",
+      "difficulty" : 7,
+      "answer" : "OLECRANON"
+    },
+    {
+      "clue" : "CRMN",
+      "difficulty" : 8,
+      "answer" : "ACROMION"
+    },
+    {
+      "clue" : "GLND CVTY",
+      "difficulty" : 9,
+      "answer" : "GLENOID CAVITY"
+    },
+    {
+      "clue" : "DLTD TBRSY",
+      "difficulty" : 10,
+      "answer" : "DELOID TUBEROSITY"
+    },
+    {
+      "clue" : "NTRTBRC LRGV",
+      "difficulty" : 10,
+      "answer" : "INTERTUBERCULAR GROOVE"
+    },
+    {
+      "clue" : "SPRSPSNS FSS",
+      "difficulty" : 10,
+      "answer" : "SUPRASPINUS FOSSA"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Winston Churchill",
+      "Margaret Thatcher",
+      "Tony Blair",
+      "David Cameron",
+      "Theresa May",
+      "Boris Johnson",
+      "Gordon Brown",
+      "John Major",
+      "Harold Wilson",
+      "Clement Attlee",
+      "Neville Chamberlain",
+      "Ramsay MacDonald",
+      "Edward Heath",
+      "James Callaghan",
+      "Alec Douglas-Home",
+      "Harold Macmillan",
+      "Stanley Baldwin",
+      "Arthur Balfour",
+      "Benjamin Disraeli",
+      "William Gladstone",
+      "Robert Peel",
+      "Herbert Asquith",
+      "Henry Campbell-Bannerman",
+      "Andrew Bonar Law",
+      "Anthony Eden",
+      "Spencer Perceval",
+      "Lord Salisbury",
+      "William Pitt The Younger",
+      "Archibald Primrose",
+      "Arthur Wellesley",
+      "George Canning",
+      "John Russell",
+      "Henry Addington",
+      "Augustus FitzRoy",
+      "Viscount Melbourne",
+      "Robert Gascoyne-Cecil",
+      "John Stuart",
+      "Frederick North",
+      "William Cavendish",
+      "Henry Pelham",
+      "William Petty",
+      "Robert Jenkinson",
+      "Charles Grey",
+      "George Grenville",
+      "Edward Smith-Stanley",
+      "William Lamb",
+      "Robert Walpole",
+      "John Major",
+      "William Pitt The Elder",
+      "Henry Temple",
+      "Lord Palmerston"
+    ],
+    "category" : "British Prime Ministers",
+    "clues" : [
+      {
+        "answer" : "TONY BLAIR",
+        "clue" : "TN BLR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "WINSTON CHURCHILL",
+        "clue" : "WNSTN CHRCHLL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MARGARET THATCHER",
+        "clue" : "MRGRT THTCHR",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DAVID CAMERON",
+        "clue" : "DVD CMRN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "THERESA MAY",
+        "clue" : "THRS MY",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BORIS JOHNSON",
+        "clue" : "BRS JHNSN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GORDON BROWN",
+        "clue" : "GRDN BRWN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "NEVILLE CHAMBERLAIN",
+        "clue" : "NVLL CHMBRLN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-10",
+  "schemaVersion" : 1
+}

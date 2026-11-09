@@ -1,0 +1,92 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "NRT",
+      "difficulty" : 4,
+      "answer" : "NARITA"
+    },
+    {
+      "clue" : "NTRNTNL",
+      "difficulty" : 10,
+      "answer" : "INTERNATIONAL"
+    },
+    {
+      "clue" : "TRNT PRSN",
+      "difficulty" : 7,
+      "answer" : "TORONTO PEARSON"
+    },
+    {
+      "clue" : "JFK",
+      "difficulty" : 1,
+      "answer" : "JFK"
+    },
+    {
+      "clue" : "SCHPHL",
+      "difficulty" : 5,
+      "answer" : "SCHIPHOL"
+    },
+    {
+      "clue" : "HNG KNG NTRNTNL",
+      "difficulty" : 8,
+      "answer" : "HONG KONG INTERNATIONAL"
+    },
+    {
+      "clue" : "SDNY KNGSF RD SMTH",
+      "difficulty" : 9,
+      "answer" : "SYDNEY KINGSFORD SMITH"
+    },
+    {
+      "clue" : "GTWCK",
+      "difficulty" : 5,
+      "answer" : "GATWICK"
+    },
+    {
+      "clue" : "FRNKFRT",
+      "difficulty" : 3,
+      "answer" : "FRANKFURT"
+    },
+    {
+      "clue" : "BRJS",
+      "difficulty" : 8,
+      "answer" : "BARJAS"
+    },
+    {
+      "clue" : "MCCRRN",
+      "difficulty" : 7,
+      "answer" : "MCCARRAN"
+    },
+    {
+      "clue" : "RLND NTRNTNL",
+      "difficulty" : 8,
+      "answer" : "ORLANDO INTERNATIONAL"
+    }
+  ],
+  "tags" : [
+    "transportation",
+    "travel",
+    "geography"
+  ],
+  "notes" : "If there is a common name that doesn't include the word \"airport\", use that one"
+}

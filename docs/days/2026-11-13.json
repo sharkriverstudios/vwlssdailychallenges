@@ -1,0 +1,129 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Heathrow",
+      "JFK",
+      "Charles De Gaulle",
+      "LAX",
+      "O'Hare",
+      "Schiphol",
+      "Haneda",
+      "Dubai International",
+      "Hong Kong International",
+      "Changi",
+      "Frankfurt",
+      "Ataturk",
+      "Narita",
+      "Dallas Fort Worth",
+      "Suvarnabhumi",
+      "Incheon",
+      "Toronto Pearson",
+      "Sydney Kingsford Smith",
+      "Gatwick",
+      "Barajas",
+      "McCarran",
+      "Orlando International",
+      "Manchester",
+      "Zurich",
+      "Fiumicino",
+      "Miami International",
+      "Vancouver International",
+      "Munich",
+      "Ben Gurion",
+      "Brisbane",
+      "Vienna International",
+      "Mexico City International",
+      "Sao Paulo Guarulhos",
+      "Indira Gandhi International",
+      "Kuala Lumpur International",
+      "Los Angeles International",
+      "San Francisco International",
+      "Dulles",
+      "Hartsfield-Jackson",
+      "Seattle-Tacoma",
+      "Logan",
+      "LaGuardia",
+      "Denver International",
+      "Sky Harbor",
+      "Salt Lake City International",
+      "Heathrow Terminal 5",
+      "Beijing Capital International",
+      "Boston Logan",
+      "Sheremetyevo",
+      "Barajas Adolfo Suarez",
+      "Changi Terminal 3",
+      "Kansai International",
+      "Milan Malpensa",
+      "Don Muang",
+      "Birmingham",
+      "Dublin",
+      "Lisbon Portela",
+      "Helsinki Vantaa",
+      "Stockholm Arlanda",
+      "Brussels",
+      "Copenhagen",
+      "Detroit Metropolitan",
+      "Doha Hamad",
+      "Istanbul Sabiha Gokcen",
+      "Oslo Gardermoen",
+      "Geneva",
+      "Johannesburg OR Tambo",
+      "Cape Town International",
+      "Auckland",
+      "Rio Galeao",
+      "Rome Fiumicino",
+      "Lyon-Saint Exupery",
+      "Nice Cote d'Azur",
+      "Edinburgh",
+      "Glasgow",
+      "Luton"
+    ],
+    "category" : "Airports",
+    "clues" : [
+      {
+        "answer" : "NEWARK",
+        "clue" : "NWRK",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LAX",
+        "clue" : "LX",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HEATHROW",
+        "clue" : "HTHRW",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "FRANKFURT",
+        "clue" : "FRNKFRT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CHARLES DE GAULLE",
+        "clue" : "CHRLS D GLL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CHICAGO O'HARE",
+        "clue" : "CHCGHR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "DUBAI INTERNATIONAL",
+        "clue" : "DB NTRNTNL",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "DALLAS FORT WORTH",
+        "clue" : "DLLS FRT WRTH",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-13",
+  "schemaVersion" : 1
+}

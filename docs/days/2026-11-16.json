@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Martin Luther King Jr.",
+      "Mother Teresa",
+      "Nelson Mandela",
+      "Barack Obama",
+      "Malala Yousafzai",
+      "Albert Schweitzer",
+      "Mikhail Gorbachev",
+      "Desmond Tutu",
+      "Kofi Annan",
+      "Lech Walesa",
+      "Jimmy Carter",
+      "Aung San Suu Kyi",
+      "Liu Xiaobo",
+      "Daw Aung San Suu Kyi",
+      "Muhammad Yunus",
+      "International Red Cross",
+      "Amnesty International",
+      "International Campaign To Ban Landmines",
+      "Médecins Sans Frontières",
+      "International Atomic Energy Agency",
+      "Yasser Arafat",
+      "Henry Kissinger",
+      "Shirin Ebadi",
+      "José Ramos-Horta",
+      "Al Gore",
+      "Ellen Johnson Sirleaf",
+      "Juan Manuel Santos",
+      "Abiy Ahmed",
+      "Malala Fund",
+      "Nadia Murad",
+      "Denis Mukwege",
+      "International Labour Organization",
+      "Jody Williams",
+      "Ralph Bunche",
+      "Elie Wiesel",
+      "Tawakkol Karman",
+      "Rigoberta Menchú",
+      "Oscar Arias",
+      "Wangari Maathai",
+      "Kailash Satyarthi",
+      "Cordell Hull",
+      "George Marshall",
+      "Norman Borlaug",
+      "John Hume",
+      "David Trimble",
+      "Lester Bowles Pearson",
+      "Fridtjof Nansen",
+      "Dag Hammarskjöld",
+      "Carl von Ossietzky",
+      "Bertha von Suttner",
+      "Jane Addams",
+      "Bertrand Russell",
+      "Woodrow Wilson",
+      "Elihu Root"
+    ],
+    "category" : "Nobel Peace Prize Winners",
+    "clues" : [
+      {
+        "answer" : "MARTIN LUTHER KING JR.",
+        "clue" : "MRTN LTHR KNG JR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MOTHER TERESA",
+        "clue" : "MTHR TRS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NELSON MANDELA",
+        "clue" : "NLSN MNDL",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BARACK OBAMA",
+        "clue" : "BRCK BM",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JIMMY CARTER",
+        "clue" : "JMM CRTR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DESMOND TUTU",
+        "clue" : "DSMND TT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "MALALA YOUSAFZAI",
+        "clue" : "MLL YSFZ",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "KOFI ANNAN",
+        "clue" : "KF NNN",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-11-16",
+  "schemaVersion" : 1
+}

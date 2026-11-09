@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "gardening",
+    "nature",
+    "seasons"
+  ],
+  "description" : "flowers that bloom in the months from September to November in the northern hemisphere",
+  "extraClues" : [
+    {
+      "clue" : "SDM",
+      "answer" : "SEDUM",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SNZWED",
+      "answer" : "SNEEZEWEED",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CHNCC",
+      "answer" : "ECHINACEA",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "BLCK-YD SSN",
+      "answer" : "BLACK-EYED SUSAN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "STR",
+      "answer" : "ASTR",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "TMN CRCS",
+      "answer" : "AUTUMN CROCUS",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SLV",
+      "answer" : "SALVIA",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "TD LLY",
+      "answer" : "TOAD LILY",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "CYCLMN",
+      "answer" : "CYCLAMEN",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "ZNN",
+      "answer" : "ZINNIA",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "TTHN",
+      "answer" : "TITHONIA",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "RSSN SG",
+      "answer" : "RUSSIAN SAGE",
+      "difficulty" : 6
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "politics",
+    "history",
+    "common knowledge"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "CLMNT TTL",
+      "answer" : "CLEMENT ATTLEE",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "DWRD HTH",
+      "answer" : "EDWARD HEATH",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "JMS CLLGHN",
+      "answer" : "JAMES CALLAGHAN",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "HRLD WLSN",
+      "answer" : "HAROLD WILSON",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "JHN MJR",
+      "answer" : "JOHN MAJOR",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "RMSY MCDNLD",
+      "answer" : "RAMSAY MACDONALD",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "NTHNY DN",
+      "answer" : "ANTHONY EDEN",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "HNRY CMPBLLBNNRMN",
+      "answer" : "HENRY CAMPBELL-BANNERMAN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "BNJMN DSRL",
+      "answer" : "BENJAMIN DISRAELI",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "WLLM GLDSTN",
+      "answer" : "WILLIAM GLADSTONE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "SPNCR PRCVL",
+      "answer" : "SPENCER PERCEVAL",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "RBRT WLPL",
+      "answer" : "ROBERT WALPOLE",
+      "difficulty" : 7
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

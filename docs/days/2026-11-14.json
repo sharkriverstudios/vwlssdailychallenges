@@ -1,0 +1,102 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Flanders",
+      "Fields",
+      "Poppies",
+      "Blow",
+      "Crosses",
+      "Row",
+      "Sky",
+      "Larks",
+      "Still",
+      "Bravely",
+      "Fly",
+      "Heard",
+      "Guns",
+      "Scarce",
+      "Singing",
+      "Below",
+      "Dead",
+      "Short",
+      "Days",
+      "Ago",
+      "Lived",
+      "Felt",
+      "Dawn",
+      "Loved",
+      "Sunset",
+      "Glow",
+      "Honour",
+      "Hold",
+      "Torch",
+      "Foe",
+      "Fallen",
+      "Take",
+      "Quarrel",
+      "Fail",
+      "Hands",
+      "Break",
+      "Faith",
+      "Sleep",
+      "Grow",
+      "Peace",
+      "Rest",
+      "Enemy",
+      "Lie",
+      "Rise",
+      "Keep",
+      "Fight",
+      "High",
+      "Saw",
+      "Live"
+    ],
+    "category" : "In Flanders Fields",
+    "clues" : [
+      {
+        "answer" : "POPPIES",
+        "clue" : "PPPS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "LARKS",
+        "clue" : "LRKS",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "BLOW",
+        "clue" : "BLW",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "ROW",
+        "clue" : "RW",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CROSSES",
+        "clue" : "CRSSS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "STILL",
+        "clue" : "STLL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BRAVELY",
+        "clue" : "BRVL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "QUARREL",
+        "clue" : "QRRL",
+        "difficulty" : 4
+      }
+    ],
+    "difficulty" : 3,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-14",
+  "schemaVersion" : 1
+}

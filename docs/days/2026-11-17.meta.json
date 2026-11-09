@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "geography",
+    "nature",
+    "reference"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "YLLW",
+      "difficulty" : 4,
+      "answer" : "YELLOW"
+    },
+    {
+      "clue" : "LN",
+      "difficulty" : 4,
+      "answer" : "LENA"
+    },
+    {
+      "clue" : "PRN",
+      "difficulty" : 6,
+      "answer" : "PARANA"
+    },
+    {
+      "clue" : "DNB",
+      "difficulty" : 5,
+      "answer" : "DANUBE"
+    },
+    {
+      "clue" : "MCKNZ",
+      "difficulty" : 7,
+      "answer" : "MACKENZIE"
+    },
+    {
+      "clue" : "RHN",
+      "difficulty" : 6,
+      "answer" : "RHINE"
+    },
+    {
+      "clue" : "YNGTZ",
+      "difficulty" : 3,
+      "answer" : "YANGTZE"
+    },
+    {
+      "clue" : "YNS",
+      "difficulty" : 6,
+      "answer" : "YENISEI"
+    },
+    {
+      "clue" : "ZMBZ",
+      "difficulty" : 5,
+      "answer" : "ZAMBEZI"
+    },
+    {
+      "clue" : "SYR DRY",
+      "difficulty" : 9,
+      "answer" : "SYR DARYA"
+    },
+    {
+      "clue" : "TCNTNS",
+      "difficulty" : 8,
+      "answer" : "TOCANTINS"
+    },
+    {
+      "clue" : "SHTT L-RB",
+      "difficulty" : 10,
+      "answer" : "SHATT AL-ARAB"
+    }
+  ]
+}
