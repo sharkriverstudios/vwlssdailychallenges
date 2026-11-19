@@ -1,0 +1,115 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Emerald",
+      "Jade",
+      "Olive",
+      "Lime",
+      "Mint",
+      "Forest",
+      "Seafoam",
+      "Moss",
+      "Chartreuse",
+      "Pistachio",
+      "Sage",
+      "Kelly",
+      "Clover",
+      "Fern",
+      "Viridian",
+      "Shamrock",
+      "Teal",
+      "Beryl",
+      "Malachite",
+      "Avocado",
+      "Pine",
+      "Pea",
+      "Seaweed",
+      "Jungle",
+      "Kale",
+      "Grass",
+      "Nile",
+      "Honeydew",
+      "Asparagus",
+      "Pistachio",
+      "Spruce",
+      "Willow",
+      "Cucumber",
+      "Basil",
+      "Artichoke",
+      "Celadon",
+      "Peridot",
+      "Spring",
+      "Myrtle",
+      "Laurel",
+      "Algae",
+      "Fern",
+      "Cactus",
+      "Palm",
+      "Vine",
+      "Verde",
+      "Grove",
+      "Turf",
+      "Verte",
+      "Spinach",
+      "Lichen",
+      "Pickle",
+      "Thyme",
+      "Amazon",
+      "Eucalyptus",
+      "Lawn",
+      "Chive",
+      "Shale",
+      "Tarragon",
+      "Hunter",
+      "Bamboo",
+      "Evergreen"
+    ],
+    "category" : "Green",
+    "clues" : [
+      {
+        "answer" : "JADE",
+        "clue" : "JD",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "EMERALD",
+        "clue" : "MRLD",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MINT",
+        "clue" : "MNT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "LIME",
+        "clue" : "LM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "OLIVE",
+        "clue" : "LV",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SHAMROCK",
+        "clue" : "SHMRCK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "MALACHITE",
+        "clue" : "MLCHT",
+        "difficulty" : 7
+      },
+      {
+        "answer" : "CHARTREUSE",
+        "clue" : "CHRTRS",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 2
+  },
+  "date" : "2026-11-18",
+  "schemaVersion" : 1
+}

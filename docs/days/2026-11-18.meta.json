@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "TL",
+      "answer" : "TEAL",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "FRST",
+      "answer" : "FOREST",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "SF",
+      "answer" : "SEAFOAM",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "VRDN",
+      "answer" : "VIRIDIAN",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "KLLY",
+      "answer" : "KELLY",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "PSTCH",
+      "answer" : "PISTACHIO",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "VRD",
+      "answer" : "VERDE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CLDN",
+      "answer" : "CELADON",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "SPRC",
+      "answer" : "SPRUCE",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "LWN",
+      "answer" : "LAWN",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "WLLW",
+      "answer" : "WILLOW",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "CCMBR",
+      "answer" : "CUCUMBER",
+      "difficulty" : 7
+    }
+  ],
+  "tags" : [
+    "colors",
+    "nature"
+  ],
+  "description" : "words that mean green or a shade of green"
+}
