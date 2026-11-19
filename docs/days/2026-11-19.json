@@ -1,0 +1,128 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Paris",
+      "Marseille",
+      "Lyon",
+      "Toulouse",
+      "Nice",
+      "Nantes",
+      "Strasbourg",
+      "Montpellier",
+      "Bordeaux",
+      "Lille",
+      "Rennes",
+      "Reims",
+      "Saint-Etienne",
+      "Toulon",
+      "Le Havre",
+      "Grenoble",
+      "Dijon",
+      "Angers",
+      "Nimes",
+      "Villeurbanne",
+      "Saint-Denis",
+      "Clermont-Ferrand",
+      "Aix-en-Provence",
+      "Brest",
+      "Limoges",
+      "Tours",
+      "Amiens",
+      "Perpignan",
+      "Metz",
+      "Besancon",
+      "Orleans",
+      "Boulogne-Billancourt",
+      "Mulhouse",
+      "Rouen",
+      "Nancy",
+      "Argenteuil",
+      "Saint-Paul",
+      "Saint-Pierre",
+      "Montreuil",
+      "Caen",
+      "Roubaix",
+      "Avignon",
+      "Tourcoing",
+      "Poitiers",
+      "Nanterre",
+      "Versailles",
+      "Creteil",
+      "Pau",
+      "Asnieres-sur-Seine",
+      "Colombes",
+      "Aulnay-sous-Bois",
+      "La Rochelle",
+      "Champigny-sur-Marne",
+      "Rueil-Malmaison",
+      "Antibes",
+      "Saint-Maur-des-Fosses",
+      "Calais",
+      "Beziers",
+      "Bourges",
+      "Cannes",
+      "Le Mans",
+      "Quimper",
+      "Troyes",
+      "Niort",
+      "Valence",
+      "La Seyne-sur-Mer",
+      "Chambery",
+      "Annecy",
+      "Lorient",
+      "Ajaccio",
+      "Bayonne",
+      "Saint-Nazaire",
+      "Drancy",
+      "Montauban",
+      "Issy-les-Moulineaux"
+    ],
+    "category" : "French Cities",
+    "clues" : [
+      {
+        "answer" : "PARIS",
+        "clue" : "PRS",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "LYON",
+        "clue" : "LN",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NICE",
+        "clue" : "NC",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MARSEILLE",
+        "clue" : "MRSLL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "BORDEAUX",
+        "clue" : "BRDX",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "TOULOUSE",
+        "clue" : "TLS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "NANTES",
+        "clue" : "NNTS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "STRASBOURG",
+        "clue" : "STRSBRG",
+        "difficulty" : 5
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-19",
+  "schemaVersion" : 1
+}

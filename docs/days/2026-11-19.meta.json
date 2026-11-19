@@ -1,0 +1,91 @@
+{
+  "tags" : [
+    "geography",
+    "travel",
+    "culture"
+  ],
+  "extraClues" : [
+    {
+      "answer" : "RENNES",
+      "clue" : "RNNS",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "LILLE",
+      "clue" : "LL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "TOURS",
+      "clue" : "TRS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MONTPELLIER",
+      "clue" : "MNTPLLR",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "GRENOBLE",
+      "clue" : "GRNBL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "DIJON",
+      "clue" : "DJN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "AVIGNON",
+      "clue" : "VGN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "ROUEN",
+      "clue" : "RWN",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "VERSAILLES",
+      "clue" : "VRSSLLS",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "CLERMONT-FERRAND",
+      "clue" : "CLRMNTFRRND",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "AIX-EN-PROVENCE",
+      "clue" : "XNPRVNC",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "BOULOGNE-BILLANCOURT",
+      "clue" : "BLGNBLLNCRT",
+      "difficulty" : 10
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
