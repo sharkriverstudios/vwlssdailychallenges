@@ -1,0 +1,91 @@
+{
+  "description" : "breeds and types of cows",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "clue" : "GLBVH",
+      "answer" : "GELBVIEH",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "CHRLS",
+      "answer" : "CHAROLAIS",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "NRMND",
+      "answer" : "NORMANDE",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SMMNTL",
+      "answer" : "SIMMENTAL",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "PDMNTS",
+      "answer" : "PIEDMONTESE",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "HGLND",
+      "answer" : "HIGHLAND",
+      "difficulty" : 6
+    },
+    {
+      "clue" : "DXTR",
+      "answer" : "DEXTER",
+      "difficulty" : 5
+    },
+    {
+      "clue" : "LMSN",
+      "answer" : "LIMOUSIN",
+      "difficulty" : 7
+    },
+    {
+      "clue" : "SNT GRTRDS",
+      "answer" : "SANTA GERTRUDIS",
+      "difficulty" : 9
+    },
+    {
+      "clue" : "BFMSTR",
+      "answer" : "BEEFMASTER",
+      "difficulty" : 8
+    },
+    {
+      "clue" : "LNGHRN",
+      "answer" : "LONGHORN",
+      "difficulty" : 4
+    },
+    {
+      "clue" : "BRHMN",
+      "answer" : "BRAHMAN",
+      "difficulty" : 5
+    }
+  ],
+  "tags" : [
+    "agriculture",
+    "animals"
+  ]
+}

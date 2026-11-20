@@ -1,0 +1,111 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Holstein",
+      "Jersey",
+      "Guernsey",
+      "Ayrshire",
+      "Brown Swiss",
+      "Hereford",
+      "Angus",
+      "Brahman",
+      "Charolais",
+      "Simmental",
+      "Limousin",
+      "Shorthorn",
+      "Highland",
+      "Longhorn",
+      "Dexter",
+      "Galloway",
+      "Belted Galloway",
+      "Red Poll",
+      "Normande",
+      "Salers",
+      "Chianina",
+      "Belgian Blue",
+      "Piedmontese",
+      "Gelbvieh",
+      "Devon",
+      "Santa Gertrudis",
+      "Murray Grey",
+      "Ankole-Watusi",
+      "Beefmaster",
+      "Brangus",
+      "Nelore",
+      "Blonde d'Aquitaine",
+      "Tarentaise",
+      "Romagnola",
+      "Marchigiana",
+      "Zebu",
+      "Wagyu",
+      "Bazadaise",
+      "Parthenais",
+      "Kerry",
+      "Montbeliarde",
+      "Dutch Belted",
+      "South Devon",
+      "Lincoln Red",
+      "Ankole",
+      "Red Angus",
+      "White Park",
+      "Norwegian Red",
+      "Hays Converter",
+      "Africander",
+      "Sahiwal",
+      "Kankrej",
+      "Ongole",
+      "Tharparkar",
+      "Vaynol",
+      "Randall Lineback",
+      "Texas Longhorn",
+      "Pineywoods"
+    ],
+    "category" : "Cows",
+    "clues" : [
+      {
+        "answer" : "HOLSTEIN",
+        "clue" : "HLSTN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "JERSEY",
+        "clue" : "JRSY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "BLACK ANGUS",
+        "clue" : "BLCKNGS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "GUERNSEY",
+        "clue" : "GRNSY",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HEREFORD",
+        "clue" : "HRFRD",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "BRAHMAN",
+        "clue" : "BRHMN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "AYRSHIRE",
+        "clue" : "YRSHR",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "BELTED GALLOWAY",
+        "clue" : "BLTD GLLWY",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 6,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-20",
+  "schemaVersion" : 1
+}
