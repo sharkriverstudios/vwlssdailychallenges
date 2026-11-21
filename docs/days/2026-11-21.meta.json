@@ -1,0 +1,92 @@
+{
+  "tags" : [
+    "culinary",
+    "culture",
+    "traditions"
+  ],
+  "extraClues" : [
+    {
+      "clue" : "DNNR RLLS",
+      "difficulty" : 2,
+      "answer" : "DINNER ROLLS"
+    },
+    {
+      "clue" : "GRN BN CSSRL",
+      "difficulty" : 4,
+      "answer" : "GREEN BEAN CASSEROLE"
+    },
+    {
+      "clue" : "PCN P",
+      "difficulty" : 3,
+      "answer" : "PECAN PIE"
+    },
+    {
+      "clue" : "CRN PDDNG",
+      "difficulty" : 6,
+      "answer" : "CORN PUDDING"
+    },
+    {
+      "clue" : "BRSSL SPRTS",
+      "difficulty" : 5,
+      "answer" : "BRUSSELS SPROUTS"
+    },
+    {
+      "clue" : "CND YMS",
+      "difficulty" : 5,
+      "answer" : "CANDIED YAMS"
+    },
+    {
+      "clue" : "MCRN ND CHS",
+      "difficulty" : 6,
+      "answer" : "MACARONI AND CHEESE"
+    },
+    {
+      "clue" : "CRN N TH CB",
+      "difficulty" : 5,
+      "answer" : "CORN ON THE COB"
+    },
+    {
+      "clue" : "CRM CRN",
+      "difficulty" : 5,
+      "answer" : "CREAMED CORN"
+    },
+    {
+      "clue" : "RSTD VGTBL",
+      "difficulty" : 6,
+      "answer" : "ROASTED VEGETABLES"
+    },
+    {
+      "clue" : "JLLD CRNB RRY",
+      "difficulty" : 4,
+      "answer" : "JELLIED CRANBERRY"
+    },
+    {
+      "clue" : "BKD HM",
+      "difficulty" : 2,
+      "answer" : "BAKED HAM"
+    }
+  ],
+  "description" : "dishes commonly eaten at Thanksgiving",
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

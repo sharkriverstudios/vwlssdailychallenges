@@ -1,0 +1,107 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Turkey",
+      "Stuffing",
+      "Mashed Potatoes",
+      "Gravy",
+      "Green Bean Casserole",
+      "Cranberry Sauce",
+      "Sweet Potato Casserole",
+      "Pumpkin Pie",
+      "Pecan Pie",
+      "Apple Pie",
+      "Dinner Rolls",
+      "Cornbread",
+      "Brussels Sprouts",
+      "Roasted Vegetables",
+      "Candied Yams",
+      "Butternut Squash",
+      "Cranberry Relish",
+      "Glazed Carrots",
+      "Macaroni And Cheese",
+      "Baked Ham",
+      "Corn Pudding",
+      "Creamed Corn",
+      "Spinach Dip",
+      "Deviled Eggs",
+      "Roast Beef",
+      "Giblet Gravy",
+      "Wild Rice Pilaf",
+      "Broccoli Casserole",
+      "Potato Casserole",
+      "Jellied Cranberry",
+      "Sausage Stuffing",
+      "Sweet Cornbread",
+      "Garlic Mashed Potatoes",
+      "Maple Glazed Carrots",
+      "Honey Glazed Ham",
+      "Roasted Chestnuts",
+      "Mince Pie",
+      "Gingerbread Cookies",
+      "Caramelized Onions",
+      "Bacon Wrapped Asparagus",
+      "Sour Cream Mashed Potatoes",
+      "Fried Turkey",
+      "Corn On The Cob",
+      "Herb Roasted Turkey",
+      "Cherry Pie",
+      "Pork Tenderloin",
+      "Vegetable Platter",
+      "Cheese Platter",
+      "Fruit Salad",
+      "Ambrosia Salad",
+      "Waldorf Salad",
+      "Jello Salad",
+      "Bread Pudding",
+      "Apple Cider"
+    ],
+    "category" : "Thanksgiving Dinner",
+    "clues" : [
+      {
+        "answer" : "TURKEY",
+        "clue" : "TRKY",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "GRAVY",
+        "clue" : "GRV",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "STUFFING",
+        "clue" : "STFFNG",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "MASHED POTATOES",
+        "clue" : "MSHD PTTS",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "PUMPKIN PIE",
+        "clue" : "PMPKN P",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CRANBERRY SAUCE",
+        "clue" : "CRNB RR SC",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SWEET POTATO CASSEROLE",
+        "clue" : "SWT PTT CSSRL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "GLAZED CARROTS",
+        "clue" : "GLZD CRRTS",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-21",
+  "schemaVersion" : 1
+}
