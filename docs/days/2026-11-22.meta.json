@@ -1,0 +1,91 @@
+{
+  "extraClues" : [
+    {
+      "clue" : "ND FF",
+      "difficulty" : 4,
+      "answer" : "NOD OFF"
+    },
+    {
+      "clue" : "TK  NP",
+      "difficulty" : 2,
+      "answer" : "TAKE A NAP"
+    },
+    {
+      "clue" : "G T B D",
+      "difficulty" : 2,
+      "answer" : "GO TO BED"
+    },
+    {
+      "clue" : "CTCH SM ZS",
+      "difficulty" : 5,
+      "answer" : "CATCH SOME ZS"
+    },
+    {
+      "clue" : "SLP LK  LG",
+      "difficulty" : 6,
+      "answer" : "SLEEP LIKE A LOG"
+    },
+    {
+      "clue" : "RST N'S YS",
+      "difficulty" : 8,
+      "answer" : "REST ONE'S EYES"
+    },
+    {
+      "clue" : "GT SM SHTY",
+      "difficulty" : 5,
+      "answer" : "GET SOME SHUT-EYE"
+    },
+    {
+      "clue" : "TRN N",
+      "difficulty" : 5,
+      "answer" : "TURN IN"
+    },
+    {
+      "clue" : "SNZ",
+      "difficulty" : 3,
+      "answer" : "SNOOZE"
+    },
+    {
+      "clue" : "SW LGS",
+      "difficulty" : 7,
+      "answer" : "SAW LOGS"
+    },
+    {
+      "clue" : "SLP LK  BBY",
+      "difficulty" : 6,
+      "answer" : "SLEEP LIKE A BABY"
+    },
+    {
+      "clue" : "CTCH P N SLP",
+      "difficulty" : 5,
+      "answer" : "CATCH UP ON SLEEP"
+    }
+  ],
+  "description" : "idioms and euphemisms for sleep",
+  "tags" : [
+    "common knowledge",
+    "language"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

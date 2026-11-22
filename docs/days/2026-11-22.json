@@ -1,0 +1,101 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Catch Some Zs",
+      "Hit The Hay",
+      "Hit The Sack",
+      "Turn In",
+      "Get Some Shut-Eye",
+      "Catch Forty Winks",
+      "Take A Nap",
+      "Sleep Like A Log",
+      "Doze Off",
+      "Drift Off",
+      "Crash Out",
+      "Nod Off",
+      "Snooze",
+      "Rest One's Eyes",
+      "Get Some Rest",
+      "Put Head To Pillow",
+      "Saw Logs",
+      "Get A Good Night's Sleep",
+      "Call It A Night",
+      "Go To Bed",
+      "Catch Up On Sleep",
+      "Sleep Like A Baby",
+      "Turn In For The Night",
+      "Hit The Pillow",
+      "Rest Up",
+      "Get Forty Winks",
+      "Catch Some Shut-Eye",
+      "Sleep Like A Rock",
+      "Tuck In",
+      "Knock Out",
+      "Hit The Bunk",
+      "Log Some Sleep",
+      "Sack Out",
+      "Catch Some Naps",
+      "Sleep Tight",
+      "Bed Down",
+      "Get Some Zs",
+      "Close Your Eyes",
+      "Slumber",
+      "Go To La-La Land",
+      "Catch Some Slumber",
+      "Take Forty Winks",
+      "Lie Down",
+      "Catch Some Sleep",
+      "Have A Siesta",
+      "Power Nap",
+      "Get Some Slumber",
+      "Go To Sleep"
+    ],
+    "category" : "Sleep",
+    "clues" : [
+      {
+        "answer" : "HIT THE HAY",
+        "clue" : "HT TH HY",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "HIT THE SACK",
+        "clue" : "HT TH SCK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "CALL IT A NIGHT",
+        "clue" : "CLL T  NGHT",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "DOZE OFF",
+        "clue" : "DZ FF",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "DRIFT AWAY",
+        "clue" : "DRFT WY",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CRASH OUT",
+        "clue" : "CRSH T",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CATCH SOME SHUT-EYE",
+        "clue" : "CTCH SM SHTY",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "GET FORTY WINKS",
+        "clue" : "GT FRT WNKS",
+        "difficulty" : 7
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-22",
+  "schemaVersion" : 1
+}
