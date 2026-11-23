@@ -1,0 +1,106 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Iroquois",
+      "Cherokee",
+      "Choctaw",
+      "Seminole",
+      "Creek",
+      "Shawnee",
+      "Powhatan",
+      "Pequot",
+      "Narragansett",
+      "Wampanoag",
+      "Delaware",
+      "Lenape",
+      "Algonquin",
+      "Susquehannock",
+      "Abenaki",
+      "Mohican",
+      "Cayuga",
+      "Onondaga",
+      "Seneca",
+      "Tuscarora",
+      "Micmac",
+      "Passamaquoddy",
+      "Penobscot",
+      "Huron",
+      "Montauk",
+      "Mohegan",
+      "Natchez",
+      "Chickasaw",
+      "Catawba",
+      "Yamasee",
+      "Timucua",
+      "Nanticoke",
+      "Pamlico",
+      "Potawatomi",
+      "Fox",
+      "Winnebago",
+      "Illini",
+      "Miami",
+      "Ottawa",
+      "Kickapoo",
+      "Menominee",
+      "Ojibwa",
+      "Sauk",
+      "Muscogee",
+      "Tuskegee",
+      "Yuchi",
+      "Biloxi",
+      "Lumbee",
+      "Guale",
+      "Apalachee",
+      "Calusa",
+      "Tequesta",
+      "Taino"
+    ],
+    "category" : "Eastern American Indian Tribes",
+    "clues" : [
+      {
+        "answer" : "DELAWARE",
+        "clue" : "DLWR",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "CHEROKEE",
+        "clue" : "CHRK",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "SEMINOLE",
+        "clue" : "SMNL",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "IROQUOIS",
+        "clue" : "RQS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "SHAWNEE",
+        "clue" : "SHWN",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "CHICKASAW",
+        "clue" : "CHCKSW",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "CREEK",
+        "clue" : "CRK",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "WAMPANOAG",
+        "clue" : "WMPNG",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 1
+  },
+  "date" : "2026-11-23",
+  "schemaVersion" : 1
+}

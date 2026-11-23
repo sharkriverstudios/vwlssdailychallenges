@@ -1,0 +1,91 @@
+{
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "ALGONQUIN",
+      "clue" : "LGNQN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "PEQUOT",
+      "clue" : "PQT",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "NARRAGANSETT",
+      "clue" : "NRRGNSTT",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MOHICAN",
+      "clue" : "MHCN",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SUSQUEHANNOCK",
+      "clue" : "SSQHNNCK",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "PENOBSCOT",
+      "clue" : "PNBSCT",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "MIAMI",
+      "clue" : "MM",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "NANTICOKE",
+      "clue" : "NNTCK",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "PASSAMAQUODDY",
+      "clue" : "PSSMQDDY",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "TUSCARORA",
+      "clue" : "TSCRR",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "CATAWBA",
+      "clue" : "CTWB",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "LUMBER",
+      "clue" : "LMBR",
+      "difficulty" : 6
+    }
+  ],
+  "tags" : [
+    "culture",
+    "history",
+    "geography"
+  ]
+}
