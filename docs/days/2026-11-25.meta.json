@@ -1,0 +1,92 @@
+{
+  "description" : "characters, places, events, things from the legends",
+  "tags" : [
+    "mythology",
+    "literature",
+    "folklore"
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "extraClues" : [
+    {
+      "answer" : "MORDRED",
+      "clue" : "MRDRD",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "MORGAN LE FAY",
+      "clue" : "MRGN L FY",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "AVALON",
+      "clue" : "VLN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "LADY OF THE LAKE",
+      "clue" : "LDY F TH LK",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "NIMUE",
+      "clue" : "NM",
+      "difficulty" : 8
+    },
+    {
+      "answer" : "SIR GALAHAD",
+      "clue" : "SR GLHD",
+      "difficulty" : 4
+    },
+    {
+      "answer" : "KING ARTHUR",
+      "clue" : "KNG RTHR",
+      "difficulty" : 3
+    },
+    {
+      "answer" : "QUESTING BEAST",
+      "clue" : "QSTNG BST",
+      "difficulty" : 9
+    },
+    {
+      "answer" : "MORGAUSE",
+      "clue" : "MRGS",
+      "difficulty" : 7
+    },
+    {
+      "answer" : "SIR TRISTAN",
+      "clue" : "SR TRSTN",
+      "difficulty" : 5
+    },
+    {
+      "answer" : "HOLY GRAIL",
+      "clue" : "HLY GRL",
+      "difficulty" : 6
+    },
+    {
+      "answer" : "SIR PERCIVAL",
+      "clue" : "SR PRCVL",
+      "difficulty" : 5
+    }
+  ]
+}

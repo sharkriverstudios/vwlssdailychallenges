@@ -1,0 +1,93 @@
+{
+  "tags" : [
+    "music",
+    "cinema",
+    "popular culture",
+    "entertainment"
+  ],
+  "description" : "songs, movies and other projects associated with Dolly Parton",
+  "extraClues" : [
+    {
+      "clue" : "DLLY PRTNS MRC",
+      "difficulty" : 7,
+      "answer" : "DOLLY PARTON'S AMERICA"
+    },
+    {
+      "clue" : "CHRSTMS N TH SQLR",
+      "difficulty" : 8,
+      "answer" : "CHRISTMAS ON THE SQUARE"
+    },
+    {
+      "clue" : "HLLY DLLY CHRSTMS",
+      "difficulty" : 7,
+      "answer" : "A HOLLY DOLLY CHRISTMAS"
+    },
+    {
+      "clue" : "MY TNNSS MNTN HM",
+      "difficulty" : 6,
+      "answer" : "MY TENNESSEE MOUNTAIN HOME"
+    },
+    {
+      "clue" : "RHNSTN",
+      "difficulty" : 6,
+      "answer" : "RHINESTONE"
+    },
+    {
+      "clue" : "TW DRS DWN",
+      "difficulty" : 5,
+      "answer" : "TWO DOORS DOWN"
+    },
+    {
+      "clue" : "GL WHN SH FLS",
+      "difficulty" : 7,
+      "answer" : "EAGLE WHEN SHE FLIES"
+    },
+    {
+      "clue" : "LGHT F CL R BL MNG",
+      "difficulty" : 9,
+      "answer" : "LIGHT OF A CLEAR BLUE MORNING"
+    },
+    {
+      "clue" : "TH PRTR WGN SHW",
+      "difficulty" : 8,
+      "answer" : "THE PORTER WAGONER SHOW"
+    },
+    {
+      "clue" : "LV S LK BTTFLY",
+      "difficulty" : 7,
+      "answer" : "LOVE IS LIKE A BUTTERFLY"
+    },
+    {
+      "clue" : "DMPLN",
+      "difficulty" : 6,
+      "answer" : "DUMPLIN'"
+    },
+    {
+      "clue" : "BCKWDS BRB",
+      "difficulty" : 6,
+      "answer" : "BACKWOODS BARBIE"
+    }
+  ],
+  "clueNotes" : [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

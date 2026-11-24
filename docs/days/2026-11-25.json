@@ -1,0 +1,108 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "King Arthur",
+      "Merlin",
+      "Guinevere",
+      "Lancelot",
+      "Excalibur",
+      "Camelot",
+      "Mordred",
+      "Morgan Le Fay",
+      "Round Table",
+      "Sir Gawain",
+      "Sir Galahad",
+      "Sir Percival",
+      "Sir Kay",
+      "Sir Bors",
+      "Sir Tristan",
+      "Lady Of The Lake",
+      "Holy Grail",
+      "Avalon",
+      "Nimue",
+      "Sir Agravain",
+      "Sir Bedivere",
+      "Sir Ector",
+      "Gawain And The Green Knight",
+      "Questing Beast",
+      "Sir Lamerok",
+      "Sir Gareth",
+      "Morgause",
+      "Sir Palamedes",
+      "Sir Yvain",
+      "Sir Dagonet",
+      "Sir Lucan",
+      "Lady Elaine",
+      "Sir Lionel",
+      "Sir Gaheris",
+      "Sir Balin",
+      "Sir Balyn",
+      "Sir Pelleas",
+      "Sir Urien",
+      "Sir Colgrevance",
+      "Sir Mordred",
+      "King Lot",
+      "King Pellinore",
+      "King Leodegrance",
+      "Ector De Maris",
+      "Sir Brunor",
+      "Sir Sagremor",
+      "Sir Caradoc",
+      "Sir Lamorak",
+      "Sir Marhaus",
+      "Sir Breunor",
+      "Sir Elyan",
+      "Sir Tor",
+      "Sir Pinel",
+      "Sir Alymere",
+      "Sir Hermind"
+    ],
+    "category" : "Arthurian Legend",
+    "clues" : [
+      {
+        "answer" : "CAMELOT",
+        "clue" : "CMLT",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "MERLIN",
+        "clue" : "MRLN",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "EXCALIBUR",
+        "clue" : "XCLBR",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "LANCELOT",
+        "clue" : "LNCLT",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ROUND TABLE",
+        "clue" : "RND TBL",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "HOLY GRAIL",
+        "clue" : "HL GRL",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "SIR GAWAIN",
+        "clue" : "SR GWN",
+        "difficulty" : 6
+      },
+      {
+        "answer" : "GUINEVERE",
+        "clue" : "GNVR",
+        "difficulty" : 6
+      }
+    ],
+    "difficulty" : 5,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-25",
+  "schemaVersion" : 1
+}

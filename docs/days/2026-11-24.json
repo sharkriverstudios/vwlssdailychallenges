@@ -1,0 +1,112 @@
+{
+  "challenge" : {
+    "candidates" : [
+      "Jolene",
+      "9 To 5",
+      "I Will Always Love You",
+      "Coat Of Many Colors",
+      "Islands In The Stream",
+      "Here You Come Again",
+      "The Best Little Whorehouse In Texas",
+      "Steel Magnolias",
+      "Dolly",
+      "Heartstrings",
+      "Christmas On The Square",
+      "The Porter Wagoner Show",
+      "Blue Smoke",
+      "Backwoods Barbie",
+      "Dumplin'",
+      "A Holly Dolly Christmas",
+      "Dolly Parton's America",
+      "Straight Talk",
+      "Wildflowers",
+      "Just Because I'm A Woman",
+      "The Seeker",
+      "My Tennessee Mountain Home",
+      "Travelin' Thru",
+      "The Dolly Show",
+      "Rhinestone",
+      "Unlikely Angel",
+      "Two Doors Down",
+      "Touch Your Woman",
+      "Light Of A Clear Blue Morning",
+      "Better Day",
+      "The Grass Is Blue",
+      "Eagle When She Flies",
+      "Little Sparrow",
+      "Halos & Horns",
+      "Love Is Like A Butterfly",
+      "Real Love",
+      "Heartbreaker",
+      "Baby I'm Burnin'",
+      "The Bargain Store",
+      "Fisherman's Wharf",
+      "The Great Pretender",
+      "White Limozeen",
+      "Slow Dancing With The Moon",
+      "Something Special",
+      "For God And Country",
+      "Pure & Simple",
+      "Those Were The Days",
+      "Backwoods Barbie",
+      "Shine Like The Sun",
+      "The Sacrifice",
+      "Sacred Memories",
+      "Old Flames Can't Hold A Candle To You",
+      "Potential New Boyfriend",
+      "Why'd You Come In Here Lookin' Like That",
+      "Love And Music",
+      "Startin' Over Again",
+      "Think About Love",
+      "You're The Only One",
+      "We Used To"
+    ],
+    "category" : "Dolly Parton",
+    "clues" : [
+      {
+        "answer" : "JOLENE",
+        "clue" : "JLN",
+        "difficulty" : 1
+      },
+      {
+        "answer" : "I WILL ALWAYS LOVE YOU",
+        "clue" : "WLL LWYS LV Y",
+        "difficulty" : 2
+      },
+      {
+        "answer" : "NINE TO FIVE",
+        "clue" : "NN T FV",
+        "difficulty" : 3
+      },
+      {
+        "answer" : "COAT OF MANY COLORS",
+        "clue" : "CT F MN CLRS",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "ISLANDS IN THE STREAM",
+        "clue" : "SLNDS N TH STRM",
+        "difficulty" : 4
+      },
+      {
+        "answer" : "STEEL MAGNOLIAS",
+        "clue" : "STL MGNLS",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "HERE YOU COME AGAIN",
+        "clue" : "HR Y C MGN",
+        "difficulty" : 5
+      },
+      {
+        "answer" : "THE BEST LITTLE WHOREHOUSE IN TEXAS",
+        "clue" : "TH BST LTTL WHRHS N TXS",
+        "difficulty" : 8
+      }
+    ],
+    "difficulty" : 4,
+    "shareClueIndex" : 0
+  },
+  "date" : "2026-11-24",
+  "schemaVersion" : 1
+}
